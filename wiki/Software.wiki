@@ -15,24 +15,28 @@
 
  * TＯR 软件包
 
-[http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4_firefox-3.0.15%29.7z 完全版]，内含：vidalia 0.2.6，tor 0.2.1.20，polipo 1.0.4，firefox 3.0.15
+[http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4_firefox-3.0.15%29.7z 完全版]（绿色软件，内含：vidalia 0.2.6，tor 0.2.1.20，polipo 1.0.4，firefox 3.0.15）
 
-[http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4%29.7z 精简版]，类似上面那个，去除了内置的firefox。
+[http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4%29.7z 精简版]（绿色软件，类似上面那个，去除了内置的firefox）
 
- * 自_由_門
+ * 自-由-門
 
-[http://program-think.googlecode.com/files/free-gate-6.9.4-prof.7z 6.9.4专业版]
+[http://program-think.googlecode.com/files/free-gate-6.9.4-prof.7z 6.9.4专业版]（绿色软件，exe文件有数字签名）
 
- * 無_界
+ * 無-界
 
-[http://program-think.googlecode.com/files/wu-jie-9.92.7z 版本9.92]
+[http://program-think.googlecode.com/files/wu-jie-9.92.7z 版本9.92]（绿色软件）
 
  * puff
 
-[http://program-think.googlecode.com/files/puff-0.05-commercial-version.7z 0.05商业版]
+[http://program-think.googlecode.com/files/puff-0.05-commercial-version.7z 0.05商业版]（需要安装）
 
-[http://program-think.googlecode.com/files/puff-0.03-free-version.7z 0.03免费版]
+[http://program-think.googlecode.com/files/puff-0.03-free-version.7z 0.03免费版]（需要安装）
 
- * 世_界_通
+ * 世-界-通
 
-[http://program-think.googlecode.com/files/gpass-4.1.0.7z 版本4.1.0]
+[http://program-think.googlecode.com/files/gpass-4.1.0.7z 版本4.1.0]（绿色软件，exe文件有数字签名）
+
+ * Hotspot Shield
+
+[http://program-think.googlecode.com/files/hotspot-shield-1.37.7z 1.37版本]（需要安装，exe文件有数字签名）
