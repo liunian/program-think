@@ -1,5 +1,26 @@
-#summary Software
+#summary 各色软件，欲down从速
 
-= Introduction =
+= 下 载 必 读 =
 
-Add your content here.
+为了节省俺上传的带宽及大伙儿下载的带宽，俺使用 7z 格式提高压缩率。
+
+下载之后，请自行用 [http://www.7-zip.org/ 7zip] 或者较新版本的 WinRAR 进行解压缩。
+
+
+= 翻 墙 代 理 =
+
+下面这些软件，皆是俺（施展翻墙大法）从其官方网站下载得来。有些软件俺用得不多，是否有啥不良的副作用，俺不敢保证。
+
+关于翻墙的入门扫盲介绍，请看 [http://program-think.spaces.live.com/blog/cns!F5B0090663FEEADA!144.entry]
+
+ * [http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4_firefox-3.0.15%29.7z TOR软件包（完全版）]
+
+内含：vidalia 0.2.6，tor 0.2.1.20，polipo 1.0.4，firefox 3.0.15
+
+ * [http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4%29.7z TOR软件包（精简版）]
+
+类似上面那个，去除了内置的firefox。
+
+ * [http://program-think.googlecode.com/files/free-gate-6.9.4-prof.7z 自_由_門 6.9.4 专业版]
+
+ * [http://program-think.googlecode.com/files/wu-jie-9.92.7z 無_界 9.92]
