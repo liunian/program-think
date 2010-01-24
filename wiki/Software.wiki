@@ -13,14 +13,26 @@
 
 关于翻墙的入门扫盲介绍，请看 [http://program-think.spaces.live.com/blog/cns!F5B0090663FEEADA!144.entry]
 
- * [http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4_firefox-3.0.15%29.7z TOR软件包（完全版）]
+ * TＯR 软件包
 
-内含：vidalia 0.2.6，tor 0.2.1.20，polipo 1.0.4，firefox 3.0.15
+[http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4_firefox-3.0.15%29.7z 完全版]，内含：vidalia 0.2.6，tor 0.2.1.20，polipo 1.0.4，firefox 3.0.15
 
- * [http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4%29.7z TOR软件包（精简版）]
+[http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4%29.7z 精简版]，类似上面那个，去除了内置的firefox。
 
-类似上面那个，去除了内置的firefox。
+ * 自_由_門
 
- * [http://program-think.googlecode.com/files/free-gate-6.9.4-prof.7z 自_由_門 6.9.4 专业版]
+[http://program-think.googlecode.com/files/free-gate-6.9.4-prof.7z 6.9.4专业版]
 
- * [http://program-think.googlecode.com/files/wu-jie-9.92.7z 無_界 9.92]
+ * 無_界
+
+[http://program-think.googlecode.com/files/wu-jie-9.92.7z 版本9.92]
+
+ * puff
+
+[http://program-think.googlecode.com/files/puff-0.05-commercial-version.7z 0.05商业版]
+
+[http://program-think.googlecode.com/files/puff-0.03-free-version.7z 0.03免费版]
+
+ * 世_界_通
+
+[http://program-think.googlecode.com/files/gpass-4.1.0.7z 版本4.1.0]
