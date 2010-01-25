@@ -9,9 +9,9 @@
 
 = 翻 墙 代 理 =
 
-下面这些软件，皆是俺（施展翻墙大法）从其官方网站下载得来。有些软件俺用得不多，是否有啥不良的副作用，俺不敢保证。
+首先，请到 [http://program-think.spaces.live.com/blog/cns!F5B0090663FEEADA!144.entry] 看一下关于各种翻墙方法的介绍。
 
-关于翻墙的入门扫盲介绍，请看 [http://program-think.spaces.live.com/blog/cns!F5B0090663FEEADA!144.entry]
+下面这些软件，皆是俺（施展翻墙大法）从其官方网站下载得来。有些软件俺用得不多，是否有啥不良的副作用，俺不敢保证。
 
  * TＯR 软件包
 
@@ -26,6 +26,9 @@
  * 無-界
 
 [http://program-think.googlecode.com/files/wu-jie-9.92.7z 版本9.92]（绿色软件）
+
+ * GTunnel（花园网络）
+[http://program-think.googlecode.com/files/gtunnel-2.0.1.7.7z 版本2.0.1.7]（绿色软件）
 
  * puff
 
