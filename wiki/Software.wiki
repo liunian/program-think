@@ -1,19 +1,21 @@
 #summary 汇总翻墙代理软件，下载要趁早
 
-= 下 载 必 读 =
+= 下载必读 =
 
 为了节省俺上传的带宽及大伙儿下载的带宽，俺使用 7z 格式提高压缩率。
 
 下载之后，请自行用 [http://www.7-zip.org/ 7zip] 或者较新版本的 WinRAR 进行解压缩。
 
 
-= 翻 墙 代 理 =
+= 翻墙软件 =
 
 首先，请到 [http://program-think.spaces.live.com/blog/cns!F5B0090663FEEADA!144.entry] 看一下关于各种翻墙方法的介绍。
 
-下面这些软件，皆是俺（施展翻墙大法）从其官方网站下载得来。有些软件俺用得不多，是否有啥不良的副作用，俺不敢保证。
+下面这些翻墙工具，皆是俺（施展翻墙大法）从其官方网站下载得来。有些软件俺用得不多，是否有啥不良的副作用，俺不敢保证。
 
  * TＯR 软件包
+
+关于TＯR的详细说明，请看 [http://program-think.spaces.live.com/blog/cns!F5B0090663FEEADA!206.entry]
 
 [http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4_firefox-3.0.15%29.7z 完全版]（绿色软件，内含：vidalia 0.2.6，tor 0.2.1.20，polipo 1.0.4，firefox 3.0.15）
 
