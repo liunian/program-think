@@ -15,41 +15,48 @@
 
  * TＯR 软件包
 
+绿色软件，无需安装，解压缩即可使用。
+
 关于TＯR的详细说明，请看 [http://program-think.spaces.live.com/blog/cns!F5B0090663FEEADA!206.entry]
 
-[http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4_firefox-3.0.15%29.7z 完全版]（绿色软件，内含：vidalia 0.2.6，tor 0.2.1.20，polipo 1.0.4，firefox 3.0.15）
+[http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4_firefox-3.0.15%29.7z 完全版]（内含：vidalia 0.2.6，tor 0.2.1.20，polipo 1.0.4，firefox 3.0.15）
 
-[http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4%29.7z 精简版]（绿色软件，类似上面那个，去除了内置的firefox）
+[http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4%29.7z 精简版]（类似上面那个，去除了内置的firefox）
 
  * 自-由-門
 
-绿色软件，exe文件有数字签名
+绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
 
 [http://program-think.googlecode.com/files/free-gate-6.9.4-prof.7z 6.9.4专业版]
 [http://program-think.googlecode.com/files/free-gate-6.9.5-prof.7z 6.9.5专业版]
 
  * 無-界
 
-[http://program-think.googlecode.com/files/wu-jie-9.92.7z 版本9.92]（绿色软件）
+绿色软件，无需安装。压缩包内仅有单个可执行文件。
 
- * GTunnel（花园网络）
+[http://program-think.googlecode.com/files/wu-jie-9.92.7z 版本9.92]
+
+ * ＧTunnel（花-园-网-络）
+
+绿色软件，无需安装。压缩包内含单个可执行文件和2个动态库。
+
 [http://program-think.googlecode.com/files/gtunnel-2.0.1.7.7z 版本2.0.1.7]（绿色软件）
 
- * puff
+ * Ｐuff
 
-需要安装
+此软件速度较快，具有商业版和免费版2种。压缩包中是其安装程序。
 
 [http://program-think.googlecode.com/files/puff-0.05-commercial-version.7z 0.05商业版]
 [http://program-think.googlecode.com/files/puff-0.03-free-version.7z 0.03免费版]
 
  * 世-界-通
 
-绿色软件，exe文件有数字签名
+绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
 
 [http://program-think.googlecode.com/files/gpass-4.1.0.7z 版本4.1.0]
 
  * Hotspot Shield
 
-需要安装，exe文件有数字签名
+知名的VPN软件。压缩包中是安装程序，带有数字签名。
 
 [http://program-think.googlecode.com/files/hotspot-shield-1.37.7z 1.37版本]
