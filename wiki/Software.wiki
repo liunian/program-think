@@ -13,21 +13,20 @@
 
 有些软件俺用得不多，是否有啥副作用，俺不敢保证。
 
-本站点随时可能被封杀，如果想定期获取翻墙的信息，可以用[https://www.google.com/reader/ Google Reader]订阅俺的博客。
+本站点随时可能被封杀，如果想定期获取翻墙的信息，可以用Google Reader订阅俺的博客。
 
-订阅地址： [http://feeds2.feedburner.com/programthink]
+Google Reader的网址是： <a href="https://www.google.com/reader/"><font color="red">https</font>://www.google.com/reader/</a>
+
+俺Blog的订阅地址是： <a href="http://feeds2.feedburner.com/programthink">
+<b>http://feeds2.feedburner.com/programthink</b></a>
 
  * TＯR 软件包
 
 绿色软件，无需安装，解压缩即可使用。
 
-关于TＯR的详细说明，请看 
+关于TＯR的详细说明，请看俺博客的帖子。
 
-[http://program-think.spaces.live.com/blog/cns!F5B0090663FEEADA!206.entry]
-
-[https://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4_firefox-3.0.15%29.7z 完全版]（内含：vidalia 0.2.6，tor 0.2.1.20，polipo 1.0.4，firefox 
-
-3.0.15）
+[https://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4_firefox-3.0.15%29.7z 完全版]（内含：vidalia 0.2.6，tor 0.2.1.20，polipo 1.0.4，firefox 3.0.15）
 
 [https://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4%29.7z 精简版]（类似上面那个，去除了内置的firefox）
 
