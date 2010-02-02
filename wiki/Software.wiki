@@ -1,24 +1,32 @@
 #summary 汇总翻墙代理软件(请用https打开本页面下载)
 
-= 下 载 必 读 =
+= 下载须知 =
 
 为了节省俺上传的带宽及大伙儿下载的带宽，俺使用 7z 格式提高压缩率。
 
 下载之后，请自行用 [http://www.7-zip.org/ 7zip] 或者较新版本的 WinRAR 进行解压缩。
 
-
-= 翻 墙 软 件 =
-
 下面这些翻墙的工具，皆是俺运用各种翻墙姿势，从其官方网站下载得来。
 
 有些软件俺用得不多，是否有啥副作用，俺不敢保证。
 
-本站点随时可能被封杀，如果想定期获取翻墙的信息，可以用Google Reader订阅俺的博客。
+= 如何翻墙 =
+
+为了帮助大伙儿更好地运用翻墙工具来突破封锁，俺写了若干翻墙扫盲帖。
+
+有兴趣的网友，请用Google Reader订阅“<a href="http://program-think.blogspot.com/">编程随想的博客</a>”（已被墙）。
 
 Google Reader的网址是： <a href="https://www.google.com/reader/"><font color="red">https</font>://www.google.com/reader/</a>
 
-俺Blog的订阅地址是： <a href="http://feeds2.feedburner.com/programthink">
+*编程随想*博客的订阅地址是： <a href="http://feeds2.feedburner.com/programthink">
 <b>http://feeds2.feedburner.com/programthink</b></a>
+
+通过俺的博客，列位看官可以定期获取翻墙的最新动态。
+
+另外，本站点随时可能被封杀。如果你熟练掌握翻墙“姿势”，就可以定期回来这里获取俺的各种收藏（软件、电子书、等）。
+
+
+= 翻墙软件 =
 
  * TＯR 软件包
 
