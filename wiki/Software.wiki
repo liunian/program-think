@@ -9,13 +9,13 @@
 
 = 翻 墙 软 件 =
 
-首先，请到 [http://program-think.spaces.live.com/blog/cns!F5B0090663FEEADA!144.entry] 看一下
-
-。里面介绍了关于翻墙的各种方法。
-
 下面这些翻墙的工具，皆是俺运用各种翻墙姿势，从其官方网站下载得来。
 
 有些软件俺用得不多，是否有啥副作用，俺不敢保证。
+
+本站点随时可能被封杀，如果想定期获取翻墙的信息，可以用[https://www.google.com/reader/ Google Reader]订阅俺的博客。
+
+订阅地址： [http://feeds2.feedburner.com/programthink]
 
  * TＯR 软件包
 
