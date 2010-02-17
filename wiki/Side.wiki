@@ -1,8 +1,10 @@
 #summary 站点导航
 
 
-[https://code.google.com/p/program-think/wiki/Software 软件]
+*编程随想* 的收藏
 
-[https://code.google.com/p/program-think/wiki/Site 网站]
+ * [https://code.google.com/p/program-think/wiki/Software 软件]（翻墙的工具）
 
-[https://code.google.com/p/program-think/wiki/Books 电子书]
+ * [https://code.google.com/p/program-think/wiki/Sites 网站]（被墙的网站）
+
+ * [https://code.google.com/p/program-think/wiki/Books 电子书]（被禁的书籍）
