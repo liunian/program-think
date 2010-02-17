@@ -16,20 +16,21 @@
 
 为了帮助大伙儿翻墙，俺写了若干翻墙扫盲帖。
 
-有兴趣的网友，请用Google Reader订阅俺的博客。
+有兴趣的网友，建议用Google Reader订阅俺的博客。
 
-Google Reader的网址是：
+切记用 *HTTPS* 方式访问Google Reader，以规避GFW的敏感词过滤。
+
+具体网址是：
 
 <a href="https://www.google.com/reader/"><font color="red">https</font>://www.google.com/reader/</a>
 
+俺博客的订阅地址是：
 
-俺博客订阅地址是：
-
+[http://feeds2.feedburner.com/programthink]
 [http://feeds2.feedburner.com/programthink http://www.feedburner.com/fb/images/pub/feed-icon32x32.png]
-[http://fusion.google.com/add?source=atgs&feedurl=http://feeds2.feedburner.com/programthink http://buttons.googlesyndication.com/fusion/add.gif]
 
 
-看了俺的博客，大伙儿可以定期获取翻墙的最新动态。
+通过订阅俺的博客，大伙儿可以定期获取翻墙的最新动态。
 
 另外，由于本站点随时可能被封杀。
 
