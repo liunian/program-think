@@ -25,10 +25,8 @@ Google Reader的网址是：
 
 俺博客订阅地址是：
 
-<a href="http://feeds2.feedburner.com/programthink" title="订阅博客" rel="alternate">
-<img src="http://blob-s-docs.googlegroups.com/docs/OQAAAEDR9lx4QTrhbYlMsJJeUT1vZjjOmbQ7IXi62ZQOk8YtPR8N0dvUBZTVqPhBV_4WcDlLJL3vqBvSxA65STIxPaoA15jOjP-U6MM1FjkNe5dGekwDnlpPokIn" alt="订阅博客" border="0" /></a>
-
-<a href="http://feeds2.feedburner.com/programthink">http://feeds2.feedburner.com/programthink</a>
+[http://feeds2.feedburner.com/programthink http://www.feedburner.com/fb/images/pub/feed-icon32x32.png]
+[http://fusion.google.com/add?source=atgs&feedurl=http://feeds2.feedburner.com/programthink http://buttons.googlesyndication.com/fusion/add.gif]
 
 
 看了俺的博客，大伙儿可以定期获取翻墙的最新动态。
