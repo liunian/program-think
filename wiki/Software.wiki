@@ -18,7 +18,7 @@
 
 Google Reader的网址是： <a href="https://www.google.com/reader/"><font color="red">https</font>://www.google.com/reader/</a>
 
-*编程随想*博客的订阅地址是： <a href="http://feeds2.feedburner.com/programthink">
+*编程随想博客* 订阅地址是： <a href="http://feeds2.feedburner.com/programthink">
 <b>http://feeds2.feedburner.com/programthink</b></a>
 
 通过俺的博客，列位看官可以定期获取翻墙的最新动态。
@@ -44,6 +44,7 @@ Google Reader的网址是： <a href="https://www.google.com/reader/"><font colo
 
 [https://program-think.googlecode.com/files/free-gate-6.9.4-prof.7z 6.9.4专业版]
 [https://program-think.googlecode.com/files/free-gate-6.9.5-prof.7z 6.9.5专业版]
+[https://program-think.googlecode.com/files/free-gate-6.9.6-prof.7z 6.9.6专业版]
 
  * 無　界
 
