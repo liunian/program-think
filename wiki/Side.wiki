@@ -1,10 +1,34 @@
 #summary 站点导航
 
 
-*编程随想* 的收藏
+= 站内导航 =
 
  * [https://code.google.com/p/program-think/wiki/Software 软件]（翻墙的工具）
 
  * [https://code.google.com/p/program-think/wiki/Sites 网站]（被墙的网站）
 
- * [https://code.google.com/p/program-think/wiki/Books 电子书]（被禁的书籍）
+ * [https://code.google.com/p/program-think/wiki/Books 电子书]（被禁的书籍，整理中）
+
+ * [https://code.google.com/p/program-think/wiki/Docs 文章]（俺转载的文章，整理中）
+
+
+= 如何翻墙 =
+
+为了帮助大伙儿翻墙，俺写了若干翻墙扫盲帖。
+
+有兴趣的网友，请用Google Reader订阅俺的博客。
+
+Google Reader的网址是：
+
+<a href="https://www.google.com/reader/"><font color="red">https</font>://www.google.com/reader/</a>
+
+俺博客订阅地址是：
+
+<a href="http://feeds2.feedburner.com/programthink"><b>http://feeds2.feedburner.com/programthink</b></a>
+
+
+通过俺的博客，列位看官可以定期获取翻墙的最新动态。
+
+另外，本站点随时可能被封杀。
+
+如果你熟练掌握翻墙“姿势”，就可以定期回来这里获取俺的各种收藏。
