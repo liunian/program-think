@@ -22,13 +22,17 @@ Google Reader的网址是：
 
 <a href="https://www.google.com/reader/"><font color="red">https</font>://www.google.com/reader/</a>
 
+
 俺博客订阅地址是：
 
-<a href="http://feeds2.feedburner.com/programthink"><b>http://feeds2.feedburner.com/programthink</b></a>
+<a href="http://feeds2.feedburner.com/programthink" title="订阅博客" rel="alternate">
+<img src="http://blob-s-docs.googlegroups.com/docs/OQAAAEDR9lx4QTrhbYlMsJJeUT1vZjjOmbQ7IXi62ZQOk8YtPR8N0dvUBZTVqPhBV_4WcDlLJL3vqBvSxA65STIxPaoA15jOjP-U6MM1FjkNe5dGekwDnlpPokIn" alt="订阅博客" border="0" /></a>
+
+<a href="http://feeds2.feedburner.com/programthink">http://feeds2.feedburner.com/programthink</a>
 
 
-通过俺的博客，列位看官可以定期获取翻墙的最新动态。
+看了俺的博客，大伙儿可以定期获取翻墙的最新动态。
 
-另外，本站点随时可能被封杀。
+另外，由于本站点随时可能被封杀。
 
 如果你熟练掌握翻墙“姿势”，就可以定期回来这里获取俺的各种收藏。
