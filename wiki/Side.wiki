@@ -1,37 +1,46 @@
-#summary 站点导航
+= 【编程随想】的收藏 =
+
+此站点汇总了俺收藏的各种软件、电子书、文章、视频、......
+
+都是些有一定价值，又不容易搞到（被墙）的东东。
 
 
-= 站内导航 =
+== 站内导航 ==
 
- * [https://code.google.com/p/program-think/wiki/Software 软件]（翻墙的工具）
+ * [https://code.google.com/p/program-think/wiki/Software 软件]（常用的翻墙工具）
 
- * [https://code.google.com/p/program-think/wiki/Sites 网站]（被墙的网站）
+ * [https://code.google.com/p/program-think/wiki/Sites 网站]（一些被党国封杀的网站）
 
- * [https://code.google.com/p/program-think/wiki/Books 电子书]（被禁的书籍，整理中）
+ * [https://code.google.com/p/program-think/wiki/Books 电子书]（党国查禁的书籍，整理中）
 
  * [https://code.google.com/p/program-think/wiki/Docs 文章]（俺转载的文章，整理中）
 
 
-= 如何翻墙 =
+== 博客订阅 ==
 
-为了帮助大伙儿翻墙，俺写了若干翻墙扫盲帖。
+<a href="http://feeds2.feedburner.com/programthink"><img src="http://feeds.feedburner.com/~fc/programthink?bg=99CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" border="0" alt="订阅数" /></a>
 
-有兴趣的网友，建议用Google Reader订阅俺的博客。
+俺Blog的订阅地址是：
 
-切记用 *HTTPS* 方式访问Google Reader，以规避GFW的敏感词过滤。
-
-具体网址是：
-
-<a href="https://www.google.com/reader/"><font color="red">https</font>://www.google.com/reader/</a>
-
-俺博客的订阅地址是：
-
-[http://feeds2.feedburner.com/programthink]
-[http://feeds2.feedburner.com/programthink http://www.feedburner.com/fb/images/pub/feed-icon32x32.png]
-
+<a href="http://feeds2.feedburner.com/programthink" title="http://feeds2.feedburner.com/programthink"><img src="http://blob-s-docs.googlegroups.com/docs/OQAAAEDR9lx4QTrhbYlMsJJeUT1vZjjOmbQ7IXi62ZQOk8YtPR8N0dvUBZTVqPhBV_4WcDlLJL3vqBvSxA65STIxPaoA15jOjP-U6MM1FjkNe5dGekwDnlpPokIn" alt="http://feeds2.feedburner.com/programthink" border="0" /></a>　
+<a href="http://fusion.google.com/add?source=atgs&feedurl=http://feeds2.feedburner.com/programthink" title="订阅到Google"><img src="http://buttons.googlesyndication.com/fusion/add.gif" alt="订阅到Google" border="0" /></a>
 
 通过订阅俺的博客，大伙儿可以定期获取翻墙的最新动态。
 
-另外，由于本站点随时可能被封杀。
+另外，由于本站点已经部分被墙。如果你熟练掌握翻墙“姿势”，就可以定期回来这里获取俺的各种收藏。
 
-如果你熟练掌握翻墙“姿势”，就可以定期回来这里获取俺的各种收藏。
+
+== 关于翻墙 ==
+
+墙内的网友，建议用 *HTTPS* 方式访问本站点，URL如下：
+
+<a href="https://code.google.com/p/program-think/"><font color="red">https</font>://code.google.com/p/program-think/</a>
+
+
+为了帮助大伙儿翻墙，俺写了很详细的翻墙扫盲帖（在[http://program-think.spaces.live.com/blog/cns!F5B0090663FEEADA!144.entry LiveSpaces]和[http://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html BlogSpot]）。
+
+如果无法打开上述链接，请用[http://fusion.google.com/add?source=atgs&feedurl=http://feeds2.feedburner.com/programthink Google Reader订阅]并查看。
+
+切记用 *HTTPS* 的方式访问Google Reader，以规避GFW的敏感词过滤。具体网址是：
+
+<a href="https://www.google.com/reader/"><font color="red">https</font>://www.google.com/reader/</a>
