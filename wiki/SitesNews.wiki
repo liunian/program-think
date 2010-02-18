@@ -5,37 +5,61 @@
 
 
 || *名称* || *链接* || *类型* || *说明* ||
-|| 英国广播公司 || [http://www.bbc.co.uk/ English Web] || Web || British Broadcasting Corporation (BBC) ||
+|| 英国广播公司 || || || 大名鼎鼎的BBC(British Broadcasting Corporation)，伦敦 ||
+|| || [http://www.bbc.co.uk/ English Web] || Web || ||
 || || [http://www.bbc.co.uk/zhongwen/simp/ 简体中文网] || Web || ||
 || || [http://www.bbc.co.uk/zhongwen/trad/ 繁體中文網] || Web || ||
-|| || [https://twitter.com/BBCchinese @BBCchinese] || Twitter || 简体中文推特 ||
-|| 美国之音 || [http://voanews.com/ English Web] || Web || Voice of America (VOA) ||
+|| || [https://twitter.com/BBCchinese @BBCchinese] || Twitter || 官方中文推特 ||
+|| 美国之音 || || || 鼎鼎大名的VOA(Voice of America)，隶属美国政府，华盛顿 ||
+|| || [http://voanews.com/ English Web] || Web || ||
 || || [http://voanews.com/chinese 简体中文网] || Web || ||
-|| || [https://twitter.com/VOAchinese @VOAchinese] || Twitter || 简体中文推特 ||
-|| 有线新闻网 || [http://www.cnn.com/ English Web] || Web || Cable News Network (CNN) ||
+|| || [https://twitter.com/VOAchinese @VOAchinese] || Twitter || 官方中文推特 ||
+|| 有线新闻网 || || || 在国内名声不太好的CNN(Cable News Network)，亚特兰大 ||
+|| || [http://www.cnn.com/ English Web] || Web || ||
 || || [https://twitter.com/CNN @CNN] || Twitter || CNN on Twitter ||
 || || [https://twitter.com/CNNbrk @CNNbrk] || Twitter || CNN Breaking News on Twitter ||
 || || [https://twitter.com/CNNi @CNNi] || Twitter || CNN International on Twitter ||
-|| 德国之声 || [http://www.dw-world.de/dw/0,,293,00.html 简体中文网] || Web || ||
-|| 亞洲周刊 || [http://www.yzzk.com/ 繁體中文網] || Web || 香港 ||
-|| 联合早报 || [http://www.zaobao.com/ 简体中文网] || Web || 新加坡，目前可正常访问 ||
-|| || [https://twitter.com/zaobaochina @zbcom] || Twitter || 官方中文推特 ||
-|| || [https://twitter.com/zaobaochina @zaobaochina] || Twitter || 中国新闻推特 ||
-|| 明報 || [http://www.mingpaonews.com/ 繁體中文網] || Web || 香港，金庸主辦 ||
-|| || [https://twitter.com/mingpaocom @mingpaocom] || Twitter || 繁體中文推特 ||
-|| 蘋果日報 ||[http://tw.nextmedia.com/ 繁體中文網] || Web || 臺灣 ||
-|| 蘋果日報 || [http://hk.nextmedia.com/ 繁體中文網] || Web || 香港 ||
-|| || [https://twitter.com/TW_nextmedia @TW_nextmedia] || Twitter || 臺灣蘋果日報推特 ||
-|| 星島日報 || [http://www.singtao.com/ 繁體中文網] || Web || 香港 ||
-|| 星岛环球网 || [http://www.stnn.cc/ 简体中文网] || Web || 香港，尚未被墙 ||
-|| 星島環球網 || [http://www.stnn.cc:82/ 繁體中文網] || Web || 香港，尚未被墙 ||
-|| 聯合新聞網 || [http://udn.com/ 繁體中文網] || Web || 臺灣 ||
-|| 自由時報 || [http://www.libertytimes.com.tw/ 繁體中文網] || Web || 臺灣 ||
-|| 无国界记者 || [http://www.rsf.org/-Anglais-.html English] || Web || 美国 ||
-|| || [http://www.rsf-chinese.org/ 简体中文网] || Web || ||
-|| 自由亚洲电台 || [http://www.rfa.org/ English] || Web || ||
+|| 自由亚洲电台 || || || 美国国会资助的非盈利电台，主要搞民运宣传 ||
+|| || [http://www.rfa.org/ English] || Web || ||
 || || [http://www.rfa.org/mandarin/ 简体中文网] || Web || ||
-|| 路透社 || [http://www.reuters.com/ English Web] || Web || 通讯社，伦敦 ||
-|| || [http://cn.reuters.com/ 简体中文网] || Web || ||
-|| 共同社 || [http://home.kyodo.co.jp/ English Web] || Web || 通讯社，东京，尚未被墙 ||
+|| || [https://twitter.com/RFAchinese @RFAchinese] || Twitter || 中文推特 ||
+|| || [http://www.rfa.org/mandarin/yataibaodao/RSS 亚太报道订阅] || RSS || 摘要输出 ||
+|| 德国之声 || || || 由德国政府拨款进行运作，柏林 ||
+|| || [http://www.dw-world.de/ English Web] || Web || ||
+|| || [http://www.dw-world.de/dw/0,,293,00.html 简体中文网] || Web || ||
+|| || [http://mobile.dw-world.de/chinese 简体中文网] || WAP || 手机版 ||
+|| 亞洲周刊 || || || 比較中立客觀的華文報刊，香港 ||
+|| || [http://www.yzzk.com/ 繁體中文網] || Web || ||
+|| || [http://www.yzzk.com/rss/rss.xml 新聞訂閲] || RSS || 摘要輸出 ||
+|| 联合早报 || || || 新加坡主要华文报纸，尚未被墙 ||
+|| || [http://www.zaobao.com/ 简体中文网] || Web || ||
+|| || [https://twitter.com/zaobaochina @zbcom] || Twitter || 官方中文推特 ||
+|| || [http://realtime.zaobao.com/news.xml 即时报道订阅] || RSS || 标题输出 ||
+|| || [http://www.zaobao.com/gj/gj.xml 国际新闻订阅] || RSS || 标题输出||
+|| 明報 || || || 大名鼎鼎的金庸創辦，香港 ||
+|| || [http://www.mingpaonews.com/ 繁體中文網] || Web || ||
+|| || [https://twitter.com/mingpaocom @mingpaocom] || Twitter || 官方中文推特 ||
+|| 蘋果日報 || || Web || 主要在港臺兩地發行 ||
+|| || [http://tw.nextmedia.com/ 繁體中文網] || Web || 臺灣 ||
+|| || [http://hk.nextmedia.com/ 繁體中文網] || Web || 香港 ||
+|| || [https://twitter.com/TW_nextmedia @TW_nextmedia] || Twitter || 臺灣蘋果日報推特 ||
+|| 星島日報 || [http://www.singtao.com/ 繁體中文網] || Web || 尚未被墙 ||
+|| 星岛环球网 || || || 和星岛日报是一家子，尚未被墙 ||
+|| || [http://www.stnn.cc/ 简体中文网] || Web ||  ||
+|| || [http://www.stnn.cc:82/ 繁體中文網] || Web || ||
+|| 聯合新聞網 ||  || || 臺灣 ||
+|| || [http://udn.com/ 繁體中文網] || Web ||  ||
+|| || [http://udn.com/udnrss/latest.xml 最新報道訂閲] || RSS || 摘要輸出 ||
+|| || [http://udn.com/udnrss/international.xml 國際新聞訂閲] || RSS || 摘要輸出 ||
+|| 自由時報 || [http://www.libertytimes.com.tw/ 繁體中文網] || Web || 號稱臺灣第一大報，偏綠 ||
+|| 无国界记者 || || || 保护记者免遭迫害及促进新闻自由的非政府组织，巴黎 ||
+|| || [http://www.rsf.org/-Anglais-.html English] || Web || ||
+|| || [http://www.rsf-chinese.org/ 简体中文网] || Web || ||
+|| || [http://www.rsf-chinese.org/spip.php?page=backend 新闻订阅] || RSS || 摘要输出 ||
+|| 美联社 || [http://www.ap.org/ English Web] || Web || 全球最大通讯社，可惜没中文站点 ||
+|| 路透社 || || || 3大通讯社之一，伦敦 ||
+|| || [http://www.reuters.com/ English Web] || Web || 尚未被墙 ||
+|| || [http://cn.reuters.com/ 简体中文网] || Web || 尚未被墙 ||
+|| 共同社 || || || 通讯社，东京 ||
+|| || [http://home.kyodo.co.jp/ English Web] || Web || 尚未被墙 ||
 || || [http://china.kyodo.co.jp/ 简体中文网] || Web || 尚未被墙 ||
