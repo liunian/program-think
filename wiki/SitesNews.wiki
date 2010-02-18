@@ -5,28 +5,32 @@
 
 
 || *名称* || *链接* || *类型* || *说明* ||
-|| 英国广播公司 || [http://www.bbc.co.uk/ English] || Web || BBC ||
+|| 英国广播公司 || [http://www.bbc.co.uk/ English Web] || Web || 大名鼎鼎的BBC ||
 || || [http://www.bbc.co.uk/zhongwen/simp/ 简体中文网] || Web || ||
 || || [http://www.bbc.co.uk/zhongwen/trad/ 繁體中文網] || Web || ||
-|| || [https://twitter.com/BBCChinese 简体中文推特] || Twitter || ||
-|| 美国之音 || [http://voanews.com/ English] || Web || VOA ||
+|| || [https://twitter.com/BBCchinese @BBCchinese] || Twitter || 简体中文推特 ||
+|| 美国之音 || [http://voanews.com/ English Web] || Web || 鼎鼎大名的VOA ||
 || || [http://voanews.com/chinese 简体中文网] || Web || ||
-|| || [https://twitter.com/voachina 简体中文推特] || Twitter || ||
+|| || [https://twitter.com/VOAchina @VOAchina] || Twitter || 简体中文推特 ||
+|| 有线新闻网 || [http://www.cnn.com/ English Web] || Web || 鼎鼎大名的CNN ||
+|| || [https://twitter.com/CNN @CNN] || Twitter || 英文官方推特 ||
+|| || [https://twitter.com/CNNbrk @CNNbrk] || Twitter || 英文实时新闻推特 ||
+|| || [https://twitter.com/CNNi @CNNi] || Twitter || 英文国际新闻推特 ||
 || 德国之声 || [http://www.dw-world.de/dw/0,,293,00.html 简体中文网] || Web || ||
 || 亞洲周刊 || [http://www.yzzk.com/ 繁體中文網] || Web || 香港 ||
 || 联合早报 || [http://www.zaobao.com/ 简体中文网] || Web || 新加坡，偶尔被墙，目前可正常访问 ||
-|| || [https://twitter.com/zaobaochina 简体中文推特] || Twitter || ||
+|| || [https://twitter.com/zaobaochina @zaobaochina] || Twitter || 简体中文推特 ||
 || 明報 || [http://www.mingpaonews.com/ 繁體中文網] || Web || 香港，金庸主办 ||
-|| || [https://twitter.com/mingpaocom 繁體中文推特] || Twitter || ||
+|| || [https://twitter.com/mingpaocom @mingpaocom] || Twitter || 繁體中文推特 ||
 || 蘋果日報 ||[http://tw.nextmedia.com/ 繁體中文網] || Web || 台湾 ||
 || 蘋果日報 || [http://hk.nextmedia.com/ 繁體中文網] || Web || 香港 ||
-|| || [https://twitter.com/TW_nextmedia 繁體中文推特] || Twitter || 台湾 ||
+|| || [https://twitter.com/TW_nextmedia @TW_nextmedia] || Twitter || 繁體中文推特，台湾 ||
 || 星島日報 || [http://www.singtao.com/ 繁體中文網] || Web || 香港 ||
 || 聯合新聞網 || [http://udn.com/ 繁體中文網] || Web || 台湾 ||
 || 自由時報 || [http://www.libertytimes.com.tw/ 繁體中文網] || Web || 台湾 ||
 || 无国界记者 || [http://www.rsf.org/-Anglais-.html English] || Web || 法国 ||
-|| || [http://www.rsf-chinese.org/ 简体中文] || Web || ||
-|| 路透社 || [http://www.reuters.com/ English] || Web || 通讯社，总部在英国 ||
-|| || [http://cn.reuters.com/ 简体中文] || Web || ||
-|| 共同社 || [http://home.kyodo.co.jp/ English] || Web || 通讯社，总部在日本 ||
+|| || [http://www.rsf-chinese.org/ 简体中文网] || Web || ||
+|| 路透社 || [http://www.reuters.com/ English Web] || Web || 通讯社，总部在英国 ||
+|| || [http://cn.reuters.com/ 简体中文网] || Web || ||
+|| 共同社 || [http://home.kyodo.co.jp/ English Web] || Web || 通讯社，总部在日本 ||
 || || [http://china.kyodo.co.jp/ 简体中文网] || Web || ||
