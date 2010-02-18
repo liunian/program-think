@@ -27,6 +27,8 @@
 || 蘋果日報 || [http://hk.nextmedia.com/ 繁體中文網] || Web || 香港 ||
 || || [https://twitter.com/TW_nextmedia @TW_nextmedia] || Twitter || 臺灣蘋果日報推特 ||
 || 星島日報 || [http://www.singtao.com/ 繁體中文網] || Web || 香港 ||
+|| 星岛环球网 || [http://www.stnn.cc/ 简体中文网] || Web || 香港 ||
+|| 星島環球網 || [http://www.stnn.cc:82/ 繁體中文網] || Web || 香港 ||
 || 聯合新聞網 || [http://udn.com/ 繁體中文網] || Web || 臺灣 ||
 || 自由時報 || [http://www.libertytimes.com.tw/ 繁體中文網] || Web || 臺灣 ||
 || 无国界记者 || [http://www.rsf.org/-Anglais-.html English] || Web || 法国 ||
