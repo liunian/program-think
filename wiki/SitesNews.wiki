@@ -18,7 +18,7 @@
 || || [https://twitter.com/CNNi @CNNi] || Twitter || CNN International on Twitter ||
 || 德国之声 || [http://www.dw-world.de/dw/0,,293,00.html 简体中文网] || Web || ||
 || 亞洲周刊 || [http://www.yzzk.com/ 繁體中文網] || Web || 香港 ||
-|| 联合早报 || [http://www.zaobao.com/ 简体中文网] || Web || 新加坡，偶尔被墙，目前可正常访问 ||
+|| 联合早报 || [http://www.zaobao.com/ 简体中文网] || Web || 新加坡，目前可正常访问 ||
 || || [https://twitter.com/zaobaochina @zbcom] || Twitter || 官方中文推特 ||
 || || [https://twitter.com/zaobaochina @zaobaochina] || Twitter || 中国新闻推特 ||
 || 明報 || [http://www.mingpaonews.com/ 繁體中文網] || Web || 香港，金庸主辦 ||
@@ -27,13 +27,15 @@
 || 蘋果日報 || [http://hk.nextmedia.com/ 繁體中文網] || Web || 香港 ||
 || || [https://twitter.com/TW_nextmedia @TW_nextmedia] || Twitter || 臺灣蘋果日報推特 ||
 || 星島日報 || [http://www.singtao.com/ 繁體中文網] || Web || 香港 ||
-|| 星岛环球网 || [http://www.stnn.cc/ 简体中文网] || Web || 香港 ||
-|| 星島環球網 || [http://www.stnn.cc:82/ 繁體中文網] || Web || 香港 ||
+|| 星岛环球网 || [http://www.stnn.cc/ 简体中文网] || Web || 香港，尚未被墙 ||
+|| 星島環球網 || [http://www.stnn.cc:82/ 繁體中文網] || Web || 香港，尚未被墙 ||
 || 聯合新聞網 || [http://udn.com/ 繁體中文網] || Web || 臺灣 ||
 || 自由時報 || [http://www.libertytimes.com.tw/ 繁體中文網] || Web || 臺灣 ||
-|| 无国界记者 || [http://www.rsf.org/-Anglais-.html English] || Web || 法国 ||
+|| 无国界记者 || [http://www.rsf.org/-Anglais-.html English] || Web || 美国 ||
 || || [http://www.rsf-chinese.org/ 简体中文网] || Web || ||
-|| 路透社 || [http://www.reuters.com/ English Web] || Web || 通讯社，总部在英国 ||
+|| 自由亚洲电台 || [http://www.rfa.org/ English] || Web || ||
+|| || [http://www.rfa.org/mandarin/ 简体中文网] || Web || ||
+|| 路透社 || [http://www.reuters.com/ English Web] || Web || 通讯社，伦敦 ||
 || || [http://cn.reuters.com/ 简体中文网] || Web || ||
-|| 共同社 || [http://home.kyodo.co.jp/ English Web] || Web || 通讯社，总部在日本 ||
-|| || [http://china.kyodo.co.jp/ 简体中文网] || Web || ||
+|| 共同社 || [http://home.kyodo.co.jp/ English Web] || Web || 通讯社，东京，尚未被墙 ||
+|| || [http://china.kyodo.co.jp/ 简体中文网] || Web || 尚未被墙 ||
