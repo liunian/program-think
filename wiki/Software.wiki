@@ -22,7 +22,11 @@
 
 [https://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4_firefox-3.0.15%29.7z 完全版]（内含：vidalia 0.2.6，tor 0.2.1.20，polipo 1.0.4，firefox 3.0.15）
 
+[http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.22_polipo-1.0.4_firefox-3.5.7%29.7z 完全版]（内含：vidalia 0.2.6，tor 0.2.1.22，polipo 1.0.4，firefox 3.5.7）
+
 [https://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4%29.7z 精简版]（类似上面那个，去除了内置的firefox）
+
+[http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.22_polipo-1.0.4%29.7z 精简版]（类似上面那个，去除了内置的firefox）
 
  * 自 由 門
 
