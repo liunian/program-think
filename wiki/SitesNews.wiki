@@ -39,6 +39,16 @@
 || || [http://www.rfa.org/mandarin/ 简体中文网] || Web || ||
 || || [https://twitter.com/RFAchinese @RFAchinese] || Twitter || 简体中文推特 ||
 || || [http://www.rfa.org/mandarin/yataibaodao/RSS 亚太报道订阅] || RSS || 摘要输出 ||
+|| 博讯 || || || 没有政府背景，发布的内容自由度较高 ||
+|| || [http://www.boxun.com/ 简体中文网] || Web || ||
+|| || [http://www.peacehall.com/ 简体中文网] || Web || 另一个域名，内容同上 ||
+|| || [http://www.boxun.us/ English Web] || Web || ||
+|| || [http://news.boxun.com/news/rss/focus.xml 焦点新闻订阅] || RSS || 仅标题输出 ||
+|| || [http://news.boxun.com/news/rss/pol.xml 政治新闻订阅] || RSS || 仅标题输出 ||
+|| 万维读者网 || || || 由旅居北美的华人学者创办，温哥华 ||
+|| || [http://www.creaders.net/ 繁體中文網] || Web || ||
+|| || [http://www.creaders.net/?language=gb2312 简体中文网] || Web || ||
+|| || [http://www.creadersnet.com/ English Web] || Web || ||
 
 = 香港 =
 
