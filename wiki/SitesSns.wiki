@@ -1,6 +1,6 @@
 #summary 社交网络类（SNS）网站
 
-= 社交类（SNS）网站 =
+= 社交网络类（SNS）网站 =
 
 下面列出的是各种被墙的SNS类网站。
 
@@ -23,16 +23,20 @@
 
 == 博客类 ==
 
+以下列出的，大都是被封杀的博客服务提供商(BSP)。
+
 || *名称* || *链接* || *说明* ||
-|| Blogger || [http://www.blogger.com/] || Google旗下全球最大的博客服务提供商(BSP) ||
+|| Blogger || [http://www.blogger.com/] || Google旗下全球最大的BSP ||
 || || http://*.blogspot.com || 和Blogger关联的blogspot域名一起被墙，[http://program-think.blogspot.com/ 俺的博客]也在上面 :( || 
-|| Word Press || http://*.wordpress.com/ || WordPress知名度仅次于Blogger ||
+|| Word Press || http://*.wordpress.com/ || WordPress的知名度仅次于Blogger ||
 || Opera Community || [http://my.opera.com/] || Opera旗下的社区，集成博客、交友、论坛等功能 ||
 || 新浪台湾Blog || [http://blog.sina.com.tw/] || 新浪在台湾的部落格 ||
 || Yam Blog || [http://blog.yam.com/] || 又叫天空部落，臺灣的BSP，前身是番薯籐。繁體中文 ||
 || UDN Blog || [http://blog.udn.com/] || [http://udn.com/ 聯合新聞網]旗下的Blog。繁體中文 ||
 || 文学城Blog || [http://blog.wenxuecity.com/] || [http://www.wenxuecity.com/ 文学城]旗下的博客站点 ||
-
+|| 世界部落格 || [http://blog.worldjournal.com/] || [http://www.worldjournal.com/ 世界新聞網]旗下的Blog服務 ||
+|| 優仕網部落格 || [http://blog.youthwant.com.tw/] || [http://www.youthwant.com.tw/ 優仕網]旗下的部落格 ||
+|| 樂多日誌 || [http://blog.roodo.com/] || 港臺的某個BSP ||
 
 == 微博类 ==
 
@@ -55,7 +59,7 @@
 || bit.ly || [http://bit.ly] || 最好用的URL缩略服务 ||
 || || [http://j.mp] || bit.ly推出的更短的域名，尚未被封 ||
 || || [http://blog.bit.ly/] || bit.ly官方博客 ||
-|| TwitPic || [http://twitpic.com] || 专为Twitter提供图片分享服务 ||
+|| TwitPic || [http://twitpic.com] || 看名字就能猜到，这是专为Twitter提供图片分享服务的 ||
 
 
 == 照片/视频类 ==
@@ -68,6 +72,7 @@
 || || [http://www.youtube.com/?gl=HK] || 繁體香港版 ||
 || Flickr || [http://www.flickr.com/] || 照片分享网站 ||
 || Picasa || [http://picasaweb.google.com/] || Google旗下的网络相册 ||
+|| WebShots || [http://www.webshots.com/] || 老牌的照片共享网站，已经换了N个东家 ||
 || Yam Media || [http://mymedia.yam.com/] || 天空部落的影音分享 ||
 
 
