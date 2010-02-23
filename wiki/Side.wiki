@@ -7,7 +7,7 @@
 
 == 站内导航 ==
 
- * 记得用 HTTPS 访问本站哦！ *
+<font color="red">记得用 HTTPS 访问本站，以免被墙！</font>
 
  * [Software 软件]（常用的翻墙工具）
 
