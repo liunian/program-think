@@ -7,13 +7,15 @@
 
 == 站内导航 ==
 
- * [https://code.google.com/p/program-think/wiki/Software 软件]（常用的翻墙工具）
+ * 记得用 HTTPS 访问本站哦！ *
 
- * [https://code.google.com/p/program-think/wiki/Sites 网站]（一些被党国封杀的网站）
+ * [Software 软件]（常用的翻墙工具）
 
- * [https://code.google.com/p/program-think/wiki/Books 电子书]（党国查禁的书籍，整理中）
+ * [Sites 网站]（一些有用的被墙网站）
 
- * [https://code.google.com/p/program-think/wiki/Docs 文章]（俺转载的文章，整理中）
+ * [Books 电子书]（党国查禁的书籍，整理中）
+
+ * [Docs 文章]（俺转载的文章，整理中）
 
 
 == 博客订阅 ==
