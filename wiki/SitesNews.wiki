@@ -64,6 +64,9 @@
 || 星岛环球网 || || || 和星岛日报是一家子，尚未被墙 ||
 || || [http://www.stnn.cc/ 简体中文网] || Web ||  ||
 || || [http://www.stnn.cc:82/ 繁體中文網] || Web || ||
+|| 香港獨立媒體 || || || 獨立註冊的社團，宗旨是推動民主運動及言論自由 ||
+|| || [http://www.inmediahk.net/ 繁體中文網] || Web ||  ||
+|| || [http://inmediahk.net/full/feed 所有文章訂閲] || RSS || 繁體全文輸出 ||
 
 = 臺灣 =
 
@@ -71,16 +74,16 @@
 || 蘋果日報 || || Web || 主要在港臺兩地發行 ||
 || || [http://tw.nextmedia.com/ 繁體中文網] || Web || 臺灣版 ||
 || || [https://twitter.com/TW_nextmedia @TW_nextmedia] || Twitter || 繁體中文推特 ||
-|| 聯合新聞網 ||  || || ||
+|| 聯合新聞網 ||  || || 聯合報係的核心網站 ||
 || || [http://udn.com/ 繁體中文網] || Web || ||
-|| || [http://udn.com/udnrss/latest.xml 最新報道訂閲] || RSS || 摘要輸出 ||
-|| || [http://udn.com/udnrss/international.xml 國際新聞訂閲] || RSS || 摘要輸出 ||
-|| 自由時報 || [http://www.libertytimes.com.tw/ 繁體中文網] || Web || 號稱臺灣第一大報，偏綠 ||
+|| || [http://udn.com/udnrss/latest.xml 最新報道訂閲] || RSS || 繁體摘要輸出 ||
+|| || [http://udn.com/udnrss/international.xml 國際新聞訂閲] || RSS || 繁體摘要輸出 ||
+|| 自由時報 || [http://www.libertytimes.com.tw/ 繁體中文網] || Web || 號稱臺灣第一大報，觀點偏綠 ||
 
 = 东南亚 =
 
 || *名称* || *链接* || *类型* || *说明* ||
-|| 联合早报 || || || 新加坡主要华文报纸，尚未被墙 ||
+|| 联合早报 || || || 新加坡主要华文报纸，偶尔被墙，目前可正常访问 ||
 || || [http://www.zaobao.com/ 简体中文网] || Web || ||
 || || [https://twitter.com/zaobaochina @zbcom] || Twitter || 简体中文推特 ||
 || || [http://realtime.zaobao.com/news.xml 即时报道订阅] || RSS || 仅标题输出 ||
