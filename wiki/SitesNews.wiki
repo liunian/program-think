@@ -10,83 +10,91 @@
 
 || *名称* || *链接* || *类型* || *说明* ||
 || 英国广播公司 || || || 大名鼎鼎的BBC(British Broadcasting Corporation)，伦敦 ||
-|| || [http://www.bbc.co.uk/ English Web] || Web || ||
-|| || [http://www.bbc.co.uk/zhongwen/simp/ 简体中文网] || Web || ||
-|| || [http://www.bbc.co.uk/zhongwen/trad/ 繁體中文網] || Web || ||
+|| || [http://www.bbc.co.uk/] || Web || English Home ||
+|| || [http://www.bbc.co.uk/zhongwen/simp/] || Web || 简体中文主页 ||
+|| || [http://www.bbc.co.uk/zhongwen/trad/] || Web || 繁體中文主頁 ||
 || || [https://twitter.com/BBCchinese @BBCchinese] || Twitter || 简体中文推特 ||
 || 德国之声 || || || 由德国政府拨款进行运作，柏林 ||
-|| || [http://www.dw-world.de/ English Web] || Web || ||
-|| || [http://www.dw-world.de/dw/0,,293,00.html 简体中文网] || Web || ||
-|| || [http://mobile.dw-world.de/chinese 简体中文网] || WAP || 手机版 ||
+|| || [http://www.dw-world.de/] || Web || English Home ||
+|| || [http://www.dw-world.de/dw/0,,293,00.html] || Web || 简体中文主页 ||
+|| || [http://mobile.dw-world.de/chinese] || WAP || 简体中文手机版 ||
 || 无国界记者 || || || 保护记者免遭迫害及促进新闻自由的非政府组织，巴黎 ||
-|| || [http://www.rsf.org/-Anglais-.html English] || Web || ||
-|| || [http://www.rsf-chinese.org/ 简体中文网] || Web || ||
-|| || [http://www.rsf-chinese.org/spip.php?page=backend 新闻订阅] || RSS || 摘要输出 ||
+|| || [http://www.rsf.org/-Anglais-.html] || Web || English Home ||
+|| || [http://www.rsf-chinese.org/] || Web || 简体中文主页 ||
+|| || [http://www.rsf-chinese.org/spip.php?page=backend 新闻订阅] || RSS || 简体中文，摘要输出 ||
 
 == 北美 ==
 
 || *名称* || *链接* || *类型* || *说明* ||
 || 美国之音 || || || 鼎鼎大名的VOA(Voice of America)，隶属美国政府，华盛顿 ||
-|| || [http://voanews.com/ English Web] || Web || ||
-|| || [http://voanews.com/chinese 简体中文网] || Web || ||
+|| || [http://voanews.com/] || Web || English Home ||
+|| || [http://voanews.com/chinese] || Web || 简体中文主页 ||
 || || [https://twitter.com/VOAchinese @VOAchinese] || Twitter || 简体中文推特 ||
 || 有线新闻网 || || || 在国内名声不太好的CNN(Cable News Network)，亚特兰大 ||
-|| || [http://www.cnn.com/ English Web] || Web || ||
+|| || [http://www.cnn.com/] || Web || English Home ||
 || || [https://twitter.com/CNN @CNN] || Twitter || CNN on Twitter ||
 || || [https://twitter.com/CNNbrk @CNNbrk] || Twitter || CNN Breaking News on Twitter ||
 || || [https://twitter.com/CNNi @CNNi] || Twitter || CNN International on Twitter ||
 || 自由亚洲电台 || || || 美国国会资助的非盈利电台，主要搞民运宣传 ||
-|| || [http://www.rfa.org/ English] || Web || ||
-|| || [http://www.rfa.org/mandarin/ 简体中文网] || Web || ||
+|| || [http://www.rfa.org/] || Web || English Home ||
+|| || [http://www.rfa.org/mandarin/] || Web || 简体中文主页 ||
 || || [https://twitter.com/RFAchinese @RFAchinese] || Twitter || 简体中文推特 ||
 || || [http://www.rfa.org/mandarin/yataibaodao/RSS 亚太报道订阅] || RSS || 摘要输出 ||
 || 博讯 || || || 没有政府背景，发布的内容自由度较高 ||
-|| || [http://www.boxun.com/ 简体中文网] || Web || ||
-|| || [http://www.peacehall.com/ 简体中文网] || Web || 另一个域名，内容同上 ||
-|| || [http://www.boxun.us/ English Web] || Web || ||
+|| || [http://www.boxun.com/] || Web || 简体中文主页 ||
+|| || [http://www.peacehall.com/] || Web || 另一个域名，内容同上 ||
+|| || [http://www.boxun.us/] || Web || English Home ||
 || || [http://news.boxun.com/news/rss/focus.xml 焦点新闻订阅] || RSS || 仅标题输出 ||
 || || [http://news.boxun.com/news/rss/pol.xml 政治新闻订阅] || RSS || 仅标题输出 ||
 || 万维读者网 || || || 由旅居北美的华人学者创办，温哥华 ||
-|| || [http://www.creaders.net/ 繁體中文網] || Web || ||
-|| || [http://www.creaders.net/?language=gb2312 简体中文网] || Web || ||
-|| || [http://www.creadersnet.com/ English Web] || Web || ||
-|| 世界新聞網 || [http://www.worldjournal.com/ 繁體中文網] || Web || 北美面向華人社區的新聞網站 ||
+|| || [http://www.creaders.net/] || Web || 繁體中文主頁 ||
+|| || [http://www.creaders.net/?language=gb2312] || Web || 简体中文主页 ||
+|| || [http://www.creadersnet.com/] || Web || English Home ||
+|| 中国报道周刊 || || || 含政治、经济、新闻、学术、历史、军事、哲学、等方面的电子杂志 ||
+|| || [http://www.china-week.com/] || Web || 简体中文主页 ||
+|| || [https://twitter.com/chinaweek @chinaweek] || Twitter || 简体中文推特 ||
+|| || [http://feeds.feedburner.com/china-week 文章订阅] || RSS || 简体中文，全文输出 ||
+|| || [https://www.google.com/profiles/chinaweekly Buzz] || Buzz || 简体中文，全文阅读 ||
+|| 世界新聞網 || || || 北美面向華人社區的新聞網站 ||
+|| || [http://www.worldjournal.com/] || Web || 繁體中文主頁 ||
+|| 新世纪新闻网 || || || 以新闻、政治评论为主的综合类网站 ||
+|| || [http://www.newcenturynews.com/] || Web || 简体中文主页 ||
 
 == 香港 ==
 
 || *名称* || *链接* || *类型* || *说明* ||
 || 亞洲周刊 || || || 比較中立客觀的華文報刊 ||
-|| || [http://www.yzzk.com/ 繁體中文網] || Web || ||
+|| || [http://www.yzzk.com/] || Web || 繁體中文主頁 ||
 || || [http://www.yzzk.com/rss/rss.xml 新聞訂閲] || RSS || 摘要輸出 ||
 || 明報 || || || 大名鼎鼎的金庸創辦 ||
-|| || [http://www.mingpaonews.com/ 繁體中文網] || Web || ||
+|| || [http://www.mingpaonews.com/] || Web || 繁體中文主頁 ||
 || || [https://twitter.com/mingpaocom @mingpaocom] || Twitter || 繁體中文推特 ||
-|| 蘋果日報 || [http://hk.nextmedia.com/ 繁體中文網] || Web || 香港版 ||
-|| 星島日報 || [http://www.singtao.com/ 繁體中文網] || Web || 屬星島集團旗下，尚未被墙 ||
+|| 蘋果日報 || [http://hk.nextmedia.com/] || Web || 香港版的繁體中文主頁 ||
+|| 星島日報 || [http://www.singtao.com/] || Web || 繁體中文主頁，屬星島集團旗下，尚未被墙 ||
 || 星岛环球网 || || || 和星岛日报是一家子，尚未被墙 ||
-|| || [http://www.stnn.cc/ 简体中文网] || Web ||  ||
-|| || [http://www.stnn.cc:82/ 繁體中文網] || Web || ||
+|| || [http://www.stnn.cc/] || Web || 简体中文主页 ||
+|| || [http://www.stnn.cc:82/] || Web || 繁體中文主頁 ||
 || 香港獨立媒體 || || || 獨立註冊的社團，宗旨是推動民主運動及言論自由 ||
-|| || [http://www.inmediahk.net/ 繁體中文網] || Web ||  ||
+|| || [http://www.inmediahk.net/] || Web || 繁體中文主頁 ||
 || || [http://inmediahk.net/full/feed 所有文章訂閲] || RSS || 繁體全文輸出 ||
 
 == 臺灣 ==
 
 || *名称* || *链接* || *类型* || *说明* ||
 || 蘋果日報 || || Web || 主要在港臺兩地發行 ||
-|| || [http://tw.nextmedia.com/ 繁體中文網] || Web || 臺灣版 ||
+|| || [http://tw.nextmedia.com/] || Web || 臺灣版的繁體中文主頁 ||
 || || [https://twitter.com/TW_nextmedia @TW_nextmedia] || Twitter || 繁體中文推特 ||
 || 聯合新聞網 ||  || || 聯合報係的核心網站 ||
-|| || [http://udn.com/ 繁體中文網] || Web || ||
+|| || [http://udn.com/] || Web || 繁體中文主頁 ||
 || || [http://udn.com/udnrss/latest.xml 最新報道訂閲] || RSS || 繁體摘要輸出 ||
 || || [http://udn.com/udnrss/international.xml 國際新聞訂閲] || RSS || 繁體摘要輸出 ||
-|| 自由時報 || [http://www.libertytimes.com.tw/ 繁體中文網] || Web || 號稱臺灣第一大報，觀點偏綠 ||
+|| 自由時報 || [http://www.libertytimes.com.tw/] || Web || 繁體中文主頁，號稱臺灣第一大報，觀點偏綠 ||
 
 == 东南亚 ==
 
 || *名称* || *链接* || *类型* || *说明* ||
 || 联合早报 || || || 新加坡主要华文报纸，偶尔被墙，目前可正常访问 ||
-|| || [http://www.zaobao.com/ 简体中文网] || Web || ||
+|| || [http://www.zaobao.com/] || Web || 简体中文主页 ||
 || || [https://twitter.com/zaobaochina @zbcom] || Twitter || 简体中文推特 ||
 || || [http://realtime.zaobao.com/news.xml 即时报道订阅] || RSS || 仅标题输出 ||
 || || [http://www.zaobao.com/gj/gj.xml 国际新闻订阅] || RSS || 仅标题输出||
