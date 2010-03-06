@@ -26,13 +26,15 @@
 || [https://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4_firefox-3.0.15%29.7z 完全版] || 0.2.1.20 || 3.0.15 || 0.2.6 || 1.0.4 ||
 || [https://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4%29.7z 精简版] || 0.2.1.20 || N/A || 0.2.6 || 1.0.4 ||
 
- * 自 由 門
+ * 自 由 門（专业版）
 
 绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
 
-[https://program-think.googlecode.com/files/free-gate-6.9.4-prof.7z 6.9.4专业版]
-[https://program-think.googlecode.com/files/free-gate-6.9.5-prof.7z 6.9.5专业版]
-[https://program-think.googlecode.com/files/free-gate-6.9.6-prof.7z 6.9.6专业版]
+|| *版本* || *发布日期* ||
+|| [https://program-think.googlecode.com/files/free-gate-6.9.4-prof.7z 6.9.4] || 2010-01-14 ||
+|| [https://program-think.googlecode.com/files/free-gate-6.9.5-prof.7z 6.9.5] || 2010-01-24 ||
+|| [https://program-think.googlecode.com/files/free-gate-6.9.6-prof.7z 6.9.6] || 2010-02-03 ||
+|| [https://program-think.googlecode.com/files/free-gate-6.9.7-prof.7z 6.9.7] || 2010-03-01 ||
 
  * 無 界
 
