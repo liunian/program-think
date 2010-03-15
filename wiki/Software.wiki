@@ -41,6 +41,7 @@
 绿色软件，无需安装。压缩包内仅有单个可执行文件。
 
 [https://program-think.googlecode.com/files/wu-jie-9.92.7z 版本9.92]
+[https://program-think.googlecode.com/files/wu-jie-9.94.7z 版本9.94]
 
  * GTunnel（花 园 網 络）
 
