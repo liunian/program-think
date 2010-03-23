@@ -1,0 +1,13 @@
+#summary 科技类网站
+
+= 科技类网站 =
+
+一般来说，科技类网站是不太被GFW关注的，不过也有少数例外。
+
+
+|| *名称* || *链接* || *类型* || *说明* ||
+|| 新雨丝 || || || 一个很不错的科普类网站，由方舟子创办。被封杀可能是因为经常揭露学术腐败 ||
+|| || [http://www.xys.org/] || Web || 简体中文主页 ||
+|| || [http://feed.feedsky.com/xys 文章订阅] || RSS || 墙内，全文输出 ||
+|| || [http://feeds.feedburner.com/xys 文章订阅] || RSS || 墙外，全文输出 ||
+|| || [https://twitter.com/xys @xys] || Twitter || 简体中文推特 ||
