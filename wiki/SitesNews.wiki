@@ -13,7 +13,7 @@
 || || [http://www.bbc.co.uk/] || Web || English Home ||
 || || [http://www.bbc.co.uk/zhongwen/simp/] || Web || 简体中文主页 ||
 || || [http://www.bbc.co.uk/zhongwen/trad/] || Web || 繁體中文主頁 ||
-|| || [https://twitter.com/BBCchinese @BBCchinese] || Twitter || 简体中文推特 ||
+|| || [https://twitter.com/BBCchinese @BBCchinese] || Twitter || 简体中文推特，Followers 13-14k ||
 || 德国之声 || || || 由德国政府拨款进行运作，柏林 ||
 || || [http://www.dw-world.de/] || Web || English Home ||
 || || [http://www.dw-world.de/dw/0,,293,00.html] || Web || 简体中文主页 ||
@@ -29,16 +29,16 @@
 || 美国之音 || || || 鼎鼎大名的VOA(Voice of America)，隶属美国政府，华盛顿 ||
 || || [http://voanews.com/] || Web || English Home ||
 || || [http://voanews.com/chinese] || Web || 简体中文主页 ||
-|| || [https://twitter.com/VOAchinese @VOAchinese] || Twitter || 简体中文推特 ||
+|| || [https://twitter.com/VOAChinese @VOAChinese] || Twitter || 简体中文推特，Followers 3-4k ||
 || 有线新闻网 || || || 在国内名声不太好的CNN(Cable News Network)，亚特兰大 ||
 || || [http://www.cnn.com/] || Web || English Home ||
-|| || [https://twitter.com/CNN @CNN] || Twitter || CNN on Twitter ||
-|| || [https://twitter.com/CNNbrk @CNNbrk] || Twitter || CNN Breaking News on Twitter ||
-|| || [https://twitter.com/CNNi @CNNi] || Twitter || CNN International on Twitter ||
+|| || [https://twitter.com/CNN @CNN] || Twitter || CNN on Twitter, Followers 1M ||
+|| || [https://twitter.com/CNNbrk @CNNbrk] || Twitter || CNN Breaking News on Twitter, Followers 3M ||
+|| || [https://twitter.com/CNNi @CNNi] || Twitter || CNN International on Twitter, Followers 58-60k ||
 || 自由亚洲电台 || || || 美国国会资助的非盈利电台，主要搞民运宣传 ||
 || || [http://www.rfa.org/] || Web || English Home ||
 || || [http://www.rfa.org/mandarin/] || Web || 简体中文主页 ||
-|| || [https://twitter.com/RFAchinese @RFAchinese] || Twitter || 简体中文推特 ||
+|| || [https://twitter.com/RFAchinese @RFAchinese] || Twitter || 简体中文推特，Followers 4-5k ||
 || || [http://www.rfa.org/mandarin/yataibaodao/RSS 亚太报道订阅] || RSS || 摘要输出 ||
 || 博讯 || || || 没有政府背景，发布的内容自由度较高 ||
 || || [http://www.boxun.com/] || Web || 简体中文主页 ||
@@ -52,9 +52,13 @@
 || || [http://www.creadersnet.com/] || Web || English Home ||
 || 中国报道周刊 || || || 含政治、经济、新闻、学术、历史、军事、哲学、等方面的电子杂志 ||
 || || [http://www.china-week.com/] || Web || 简体中文主页 ||
-|| || [https://twitter.com/chinaweek @chinaweek] || Twitter || 简体中文推特 ||
+|| || [https://twitter.com/chinaweek @chinaweek] || Twitter || 简体中文推特，Followers <1k ||
 || || [http://feeds.feedburner.com/china-week 文章订阅] || RSS || 简体中文，全文输出 ||
 || || [https://www.google.com/profiles/chinaweekly Buzz] || Buzz || 简体中文，全文阅读 ||
+|| 中国数字时代 || || || 曾经和多伦多大学公民实验室联合推出翻墙利器——“赛风” ||
+|| || [http://chinadigitaltimes.net/] || Web || English Home ||
+|| || [http://chinadigitaltimes.net/chinese/] || Web || 简体中文主页 ||
+|| || [https://twitter.com/cdt @cdt] || Twitter || 简体中文推特，Followers 5-6k ||
 || 世界新聞網 || || || 北美面向華人社區的新聞網站 ||
 || || [http://www.worldjournal.com/] || Web || 繁體中文主頁 ||
 || 新世纪新闻网 || || || 以新闻、政治评论为主的综合类网站 ||
@@ -68,7 +72,7 @@
 || || [http://www.yzzk.com/rss/rss.xml 新聞訂閲] || RSS || 摘要輸出 ||
 || 明報 || || || 大名鼎鼎的金庸創辦 ||
 || || [http://www.mingpaonews.com/] || Web || 繁體中文主頁 ||
-|| || [https://twitter.com/mingpaocom @mingpaocom] || Twitter || 繁體中文推特 ||
+|| || [https://twitter.com/mingpaocom @mingpaocom] || Twitter || 繁體中文推特，Followers 5-6k ||
 || 蘋果日報 || [http://hk.nextmedia.com/] || Web || 香港版的繁體中文主頁 ||
 || 星島日報 || [http://www.singtao.com/] || Web || 繁體中文主頁，屬星島集團旗下，尚未被墙 ||
 || 星岛环球网 || || || 和星岛日报是一家子，尚未被墙 ||
@@ -83,7 +87,7 @@
 || *名称* || *链接* || *类型* || *说明* ||
 || 蘋果日報 || || Web || 主要在港臺兩地發行 ||
 || || [http://tw.nextmedia.com/] || Web || 臺灣版的繁體中文主頁 ||
-|| || [https://twitter.com/TW_nextmedia @TW_nextmedia] || Twitter || 繁體中文推特 ||
+|| || [https://twitter.com/TW_nextmedia @TW_nextmedia] || Twitter || 繁體中文推特，Followers 2-3k ||
 || 聯合新聞網 ||  || || 聯合報係的核心網站 ||
 || || [http://udn.com/] || Web || 繁體中文主頁 ||
 || || [http://udn.com/udnrss/latest.xml 最新報道訂閲] || RSS || 繁體摘要輸出 ||
@@ -95,6 +99,6 @@
 || *名称* || *链接* || *类型* || *说明* ||
 || 联合早报 || || || 新加坡主要华文报纸，偶尔被墙。目前可正常访问，不过亲中共的趋势逐渐明显 ||
 || || [http://www.zaobao.com/] || Web || 简体中文主页 ||
-|| || [https://twitter.com/zaobaochina @zbcom] || Twitter || 简体中文推特 ||
+|| || [https://twitter.com/zaobaochina @zbcom] || Twitter || 简体中文推特，Followers 2-3k ||
 || || [http://realtime.zaobao.com/news.xml 即时报道订阅] || RSS || 仅标题输出 ||
 || || [http://www.zaobao.com/gj/gj.xml 国际新闻订阅] || RSS || 仅标题输出||
