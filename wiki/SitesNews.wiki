@@ -46,7 +46,7 @@
 || || [http://www.boxun.us/] || Web || English Home ||
 || || [http://news.boxun.com/news/rss/focus.xml 焦点新闻订阅] || RSS || 仅标题输出 ||
 || || [http://news.boxun.com/news/rss/pol.xml 政治新闻订阅] || RSS || 仅标题输出 ||
-|| 万维读者网 || || || 由旅居北美的华人学者创办，温哥华 ||
+|| 万维读者网 || || || 99年由旅居北美的华人创办，据说09年股权变更后，新闻立场已转变并导致访问量下降 ||
 || || [http://www.creaders.net/] || Web || 繁體中文主頁 ||
 || || [http://www.creaders.net/?language=gb2312] || Web || 简体中文主页 ||
 || || [http://www.creadersnet.com/] || Web || English Home ||
