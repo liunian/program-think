@@ -18,10 +18,15 @@
 || || [http://www.dw-world.de/] || Web || English Home ||
 || || [http://www.dw-world.de/dw/0,,293,00.html] || Web || 简体中文主页 ||
 || || [http://mobile.dw-world.de/chinese] || WAP || 简体中文手机版 ||
+|| 路透社 || || || 世界三大通讯社之一，总部在伦敦，其网站尚未被墙 ||
+|| || [http://www.reuters.com/] || Web || English Home ||
+|| || [http://cn.reuters.com/] || Web || 路透中文网主页 ||
+|| || [http://blogs.cn.reuters.com/feed 路透博客] || RSS || 全文输出 ||
 || 无国界记者 || || || 保护记者免遭迫害及促进新闻自由的非政府组织，巴黎 ||
 || || [http://www.rsf.org/-Anglais-.html] || Web || English Home ||
 || || [http://www.rsf-chinese.org/] || Web || 简体中文主页 ||
-|| || [http://www.rsf-chinese.org/spip.php?page=backend 新闻订阅] || RSS || 简体中文，摘要输出 ||
+|| || [http://www.rsf-chinese.org/spip.php?page=backend 新闻订阅] || RSS || 摘要输出 ||
+
 
 == 北美 ==
 
