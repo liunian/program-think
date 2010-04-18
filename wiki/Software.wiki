@@ -14,7 +14,7 @@
 
 = 翻墙软件 =
 
- * TＯR 软件包
+ * [http://www.torproject.org/ TＯR 软件包]
 
 绿色软件，无需安装，解压缩即可使用。
 
@@ -26,9 +26,9 @@
 || [https://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4_firefox-3.0.15%29.7z 完全版] || 0.2.1.20 || 3.0.15 || 0.2.6 || 1.0.4 ||
 || [https://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4%29.7z 精简版] || 0.2.1.20 || N/A || 0.2.6 || 1.0.4 ||
 
- * 自 由 門（专业版）
+ * [http://www.dongtaiwang.com/loc/download.php 自 由 門]
 
-绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
+动_态_網 发布的绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
 
 || *版本* || *发布日期* ||
 || [https://program-think.googlecode.com/files/free-gate-6.9.4-prof.7z 6.9.4] || 2010-01-14 ||
@@ -37,33 +37,33 @@
 || [https://program-think.googlecode.com/files/free-gate-6.9.7-prof.7z 6.9.7] || 2010-03-01 ||
 || [https://program-think.googlecode.com/files/free-gate-6.9.8-prof.7z 6.9.8] || 2010-03-23 ||
 
- * 無 界
+ * [http://www.wujie.net/ 無 界]
 
 绿色软件，无需安装。压缩包内仅有单个可执行文件。
 
 [https://program-think.googlecode.com/files/wu-jie-9.92.7z 版本9.92]
 [https://program-think.googlecode.com/files/wu-jie-9.94.7z 版本9.94]
 
- * GTunnel（花 园 網 络）
+ * [http://www.internetfreedom.org/GTunnel GTunnel（花 园 網 络）]
 
 绿色软件，无需安装。压缩包内含单个可执行文件和2个动态库。
 
 [https://program-think.googlecode.com/files/gtunnel-2.0.1.7.7z 版本2.0.1.7]
 
- * puff
+ * [http://www.erights.net/ puff]
 
 此软件速度较快，具有商业版和免费版2种。压缩包中是其安装程序。
 
 [https://program-think.googlecode.com/files/puff-0.05-commercial-version.7z 0.05商业版]
 [https://program-think.googlecode.com/files/puff-0.03-free-version.7z 0.03免费版]
 
- * 世 界 通
+ * [http://gpass1.com/gpass/ 世 界 通]
 
 绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
 
 [https://program-think.googlecode.com/files/gpass-4.1.0.7z 版本4.1.0]
 
- * Hotspot Shield
+ * [http://www.hotspotshield.com/ Hotspot Shield]
 
 知名的VPN软件。压缩包中是安装程序，带有数字签名。
 
