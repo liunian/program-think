@@ -51,17 +51,19 @@
 
 [https://program-think.googlecode.com/files/gtunnel-2.0.1.7.7z 版本2.0.1.7]
 
- * [http://www.erights.net/ puff]
+ * [http://www.erights.net/ Puff]
 
 此软件速度较快，具有商业版和免费版2种。压缩包中是其安装程序。
 
-[https://program-think.googlecode.com/files/puff-0.05-commercial-version.7z 0.05商业版]
-[https://program-think.googlecode.com/files/puff-0.03-free-version.7z 0.03免费版]
+|| *版本* || *发布日期* || *类型* ||
+|| [https://program-think.googlecode.com/files/puff-0.05-commercial-version.7z 0.05] || 2009-09-27 || 商业版 ||
+|| [https://program-think.googlecode.com/files/puff-0.03-free-version.7z 0.03] || 2009-12-28 || 免费版 ||
+|| [https://program-think.googlecode.com/files/puff-0.03.321-free-version.7z 0.03.321] || 2010-03-21 || 免费版 ||
 
  * [http://gpass1.com/gpass/ 世 界 通]
 
 绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
-https://code.google.com/p/program-think/w/edit/Software
+
 [https://program-think.googlecode.com/files/gpass-4.1.0.7z 版本4.1.0]
 
  * [http://www.hotspotshield.com/ Hotspot Shield]
@@ -71,4 +73,3 @@ https://code.google.com/p/program-think/w/edit/Software
 || *版本* || *发布日期* ||
 || [https://program-think.googlecode.com/files/hotspot-shield-1.37.7z 1.37] || 2010-01-15 ||
 || [https://program-think.googlecode.com/files/hotspot-shield-1.41.7z 1.41] || 2010-04-06 ||
-
