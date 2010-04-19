@@ -61,11 +61,14 @@
  * [http://gpass1.com/gpass/ 世 界 通]
 
 绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
-
+https://code.google.com/p/program-think/w/edit/Software
 [https://program-think.googlecode.com/files/gpass-4.1.0.7z 版本4.1.0]
 
  * [http://www.hotspotshield.com/ Hotspot Shield]
 
 知名的VPN软件。压缩包中是安装程序，带有数字签名。
 
-[https://program-think.googlecode.com/files/hotspot-shield-1.37.7z 1.37版本]
+|| *版本* || *发布日期* ||
+|| [https://program-think.googlecode.com/files/hotspot-shield-1.37.7z 1.37] || 2010-01-15 ||
+|| [https://program-think.googlecode.com/files/hotspot-shield-1.41.7z 1.41] || 2010-04-06 ||
+
