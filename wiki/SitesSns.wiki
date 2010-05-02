@@ -56,10 +56,11 @@
 大部分微博客有严格的字数上限，并引出了很多周边的衍生服务网站。由于微博（特别是Twitter）被封，这些衍生物也遭受池鱼之殃。
 
 || *名称* || *链接* || *说明* ||
-|| bit.ly || [http://bit.ly] || 最好用的URL缩略服务 ||
-|| || [http://j.mp] || bit.ly推出的更短的域名，尚未被封 ||
+|| bit.ly || [http://bit.ly/] || 最好用的URL缩略服务 ||
+|| || [http://j.mp/] || bit.ly推出的更短的域名，尚未被封 ||
 || || [http://blog.bit.ly/] || bit.ly官方博客 ||
-|| TwitPic || [http://twitpic.com] || 看名字就能猜到，这是专为Twitter提供图片分享服务的 ||
+|| Ping.fm || [http://ping.fm/] || 提供SNS信息发布服务，能同步更新信息到多个SNS网站 ||
+|| TwitPic || [http://twitpic.com/] || 看名字就能猜到，这是专为Twitter提供图片分享服务的 ||
 
 
 == 照片/视频类 ==
