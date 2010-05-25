@@ -30,12 +30,16 @@
 
 动_态_網 发布的绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
 
-|| *版本* || *发布日期* ||
-|| [https://program-think.googlecode.com/files/free-gate-6.9.4-prof.7z 6.9.4] || 2010-01-14 ||
-|| [https://program-think.googlecode.com/files/free-gate-6.9.5-prof.7z 6.9.5] || 2010-01-24 ||
-|| [https://program-think.googlecode.com/files/free-gate-6.9.6-prof.7z 6.9.6] || 2010-02-03 ||
-|| [https://program-think.googlecode.com/files/free-gate-6.9.7-prof.7z 6.9.7] || 2010-03-01 ||
-|| [https://program-think.googlecode.com/files/free-gate-6.9.8-prof.7z 6.9.8] || 2010-03-23 ||
+|| *版本* || *类型* || *发布日期* ||
+|| [https://program-think.googlecode.com/files/free-gate-6.9.4-prof.7z 6.9.4] || 专业版 || 2010-01-14 ||
+|| [https://program-think.googlecode.com/files/free-gate-6.9.5-prof.7z 6.9.5] || 专业版 || 2010-01-24 ||
+|| [https://program-think.googlecode.com/files/free-gate-6.9.6-prof.7z 6.9.6] || 专业版 || 2010-02-03 ||
+|| [https://program-think.googlecode.com/files/free-gate-6.9.7-prof.7z 6.9.7] || 专业版 || 2010-03-01 ||
+|| [https://program-think.googlecode.com/files/free-gate-6.9.8-prof.7z 6.9.8] || 专业版 || 2010-03-23 ||
+|| [https://program-think.googlecode.com/files/free-gate-6.9.9-prof.7z 6.9.9] || 专业版 || 2010-05-19 ||
+|| [https://program-think.googlecode.com/files/free-gate-6.9.9-expert.7z 6.9.9] || 专家版 || 2010-05-19 ||
+
+
 
  * [http://www.wujie.net/ 無 界]
 
