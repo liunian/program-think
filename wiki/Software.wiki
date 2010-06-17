@@ -78,3 +78,4 @@
 || *版本* || *发布日期* ||
 || [https://program-think.googlecode.com/files/hotspot-shield-1.37.7z 1.37] || 2010-01-15 ||
 || [https://program-think.googlecode.com/files/hotspot-shield-1.41.7z 1.41] || 2010-04-06 ||
+|| [https://program-think.googlecode.com/files/hotspot-shield-1.45.7z 1.45] || 2010-05-25 ||
