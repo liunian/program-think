@@ -38,6 +38,8 @@
 || [https://program-think.googlecode.com/files/free-gate-6.9.8-prof.7z 6.9.8] || 专业版 || 2010-03-23 ||
 || [https://program-think.googlecode.com/files/free-gate-6.9.9-prof.7z 6.9.9] || 专业版 || 2010-05-19 ||
 || [https://program-think.googlecode.com/files/free-gate-6.9.9-expert.7z 6.9.9] || 专家版 || 2010-05-19 ||
+|| [https://program-think.googlecode.com/files/free-gate-7.0.0-prof.7z 7.0.0] || 专业版 || 2010-06-17 ||
+|| [https://program-think.googlecode.com/files/free-gate-7.0.0-expert.7z 7.0.0] || 专家版 || 2010-06-17 ||
 
 
 
