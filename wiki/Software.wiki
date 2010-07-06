@@ -51,6 +51,7 @@
 || [https://program-think.googlecode.com/files/wu-jie-9.94.7z 9.94] || 2010-03-09 ||
 || [https://program-think.googlecode.com/files/wu-jie-9.95.7z 9.95] || 2010-03-12 ||
 || [https://program-think.googlecode.com/files/wu-jie-9.96.7z 9.96] || 2010-05-20 ||
+|| [https://program-think.googlecode.com/files/wu-jie-9.97.7z 9.97] || 2010-06-28 ||
 
  * [http://www.internetfreedom.org/GTunnel GTunnel（花 园 網 络）]
 
