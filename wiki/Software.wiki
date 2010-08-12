@@ -14,71 +14,62 @@
 
 = 翻墙软件 =
 
- * [http://www.torproject.org/ TＯR 软件包]
-
-绿色软件，无需安装，解压缩即可使用。
-
-关于TＯR的详细说明，请看俺博客的帖子。
-
-|| *类型* || *Tor版本* || *Firefox版本* || *Vidalia版本* || *Polipo版本* ||
-|| [http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.22_polipo-1.0.4_firefox-3.5.7%29.7z 完全版] || 0.2.1.22 || 3.5.7 || 0.2.6 || 1.0.4 ||
-|| [http://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.22_polipo-1.0.4%29.7z 精简版] || 0.2.1.22 || N/A || 0.2.6 || 1.0.4 ||
-|| [https://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4_firefox-3.0.15%29.7z 完全版] || 0.2.1.20 || 3.0.15 || 0.2.6 || 1.0.4 ||
-|| [https://program-think.googlecode.com/files/tor_bundle_%28vidalia-0.2.6_tor-0.2.1.20_polipo-1.0.4%29.7z 精简版] || 0.2.1.20 || N/A || 0.2.6 || 1.0.4 ||
-
  * [http://www.dongtaiwang.com/loc/download.php 自 由 門]
 
 动_态_網 发布的绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
 
-|| *版本* || *类型* || *发布日期* ||
-|| [https://program-think.googlecode.com/files/free-gate-6.9.4-prof.7z 6.9.4] || 专业版 || 2010-01-14 ||
-|| [https://program-think.googlecode.com/files/free-gate-6.9.5-prof.7z 6.9.5] || 专业版 || 2010-01-24 ||
-|| [https://program-think.googlecode.com/files/free-gate-6.9.6-prof.7z 6.9.6] || 专业版 || 2010-02-03 ||
-|| [https://program-think.googlecode.com/files/free-gate-6.9.7-prof.7z 6.9.7] || 专业版 || 2010-03-01 ||
-|| [https://program-think.googlecode.com/files/free-gate-6.9.8-prof.7z 6.9.8] || 专业版 || 2010-03-23 ||
-|| [https://program-think.googlecode.com/files/free-gate-6.9.9-prof.7z 6.9.9] || 专业版 || 2010-05-19 ||
-|| [https://program-think.googlecode.com/files/free-gate-6.9.9-expert.7z 6.9.9] || 专家版 || 2010-05-19 ||
-|| [https://program-think.googlecode.com/files/free-gate-7.0.0-prof.7z 7.0.0] || 专业版 || 2010-06-17 ||
-|| [https://program-think.googlecode.com/files/free-gate-7.0.0-expert.7z 7.0.0] || 专家版 || 2010-06-17 ||
-
+|| *版本* || *类型* || *发布日期* || *下载页面* ||
+|| 6.9.4 || 专业版 || 2010-01-14 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/free-gate-6.9.4-prof.7z 下载页面] ||
+|| 6.9.5 || 专业版 || 2010-01-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/free-gate-6.9.5-prof.7z 下载页面] ||
+|| 6.9.6 || 专业版 || 2010-02-03 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/free-gate-6.9.6-prof.7z 下载页面] ||
+|| 6.9.7 || 专业版 || 2010-03-01 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/free-gate-6.9.7-prof.7z 下载页面] ||
+|| 6.9.8 || 专业版 || 2010-03-23 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/free-gate-6.9.8-prof.7z 下载页面] ||
+|| 6.9.9 || 专业版 || 2010-05-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/free-gate-6.9.9-prof.7z 下载页面] ||
+|| 6.9.9 || 专家版 || 2010-05-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/free-gate-6.9.9-expert.7z 下载页面] ||
+|| 7.0.0 || 专业版 || 2010-06-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/free-gate-7.0.0-prof.7z 下载页面] ||
+|| 7.0.0 || 专家版 || 2010-06-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/free-gate-7.0.0-expert.7z 下载页面] ||
 
 
  * [http://www.wujie.net/ 無 界]
 
 绿色软件，无需安装。压缩包内仅有单个可执行文件。
-|| *版本* || *发布日期* ||
-|| [https://program-think.googlecode.com/files/wu-jie-9.92.7z 9.92] || 2010-01-07 ||
-|| [https://program-think.googlecode.com/files/wu-jie-9.94.7z 9.94] || 2010-03-09 ||
-|| [https://program-think.googlecode.com/files/wu-jie-9.95.7z 9.95] || 2010-03-12 ||
-|| [https://program-think.googlecode.com/files/wu-jie-9.96.7z 9.96] || 2010-05-20 ||
-|| [https://program-think.googlecode.com/files/wu-jie-9.97.7z 9.97] || 2010-06-28 ||
+|| *版本* || *发布日期* || *下载页面* ||
+|| 9.92 || 2010-01-07 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/wu-jie-9.92.7z 下载页面] ||
+|| 9.94 || 2010-03-09 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/wu-jie-9.94.7z 下载页面] ||
+|| 9.95 || 2010-03-12 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/wu-jie-9.95.7z 下载页面] ||
+|| 9.96 || 2010-05-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/wu-jie-9.96.7z 下载页面] ||
+|| 9.97 || 2010-06-28 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/wu-jie-9.97.7z 下载页面] ||
+
 
  * [http://www.internetfreedom.org/GTunnel GTunnel（花 园 網 络）]
 
 绿色软件，无需安装。压缩包内含单个可执行文件和2个动态库。
+|| *版本* || *发布日期* || *下载页面* ||
+|| 2.0.1.7 || 2008-06-21 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/gtunnel-2.0.1.7.7z 下载页面] ||
 
-[https://program-think.googlecode.com/files/gtunnel-2.0.1.7.7z 版本2.0.1.7]
 
  * [http://www.erights.net/ Puff]
 
 此软件速度较快，具有商业版和免费版2种。压缩包中是其安装程序。
 
-|| *版本* || *发布日期* || *类型* ||
-|| [https://program-think.googlecode.com/files/puff-0.05-commercial-version.7z 0.05] || 2009-09-27 || 商业版 ||
-|| [https://program-think.googlecode.com/files/puff-0.03-free-version.7z 0.03] || 2009-12-28 || 免费版 ||
-|| [https://program-think.googlecode.com/files/puff-0.03.321-free-version.7z 0.03.321] || 2010-03-21 || 免费版 ||
+|| *版本* || *发布日期* || *类型* || *下载页面* ||
+|| 0.05 || 2009-09-27 || 商业版 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/puff-0.05-commercial-version.7z  下载页面] ||
+|| 0.03 || 2009-12-28 || 免费版 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/puff-0.03-free-version.7z  下载页面] ||
+|| 0.03.321 || 2010-03-21 || 免费版 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/puff-0.03.321-free-version.7z  下载页面] ||
+
 
  * [http://gpass1.com/gpass/ 世 界 通]
 
 绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
+|| *版本* || *发布日期* || *下载页面* ||
+|| 4.1.0 || 208-09-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/gpass-4.1.0.7z 下载页面] ||
 
-[https://program-think.googlecode.com/files/gpass-4.1.0.7z 版本4.1.0]
 
  * [http://www.hotspotshield.com/ Hotspot Shield]
 
 知名的VPN软件。压缩包中是安装程序，带有数字签名。
 
-|| *版本* || *发布日期* ||
-|| [https://program-think.googlecode.com/files/hotspot-shield-1.37.7z 1.37] || 2010-01-15 ||
-|| [https://program-think.googlecode.com/files/hotspot-shield-1.41.7z 1.41] || 2010-04-06 ||
-|| [https://program-think.googlecode.com/files/hotspot-shield-1.45.7z 1.45] || 2010-05-25 ||
+|| *版本* || *发布日期* || *下载页面* ||
+|| 1.37 || 2010-01-15 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/hotspot-shield-1.37.7z 下载页面] ||
+|| 1.41 || 2010-04-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/hotspot-shield-1.41.7z 下载页面] ||
+|| 1.45 || 2010-05-25 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/hotspot-shield-1.45.7z 下载页面] ||
