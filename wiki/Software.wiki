@@ -16,7 +16,9 @@
 
  * [http://www.dongtaiwang.com/loc/download.php 自 由 門]
 
-动_态_網 发布的绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
+动_态_網 发布的绿色软件，无需安装。
+
+以下是针对Windows系统的，压缩包内仅有单个可执行文件，带有数字签名。
 
 || *版本* || *类型* || *发布日期* || *下载页面* ||
 || 6.9.4 || 专业版 || 2010-01-14 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-6.9.4-prof.7z 下载页面] ||
@@ -31,6 +33,11 @@
 || 7.0.1 || 专业版 || 2010-06-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.1-prof.7z 下载页面] ||
 || 7.0.1 || 专家版 || 2010-06-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.1-expert.7z 下载页面] ||
 
+以下是针对手机的，目前有Windows Mobile版本和Java版本两种。
+
+|| *版本* || *类型* || *发布日期* || *下载页面* ||
+|| 1.0 || WM版 || 2010-06-30 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-1.0-wm.7z 下载页面] ||
+|| 2.10 || Java版 || 2010-07-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-2.10-java.7z 下载页面] ||
 
  * [http://www.wujie.net/ 無 界]
 
