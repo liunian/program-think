@@ -1,0 +1,9 @@
+#summary 下载
+
+= 下载公告 =
+
+由于Google Code的服务条款不允许在此放置和开源项目无关的文件。
+
+因此俺把所有下载的文件，都挪到了 Live Spaces 的 SkyDrive 上。
+
+请各位网友到 [http://cid-f5b0090663feeada.office.live.com/browse.aspx/.Public/] 下载
