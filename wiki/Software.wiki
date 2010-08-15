@@ -7,16 +7,20 @@
 
 下载之后，请自行用 [http://www.7-zip.org/ 7zip] 或者较新版本的 WinRAR 进行解压缩。
 
-下面这些翻墙的工具，皆是俺运用各种翻墙姿势，从其官方网站下载得来。
+下面这些翻墙的工具，皆是俺运用各种翻墙姿势，从各个官方网站下载得来。
 
 有些软件俺用得不多，是否有啥副作用，俺不敢保证。
+
+使用过程中，如果发现什么问题或有啥疑问，可以用邮件（program.think@gmail.com）跟俺联系。
 
 
 = 翻墙软件 =
 
- * [http://www.dongtaiwang.com/loc/download.php 自 由 門]
+ * 自 由 門
 
-动_态_網 发布的绿色软件，无需安装。
+官方网站（动 态 網）的域名是ＧＦW敏感词，请翻墙并通过[http://bit.ly/5qGII]跳转。
+
+绿色软件，无需安装。
 
 以下是针对Windows系统的，压缩包内仅有单个可执行文件，带有数字签名。
 
@@ -30,8 +34,8 @@
 || 6.9.9 || 专家版 || 2010-05-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-6.9.9-expert.7z 下载页面] ||
 || 7.0.0 || 专业版 || 2010-06-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.0-prof.7z 下载页面] ||
 || 7.0.0 || 专家版 || 2010-06-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.0-expert.7z 下载页面] ||
-|| 7.0.1 || 专业版 || 2010-06-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.1-prof.7z 下载页面] ||
-|| 7.0.1 || 专家版 || 2010-06-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.1-expert.7z 下载页面] ||
+|| 7.0.1 || 专业版 || 2010-07-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.1-prof.7z 下载页面] ||
+|| 7.0.1 || 专家版 || 2010-07-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.1-expert.7z 下载页面] ||
 
 以下是针对手机的，目前有Windows Mobile版本和Java版本两种。
 
@@ -39,7 +43,9 @@
 || 1.0 || WM版 || 2010-06-30 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-1.0-wm.7z 下载页面] ||
 || 2.10 || Java版 || 2010-07-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-2.10-java.7z 下载页面] ||
 
- * [http://www.wujie.net/ 無 界]
+ * 無 界
+
+官方网站的域名是ＧＦW敏感词，请翻墙并通过[http://bit.ly/11dpkf]跳转。
 
 绿色软件，无需安装。压缩包内仅有单个可执行文件。
 || *版本* || *发布日期* || *下载页面* ||
@@ -50,14 +56,9 @@
 || 9.97 || 2010-06-28 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/wu-jie-9.97.7z 下载页面] ||
 
 
- * [http://www.internetfreedom.org/GTunnel GTunnel（花 园 網 络）]
+ * Puff
 
-绿色软件，无需安装。压缩包内含单个可执行文件和2个动态库。
-|| *版本* || *发布日期* || *下载页面* ||
-|| 2.0.1.7 || 2008-06-21 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/gtunnel-2.0.1.7.7z 下载页面] ||
-
-
- * [http://www.erights.net/ Puff]
+官方网站是[http://www.erights.net/]，请翻墙访问。
 
 此软件速度较快，具有商业版和免费版2种。压缩包中是其安装程序。
 
@@ -67,16 +68,29 @@
 || 0.03.321 || 2010-03-21 || 免费版 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/puff-0.03.321-free-version.7z  下载页面] ||
 
 
- * [http://gpass1.com/gpass/ 世 界 通]
+ * 世 界 通
+
+官方网站的域名是ＧＦW的敏感词，请翻墙并通过[http://bit.ly/Bfv5m]跳转。
 
 绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
 || *版本* || *发布日期* || *下载页面* ||
 || 4.1.0 || 208-09-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/gpass-4.1.0.7z 下载页面] ||
 
 
- * [http://www.hotspotshield.com/ Hotspot Shield]
+ * 花 园 網 络
 
-知名的VPN软件。压缩包中是安装程序，带有数字签名。
+官方网站是[http://www.internetfreedom.org/GTunnel]，请翻墙访问。
+
+绿色软件，无需安装。压缩包内含单个可执行文件和2个动态库。
+|| *版本* || *发布日期* || *下载页面* ||
+|| 2.0.1.7 || 2008-06-21 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/gtunnel-2.0.1.7.7z 下载页面] ||
+
+
+ * Hotspot Shield
+
+知名的VPN软件，官方网站是[http://www.hotspotshield.com/]，可能要翻墙才能访问。
+
+压缩包中是安装程序，带有数字签名。
 
 || *版本* || *发布日期* || *下载页面* ||
 || 1.37 || 2010-01-15 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/hotspot-shield-1.37.7z 下载页面] ||
