@@ -77,6 +77,12 @@
 || Yam Media || [http://mymedia.yam.com/] || 天空部落的影音分享 ||
 
 
+== 网络存储/文件共享 ==
+
+|| *名称* || *链接* || *说明* ||
+|| Dropbox || [http://www.dropbox.com/] || 最好的文件分享网站 ||
+
+
 == 其它 ==
 
 || FriendFeed || [https://friendfeed.com/] || 很牛X的个人信息聚合网站，可以和各种SNS服务整合。已经被Facebook收购 ||
