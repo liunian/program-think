@@ -36,6 +36,8 @@
 || 7.0.0 || 专家版 || 2010-06-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.0-expert.7z 下载页面] ||
 || 7.0.1 || 专业版 || 2010-07-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.1-prof.7z 下载页面] ||
 || 7.0.1 || 专家版 || 2010-07-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.1-expert.7z 下载页面] ||
+|| 7.0.2 || 专业版 || 2010-08-18 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.2-prof.7z 下载页面] ||
+|| 7.0.2 || 专家版 || 2010-08-18 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.2-expert.7z 下载页面] ||
 
 以下是针对手机的，目前有Windows Mobile版本和Java版本两种。
 
