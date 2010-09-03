@@ -38,11 +38,14 @@
 || 7.0.1 || 专家版 || 2010-07-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.1-expert.7z 下载页面] ||
 || 7.0.2 || 专业版 || 2010-08-18 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.2-prof.7z 下载页面] ||
 || 7.0.2 || 专家版 || 2010-08-18 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.2-expert.7z 下载页面] ||
+|| 7.0.3 || 专业版 || 2010-08-28 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.3-prof.7z 下载页面] ||
+|| 7.0.3 || 专家版 || 2010-08-28 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-7.0.3-expert.7z 下载页面] ||
 
 以下是针对手机的，目前有Windows Mobile版本和Java版本两种。
 
 || *版本* || *类型* || *发布日期* || *下载页面* ||
 || 1.0 || WM版 || 2010-06-30 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-1.0-wm.7z 下载页面] ||
+|| 1.2 || WM版 || 2010-08-28 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-1.2-wm.7z 下载页面] ||
 || 2.10 || Java版 || 2010-07-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/free-gate-2.10-java.7z 下载页面] ||
 
  * 無 界
@@ -56,6 +59,7 @@
 || 9.95 || 2010-03-12 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/wu-jie-9.95.7z 下载页面] ||
 || 9.96 || 2010-05-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/wu-jie-9.96.7z 下载页面] ||
 || 9.97 || 2010-06-28 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/wu-jie-9.97.7z 下载页面] ||
+|| 9.98 || 2010-08-30 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G^_F^_W/wu-jie-9.98.7z 下载页面] ||
 
 
  * Puff
