@@ -7,13 +7,19 @@
 
 == 站内导航 ==
 
-<font color="red">记得用 HTTPS 访问本站，以免被墙！</font>
+墙内的网友，本站点可以支持 *HTTP* 和 *HTTPS* 两种协议访问，URL分别为：
+
+<a href="http://code.google.com/p/program-think/"><font color="red">http</font>://code.google.com/p/program-think/</a>
+
+<a href="https://code.google.com/p/program-think/"><font color="red">https</font>://code.google.com/p/program-think/</a>
+
+当某种协议被封了，就换另外一种。
 
  * [Software 软件]（常用的翻墙工具）
 
  * [Sites 网站]（一些有用的被墙网站）
 
- * [Books 电子书]（俺觉得比较好的书籍，整理中）
+ * [Books 电子书]（党国查禁的书籍，整理中）
 
  * [Docs 文章]（俺转载的文章，整理中）
 
@@ -33,11 +39,6 @@
 
 
 == 关于翻墙 ==
-
-墙内的网友，建议用 *HTTPS* 方式访问本站点，URL如下：
-
-<a href="https://code.google.com/p/program-think/"><font color="red">https</font>://code.google.com/p/program-think/</a>
-
 
 为了帮助大伙儿翻墙，俺写了很详细的翻墙扫盲帖（在[http://program-think.spaces.live.com/blog/cns!F5B0090663FEEADA!144.entry LiveSpaces]和[http://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html BlogSpot]）。
 
