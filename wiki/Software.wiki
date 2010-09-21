@@ -42,6 +42,8 @@
 || 7.0.3 || 专家版 || 2010-08-28 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.3-expert.7z 下载页面] ||
 || 7.0.4 || 专业版 || 2010-09-03 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.4-prof.7z 下载页面] ||
 || 7.0.4 || 专家版 || 2010-09-03 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.4-expert.7z 下载页面] ||
+|| 7.0.5 || 专业版 || 2010-09-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.5-prof.7z 下载页面] ||
+|| 7.0.5 || 专家版 || 2010-09-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.5-expert.7z 下载页面] ||
 
 以下是针对手机的，目前有Windows Mobile版本和Java版本两种。
 
@@ -49,6 +51,7 @@
 || 1.0 || WM版 || 2010-06-30 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-1.0-wm.7z 下载页面] ||
 || 1.2 || WM版 || 2010-08-28 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-1.2-wm.7z 下载页面] ||
 || 2.10 || Java版 || 2010-07-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-2.10-java.7z 下载页面] ||
+|| 2.20 || Java版 || 2010-09-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-2.20-java.7z 下载页面] ||
 
  * 無 界
 
