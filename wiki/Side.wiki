@@ -7,19 +7,11 @@
 
 == 站内导航 ==
 
-墙内的网友，本站点可以支持 *HTTP* 和 *HTTPS* 两种协议访问，URL分别为：
-
-<a href="http://code.google.com/p/program-think/"><font color="red">http</font>://code.google.com/p/program-think/</a>
-
-<a href="https://code.google.com/p/program-think/"><font color="red">https</font>://code.google.com/p/program-think/</a>
-
-当某种协议被封了，就换另外一种。
-
  * [Software 软件]（常用的翻墙工具）
 
  * [Sites 网站]（一些有用的被墙网站）
 
- * [Books 电子书]（党国查禁的书籍，整理中）
+ * [Books 电子书]（俺觉得不错的书籍，整理中）
 
  * [Docs 文章]（俺转载的文章，整理中）
 
@@ -40,10 +32,20 @@
 
 == 关于翻墙 ==
 
-为了帮助大伙儿翻墙，俺写了很详细的翻墙扫盲帖（在[http://program-think.spaces.live.com/blog/cns!F5B0090663FEEADA!144.entry LiveSpaces]和[http://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html BlogSpot]）。
+为了帮助大伙儿翻墙，俺写了很详细的[http://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html 翻墙扫盲帖]。
+
+此教程通俗易懂，包含了GFW的知识、各种翻墙方式、常用翻墙软件及下载地址。
+
 
 如果无法打开上述链接，请用[http://fusion.google.com/add?source=atgs&feedurl=http://feeds2.feedburner.com/programthink Google Reader订阅]并查看。
 
 切记用 *HTTPS* 的方式访问Google Reader，以规避GFW的敏感词过滤。具体网址是：
 
 <a href="https://www.google.com/reader/"><font color="red">https</font>://www.google.com/reader/</a>
+
+
+另外，俺开设了一个具有自动回复功能的邮箱 <font color="red">*help_gfw@yahoo.com*</font>
+
+只需发任意邮件到该信箱，即可自动获取上述的[http://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html 翻墙扫盲帖]。
+
+为了防止被墙，*不要*用国内的邮箱进行收发。
