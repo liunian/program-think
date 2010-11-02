@@ -1,12 +1,10 @@
 #summary 【编程随想】收藏的电子书
 
-= 说明 =
+= 下载阅读须知 =
 
 这里汇总了俺收藏的各类电子书（整理中）。
 
 下载或阅读过程中，如果有啥疑问，可以用邮件 *program.think@gmail.com* 跟俺联系。
-
-= 阅读须知 =
 
 == 7z 格式 ==
 
@@ -22,6 +20,12 @@
  * Foxit Reader 3.1.0 或者更高的版本（绿色软件，推荐使用）
  * PDF-XChange Viewer 2.0 或者更高的版本（绿色软件，推荐使用）
 
+
+= 电子书 =
+
+== 管理 ==
+
+[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Management_Books/gerald-weinberg_are-your-lights-on_chs.pdf 温伯格：你的灯亮着吗？] （[http://program-think.blogspot.com/2009/07/book-review-are-your-lights-on.html 俺写的书评]）
 
 == IT ==
 
