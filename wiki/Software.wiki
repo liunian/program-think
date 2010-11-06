@@ -3,15 +3,15 @@
 
 = 下载须知 =
 
-为了节省俺上传的带宽及大伙儿下载的带宽，俺使用 7z 格式提高压缩率。
+为了节省俺上传的带宽及大伙儿下载的带宽，下列工具皆用 7z 格式提高压缩率。
 
 下载之后，请自行用 [http://www.7-zip.org/ 7zip] 或者较新版本的 WinRAR 进行解压缩。
 
-下面这些翻墙的工具，皆是俺运用各种翻墙姿势，从各个官方网站下载得来。
+这些翻墙工具，皆是俺运用各种翻墙姿势，从它们各自的官方网站下载得来。
 
 有些软件俺用得不多，是否有啥副作用，俺不敢保证。
 
-使用过程中，如果发现什么问题或有啥疑问，可以用邮件（program.think@gmail.com）跟俺联系。
+使用过程中，如果发现什么问题或有啥疑问，可以用邮件 *program.think@gmail.com* 跟俺联系。
 
 
 = 翻墙软件 =
@@ -67,6 +67,8 @@
 || 9.96 || 2010-05-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-9.96.7z 下载页面] ||
 || 9.97 || 2010-06-28 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-9.97.7z 下载页面] ||
 || 9.98 || 2010-08-30 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-9.98.7z 下载页面] ||
+|| 9.99 || 2010-10-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-9.99.7z 下载页面] ||
+|| 10.01 || 2010-10-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.01.7z 下载页面] ||
 
 
  * Puff
