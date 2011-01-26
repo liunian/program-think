@@ -46,6 +46,9 @@
 || 7.0.5 || 专家版 || 2010-09-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.5-expert.7z 下载页面] ||
 || 7.0.6 || 专业版 || 2010-10-07 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.6-prof.7z 下载页面] ||
 || 7.0.6 || 专家版 || 2010-10-07 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.6-expert.7z 下载页面] ||
+|| 7.0.7 || 专业版 || 2011-01-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.7-prof.7z 下载页面] ||
+|| 7.0.7 || 专家版 || 2011-01-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.7-expert.7z 下载页面] ||
+
 
 以下是针对手机的，目前有Windows Mobile版本和Java版本两种。
 
@@ -54,6 +57,7 @@
 || 1.2 || WM版 || 2010-08-28 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-1.2-wm.7z 下载页面] ||
 || 2.10 || Java版 || 2010-07-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-2.10-java.7z 下载页面] ||
 || 2.20 || Java版 || 2010-09-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-2.20-java.7z 下载页面] ||
+
 
  * 無 界
 
@@ -69,6 +73,11 @@
 || 9.98 || 2010-08-30 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-9.98.7z 下载页面] ||
 || 9.99 || 2010-10-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-9.99.7z 下载页面] ||
 || 10.01 || 2010-10-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.01.7z 下载页面] ||
+|| 10.02 || 2010-11-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.02.7z 下载页面] ||
+|| 10.03 || 2010-11-14 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.03.7z 下载页面] ||
+|| 10.04 || 2010-12-11 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.04.7z 下载页面] ||
+|| 10.05 || 2010-12-23 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.05.7z 下载页面] ||
+|| 10.06 || 2011-01-11 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.06.7z 下载页面] ||
 
 
  * Puff
