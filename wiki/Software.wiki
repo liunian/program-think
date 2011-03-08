@@ -16,9 +16,9 @@
 
 = 翻墙软件 =
 
- * 自 由 門
+ * 自.由.門
 
-官方网站（动 态 網）的域名是ＧＦW敏感词，请翻墙并通过[http://bit.ly/5qGII]跳转。
+官方网站（动.态.網）的域名是ＧＦW敏感词，请翻墙并通过[http://bit.ly/5qGII]跳转。
 
 绿色软件，无需安装。
 
@@ -48,9 +48,12 @@
 || 7.0.6 || 专家版 || 2010-10-07 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.6-expert.7z 下载页面] ||
 || 7.0.7 || 专业版 || 2011-01-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.7-prof.7z 下载页面] ||
 || 7.0.7 || 专家版 || 2011-01-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.7-expert.7z 下载页面] ||
+|| 7.0.8 || 专业版 || 2011-02-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.8-prof.7z 下载页面] ||
+|| 7.0.8 || 专家版 || 2011-02-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.8-expert.7z 下载页面] ||
+|| 7.0.8 || 高级版 || 2011-03-05 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.0.8-adv.7z 下载页面] ||
 
 
-以下是针对手机的，目前有Windows Mobile版本和Java版本两种。
+以下是针对手机的自.由.門，目前有Windows Mobile版本和Java版本两种。
 
 || *版本* || *类型* || *发布日期* || *下载页面* ||
 || 1.0 || WM版 || 2010-06-30 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-1.0-wm.7z 下载页面] ||
@@ -59,7 +62,7 @@
 || 2.20 || Java版 || 2010-09-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-2.20-java.7z 下载页面] ||
 
 
- * 無 界
+ * 無.界
 
 官方网站的域名是ＧＦW敏感词，请翻墙并通过[http://bit.ly/11dpkf]跳转。
 
@@ -92,24 +95,6 @@
 || 0.03.321 || 2010-03-21 || 免费版 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/puff-0.03.321-free-version.7z  下载页面] ||
 
 
- * 世 界 通
-
-官方网站的域名是ＧＦW的敏感词，请翻墙并通过[http://bit.ly/Bfv5m]跳转。
-
-绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
-|| *版本* || *发布日期* || *下载页面* ||
-|| 4.1.0 || 208-09-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gpass-4.1.0.7z 下载页面] ||
-
-
- * 花 园 網 络
-
-官方网站是[http://www.internetfreedom.org/GTunnel]，请翻墙访问。
-
-绿色软件，无需安装。压缩包内含单个可执行文件和2个动态库。
-|| *版本* || *发布日期* || *下载页面* ||
-|| 2.0.1.7 || 2008-06-21 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gtunnel-2.0.1.7.7z 下载页面] ||
-
-
  * Hotspot Shield
 
 知名的VPN软件，官方网站是[http://www.hotspotshield.com/]，可能要翻墙才能访问。
@@ -120,3 +105,21 @@
 || 1.37 || 2010-01-15 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-1.37.7z 下载页面] ||
 || 1.41 || 2010-04-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-1.41.7z 下载页面] ||
 || 1.45 || 2010-05-25 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-1.45.7z 下载页面] ||
+
+
+ * 世.界.通
+
+官方网站的域名是ＧＦW的敏感词，请翻墙并通过[http://bit.ly/Bfv5m]跳转。
+
+绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
+|| *版本* || *发布日期* || *下载页面* ||
+|| 4.1.0 || 208-09-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gpass-4.1.0.7z 下载页面] ||
+
+
+ * 花.园.網.络
+
+官方网站是[http://www.internetfreedom.org/GTunnel]，请翻墙访问。
+
+绿色软件，无需安装。压缩包内含单个可执行文件和2个动态库。
+|| *版本* || *发布日期* || *下载页面* ||
+|| 2.0.1.7 || 2008-06-21 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gtunnel-2.0.1.7.7z 下载页面] ||
