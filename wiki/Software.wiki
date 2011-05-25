@@ -58,7 +58,6 @@
 || 7.1.0 || 专家版 || 2011-04-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.0-expert.7z 下载页面] ||
 || 7.1.0 || 高级版 || 2011-04-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.0-adv.7z 下载页面] ||
 
-
 以下是针对手机的自.由.門，目前有Windows Mobile版本和Java版本两种。
 
 || *版本* || *类型* || *发布日期* || *下载页面* ||
@@ -87,6 +86,28 @@
 || 10.04 || 2010-12-11 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.04.7z 下载页面] ||
 || 10.05 || 2010-12-23 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.05.7z 下载页面] ||
 || 10.06 || 2011-01-11 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.06.7z 下载页面] ||
+|| 10.07 || 2011-03-29 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.07.7z 下载页面] ||
+|| 10.08 || 2011-04-05 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.08.7z 下载页面] ||
+|| 10.09 || 2011-05-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.09.7z 下载页面] ||
+|| 10.10 || 2011-05-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.10.7z 下载页面] ||
+
+
+ * 世.界.通
+
+官方网站的域名是ＧＦW的敏感词，请翻墙并通过[http://bit.ly/Bfv5m]跳转。
+
+绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
+|| *版本* || *发布日期* || *下载页面* ||
+|| 4.1.0 || 208-09-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gpass-4.1.0.7z 下载页面] ||
+
+
+ * 花.园.網.络
+
+官方网站是[http://www.internetfreedom.org/GTunnel]，请翻墙访问。
+
+绿色软件，无需安装。压缩包内含单个可执行文件和2个动态库。
+|| *版本* || *发布日期* || *下载页面* ||
+|| 2.0.1.7 || 2008-06-21 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gtunnel-2.0.1.7.7z 下载页面] ||
 
 
  * Puff
@@ -111,21 +132,3 @@
 || 1.37 || 2010-01-15 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-1.37.7z 下载页面] ||
 || 1.41 || 2010-04-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-1.41.7z 下载页面] ||
 || 1.45 || 2010-05-25 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-1.45.7z 下载页面] ||
-
-
- * 世.界.通
-
-官方网站的域名是ＧＦW的敏感词，请翻墙并通过[http://bit.ly/Bfv5m]跳转。
-
-绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
-|| *版本* || *发布日期* || *下载页面* ||
-|| 4.1.0 || 208-09-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gpass-4.1.0.7z 下载页面] ||
-
-
- * 花.园.網.络
-
-官方网站是[http://www.internetfreedom.org/GTunnel]，请翻墙访问。
-
-绿色软件，无需安装。压缩包内含单个可执行文件和2个动态库。
-|| *版本* || *发布日期* || *下载页面* ||
-|| 2.0.1.7 || 2008-06-21 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gtunnel-2.0.1.7.7z 下载页面] ||
