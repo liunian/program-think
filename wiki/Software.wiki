@@ -61,7 +61,7 @@
 || 7.1.1 || 专家版 || 2011-05-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.1-expert.7z 下载页面] ||
 
 
-以下是针对手机的自.由.門，目前有Windows Mobile版本和Java版本两种。
+以下是针对手机的 自.由.門，目前有Windows Mobile版本和Java版本两种。
 
 || *版本* || *类型* || *发布日期* || *下载页面* ||
 || 1.0 || WM版 || 2010-06-30 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-1.0-wm.7z 下载页面] ||
@@ -75,6 +75,7 @@
 官方网站的域名是ＧＦW敏感词，请翻墙并通过[http://bit.ly/11dpkf]跳转。
 
 绿色软件，无需安装。压缩包内仅有单个可执行文件。
+
 || *版本* || *发布日期* || *下载页面* ||
 || 9.92 || 2010-01-07 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-9.92.7z 下载页面] ||
 || 9.94 || 2010-03-09 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-9.94.7z 下载页面] ||
@@ -100,6 +101,9 @@
 官方网站的域名是ＧＦW的敏感词，请翻墙并通过[http://bit.ly/Bfv5m]跳转。
 
 绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
+
+世.界.通 自身的服务器已经被封，可以利用它的Skype通道翻墙。具体配置请参见[http://program-think.blogspot.com/2011/05/through-gfw-with-skype.html 如何翻墙系列：基于Skype翻墙]。
+
 || *版本* || *发布日期* || *下载页面* ||
 || 4.1.0 || 208-09-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gpass-4.1.0.7z 下载页面] ||
 
@@ -109,6 +113,9 @@
 官方网站是[http://www.internetfreedom.org/GTunnel]，请翻墙访问。
 
 绿色软件，无需安装。压缩包内含单个可执行文件和2个动态库。
+
+花.园.網.络 自身的服务器已经被封，可以利用它的Skype通道翻墙。具体的配置和上述的 世.界.通 类似。
+
 || *版本* || *发布日期* || *下载页面* ||
 || 2.0.1.7 || 2008-06-21 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gtunnel-2.0.1.7.7z 下载页面] ||
 
