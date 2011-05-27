@@ -57,6 +57,9 @@
 || 7.1.0 || 专业版 || 2011-04-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.0-prof.7z 下载页面] ||
 || 7.1.0 || 专家版 || 2011-04-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.0-expert.7z 下载页面] ||
 || 7.1.0 || 高级版 || 2011-04-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.0-adv.7z 下载页面] ||
+|| 7.1.1 || 专业版 || 2011-05-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.1-prof.7z 下载页面] ||
+|| 7.1.1 || 专家版 || 2011-05-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.1-expert.7z 下载页面] ||
+
 
 以下是针对手机的自.由.門，目前有Windows Mobile版本和Java版本两种。
 
