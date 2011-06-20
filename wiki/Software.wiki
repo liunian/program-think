@@ -59,6 +59,8 @@
 || 7.1.0 || 高级版 || 2011-04-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.0-adv.7z 下载页面] ||
 || 7.1.1 || 专业版 || 2011-05-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.1-prof.7z 下载页面] ||
 || 7.1.1 || 专家版 || 2011-05-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.1-expert.7z 下载页面] ||
+|| 7.1.2 || 专业版 || 2011-06-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.2-prof.7z 下载页面] ||
+|| 7.1.2 || 专家版 || 2011-06-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.2-expert.7z 下载页面] ||
 
 
 以下是针对手机的 自.由.門，目前有Windows Mobile版本和Java版本两种。
@@ -94,6 +96,11 @@
 || 10.08 || 2011-04-05 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.08.7z 下载页面] ||
 || 10.09 || 2011-05-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.09.7z 下载页面] ||
 || 10.10 || 2011-05-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.10.7z 下载页面] ||
+|| 10.11 || 2011-05-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.11.7z 下载页面] ||
+|| 10.12 || 2011-06-02 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.12.7z 下载页面] ||
+|| 10.13 || 2011-06-07 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.13.7z 下载页面] ||
+|| 10.14 || 2011-06-12 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.14.7z 下载页面] ||
+|| 10.15 || 2011-06-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.15.7z 下载页面] ||
 
 
  * 世.界.通
