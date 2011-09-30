@@ -16,6 +16,37 @@
 
 = 翻墙软件 =
 
+ * 世.界.通
+
+官方网站的域名是ＧＦW的敏感词，请翻墙并通过[http://bit.ly/Bfv5m]跳转。
+
+绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
+
+如果验证数字签名时，显示“证书已被颁发者吊销”，没有关系。为了保险起见，附上该 exe 文件的散列校验值。
+
+SHA1 校验值：0aa2a7cb91df25ea42e5b5345a2281a160f0464f
+
+MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
+
+世.界.通 自身的服务器已经被封，可以利用它的Skype通道翻墙。具体配置请参见[http://program-think.blogspot.com/2011/05/through-gfw-with-skype.html 如何翻墙系列：基于Skype翻墙]。
+
+|| *版本* || *发布日期* || *下载页面* ||
+|| 4.1.0 || 208-09-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gpass-4.1.0.7z 下载页面] ||
+
+
+ * Hotspot Shield
+
+老牌且知名的VPN软件，官方网站是[http://www.hotspotshield.com/]，可能要翻墙才能访问。
+
+压缩包中是安装程序，带有数字签名。
+
+|| *版本* || *发布日期* || *下载页面* ||
+|| 1.37 || 2010-01-15 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-1.37.7z 下载页面] ||
+|| 1.41 || 2010-04-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-1.41.7z 下载页面] ||
+|| 1.45 || 2010-05-25 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-1.45.7z 下载页面] ||
+|| 2.04 || 2011-06-03 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-2.04.7z 下载页面] ||
+|| 2.06 || 2011-07-02 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-2.06.7z 下载页面] ||
+
  * 自.由.門
 
 官方网站（动.态.網）的域名是ＧＦW敏感词，请翻墙并通过[http://bit.ly/5qGII]跳转。
@@ -115,18 +146,6 @@
 || 10.16 || 2011-06-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.16.7z 下载页面] ||
 
 
- * 世.界.通
-
-官方网站的域名是ＧＦW的敏感词，请翻墙并通过[http://bit.ly/Bfv5m]跳转。
-
-绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
-
-世.界.通 自身的服务器已经被封，可以利用它的Skype通道翻墙。具体配置请参见[http://program-think.blogspot.com/2011/05/through-gfw-with-skype.html 如何翻墙系列：基于Skype翻墙]。
-
-|| *版本* || *发布日期* || *下载页面* ||
-|| 4.1.0 || 208-09-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gpass-4.1.0.7z 下载页面] ||
-
-
  * 花.园.網.络
 
 官方网站是[http://www.internetfreedom.org/GTunnel]，请翻墙访问。
@@ -149,15 +168,3 @@
 || 0.05 || 2009-09-27 || 商业版 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/puff-0.05-commercial-version.7z  下载页面] ||
 || 0.03 || 2009-12-28 || 免费版 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/puff-0.03-free-version.7z  下载页面] ||
 || 0.03.321 || 2010-03-21 || 免费版 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/puff-0.03.321-free-version.7z  下载页面] ||
-
-
- * Hotspot Shield
-
-知名的VPN软件，官方网站是[http://www.hotspotshield.com/]，可能要翻墙才能访问。
-
-压缩包中是安装程序，带有数字签名。
-
-|| *版本* || *发布日期* || *下载页面* ||
-|| 1.37 || 2010-01-15 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-1.37.7z 下载页面] ||
-|| 1.41 || 2010-04-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-1.41.7z 下载页面] ||
-|| 1.45 || 2010-05-25 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-1.45.7z 下载页面] ||
