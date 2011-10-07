@@ -80,6 +80,8 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 7.1.5 || 2011-07-22 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.5-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.5-expert.7z 专家版] ||
 || 7.1.6 || 2011-08-11 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.6-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.6-expert.7z 专家版] ||
 || 7.1.7 || 2011-09-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.7-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.7-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.7-restrict.7z 限制版] ||
+|| 7.1.8 || 2011-09-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.8-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.8-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.8-restrict.7z 限制版] ||
+|| 7.1.9 || 2011-10-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.9-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.9-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.9-restrict.7z 限制版] ||
 
 
 以下是针对手机的 自.由.門，目前有Windows Mobile版本和Java版本两种。
