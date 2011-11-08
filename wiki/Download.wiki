@@ -4,6 +4,10 @@
 
 由于Google Code的服务条款不允许在此放置和开源项目无关的文件。
 
-因此俺把所有下载的文件，都挪到了 Live Spaces 的 SkyDrive 上。
+因此俺把所有下载的文件，都挪到了 [http://cid-f5b0090663feeada.office.live.com/browse.aspx/.Public/ 微软的网盘（SkyDrive）] 上。
 
-请各位网友到 [http://cid-f5b0090663feeada.office.live.com/browse.aspx/.Public/] 下载
+为了方便下载，整理了如下几种类别的下载链接清单：
+
+ * [Software 软件]（主要是常用的翻墙工具）
+
+ * [Books 电子书]（俺觉得不错的书籍）
