@@ -130,6 +130,7 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 10.16 || 2011-06-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.16.7z 下载页面] ||
 || 10.17 || 2011-08-16 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.17.7z 下载页面] ||
 || 11.02 || 2011-11-04 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-11.02.7z 下载页面] ||
+|| 11.03 || 2011-11-22 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-11.03.7z 下载页面] ||
 
 
  * Hotspot Shield
