@@ -47,6 +47,7 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || *版本* || *发布日期* || *下载页面* ||
 || 3.18 || 2011-10-14 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.18.7z 下载页面] ||
 || 3.19 || 2011-11-08 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.19.7z 下载页面] ||
+|| 3.21 || 2011-12-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.21.7z 下载页面] ||
 
 
  * 自.由.門
@@ -103,6 +104,8 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 官方网站的域名是ＧＦW敏感词，请翻墙并通过[http://bit.ly/11dpkf]跳转。
 
 绿色软件，无需安装，无需管理员权限。压缩包内仅有单个可执行文件。
+
+
 
 || *版本* || *发布日期* || *下载页面* ||
 || 9.92 || 2010-01-07 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-9.92.7z 下载页面] ||
