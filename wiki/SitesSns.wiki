@@ -45,10 +45,7 @@
 || || [http://status.twitter.com/] || Twitter的官方博客 ||
 || Plurk || [http://www.plurk.com/] || 又名“噗浪”。类似于Twitter，在台湾很流行 ||
 || Jaiku || [http://www.jaiku.com/] || Google旗下的微博客，曾经被墙，目前可访问 ||
-|| 饭否 || [http://fanfou.com/] || 国内的Twitter，从09年7月被党国强行关闭至今 ||
-|| 叽歪 || [http://jiwai.de/] || 同上 ||
-|| 做啥 || [http://zuosa.com/] || 国内的Twitter，在09年7月被关闭了很长一段时间，恢复后元气大伤 ||
-|| 嘀咕 || [http://digu.com/] || 同上 ||
+|| 饭否 || [http://fanfou.com/] || 做得很好的微博客，号称国内的Twitter，在09年7月被关闭了很长一段时间，恢复后元气大伤 ||
 
 
 == 微博类衍生服务 ==
@@ -80,8 +77,8 @@
 == 网络存储/文件共享 ==
 
 || *名称* || *链接* || *说明* ||
-|| Dropbox || [http://www.dropbox.com/] || 最好的文件分享网站 ||
-
+|| Dropbox || [http://www.dropbox.com/] || 名气最大的文件分享网站 ||
+|| Wuala || [http://www.wuala.com/] || 虽然名气没有 Dropbox 大，但是功能和安全性比 Dropbox 更好 ||
 
 == 其它 ==
 
