@@ -87,23 +87,15 @@
 || || [http://zh.wikipedia.org/zh/%E5%A4%A9%E5%AE%89%E9%97%A8_%28%E8%AE%BF%E9%97%AE%E7%BA%AA%E5%BD%95%E7%89%87%29 《天安门》记录片] || wiki || 反映天安门事件的大型文献纪录片 ||
 || || [http://zh.wikipedia.org/zh/%E5%A4%A9%E5%AE%89%E9%96%80%E6%AF%8D%E8%A6%AA 天安门母亲运动] || wiki || 死难者家属丁子霖等人发起 ||
 || || [http://zh.wikipedia.org/zh/%E5%A4%A9%E5%AE%89%E9%96%80%E6%96%87%E4%BB%B6 《天安门文件》] || wiki || 又名《中国六四真相》 ||
-|| 六四档案 || [http://www.64memo.com/] || Web || 简体中文主页 ||
-|| 《天安门》网站 || || || 《天安门》纪录片的官方网站 ||
+|| 六四档案 || [http://www.64memo.com/] || Web || 封从德（64学生领袖之一）创办 ||
+|| 博讯六四资料 || [http://www.boxun.com/hero/64/] || Web || [http://www.boxun.com/ 博讯网]汇总的六四相关资料 ||
+|| 天安门母亲网站 || [http://www.tiananmenmother.org/] || Web || 关于“天安门母亲”的介绍，请看[http://zh.wikipedia.org/zh/%E5%A4%A9%E5%AE%89%E9%96%80%E6%AF%8D%E8%A6%AA 维基百科] ||
+|| 支聯會 || [http://www.alliance.org.hk/] || Web || 全稱是“香港市民支援愛國民主運動聯合會” ||
+|| 天安门对峙 || [http://www.tiananmenduizhi.com/] || Web || ||
+|| 六四民运志 || [http://www.ngensis.com/june4/june4s.htm] || Web || ||
+|| 纪录片《天安门》 || || || 该纪录片的官方网站（此纪录片的部分内容有争议） ||
 || || [http://www.tsquare.tv/] || Web || English Home ||
 || || [http://www.tsquare.tv/chinese/] || Web || 简体中文主页 ||
-|| 博讯六四资料 || [http://www.boxun.com/hero/64/] || Web || 位于[http://www.boxun.com/ 博讯] ||
-|| 天安门母亲网站 || [http://www.tiananmenmother.org/] || Web || 简体中文主页，关于天安门母亲的介绍，请看[http://zh.wikipedia.org/zh/%E5%A4%A9%E5%AE%89%E9%96%80%E6%AF%8D%E8%A6%AA 维基百科] ||
-|| 《中国六四真相》 || [http://xinsheng.net/xs/64/64.htm] || Web || 前面提到的书，提供在线阅读 ||
-|| 六四民运志 || [http://www.ngensis.com/june4/june4s.htm] || Web || 简体中文主页 ||
-
-
-=== 零八宪章 ===
-
-|| *名称* || *链接* || *类型* || *说明* ||
-|| 维基百科词条 || || || 俺搜罗的“零八宪章”相关词条 ||
-|| || [http://zh.wikipedia.org/zh/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0 零八宪章] || wiki || ||
-|| || [http://zh.wikipedia.org/zh/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || wiki || 零八宪章主要起草人，因起草宪章被重判11年。但因祸得福，荣获2010年诺贝尔和平奖，并引来大量网友声援（俺收集的相关tweet在“[http://program-think.blogspot.com/2010/10/nobel-peace-prize-tweet.html 这里]”）。 ||
-|| 零八宪章网站 || [http://www.2008xianzhang.info/] || Web || 简体中文主页 ||
 
 
 === 维权 ===
@@ -116,3 +108,12 @@
 || || [http://www.canyu.org/] || Web || 简体中文主页 ||
 || || [http://www.canyu.org/chinese.aspx?big5=1] || Web || 繁體中文主頁 ||
 || || [http://www.canyu.org/rssFeed.aspx] || RSS || 简体中文，摘要输出 ||
+
+
+=== 零八宪章 ===
+
+|| *名称* || *链接* || *类型* || *说明* ||
+|| 维基百科词条 || || || 俺搜罗的“零八宪章”相关词条 ||
+|| || [http://zh.wikipedia.org/zh/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0 零八宪章] || wiki || ||
+|| || [http://zh.wikipedia.org/zh/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || wiki || 零八宪章主要起草人，因起草宪章被重判11年。但因祸得福，荣获2010年诺贝尔和平奖，并引来大量网友声援（俺收集的相关tweet在“[http://program-think.blogspot.com/2010/10/nobel-peace-prize-tweet.html 这里]”）。 ||
+|| 零八宪章网站 || [http://www.2008xianzhang.info/] || Web || 简体中文主页 ||
