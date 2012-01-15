@@ -77,8 +77,9 @@
 == 网络存储/文件共享 ==
 
 || *名称* || *链接* || *说明* ||
-|| Dropbox || [http://www.dropbox.com/] || 名气最大的文件分享网站 ||
-|| Wuala || [http://www.wuala.com/] || 虽然名气没有 Dropbox 大，但是功能和安全性比 Dropbox 更好 ||
+|| Dropbox || [http://www.dropbox.com/] || 名气最大的文件分享网站，免费存储容量限2GB。2010年5月，网站被屏蔽（可通过修改hosts绕过GFW）。运气好的话，客户端软件还能用。 ||
+|| SugarSync || [https://www.sugarsync.com/] || 功能类似 Dropbox，2011年3月被封。每邀请一人增加500兆，存储容量无上限 ||
+|| Wuala || [http://www.wuala.com/] || 虽然名气没有 Dropbox 大，但是功能和安全性比 Dropbox 更好。比如：支持 P2P 技术，可以共享自己的一块硬盘空间来换取更大的存储容量；不限上传文件大小和流量。 ||
 
 == 其它 ==
 
