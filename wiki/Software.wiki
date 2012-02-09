@@ -49,6 +49,7 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 3.19 || 2011-11-08 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.19.7z 下载页面] ||
 || 3.21 || 2011-12-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.21.7z 下载页面] ||
 || 3.22 || 2012-01-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.22.7z 下载页面] ||
+|| 3.26 || 2012-02-01 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.26.7z 下载页面] ||
 
 
 == 自.由.門 ==
