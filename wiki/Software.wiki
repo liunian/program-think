@@ -91,21 +91,27 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 7.1.9 || 2011-10-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.9-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.9-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.1.9-restrict.7z 限制版] ||
 || 7.2.0 || 2011-10-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.0-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.0-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.0-restrict.7z 限制版] ||
 || 7.2.1 || 2011-11-08 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.1-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.1-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.1-restrict.7z 限制版] ||
+|| 7.2.2 || 2011-12-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.2-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.2-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.2-restrict.7z 限制版] ||
+|| 7.2.3 || 2011-12-29 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.3-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.3-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.3-restrict.7z 限制版] ||
+|| 7.2.4 || 2012-01-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.4-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.4-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.4-restrict.7z 限制版] ||
+|| 7.2.5 || 2012-01-22 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.5-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.5-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.5-restrict.7z 限制版] ||
 
 以下是针对手机的 自.由.門，目前有Windows Mobile版本和Java版本两种。
 
-|| *版本* || *类型* || *发布日期* || *下载页面* ||
-|| 1.0 || WM版 || 2010-06-30 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-1.0-wm.7z 下载页面] ||
-|| 1.2 || WM版 || 2010-08-28 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-1.2-wm.7z 下载页面] ||
-|| 2.10 || Java版 || 2010-07-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-2.10-java.7z 下载页面] ||
-|| 2.20 || Java版 || 2010-09-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-2.20-java.7z 下载页面] ||
+|| *版本* || *发布日期* || *下载页面* ||
+|| 1.0 || 2010-06-30 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-1.0-wm.7z WM版] ||
+|| 1.2 || 2010-08-28 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-1.2-wm.7z WM版] ||
+|| 2.10 || 2010-07-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-2.10-java.7z Java版] ||
+|| 2.20 || 2010-09-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-2.20-java.7z Java版] ||
 
 
 == 無.界 ==
 
-官方网站的域名是ＧＦW敏感词，请翻墙并通过[http://bit.ly/11dpkf]跳转。
+官方网站的域名是ＧＦW敏感词，请翻墙并通过[http://bit.ly/w6Jhfm]跳转。
 
 绿色软件，无需安装，无需管理员权限。压缩包内仅有单个可执行文件。
+
+更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2011/12/gfw-wujie.html 新版本无.界——赛风3失效后的另一选择]》
 
 || *版本* || *发布日期* || *下载页面* ||
 || 9.92 || 2010-01-07 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-9.92.7z 下载页面] ||
