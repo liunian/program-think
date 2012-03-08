@@ -6,19 +6,17 @@
 
 下载或阅读过程中，如果有啥疑问，请用邮件 *[mailto:program.think@gmail.com]* 跟俺联系，也可以在本页面下方留言。
 
-== 7z 格式 ==
-
-为了节省俺上传的带宽及大伙儿下载的带宽，某些格式的电子书使用 7z 格式提高压缩率。
-
-下载之后，请使用 7zip 或者较新版本的 WinRAR 进行解压缩。
-
 == PDF 格式 ==
 
-俺使用较新的PDF格式保存PDF文件，如果你无法打开PDF文件或者打开过程中提示输入密码，那应该是你的PDF阅读器版本不够新。据了解，如下几款软件可以正常阅读。
+俺使用较新的PDF格式保存PDF文件，如果你无法打开PDF文件或者打开过程中提示输入密码，那应该是你的PDF阅读器版本不够新。用如下几款软件可以正常阅读。
 
  * Acrobat Reader 7.0 或者更高的版本
  * Foxit Reader 3.1.0 或者更高的版本（绿色软件，推荐使用）
  * PDF-XChange Viewer 2.0 或者更高的版本（绿色软件，推荐使用）
+
+== TXT 格式 ==
+
+TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本可以正常打开。
 
 
 = 电子书 =
@@ -26,15 +24,15 @@
 == 管理 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 你的灯亮着吗？ || 杰拉尔德·温伯格 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Management/gerald-weinberg_are-your-lights-on_chs.pdf 中文PDF] || [http://program-think.blogspot.com/2009/07/book-review-are-your-lights-on.html 俺的书评] ||
+|| 你的灯亮着吗？ || 杰拉尔德·温伯格 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Management/gerald-weinberg_are-your-lights-on_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Management/gerald-weinberg_are-your-lights-on_chs.txt 中文TXT] || [http://program-think.blogspot.com/2009/07/book-review-are-your-lights-on.html 俺的书评] ||
 
 == IT ==
 
 == 政治 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 一九八四 || 乔治·奥威尔 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_en.pdf 英文PDF] || [http://program-think.blogspot.com/2009/06/book-review-1984.html 俺的书评] ||
-|| 动物庄园 || 乔治·奥威尔 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_en.pdf 英文PDF] || ||
+|| 一九八四 || 乔治·奥威尔 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_chs.txt 中文TXT]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_en.pdf 英文PDF] || [http://program-think.blogspot.com/2009/06/book-review-1984.html 俺的书评] ||
+|| 动物庄园 || 乔治·奥威尔 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_chs.txt 中文TXT]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_en.pdf 英文PDF] || ||
 
 == 心理学 ==
 
