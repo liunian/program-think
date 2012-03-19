@@ -42,4 +42,4 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 文化 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 中国人的性格 || 亚瑟·史密斯 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Culture/chinese-characteristics_chs.pdf 中文PDF] || [http://program-think.blogspot.com/2011/02/book-review-chinese-characteristics.html 俺的书评] ||
+|| 中国人的性格 || 亚瑟·史密斯 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Culture/chinese-characteristics_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Culture/chinese-characteristics_chs.txt 中文TXT] || [http://program-think.blogspot.com/2011/02/book-review-chinese-characteristics.html 俺的书评] ||
