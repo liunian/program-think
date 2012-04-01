@@ -33,6 +33,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 一九八四 || 乔治·奥威尔 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_chs.txt 中文TXT]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_en.pdf 英文PDF] || [http://program-think.blogspot.com/2009/06/book-review-1984.html 俺的书评] ||
 || 动物庄园 || 乔治·奥威尔 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_chs.txt 中文TXT]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_en.pdf 英文PDF] || ||
+|| 中国影帝温家宝 || 余杰 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/yu-jie_china-best-actor-wen-jiabao_chs.pdf 中文PDF] || ||
 
 == 心理学 ==
 
