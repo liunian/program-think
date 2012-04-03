@@ -60,18 +60,18 @@
 || || [http://www.boxun.us/] || Web || English Home ||
 || || [http://news.boxun.com/news/rss/focus.xml 焦点新闻订阅] || RSS || 简体中文，仅标题输出 ||
 || || [http://news.boxun.com/news/rss/pol.xml 政治新闻订阅] || RSS || 简体中文，仅标题输出 ||
-|| 万维读者网 || || || 99年由旅居北美的华人创办，据说09年股权变更后，新闻立场已转变并导致访问量下降 ||
-|| || [http://www.creaders.net/] || Web || 繁體中文主頁 ||
-|| || [http://www.creaders.net/?language=gb2312] || Web || 简体中文主页 ||
-|| || [http://www.creadersnet.com/] || Web || English Home ||
 || 中国报道周刊 || || || 含政治、经济、新闻、学术、历史、军事、哲学、等方面的电子杂志 ||
 || || [http://www.china-week.com/] || Web || 简体中文主页 ||
 || || [https://twitter.com/chinaweek @chinaweek] || Twitter || 简体中文推特 ||
 || || [http://feeds.feedburner.com/china-week 文章订阅] || RSS || 简体中文，全文输出 ||
-|| 中国数字时代 || || || 曾经和多伦多大学公民实验室联合推出翻墙利器——“赛风” ||
+|| 中国数字时代 || || || 是一个Web 2.0新闻汇聚网站，内容包括中国的政治、经济、社会、文化等方面 ||
 || || [http://chinadigitaltimes.net/] || Web || English Home ||
 || || [http://chinadigitaltimes.net/chinese/] || Web || 简体中文主页 ||
 || || [https://twitter.com/cdt @cdt] || Twitter || 简体中文推特 ||
+|| 万维读者网 || || || 99年由旅居北美的华人创办，据说09年股权变更后，新闻立场已转变并导致访问量下降 ||
+|| || [http://www.creaders.net/] || Web || 繁體中文主頁 ||
+|| || [http://www.creaders.net/?language=gb2312] || Web || 简体中文主页 ||
+|| || [http://www.creadersnet.com/] || Web || English Home ||
 || 世界新聞網 || || || 北美面向華人社區的新聞網站 ||
 || || [http://www.worldjournal.com/] || Web || 繁體中文主頁 ||
 || 新世纪新闻网 || || || 以新闻、政治评论为主的综合类网站 ||
