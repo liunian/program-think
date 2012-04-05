@@ -24,16 +24,21 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 管理 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 你的灯亮着吗？ || 杰拉尔德·温伯格 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Management/gerald-weinberg_are-your-lights-on_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Management/gerald-weinberg_are-your-lights-on_chs.txt 中文TXT] || [http://program-think.blogspot.com/2009/07/book-review-are-your-lights-on.html 俺的书评] ||
-
-== IT ==
+|| 你的灯亮着吗？ || [http://en.wikipedia.org/wiki/Gerald_Weinberg 杰拉尔德·温伯格] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Management/gerald-weinberg_are-your-lights-on_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Management/gerald-weinberg_are-your-lights-on_chs.txt 中文TXT] || [http://program-think.blogspot.com/2009/07/book-review-are-your-lights-on.html 俺的书评] ||
 
 == 政治 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 一九八四 || 乔治·奥威尔 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_chs.txt 中文TXT]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_en.pdf 英文PDF] || [http://program-think.blogspot.com/2009/06/book-review-1984.html 俺的书评] ||
-|| 动物庄园 || 乔治·奥威尔 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_chs.txt 中文TXT]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_en.pdf 英文PDF] || ||
-|| 中国影帝温家宝 || 余杰 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/yu-jie_china-best-actor-wen-jiabao_chs.pdf 中文PDF] || ||
+|| 一九八四 || [http://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_chs.txt 中文TXT]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_en.pdf 英文PDF] || [http://program-think.blogspot.com/2009/06/book-review-1984.html 俺的书评] ||
+|| 动物庄园 || [http://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_chs.txt 中文TXT]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_en.pdf 英文PDF] || 此书可说是《1984》的缩略版，如果你嫌《1984》太长，可以先从此书看起 ||
+|| 中国改革年代的政治斗争 || [http://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/yang-jisheng_zgggnddzzdz_chs.pdf 中文PDF] || 此书介绍了朝廷高层改革派与保守派的长期内斗。作者杨继绳长期在新华社工作。 ||
+|| 改革历程 || [http://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3 赵紫阳] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/zhao_ziyang_memoir_chs.pdf 中文PDF] || 此书相当于赵紫阳的回忆录，对于了解80年代的朝廷高层，很有价值 ||
+|| 天安门文件（中国 六 四 真相） || 张良（化名） || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/zhang-liang_tiananmen-papers_chs.chm 中文CHM]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/zhang-liang_tiananmen-papers_chs.pdf 中文PDF] || 此书的内容有争议。俺觉得，大部分是可信的；少数错误之处，俺会在《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾 六 四 系列]》中点出 ||
+|| 中国：奇迹的黄昏 || 袁剑 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/yuan-jian_china-twilight-of-miracle_chs.pdf 中文PDF] || “黄昏”一词暗指天朝经济表面的繁荣。此书的价值在于：深刻揭露了天朝权贵阶层对社会财富的掠夺 ||
+|| 红太阳的陨落 || [http://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/xin-ziling_the-fall-of-the-red-sun_chs.doc 中文DOC] || 此书的名气挺大，以至于某毛左网站把辛子陵列为“头号汉奸” ||
+|| 新发现的毛泽东 || [http://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/wang-ruoshui_a-newly-discovered-mao-zedong_chs.pdf 中文PDF] || 作为人民日报副总编，王若水这本书提供了一种新的视角（真理部内部的视角）来看毛太祖 ||
+|| 中国影帝温家宝 || [http://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/yu-jie_china-best-actor-wen-jiabao_chs.pdf 中文PDF] || 余杰因此书而受迫害，前不久移民美国 ||
+|| 关键时刻：李鹏日记 || [http://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/li-peng_the-critical-moment-li-peng-diaries_chs.chm 中文PDF] || 此书从保守派的角度，叙述了六四期间高层的动态 ||
 
 == 心理学 ==
 
@@ -44,3 +49,5 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 中国人的性格 || 亚瑟·史密斯 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Culture/chinese-characteristics_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Culture/chinese-characteristics_chs.txt 中文TXT] || [http://program-think.blogspot.com/2011/02/book-review-chinese-characteristics.html 俺的书评] ||
+
+== IT ==
