@@ -1,8 +1,8 @@
 = 【编程随想】的收藏 =
 
-此站点汇总了俺收藏的各种软件、电子书、文章、视频、......
+此站点汇总了俺收藏的各种软件、电子书、文章......
 
-都是些有一定价值，又不容易搞到（被墙）的东东。
+都是些有一定价值，又不容易搞到（被封杀）的东东。
 
 
 == 站内导航 ==
@@ -11,16 +11,16 @@
 
  * [Sites 网站]（一些有用的墙外网站）
 
- * [Books 电子书]（俺觉得不错的书籍，整理中）
+ * [Books 电子书]（俺觉得不错的书籍）
 
 
 == 博客订阅 ==
 
-<a href="http://feeds2.feedburner.com/programthink"><img src="http://feeds.feedburner.com/~fc/programthink?bg=99CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" border="0" alt="订阅数" /></a>
+[http://feeds.feedburner.com/~fc/programthink?bg=99CCFF&fg=444444&anim=0&extname=.png]
 
 俺Blog的订阅地址是：
 
-<a href="http://feeds2.feedburner.com/programthink" title="http://feeds2.feedburner.com/programthink"><img src="http://blob-s-docs.googlegroups.com/docs/OQAAAEDR9lx4QTrhbYlMsJJeUT1vZjjOmbQ7IXi62ZQOk8YtPR8N0dvUBZTVqPhBV_4WcDlLJL3vqBvSxA65STIxPaoA15jOjP-U6MM1FjkNe5dGekwDnlpPokIn" alt="http://feeds2.feedburner.com/programthink" border="0" /></a>　
+<a href="http://feeds2.feedburner.com/programthink" title="http://feeds2.feedburner.com/programthink"><img src="http://feedburner.google.com/fb/images/pub/feed-icon32x32.png" alt="http://feeds2.feedburner.com/programthink" border="0" /></a>　
 <a href="http://fusion.google.com/add?source=atgs&feedurl=http://feeds2.feedburner.com/programthink" title="订阅到Google"><img src="http://buttons.googlesyndication.com/fusion/add.gif" alt="订阅到Google" border="0" /></a>
 
 通过订阅俺的博客，大伙儿可以定期获取翻墙的最新动态。
