@@ -1,0 +1,84 @@
+#summary 财经类网站
+
+= 财经类网站 =
+
+下面列出的是侧重于财经报道的网站（包括某些报刊、杂志的官方网站等）。
+
+为了看起来方便，按照地区分类。
+
+== 北美 ==
+
+|| *名称* || *链接* || *类型* || *说明* ||
+|| 华尔街日报 || || || 大名鼎鼎的财经报纸，简称WSJ(Wall Street Journal)，总部在纽约 ||
+|| || [http://online.wsj.com/home-page] || Web || U.S. Edition Homepage ||
+|| || [http://europe.wsj.com/home-page] || Web || Europe Edition Homepage ||
+|| || [http://blogs.wsj.com/] || Web || English Blogs ||
+|| || [https://twitter.com/WSJ @WSJ] || Twitter || English Twitter ||
+|| || [http://chinese.wsj.com/gb/index.asp] || Web || 简体中文主页 ||
+|| || [http://chinese.wsj.com/big5/index.asp] || Web || 繁體中文主頁 ||
+|| 福布斯 || || || 很有名气的财经媒体，它的富豪榜广为人知，总部在纽约 ||
+|| || [http://www.forbes.com/] || Web || English Homepage ||
+|| || [http://www.forbes.com/fast/feed Most popular stories] || RSS || English, summary output ||
+|| || [https://twitter.com/forbes @Forbes] || Twitter || English Twitter ||
+|| || [http://www.forbeschina.com/] || Web || 简体中文主页 ||
+|| || [http://www.forbes.conn.tw/] || Web || 繁體中文主頁 ||
+|| 商业周刊 || || || 彭博新闻社旗下的著名商业性杂志，它的MBA排行榜很有名，总部在纽约 ||
+|| || [http://www.businessweek.com/] || Web || English Homepage ||
+|| || [https://twitter.com/BW @BW] || Twitter || English Twitter ||
+|| 财富 || || || 时代华纳旗下的知名财经杂志，它的企业500强排行榜广为人知 ||
+|| || [http://www.fortune.com/] || Web || English Homepage ||
+|| || [https://twitter.com/fortunemagazine @FortuneMagazine] || Twitter || English Twitter ||
+|| || [http://www.fortunechina.com/] || Web || 简体中文主页 ||
+
+== 欧洲 ==
+
+|| *名称* || *链接* || *类型* || *说明* ||
+|| 金融时报 || || || 来自英国的一份权威金融报刊，简称FT（Financial Times），总部在伦敦 ||
+|| || [http://www.ft.com/] || Web || English Homepage ||
+|| || [http://www.ft.com/rss/home/uk Financial Times] || RSS || English, summary output ||
+|| || [https://twitter.com/FT @FT] || Twitter || English Twitter ||
+|| || [https://twitter.com/financialtimes @FinancialTimes] || Twitter || English Twitter ||
+|| || [http://www.ftchinese.com/] || Web || 简体中文主页 ||
+|| || [http://www.ftchinese.com/rss/news 今日焦点] || RSS || 简体中文，摘要输出 ||
+|| || [http://www.ftchinese.com/rss/feed 每日新闻] || RSS || 简体中文，摘要输出 ||
+|| || [http://www.ftchinese.com/rss/hotstoryby7day 一周十大热门文章] || RSS || 简体中文，摘要输出 ||
+|| 经济学人 || || || 主要关注政治和商业方面新闻的英文周刊，总部在伦敦 ||
+|| || [http://www.economist.com/] || Web || English Homepage ||
+|| || [http://www.economist.com/rss/business_rss.xml Business] || RSS || English, summary output ||
+|| || [http://www.economist.com/rss/finance_and_economics_rss.xml Finance & economics] || RSS || English, summary output ||
+|| || [http://www.economist.com/rss/international_rss.xml International] || RSS || English, summary output ||
+|| || [http://www.economist.com/rss/china_rss.xml China] || RSS || English, summary output ||
+|| || [https://twitter.com/TheEconomist @TheEconomist] || Twitter || English Twitter ||
+|| || [http://www.ecocn.org/] || Web || 简体中文主页（非官方性质） ||
+
+== 天朝 ==
+
+|| *名称* || *链接* || *类型* || *说明* ||
+|| 财新传媒 || || || 胡舒立创立的财经类媒体，总部在北京 ||
+|| || [http://www.caixin.com/] || Web || 简体中文主页 ||
+|| || [http://blog.caixin.com/feed 财新博客] || RSS || 简体中文，摘要输出 ||
+|| || [https://twitter.com/caing_com @caing_com] || Twitter || 简体中文推特 ||
+|| 经济观察报 || || || 中国社会科学院创办的经济类周报 ||
+|| || [http://www.eeo.com.cn/] || Web || 简体中文主页 ||
+|| || [http://www.eeo.com.cn/ens/] || Web || English Homepage ||
+|| || [http://cn.eeo.feedsportal.com/c/33796/fe.ed/app.eeo.com.cn/?app=rss&controller=index&action=feed&catid=17 政经要闻] || RSS || 简体中文，摘要输出 ||
+|| || [http://cn.eeo.feedsportal.com/c/33796/fe.ed/app.eeo.com.cn/?app=rss&controller=index&action=feed&catid=64 商业评论] || RSS || 简体中文，摘要输出 ||
+|| || [http://cn.eeo.feedsportal.com/c/33796/fe.ed/app.eeo.com.cn/?app=rss&controller=index&action=feed&catid=96 观察家] || RSS || 简体中文，摘要输出 ||
+|| 21世纪经济报道 || || || 隶属于南方报业传媒集团，从《南方周末》分离出来的财经类周报。 ||
+|| || [http://www.21cbh.com/] || Web || 简体中文主页 ||
+|| || [http://news.21cbh.com/?c=focus 今日焦点] || RSS || 简体中文，全文输出 ||
+|| || [http://news.21cbh.com/?c=blog 博客] || RSS || 简体中文，全文输出 ||
+|| 财经网 || [http://www.caijing.com.cn/] || Web || 简体中文主页 ||
+
+== 香港 ==
+
+|| 香港經濟日報 || [http://www.hket.com/] || Web || 繁體中文主頁 ||
+|| 香港商报-中國窗 || [http://www.hkcd.com.hk/] || Web || 繁體中文主頁 ||
+
+== 臺灣 ==
+
+|| 商业周刊 || || || 台湾发行量最大的财经类刊物（跟美国《商业周刊》没关系），总部在台北 ||
+|| || [http://www.businessweekly.com.tw/] || Web || 繁體中文主頁 ||
+|| || [http://feeds.feedburner.com/bw-mix 最新綜合文章] || RSS || 繁體中文，摘要輸出 ||
+|| || [http://feeds.feedburner.com/bw-news 每日財經網摘] || RSS || 繁體中文，摘要輸出 ||
+|| || [http://feeds.feedburner.com/bw-ranking 本週熱門排行] || RSS || 繁體中文，摘要輸出 ||
