@@ -29,14 +29,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 一九八四 || [http://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_chs.txt 中文TXT]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_1984_en.pdf 英文PDF] || 表面上是科幻小说，实质上是很深刻的政治小说（号称“反乌托邦三部曲”之首）。非常彻底地揭露了共产运动本质，以及集权政府是如何对民众进行洗脑。 *绝对值得一读！* 俺的书评在“[http://program-think.blogspot.com/2009/06/book-review-1984.html 这里]”。 ||
 || 动物庄园 || [http://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_chs.txt 中文TXT]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/george-orwell_animal-farm_en.pdf 英文PDF] || 此书可算是《1984》的缩略版。如果你嫌《1984》太长，可以先从此书看起。 ||
 
-== 政治类/历史事件/改革相关 ==
+== 政治类/历史事件/改革 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 中国改革年代的政治斗争 || [http://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/yang-jisheng_political-struggles-during-the-period-of-china-reform_chs.pdf 中文PDF] || 此书介绍了朝廷高层改革派与保守派的长期内斗。作者杨继绳长期在新华社工作，写出的内容真实且客观。 ||
 || 改革历程 - 赵紫阳回忆录 || [http://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3 赵紫阳] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/zhao_ziyang_memoir_chs.pdf 中文PDF] || 作为赵紫阳的回忆录，对于了解80年代的朝廷高层，很有价值。 ||
 || 中国 - 奇迹的黄昏 || 袁剑 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/yuan-jian_china-twilight-of-miracle_chs.pdf 中文PDF] || “黄昏”一词暗指天朝经济表面的繁荣。此书的价值在于：深刻揭露了天朝权贵阶层对社会财富的掠夺。 ||
 
-== 政治类/历史事件/六四相关 ==
+== 政治类/历史事件/六四 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 天安门文件 （中国六四真相） || 张良（化名） || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/zhang-liang_tiananmen-papers_chs.chm 中文CHM]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/zhang-liang_tiananmen-papers_chs.pdf 中文PDF] || 此书的内容有争议。俺觉得，大部分是可信的；少数错误之处，俺会在《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》中点出 ||
@@ -45,11 +45,18 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 关键时刻 - 李鹏日记 || [http://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/li-peng_the-critical-moment-li-peng-diaries_chs.chm 中文CHM] || 此书从保守派的视角，叙述了六四期间高层的动态。在此书中，小李这个家伙处处不忘开脱自己。 ||
 || 驚心動魄的五十六天 || 国家教委思想政治工作司 || [http://www.64memo.com/b5/2.htm 繁體中文在線版] || 此书是朝廷官方出版滴，看的时候要 *小心被洗脑* 。这个在线阅读链接，是繁体的“香港注译本”。 ||
 
-== 政治类/历史事件/文革相关 ==
+== 政治类/历史事件/文革 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 红卫兵档案 || 吴过 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/wu-guo_red-guards-archives_chs.pdf 中文PDF] || 详细介绍了文革中红卫兵运动的兴衰。 ||
 || 文革研究 || （多人） || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/research-of-cultural-revolution_chs.pdf 中文PDF] || 严格来说，这不是一本书，而是几篇文革相关的研究文章的汇总。 ||
+
+== 政治类/历史事件/三年大饥荒 ==
+
+|| *书名* || *作者* || *下载页面* || *备注* ||
+|| 墓碑 - 中国六十年代大饥荒纪实 || [http://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/yang-jisheng_tombstone_chs.pdf 中文PDF] || 杨继绳的背景，前面已经提到了。此书又是一本大部头纪实，足见杨继绳写纪实题材的功力。 ||
+|| 人祸 - “大跃进”与大饥荒 || [http://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Polity/ding-shu_man-made-disaster_chs.zip 中文HTML] || 书名“人祸”直接就点到了三年大饥荒的要害——根本就没有“天灾”。看完此书，你将更加明白这一点。 ||
+
 
 == 政治类/天朝的领导人 ==
 
