@@ -50,6 +50,9 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 3.21 || 2011-12-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.21.7z 下载页面] ||
 || 3.22 || 2012-01-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.22.7z 下载页面] ||
 || 3.26 || 2012-02-01 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.26.7z 下载页面] ||
+|| 3.27 || 2012-02-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.27.7z 下载页面] ||
+|| 3.30 || 2012-03-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.30.7z 下载页面] ||
+|| 3.31 || 2012-04-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.31.7z 下载页面] ||
 
 
 == 自.由.門 ==
@@ -95,6 +98,8 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 7.2.3 || 2011-12-29 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.3-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.3-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.3-restrict.7z 限制版] ||
 || 7.2.4 || 2012-01-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.4-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.4-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.4-restrict.7z 限制版] ||
 || 7.2.5 || 2012-01-22 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.5-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.5-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.5-restrict.7z 限制版] ||
+|| 7.2.6 || 2012-02-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.6-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.6-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.6-restrict.7z 限制版] ||
+|| 7.2.7 || 2012-03-21 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.7-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.7-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.7-restrict.7z 限制版] ||
 
 以下是针对手机的 自.由.門，目前有Windows Mobile版本和Java版本两种。
 
@@ -140,6 +145,7 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 10.17 || 2011-08-16 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-10.17.7z 下载页面] ||
 || 11.02 || 2011-11-04 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-11.02.7z 下载页面] ||
 || 11.03 || 2011-11-22 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-11.03.7z 下载页面] ||
+|| 11.04 || 2012-02-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-11.04.7z 下载页面] ||
 
 
 == Hotspot Shield ==
