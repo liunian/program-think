@@ -94,7 +94,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 学会提问 - 批判性思维指南 || 布朗 & 基利 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Psychology/asking-the-right-questions_a-guide-to-critical-thinking_7th-edition_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Psychology/asking-the-right-questions_a-guide-to-critical-thinking_8th-edition_en.pdf 英文PDF] || [http://program-think.blogspot.com/2010/10/book-review-asking-right-questions.html 俺的书评] ||
-|| 少有人走的路 - 心智成熟的旅程 || 斯科特·派克 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Psychology/scott-peck_the-road-less-traveled_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Psychology/scott-peck_the-road-less-traveled_chs.txt 中文TXT] || [http://program-think.blogspot.com/2012/06/book-review-the-road-less-traveled.html 俺的书评] ||
+|| 少有人走的路 - 心智成熟的旅程 || 斯科特·派克 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Psychology/scott-peck_the-road-less-traveled_chs.pdf 中文PDF]、[http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/Books/Psychology/scott-peck_the-road-less-traveled_chs.txt 中文TXT] || [http://program-think.blogspot.com/2012/06/book-review-road-less-traveled.html 俺的书评] ||
 
 
 == 文化类 ==
