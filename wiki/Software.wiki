@@ -22,7 +22,7 @@
 
 绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
 
-如果验证数字签名时，显示“证书已被颁发者吊销”，没有关系。为了保险起见，附上该 exe 文件的散列校验值。
+如果验证数字签名时，显示“证书已被颁发者吊销”，没有关系。请验证 GPass-4.1.0.exe 文件的散列校验值（如下所示）。
 
 SHA1 校验值：0aa2a7cb91df25ea42e5b5345a2281a160f0464f
 
@@ -100,6 +100,10 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 7.2.5 || 2012-01-22 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.5-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.5-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.5-restrict.7z 限制版] ||
 || 7.2.6 || 2012-02-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.6-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.6-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.6-restrict.7z 限制版] ||
 || 7.2.7 || 2012-03-21 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.7-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.7-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.7-restrict.7z 限制版] ||
+|| 7.2.8 || 2012-04-26 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.8-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.8-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.8-restrict.7z 限制版] ||
+|| 7.2.9 || 2012-05-11 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.9-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.9-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.2.9-restrict.7z 限制版] ||
+|| 7.3.0 || 2012-06-04 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.0-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.0-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.0-restrict.7z 限制版] ||
+|| 7.3.1 || 2012-07-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.1-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.1-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.1-restrict.7z 限制版] ||
 
 以下是针对手机的 自.由.門，目前有Windows Mobile版本和Java版本两种。
 
