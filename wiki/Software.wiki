@@ -53,6 +53,7 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 3.27 || 2012-02-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.27.7z 下载页面] ||
 || 3.30 || 2012-03-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.30.7z 下载页面] ||
 || 3.31 || 2012-04-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.31.7z 下载页面] ||
+|| 3.36 || 2012-07-09 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.36.7z 下载页面] ||
 
 
 == 自.由.門 ==
@@ -168,9 +169,25 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 2.06 || 2011-07-02 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-2.06.7z 下载页面] ||
 
 
+== I2P ==
+
+跟 TOR 很类似的一款软件（TOR 叫洋葱路由，而 I2P 是大蒜路由）。
+
+官方网站是[http://www.i2p2.de/]，必须翻墙才能访问。
+
+I2P 跟 TOR 一样，主要用途是“隐匿身份”，翻墙只是顺带的附加用途。
+
+I2P 比 TOR 更加坚挺（不易被封杀），但是速度比较慢。可以在紧急情况下（其它翻墙工具失效时）用来翻墙。
+
+更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2012/06/gfw-i2p.html 简单扫盲 I2P 的使用]》
+
+|| *版本* || *发布日期* || *下载页面* ||
+|| 0.9 || 2012-05-02 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.7z 下载页面] ||
+
+
 == 花.园.網.络 ==
 
-官方网站是[http://www.internetfreedom.org/GTunnel]，请翻墙访问。
+官方网站是[http://www.internetfreedom.org/GTunnel]，必须翻墙才能访问。
 
 绿色软件，无需安装。压缩包内含单个可执行文件和2个动态库。
 
@@ -182,11 +199,11 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 
 == Puff ==
 
-官方网站是[http://www.erights.net/]，请翻墙访问。
+官方网站是[http://www.erights.net/]，必须翻墙才能访问。
 
 此软件速度较快，具有商业版和免费版2种。压缩包中是其安装程序。
 
 || *版本* || *发布日期* || *类型* || *下载页面* ||
-|| 0.05 || 2009-09-27 || 商业版 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/puff-0.05-commercial-version.7z  下载页面] ||
-|| 0.03 || 2009-12-28 || 免费版 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/puff-0.03-free-version.7z  下载页面] ||
-|| 0.03.321 || 2010-03-21 || 免费版 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/puff-0.03.321-free-version.7z  下载页面] ||
+|| 0.05 || 2009-09-27 || 商业版 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/puff-0.05-commercial-version.7z 下载页面] ||
+|| 0.03 || 2009-12-28 || 免费版 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/puff-0.03-free-version.7z 下载页面] ||
+|| 0.03.321 || 2010-03-21 || 免费版 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/puff-0.03.321-free-version.7z 下载页面] ||
