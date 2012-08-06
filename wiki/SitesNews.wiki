@@ -13,7 +13,7 @@
 || || [http://www.bbc.co.uk/] || Web || English Homepage ||
 || || [http://www.bbc.co.uk/zhongwen/simp/] || Web || 简体中文主页 ||
 || || [http://www.bbc.co.uk/zhongwen/trad/] || Web || 繁體中文主頁 ||
-|| || [http://www.bbc.co.uk/zhongwen/simp/index.xml BBC新闻] || RSS || 简体中文，摘要输出 ||
+|| || [http://www.bbc.co.uk/zhongwen/simp/index.xml BBC新闻订阅] || RSS || 简体中文，摘要输出 ||
 || || [https://twitter.com/BBCchinese @BBCchinese] || Twitter || 简体中文推特 ||
 || 德国之声 || || || 由德国政府拨款进行运作，柏林 ||
 || || [http://www.dw-world.de/] || Web || English Homepage ||
@@ -23,11 +23,18 @@
 || || [http://www.reuters.com/] || Web || English Homepage ||
 || || [http://cn.reuters.com/] || Web || 路透中文网主页 ||
 || || [http://blogs.cn.reuters.com/feed 路透博客] || RSS || 简体中文，全文输出 ||
+|| 法国国际广播电台 || || || 简称RFI（Radio France Internationale），由法国外交部赞助 ||
+|| || [http://www.rfi.fr/] || Web || English Homepage ||
+|| || [https://twitter.com/RFI @RFI] || Twitter || English Twitter ||
+|| || [http://www.chinese.rfi.fr/] || Web || 简体中文主页 ||
+|| || [http://www.chinese.rfi.fr/contenu/most-read/feed 热点新闻订阅] || RSS || 简体中文，摘要输出 ||
+|| || [http://www.chinese.rfi.fr/actufr/pages/001/accueil.xml 最近24小时新闻订阅] || RSS || 简体中文，摘要输出 ||
+|| || [https://twitter.com/RFI_Chinois @RFI_Chinois] || Twitter || 简体中文推特 ||
 || 荷兰国际广播电台 || || || 简称RNW（Radio Netherlands Worldwide），是一个独立的，国际化的多媒体组织。 ||
 || || [http://www.rnw.nl/] || Web || English Homepage ||
-|| || [https://twitter.com/RNW @RNW] || Twitter || English Twitter ||
 || || [http://www.rnw.nl/chinese] || Web || 简体中文主页 ||
 || || [http://m.rnw.nl/chinese] || Web || 简体中文主页的精简版，面向手机浏览 ||
+|| || [https://twitter.com/RNW @RNW] || Twitter || English Twitter ||
 || 全球之声 || || || 开放给各国Blogger进行公民报道，并把各国的博客报道翻译成各种主流语言。其内容囊括了世界的每个角落 ||
 || || [http://globalvoicesonline.org] || Web || English Homepage ||
 || || [https://twitter.com/GlobalVoices @GlobalVoices] || Twitter || English Twitter ||
@@ -40,7 +47,6 @@
 || || [http://www.rsf-chinese.org/] || Web || 简体中文主页 ||
 || || [http://www.rsf-chinese.org/spip.php?page=backend 新闻订阅] || RSS || 简体中文，摘要输出 ||
 
-
 == 北美 ==
 
 || *名称* || *链接* || *类型* || *说明* ||
@@ -48,7 +54,7 @@
 || || [http://www.nytimes.com/] || Web || English Homepage ||
 || || [http://cn.nytimes.com/] || Web || 简体中文主页 ||
 || || [http://cn.nytimes.com/zh-hk/] || Web || 繁體中文主頁 ||
-|| || [https://twitter.com/nytimes @nytimes] || Twitter || New York Times on Twitter ||
+|| || [https://twitter.com/nytimes @nytimes] || Twitter || English Twitter ||
 || || [https://twitter.com/NYTchinese @NYTchinese] || Twitter || 简体中文推特 ||
 || 有线新闻网 || || || 在国内名声不太好的CNN(Cable News Network)，总部在亚特兰大 ||
 || || [http://www.cnn.com/] || Web || English Homepage ||
