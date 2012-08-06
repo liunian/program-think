@@ -9,7 +9,7 @@
 == 欧洲 ==
 
 || *名称* || *链接* || *类型* || *说明* ||
-|| 英国广播公司 || || || 大名鼎鼎的BBC(British Broadcasting Corporation)，伦敦 ||
+|| 英国广播公司 || || || 大名鼎鼎的BBC(British Broadcasting Corporation)，总部在伦敦 ||
 || || [http://www.bbc.co.uk/] || Web || English Homepage ||
 || || [http://www.bbc.co.uk/zhongwen/simp/] || Web || 简体中文主页 ||
 || || [http://www.bbc.co.uk/zhongwen/trad/] || Web || 繁體中文主頁 ||
@@ -30,7 +30,7 @@
 || || [http://m.rnw.nl/chinese] || Web || 简体中文主页的精简版，面向手机浏览 ||
 || 全球之声 || || || 开放给各国Blogger进行公民报道，并把各国的博客报道翻译成各种主流语言。其内容囊括了世界的每个角落 ||
 || || [http://globalvoicesonline.org] || Web || English Homepage ||
-|| || [https://twitter.com/globalvoices @globalvoices] || Twitter || English Twitter ||
+|| || [https://twitter.com/GlobalVoices @GlobalVoices] || Twitter || English Twitter ||
 || || [http://zh.globalvoicesonline.org/hans] || Web || 简体中文主页 ||
 || || [http://zh.globalvoicesonline.org/hans/feed/ 新闻订阅] || RSS || 简体中文，摘要输出 ||
 || || [http://zh.globalvoicesonline.org/hant] || Web || 简体中文主页 ||
@@ -44,16 +44,22 @@
 == 北美 ==
 
 || *名称* || *链接* || *类型* || *说明* ||
-|| 美国之音 || || || 鼎鼎大名的VOA(Voice of America)，隶属美国政府，华盛顿 ||
-|| || [http://voanews.com/] || Web || English Homepage ||
-|| || [http://voanews.com/chinese] || Web || 简体中文主页 ||
-|| || [http://www.voanews.com/templates/Articles.rss?sectionPath=/chinese/news/china 美国之音新闻] || RSS || 简体中文，摘要输出 ||
-|| || [https://twitter.com/VOAChinese @VOAChinese] || Twitter || 简体中文推特 ||
-|| 有线新闻网 || || || 在国内名声不太好的CNN(Cable News Network)，亚特兰大 ||
+|| 纽约时报 || || || 大名鼎鼎的纽约时报，美国的严肃报刊，公信力很好，总部当然在纽约 ||
+|| || [http://www.nytimes.com/] || Web || English Homepage ||
+|| || [http://cn.nytimes.com/] || Web || 简体中文主页 ||
+|| || [http://cn.nytimes.com/zh-hk/] || Web || 繁體中文主頁 ||
+|| || [https://twitter.com/nytimes @nytimes] || Twitter || New York Times on Twitter ||
+|| || [https://twitter.com/NYTchinese @NYTchinese] || Twitter || 简体中文推特 ||
+|| 有线新闻网 || || || 在国内名声不太好的CNN(Cable News Network)，总部在亚特兰大 ||
 || || [http://www.cnn.com/] || Web || English Homepage ||
 || || [https://twitter.com/CNN @CNN] || Twitter || CNN on Twitter ||
 || || [https://twitter.com/CNNbrk @CNNbrk] || Twitter || CNN Breaking News on Twitter ||
 || || [https://twitter.com/CNNi @CNNi] || Twitter || CNN International on Twitter ||
+|| 美国之音 || || || 鼎鼎大名的VOA(Voice of America)，隶属美国政府，总部在华盛顿 ||
+|| || [http://voanews.com/] || Web || English Homepage ||
+|| || [http://voanews.com/chinese] || Web || 简体中文主页 ||
+|| || [http://www.voanews.com/templates/Articles.rss?sectionPath=/chinese/news/china 新闻订阅] || RSS || 简体中文，摘要输出 ||
+|| || [https://twitter.com/VOAchinese @VOAchinese] || Twitter || 简体中文推特 ||
 || 自由亚洲电台 || || || 美国国会资助的非盈利电台，主要搞民运宣传 ||
 || || [http://www.rfa.org/] || Web || English Homepage ||
 || || [http://www.rfa.org/mandarin/] || Web || 简体中文主页 ||
@@ -67,20 +73,22 @@
 || || [http://news.boxun.com/news/rss/pol.xml 政治新闻订阅] || RSS || 简体中文，仅标题输出 ||
 || 中国报道周刊 || || || 含政治、经济、新闻、学术、历史、军事、哲学、等方面的电子杂志 ||
 || || [http://www.china-week.com/] || Web || 简体中文主页 ||
-|| || [https://twitter.com/chinaweek @chinaweek] || Twitter || 简体中文推特 ||
+|| || [https://twitter.com/ChinaWeek @ChinaWeek] || Twitter || 简体中文推特 ||
 || || [http://feeds.feedburner.com/china-week 文章订阅] || RSS || 简体中文，全文输出 ||
 || 中国数字时代 || || || 是一个Web 2.0新闻汇聚网站，内容包括中国的政治、经济、社会、文化等方面 ||
 || || [http://chinadigitaltimes.net/] || Web || English Homepage ||
 || || [http://chinadigitaltimes.net/chinese/] || Web || 简体中文主页 ||
 || || [https://twitter.com/cdt @cdt] || Twitter || 简体中文推特 ||
+|| 新世纪新闻网 || || || 以新闻、政治评论为主的综合类网站 ||
+|| || [http://www.newcenturynews.com/] || Web || 简体中文主页 ||
+|| || [http://www.newcenturynews.com/Rss.asp?ChannelID=1 新闻订阅] || RSS || 简体中文，摘要输出 ||
+|| || [https://twitter.com/ncch1234 @ncch1234] || Twitter || 简体中文推特 ||
+|| 世界新聞網 || || || 北美面向華人社區的新聞網站 ||
+|| || [http://www.worldjournal.com/] || Web || 繁體中文主頁 ||
 || 万维读者网 || || || 99年由旅居北美的华人创办，据说09年股权变更后，新闻立场已转变并导致访问量下降 ||
 || || [http://www.creaders.net/] || Web || 繁體中文主頁 ||
 || || [http://www.creaders.net/?language=gb2312] || Web || 简体中文主页 ||
 || || [http://www.creadersnet.com/] || Web || English Homepage ||
-|| 世界新聞網 || || || 北美面向華人社區的新聞網站 ||
-|| || [http://www.worldjournal.com/] || Web || 繁體中文主頁 ||
-|| 新世纪新闻网 || || || 以新闻、政治评论为主的综合类网站 ||
-|| || [http://www.newcenturynews.com/] || Web || 简体中文主页 ||
 
 == 香港 ==
 
@@ -88,17 +96,24 @@
 || 亞洲周刊 || || || 比較中立客觀的華文報刊 ||
 || || [http://www.yzzk.com/] || Web || 繁體中文主頁 ||
 || || [http://www.yzzk.com/rss/rss.xml 新聞訂閲] || RSS || 繁體中文摘要輸出 ||
+|| 香港獨立媒體 || || || 獨立註冊的社團，宗旨是推動民主運動及言論自由 ||
+|| || [http://www.inmediahk.net/] || Web || 繁體中文主頁 ||
+|| || [http://inmediahk.net/full/feed 所有文章訂閲] || RSS || 繁體中文全文輸出 ||
 || 明報 || || || 大名鼎鼎的金庸創辦 ||
 || || [http://www.mingpaonews.com/] || Web || 繁體中文主頁 ||
-|| || [https://twitter.com/mingpaocom @mingpaocom] || Twitter || 繁體中文推特 ||
+|| || [https://twitter.com/MingPaoCom @MingPaoCom] || Twitter || 繁體中文推特 ||
 || 蘋果日報 || [http://hk.nextmedia.com/] || Web || 香港版的繁體中文主頁 ||
 || 星島日報 || [http://www.singtao.com/] || Web || 繁體中文主頁，屬星島集團旗下，尚未被墙 ||
 || 星岛环球网 || || || 和星岛日报是一家子，尚未被墙 ||
 || || [http://www.stnn.cc/] || Web || 简体中文主页 ||
 || || [http://www.stnn.cc:82/] || Web || 繁體中文主頁 ||
-|| 香港獨立媒體 || || || 獨立註冊的社團，宗旨是推動民主運動及言論自由 ||
-|| || [http://www.inmediahk.net/] || Web || 繁體中文主頁 ||
-|| || [http://inmediahk.net/full/feed 所有文章訂閲] || RSS || 繁體中文全文輸出 ||
+|| 香港電視廣播有限公司 || || || 很有名氣的 TVB（Television Broadcasts Limited），旗下包括：翡翠台、明珠台、互動新聞台、等 ||
+|| || [http://www.tvb.com/] || Web || 繁體中文主頁 ||
+|| || [https://twitter.com/TVBcom @TVBcom] || Twitter || 繁體中文推特 ||
+|| 香港亞洲電視 || || || 簡稱 ATV（Asia Television Limited），旗下包括：本港台、国际台、亚洲台 ||
+|| || [http://www.hkatv.com/] || Web || 繁體中文主頁 ||
+|| || [http://www.hkatv.com/v5/index_cn.html] || Web || 简体中文主页 ||
+
 
 == 臺灣 ==
 
@@ -119,6 +134,6 @@
 || *名称* || *链接* || *类型* || *说明* ||
 || 联合早报 || || || 新加坡主要华文报纸，偶尔被墙。目前可正常访问，不过亲中共的趋势逐渐明显 ||
 || || [http://www.zaobao.com/] || Web || 简体中文主页 ||
-|| || [https://twitter.com/zaobaochina @zbcom] || Twitter || 简体中文推特 ||
+|| || [https://twitter.com/ZaoBaoChina @ZaoBaoChina] || Twitter || 简体中文推特 ||
 || || [http://realtime.zaobao.com/news.xml 即时报道订阅] || RSS || 简体中文，仅标题输出 ||
 || || [http://www.zaobao.com/gj/gj.xml 国际新闻订阅] || RSS || 简体中文，仅标题输出||
