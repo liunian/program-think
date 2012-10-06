@@ -115,7 +115,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 政治类 / 理论 / 极权主义 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 极权主义的起源 || [https://en.wikipedia.org/wiki/Richard_Pipes 汉娜·阿伦特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!953 中文PDF] || 汉娜·阿伦特是国际知名的政治理论家，以研究极权主义而闻名于世。此书是她的成名作。看完此书你对“什么是极权主义”会有更深刻的认识。而且你会发现：虽然“共产主义”和“纳粹主义”表面上迥异，其实本质上是想通的，具有共同的起源。顺便说一下，毛太祖统治的天朝，就是典型的极权主义。 ||
+|| 极权主义的起源 || [https://en.wikipedia.org/wiki/Richard_Pipes 汉娜·阿伦特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!953 中文PDF] || 汉娜·阿伦特是国际知名的政治理论家，以研究极权主义而闻名于世。此书是她的成名作。看完此书，你对“什么是极权主义”会有更深刻的认识。而且你会发现：虽然“共产主义”和“纳粹主义”表面上迥异，其实本质上是想通的，具有共同的起源。顺便说一下，毛太祖统治的天朝，就是典型的极权主义。 ||
 
 
 == 政治类 / 美国 ==
@@ -134,7 +134,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 中国人的性格 || 亚瑟·史密斯 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!776 中文PDF]、[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!856 中文TXT] || [http://program-think.blogspot.com/2011/02/book-review-chinese-characteristics.html 俺的书评] ||
-|| 丑陋的中国人 || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏扬（郭定生）] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!952 中文TXT] || 柏扬是台湾作家、思想家，有“台湾鲁迅”之称。《丑陋的中国人》最早是柏扬1984年在美国爱荷华大学的一次演讲。文中深刻批判了中国人的劣根性。文中用酱缸来比喻中国文化（外来的好东西，进了酱缸，都要变质发臭），非常形象深刻。 ||
+|| 丑陋的中国人 || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏扬（郭定生）] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!952 中文TXT] || 柏扬是台湾作家、思想家，有“台湾鲁迅”之称。《丑陋的中国人》最早是柏扬1984年在美国爱荷华大学的一次演讲。文中深刻批判了中国人的劣根性。比如用酱缸来类比中国文化（外来的好东西，进了酱缸，都要变质发臭），非常形象。 ||
 
 
 = 心理学类 =
