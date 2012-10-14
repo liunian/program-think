@@ -115,7 +115,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 政治类 / 理论 / 极权主义 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 极权主义的起源 || [https://en.wikipedia.org/wiki/Richard_Pipes 汉娜·阿伦特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!953 中文PDF] || 汉娜·阿伦特是国际知名的政治理论家，以研究极权主义而闻名于世。此书是她的成名作。看完此书，你对“什么是极权主义”会有更深刻的认识。而且你会发现：虽然“共产主义”和“纳粹主义”表面上迥异，其实本质上是想通的，具有共同的起源。顺便说一下，毛太祖统治的天朝，就是典型的极权主义。 ||
+|| 极权主义的起源 || [https://en.wikipedia.org/wiki/Richard_Pipes 汉娜·阿伦特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!953 中文PDF]、[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!955 中文CHM] || 汉娜·阿伦特是国际知名的政治理论家，以研究极权主义而闻名于世。此书是她的成名作。看完此书，你对“什么是极权主义”会有更深刻的认识。而且你会发现：虽然“共产主义”和“纳粹主义”表面上迥异，其实本质上是想通的，具有共同的起源。顺便说一下，毛太祖统治的天朝，就是典型的极权主义。 ||
 
 
 == 政治类 / 美国 ==
@@ -142,6 +142,12 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 学会提问——批判性思维指南 || 布朗 & 基利 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!837 中文PDF（第7版）]、[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!836 英文PDF（第8版）] || [http://program-think.blogspot.com/2010/10/book-review-asking-right-questions.html 俺的书评] ||
 || 少有人走的路——心智成熟的旅程 || 斯科特·派克 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!890 中文PDF]、[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!891 中文TXT] || [http://program-think.blogspot.com/2012/06/book-review-road-less-traveled.html 俺的书评] ||
+
+= 心理学类 / 洗脑 =
+
+|| *书名* || *作者* || *下载页面* || *备注* ||
+|| 思想改造和极权主义心理学——中国的洗脑研究 || Robert Jay Lifton || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!957 英文Mobi] || 哪位网友能找到中文版，请不吝告知 ||
+|| 洗脑——思维控制的科学 || Kathleen Taylor || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!958 英文PDF] || 哪位网友能找到中文版，请不吝告知 ||
 
 
 = 管理类 =
