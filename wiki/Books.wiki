@@ -49,6 +49,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 改革历程——赵紫阳回忆录 || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3 赵紫阳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!860 中文PDF] || 作为赵紫阳的回忆录，此书对于了解80年代的朝廷高层，很有价值。 ||
 || 赵紫阳还说过什么？——杜导正日记 || [https://zh.wikipedia.org/wiki/%E6%9D%9C%E5%AF%BC%E6%AD%A3 杜导正] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!889 中文PDF] || 作者杜导正是赵.紫.阳的老部下。赵.紫.阳被软禁之后，只有极少数人能够跟赵见面，杜导正是其中之一。本书记录了杜导正同赵.紫.阳之间的多次秘密谈话。 ||
 || 中国——奇迹的黄昏 || 袁剑 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!859 中文PDF] || “黄昏”一词暗指天朝经济表面的繁荣。此书的价值在于：深刻揭露了天朝权贵阶层对社会财富的掠夺。 ||
+|| 大国沉沦——写给中国的备忘录 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!964 中文PDF] || 本书的内容比较杂，涉及了当今政坛的许多方面，包括：一党独裁、权贵资本主义、维权、六四、民族主义、等。 ||
+
 
 == 政治类 / 中国 / 中共历史 / 六四事件 ==
 
@@ -60,7 +62,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 人民不會忘記 || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港記者協會] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!863 繁體中文HTML]、[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體中文在線版] || 此书是香港记者协会出版，汇总了几十名记者的六四报道。 ||
 || 八九民運史 || 陳小雅 || [http://www.64memo.com/b5/4.htm 繁體中文在線版] || 虽然此书的名气不大，但是俺在写《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》的过程中，也参考了它的某些内容。 ||
 || 铭记天安门 || Robin Munro || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!884 中文PDF] || 作者Robin Munro是人权组织观察员。六月3日夜间到次日凌晨4点，他在广场周边目睹了党国的血腥镇压。 ||
-|| 黄雀行动 || 江迅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!886 中文PDF] || 六四运动被血腥镇压之后，朝廷鹰犬在大肆搜捕参与民主运动的骨干分子。一些勇敢的香港人组织了秘密渠道，帮助民运人士逃离大陆，代号“黄雀行动”。 ||
+|| 黄雀行动 || 江迅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!886 中文PDF] || 六四运动被血腥镇压之后，朝廷鹰犬在大肆搜捕参与民主运动的骨干分子。<br>一些勇敢的香港人组织了秘密渠道，帮助民运人士逃离大陆，代号“黄雀行动”。 ||
 || 关键时刻——李鹏日记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!864 中文CHM] || 此书从保守派的视角，叙述了六四期间高层的动态。在此书中，小李这个家伙处处不忘开脱自己。 ||
 || 驚心動魄的五十六天 || 国家教委思想政治工作司 || [http://www.64memo.com/b5/2.htm 繁體中文在線版] || 此书是朝廷官方出版滴，看的时候要 *小心被洗脑* 。这个在线阅读链接，是繁体的“香港注译本”。 ||
 
