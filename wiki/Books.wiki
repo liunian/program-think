@@ -93,7 +93,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 政治类 / 中国 / 政治人物 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 太子党关系网络 || 编程随想 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!966 中文PDF] || 这是俺花了好几个不眠之夜，在网上搜集的天朝权贵关系网。为了让大伙儿看起来直观，特地做成可视化的网状图。<br>看完这个关系网，你对天朝的权贵阶层，会有更深刻的认识。 ||
+|| 太子党关系网络 || 编程随想 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!966 中文PDF] || 这是俺花了好几个不眠之夜，在网上搜集的天朝权贵关系网。为了让大伙儿看起来直观，特地做成可视化的网状图。<br>看完这个关系网，你对天朝的权贵阶层，会有更深刻的认识。<br>为与时俱进，本文档会不定期更新。如有重大更新，会在博客中告知大伙儿。 ||
 || 红太阳是怎样升起的——延安整风运动的来龙去脉 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!867 中文CHM] || 延安整风是老毛确立党内独裁地位的关键，高华这本书详细说明了这段历史。 ||
 || 红太阳的陨落——千秋功罪毛泽东 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!865 中文DOC] || 此书不但深刻批判了毛太祖的罪恶，而且名气还挺大，以至于某毛左网站把辛子陵列为“头号汉奸”。 ||
 || 新发现的毛泽东——仆人眼中的伟人 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!866 中文PDF] || 作为人民日报副总编，王若水这本书提供了一种新的视角（真理部内部的视角）来看毛太祖。 ||
