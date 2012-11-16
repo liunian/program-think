@@ -188,7 +188,8 @@ I2P 比 TOR 更加坚挺（不易被封杀），但是速度比较慢。可以�
 更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2012/06/gfw-i2p.html 简单扫盲 I2P 的使用]》
 
 || *版本* || *发布日期* || *下载页面* ||
-|| 0.9 || 2012-05-02 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.7z 下载页面] ||
+|| 0.9   || 2012-05-02 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.7z 下载页面] ||
+|| 0.9.3 || 2012-10-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.3.7z 下载页面] ||
 
 
 == 花.园.網.络 ==
