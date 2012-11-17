@@ -99,20 +99,26 @@
 == 香港 ==
 
 || *名称* || *链接* || *类型* || *说明* ||
+|| 明報 || || || 大名鼎鼎的金庸創辦，比較中立 ||
+|| || [http://www.mingpaonews.com/] || Web || 繁體中文主頁 ||
+|| || [https://twitter.com/MingPaoCom @MingPaoCom] || Twitter || 繁體中文推特 ||
 || 亞洲周刊 || || || 比較中立客觀的華文報刊 ||
 || || [http://www.yzzk.com/] || Web || 繁體中文主頁 ||
 || || [http://www.yzzk.com/rss/rss.xml 新聞訂閲] || RSS || 繁體中文摘要輸出 ||
-|| 香港獨立媒體 || || || 獨立註冊的社團，宗旨是推動民主運動及言論自由 ||
-|| || [http://www.inmediahk.net/] || Web || 繁體中文主頁 ||
-|| || [http://inmediahk.net/full/feed 所有文章訂閲] || RSS || 繁體中文全文輸出 ||
-|| 明報 || || || 大名鼎鼎的金庸創辦 ||
-|| || [http://www.mingpaonews.com/] || Web || 繁體中文主頁 ||
-|| || [https://twitter.com/MingPaoCom @MingPaoCom] || Twitter || 繁體中文推特 ||
-|| 蘋果日報 || [http://hk.nextmedia.com/] || Web || 香港版的繁體中文主頁 ||
+|| 蘋果日報 || || || 主要在港臺兩地發行的知名報刊，立場偏反共 ||
+|| || [http://hk.nextmedia.com/] || Web || 香港版的繁體中文主頁 ||
+|| || [https://twitter.com/HKAppleDaily @HKAppleDaily] || Twitter || 香港版的繁體中文推特 ||
+|| 南華早報 || || || 香港很老牌的報紙，2000年之后逐漸有親北京的傾向  ||
+|| || [http://www.scmp.com/] || Web || English Homepage ||
+|| || [http://chinaoutlook.scmp.com/zh-hk/] || Web || 繁體中文主頁 ||
+|| || [https://twitter.com/SCMP_News @SCMP_News] || Twitter || 繁體中文推特 ||
 || 星島日報 || [http://www.singtao.com/] || Web || 繁體中文主頁，屬星島集團旗下，尚未被墙 ||
 || 星岛环球网 || || || 和星岛日报是一家子，尚未被墙 ||
 || || [http://www.stnn.cc/] || Web || 简体中文主页 ||
 || || [http://www.stnn.cc:82/] || Web || 繁體中文主頁 ||
+|| 香港獨立媒體 || || || 獨立註冊的社團，宗旨是推動民主運動及言論自由 ||
+|| || [http://www.inmediahk.net/] || Web || 繁體中文主頁 ||
+|| || [http://inmediahk.net/full/feed 所有文章訂閲] || RSS || 繁體中文全文輸出 ||
 || 香港電視廣播有限公司 || || || 很有名氣的 TVB（Television Broadcasts Limited），旗下包括：翡翠台、明珠台、互動新聞台、等 ||
 || || [http://www.tvb.com/] || Web || 繁體中文主頁 ||
 || || [https://twitter.com/TVBcom @TVBcom] || Twitter || 繁體中文推特 ||
@@ -124,9 +130,9 @@
 == 臺灣 ==
 
 || *名称* || *链接* || *类型* || *说明* ||
-|| 蘋果日報 || || Web || 主要在港臺兩地發行 ||
+|| 蘋果日報 || || Web || 主要在港臺兩地發行的知名報刊，立場偏反共 ||
 || || [http://tw.nextmedia.com/] || Web || 臺灣版的繁體中文主頁 ||
-|| || [https://twitter.com/TW_nextmedia @TW_nextmedia] || Twitter || 繁體中文推特 ||
+|| || [https://twitter.com/TW_nextmedia @TW_nextmedia] || Twitter || 臺灣版的繁體中文推特 ||
 || 聯合新聞網 ||  || || 聯合報係的核心網站，觀點偏藍 ||
 || || [http://udn.com/] || Web || 繁體中文主頁 ||
 || || [http://udn.com/udnrss/latest.xml 最新報道訂閲] || RSS || 繁體中文摘要輸出 ||
