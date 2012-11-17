@@ -85,12 +85,12 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 阳谋 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!981 中文CHM] || 此书的作者也就是前面《人祸》作者 ||
-|| 1957年的夏季——从百家争鸣到两家争鸣 || 朱正 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!982 中文HTML] || 作者不太出名，不过书写得还是很详细——里面列举了很多当事人（尤其是毛太祖）的言论 ||
+|| 1957年的夏季——从百家争鸣到两家争鸣 || 朱正 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!982 中文HTML] || 作者不太出名，不过书写得还是很详细——里面列举了很多当事人（尤其是毛太祖）的言论。 ||
 
 == 政治类 / 中国 / 中共历史 / 国共内战时期 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 大江大海 一九四九 || [https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%87%89%E5%8F%B0 龙应台] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!979 繁體中文PDF] || 这本书主要讲述众多小人物在1949年的遭遇。此书是繁体竖排版，可能有些同学看着不习惯。 ||
+|| 大江大海 一九四九 || [https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%87%89%E5%8F%B0 龙应台] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!979 繁體中文PDF] || 这本书主要讲述众多小人物在1949年大陆沦陷时的遭遇。<br>此书是繁体竖排版，可能有些同学不习惯看竖排的。 ||
 
 == 政治类 / 中国 / 中共历史 / 延安和八年抗战时期 ==
 
@@ -104,7 +104,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 政治类 / 中国 / 中共历史 / （其它） ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 中國共產革命七十年 || 陳永發 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!959 繁體中文PDF（上冊）]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!960 繁體中文PDF（下冊）] || 陈永发是台湾中央研究院的知名学者。此书系统性介绍了中共的发家史。可惜是扫描版的，文件比较大，字有点模糊 ||
+|| 中國共產革命七十年 || 陳永發 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!959 繁體中文PDF（上冊）]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!960 繁體中文PDF（下冊）] || 陈永发是台湾中央研究院的知名学者。此书系统性介绍了中共的发家史。可惜是扫描版的，文件比较大，字有点模糊。 ||
 
 
 == 政治类 / 中国 / 政治人物 ==
