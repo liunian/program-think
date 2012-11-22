@@ -48,7 +48,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 中国改革年代的政治斗争 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!858 中文PDF] || 此书介绍了朝廷高层改革派与保守派的长期内斗。作者杨继绳长期在新华社工作，写出的内容真实且客观。 ||
 || 改革历程——赵紫阳回忆录 || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3 赵紫阳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!860 中文PDF] || 作为赵紫阳的回忆录，此书对于了解80年代的朝廷高层，很有价值。 ||
 || 赵紫阳还说过什么？——杜导正日记 || [https://zh.wikipedia.org/wiki/%E6%9D%9C%E5%AF%BC%E6%AD%A3 杜导正] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!889 中文PDF] || 作者杜导正是赵.紫.阳的老部下。赵.紫.阳被软禁之后，只有极少数人能够跟赵见面，杜导正是其中之一。本书记录了杜导正同赵.紫.阳之间的多次秘密谈话。 ||
-|| 中国——奇迹的黄昏 || 袁剑 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!859 中文PDF] || “黄昏”一词暗指天朝经济表面的繁荣。此书的价值在于：深刻揭露了天朝权贵阶层对社会财富的掠夺。 ||
+|| 现代化的陷阱 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!985 中文HTML] || 何清涟是天朝知名且敢言的经济学家。此书是她的成名作。<br>书中介绍了经济改革引发的种种问题（包括贫富分化、国有资产流失、圈地运动、等）。 ||
+|| 中国——奇迹的黄昏 || 袁剑 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!859 中文PDF] || “黄昏”一词暗指天朝经济的繁荣是好景不长。<br>此书的价值在于：深刻揭露了天朝权贵阶层对社会财富的掠夺。 ||
 || 大国沉沦——写给中国的备忘录 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!964 中文PDF] || 本书的内容比较杂，涉及了当今政坛的许多方面，包括：一党独裁、权贵资本主义、维权、六四、民族主义、等。 ||
 
 
