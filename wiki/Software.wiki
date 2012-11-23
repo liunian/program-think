@@ -34,6 +34,24 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 4.1.0 || 2008-09-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gpass-4.1.0.7z 下载页面] ||
 
 
+== I2P ==
+
+跟 TOR 很类似的一款软件（TOR 叫洋葱路由，而 I2P 是大蒜路由）。
+
+官方网站是[http://www.i2p2.de/]，必须翻墙才能访问。
+
+I2P 跟 TOR 一样，主要用途是“隐匿身份”，翻墙只是顺带的附加用途。
+
+I2P 比 TOR 更加坚挺（不易被封杀），但是速度比较慢。可以在紧急情况下（其它翻墙工具失效时）用来翻墙。
+
+更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2012/06/gfw-i2p.html 简单扫盲 I2P 的使用]》
+
+|| *版本* || *发布日期* || *下载页面* ||
+|| 0.9   || 2012-05-02 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.7z 下载页面] ||
+|| 0.9.3 || 2012-10-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.3.7z 下载页面] ||
+|| (种子包) || 2012-11-15 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-netdb.7z 下载页面] ||
+
+
 == 赛风 ==
 
 老牌的赛风2提供的是网页代理。从赛风3开始，推出了客户端软件，同时支持VPN模式和基于SSH的代理模式。
@@ -157,6 +175,13 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 11.02 || 2011-11-04 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-11.02.7z 下载页面] ||
 || 11.03 || 2011-11-22 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-11.03.7z 下载页面] ||
 || 11.04 || 2012-02-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-11.04.7z 下载页面] ||
+|| 12.01 || 2012-04-15 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.01.7z 下载页面] ||
+|| 12.02 || 2012-07-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.02.7z 下载页面] ||
+|| 12.03 || 2012-08-14 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.03.7z 下载页面] ||
+|| 12.04 || 2012-09-29 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.04.7z 下载页面] ||
+|| 12.05 || 2012-11-14 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.05.7z 下载页面] ||
+|| 12.06 || 2012-11-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.06.7z 下载页面] ||
+|| 12.07 || 2012-11-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.07.7z 下载页面] ||
 
 
 == Hotspot Shield ==
@@ -173,23 +198,6 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 1.45 || 2010-05-25 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-1.45.7z 下载页面] ||
 || 2.04 || 2011-06-03 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-2.04.7z 下载页面] ||
 || 2.06 || 2011-07-02 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-2.06.7z 下载页面] ||
-
-
-== I2P ==
-
-跟 TOR 很类似的一款软件（TOR 叫洋葱路由，而 I2P 是大蒜路由）。
-
-官方网站是[http://www.i2p2.de/]，必须翻墙才能访问。
-
-I2P 跟 TOR 一样，主要用途是“隐匿身份”，翻墙只是顺带的附加用途。
-
-I2P 比 TOR 更加坚挺（不易被封杀），但是速度比较慢。可以在紧急情况下（其它翻墙工具失效时）用来翻墙。
-
-更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2012/06/gfw-i2p.html 简单扫盲 I2P 的使用]》
-
-|| *版本* || *发布日期* || *下载页面* ||
-|| 0.9   || 2012-05-02 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.7z 下载页面] ||
-|| 0.9.3 || 2012-10-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.3.7z 下载页面] ||
 
 
 == 花.园.網.络 ==
