@@ -19,7 +19,7 @@
 
 *PDF 格式*
 
-俺共享的PDF格式电子书， *无需密码* 即可阅读。如果你无法打开PDF文件或者打开过程中提示输入密码，那应该是你的PDF阅读器版本不够新。用如下几款软件可以正常阅读。
+俺共享的PDF格式电子书， *无需密码* 即可阅读。如果你无法打开PDF文件或者打开过程中提示输入密码，那应该是你的PDF阅读器 *版本不够新* 。用如下几款软件可以正常阅读。
 
  * Acrobat Reader 7.0 或者更高的版本（Acrobat Reader 太臃肿，不推荐）
  * Foxit Reader 3.1.0 或者更高的版本（绿色软件，推荐使用）
@@ -75,7 +75,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 === 极权主义 ===
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 极权主义的起源 || [https://en.wikipedia.org/wiki/Richard_Pipes 汉娜·阿伦特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!953 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!955 中文CHM] || 汉娜·阿伦特是国际知名的政治理论家，以研究极权主义而闻名于世。此书是她的成名作。<br>看完此书，你对“什么是极权主义”会有更深刻的认识。<br>而且你会发现：虽然“共产主义”和“纳粹主义”表面上迥异，其实本质上是想通的，具有共同的起源。<br>顺便说一下，毛太祖统治的天朝，就是典型的极权主义。 ||
+|| 极权主义的起源 || [https://en.wikipedia.org/wiki/Richard_Pipes 汉娜·阿伦特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!953 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!955 中文CHM] || 汉娜·阿伦特是国际知名的政治理论家，以研究极权主义而闻名于世。此书是她的成名作。<br>看完此书，你对“什么是极权主义”会有更深刻的认识。<br>而且你会发现：虽然“共产主义”和“纳粹主义”表面上迥异，其实本质相通，具有共同起源。<br>顺便说一下，毛太祖统治的天朝，就是典型的极权主义。 ||
 
 
 == 中国 ==
@@ -109,9 +109,12 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 ==== 文革时期 ====
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 文化大革命<br>——历史真相和集体记忆 || 宋永毅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!936 中文PDF] || 这实际上是一本论文集。书中收集了几十位知名的文革研究学者和文革亲历者所写的文章。 ||
+|| 文化大革命<br>——历史真相和集体记忆 || 宋永毅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!936 中文PDF] || 这实际上是一本论文集。<br>书中收集了几十位研究学者和亲历者所写的文章。 ||
+|| 毛泽东最后的革命 || 麦克法夸尔 (中文名：马若德)<br>& 沈迈克 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!994 中文PDF] || 这本书2009年才出版，两位作者都是老外。<br>此书号称是西方学者写出来的，最权威的文革研究著作。<br>书中不但叙述了历史事件，还解释了相关政治人物的动机。 ||
+|| 文化大革命十年史 || 高皋 & [https://zh.wikipedia.org/wiki/%E4%B8%A5%E5%AE%B6%E5%85%B6 严家其] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1025 中文PDF] || 两位作者都是中国社会科学院的学者。<br>此书是700多页的大部头，记述了文革期间的所有重大事件。 ||
 || 红卫兵档案 || 吴过 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!868 中文PDF] || 详细介绍了文革中红卫兵运动的兴衰。 ||
 || 文革研究 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!869 中文PDF] || 严格来说，这不是一本书，而是几篇文革相关的研究文章的汇总。 ||
+|| 牛鬼蛇神录<br>——文革囚禁中的精灵 || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯]<br>(原名：杨羲光) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1014 中文PDF] || 杨小凯是天朝知名的经济学家（已故）。<br>文革期间他写了知名的大字报《中国向何处去》，引起轰动并因此被关押多年。<br>此书写的是他的狱中难友。 ||
 
 ==== 大跃进和大饥荒时期 ====
 
@@ -136,11 +139,11 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 ==== 延安和八年抗战时期 ====
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 红太阳是怎样升起的<br>——延安整风运动的来龙去脉 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!867 中文CHM] || 高华是党史研究方面的资深学者。<br>“延安整风”是老毛确立党内独裁地位的关键。此书详细介绍了这段历史。 ||
-|| 历史的先声<br>——半个世纪前的庄严承诺 || 笑蜀<br>(原名陈敏) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!949 中文CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!950 中文TXT] || 此书收录了延安时期，中共喉舌《新华日报》的几十篇社论。这些社论对民主自由的吹捧，俺看了都觉得肉麻。<br>看完之后，你会发现：中共没掌权时，说的比唱的还好听；一旦掌权，立马翻脸不认人。 ||
+|| 红太阳是怎样升起的<br>——延安整风运动的来龙去脉 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!995 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!867 中文CHM] || 高华是党史研究方面的资深学者（已故）。<br>“延安整风”是老毛确立党内独裁地位的关键。此书详细介绍了这段历史。 ||
+|| 历史的先声<br>——半个世纪前的庄严承诺 || 笑蜀<br>(原名：陈敏) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!949 中文CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!950 中文TXT] || 此书收录了延安时期，中共喉舌《新华日报》的几十篇社论。<br>这些社论对“民主自由”的吹捧，俺看了都觉得肉麻。<br>看完之后，你会发现：中共没掌权时，说的比唱的还好听；一旦掌权，立马翻脸不认人。 ||
 || 中共壮大之谜<br>——被掩盖的中国抗日战争真相 || 谢幼田 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!984 中文CHM] || 作者是移居海外的历史学者。此书介绍了中共利用日本侵华战争的机会，表面上口头抗日，背地里壮大自己的实力。<br>有兴趣的话可以再看看俺写的《[http://program-think.blogspot.com/2010/09/sino-japanese-war.html 谈谈真理部对抗战历史的篡改]》 ||
-|| 延安日记 || 弗拉基米洛夫 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!931 中文CHM] || 1942年，苏联派弗拉基米洛夫前往延安，担任共产国际驻中共区的联络员兼塔斯社随军记者。<br>由于作者的特殊身份，得以了解延安时期中共高层的内幕。比如毛太祖消极抗日；比如延安根据地种植和销售鸦片，以获得资金来源。 ||
-|| 紅太陽下的罌粟花<br>——鴉片貿易與延安模式 || 陳永發 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!932 繁體PDF] || 陈永发是台湾中央研究院的知名学者。通过此书可以更加详细地了解延安根据地的鸦片生意。这是共党在延安时期的一大污点。 ||
+|| 延安日记 || 弗拉基米洛夫 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!931 中文CHM] || 1942年，苏联派弗拉基米洛夫前往延安，担任共产国际驻中共区的联络员兼塔斯社随军记者。<br>由于作者的特殊身份，得以了解延安时期中共高层的内幕。<br>比如毛太祖消极抗日；比如延安根据地种植和销售鸦片，以获得资金来源。 ||
+|| 紅太陽下的罌粟花<br>——鴉片貿易與延安模式 || 陳永發 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!932 繁體PDF] || 陈永发是台湾中央研究院的知名学者。<br>通过此书可以更加详细地了解延安根据地的鸦片生意。这是共党在延安时期的一大污点。 ||
 
 ==== (其它) ====
 
@@ -187,8 +190,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 中国 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 中国人的性格 || 亚瑟·史密斯 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!776 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!856 中文TXT] || 此书非常深刻地剖析了中国人的劣根性。<br>鲁迅受此书的影响很大。更多介绍请看[http://program-think.blogspot.com/2011/02/book-review-chinese-characteristics.html 俺的书评] ||
-|| 丑陋的中国人 || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏扬]<br>(原名郭定生) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!952 中文TXT] || 柏扬是台湾作家、思想家，有“台湾鲁迅”之称。《丑陋的中国人》最早是柏扬1984年在美国爱荷华大学的一次演讲。<br>文中深刻批判了中国人的劣根性。比如用酱缸来类比中国文化（外来的好东西，进了酱缸，都要变质发臭），非常形象。 ||
+|| 中国人的性格 || [https://zh.wikipedia.org/wiki/%E6%98%8E%E6%81%A9%E6%BA%A5 亚瑟·史密斯]<br>(中文名：明恩溥) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!776 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!856 中文TXT] || 此书非常深刻地剖析了中国人的劣根性。<br>鲁迅受此书的影响很大。更多介绍请看[http://program-think.blogspot.com/2011/02/book-review-chinese-characteristics.html 俺的书评] ||
+|| 丑陋的中国人 || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏扬]<br>(原名：郭定生) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!952 中文TXT] || 柏扬是台湾作家、思想家，有“台湾鲁迅”之称。《丑陋的中国人》最早是柏扬1984年在美国爱荷华大学的一次演讲。<br>文中深刻批判了中国人的劣根性。比如用酱缸来类比中国文化（外来的好东西，进了酱缸，都要变质发臭），非常形象。 ||
 
 
 <hr>
