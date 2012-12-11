@@ -134,16 +134,16 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 ==== 国共内战时期 ====
 
 || *书名* || *作者* || *下载页面* || *备注* ||
+|| 戰后中共奪取東北始末 || 楊奎松 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1026 繁體PDF] || 杨奎松是党史方面的研究学者。<br>中共能够夺权成功，占领东北是其中的关键。<br>此书介绍了中共拿下东北的经过以及当时美苏之间的博弈。 ||
 || 大江大海 一九四九 || [https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%87%89%E5%8F%B0 龙应台] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1019 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!979 繁體PDF (豎排版)] || 应某网友在留言中的要求，俺分享了这本书。<br>这本书主要讲述众多小人物在1949年大陆沦陷时的遭遇。 ||
-|| 戰后中共奪取東北始末 || 楊奎松 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1026 繁體PDF] || 中共能够夺权成功，占领东北是其中的关键。<br>此书介绍了中共拿下东北的经过以及当时美苏之间的博弈。 ||
 
 
 ==== 延安和八年抗战时期 ====
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 红太阳是怎样升起的<br>——延安整风运动的来龙去脉 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!995 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!867 中文CHM] || 高华是党史研究方面的资深学者（已故）。<br>“延安整风”是老毛确立党内独裁地位的关键。此书详细介绍了这段历史。 ||
+|| 中共壮大之谜<br>——被掩盖的中国抗日战争真相 || 谢幼田 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!984 中文CHM] || 作者是移居海外的历史学者。<br>此书介绍了中共利用日本侵华的机会，表面上口头抗日，背地里壮大自己的实力。<br>有兴趣的话可以再看看俺写的《[http://program-think.blogspot.com/2010/09/sino-japanese-war.html 谈谈真理部对抗战历史的篡改]》 ||
 || 历史的先声<br>——半个世纪前的庄严承诺 || 笑蜀<br>(原名：陈敏) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!949 中文CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!950 中文TXT] || 此书收录了延安时期，中共喉舌《新华日报》的几十篇社论。<br>这些社论对“民主自由”的吹捧，俺看了都觉得肉麻。<br>看完之后，你会发现：中共没掌权时，说的比唱的还好听；一旦掌权，立马翻脸不认人。 ||
-|| 中共壮大之谜<br>——被掩盖的中国抗日战争真相 || 谢幼田 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!984 中文CHM] || 作者是移居海外的历史学者。此书介绍了中共利用日本侵华战争的机会，表面上口头抗日，背地里壮大自己的实力。<br>有兴趣的话可以再看看俺写的《[http://program-think.blogspot.com/2010/09/sino-japanese-war.html 谈谈真理部对抗战历史的篡改]》 ||
 || 延安日记 || 弗拉基米洛夫 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!931 中文CHM] || 1942年，苏联派弗拉基米洛夫前往延安，担任共产国际驻中共区的联络员兼塔斯社随军记者。<br>由于作者的特殊身份，得以了解延安时期中共高层的内幕。<br>比如毛太祖消极抗日；比如延安根据地种植和销售鸦片，以获得资金来源。 ||
 || 紅太陽下的罌粟花<br>——鴉片貿易與延安模式 || 陳永發 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!932 繁體PDF] || 陈永发是台湾中央研究院的知名学者。<br>通过此书可以更加详细地了解延安根据地的鸦片生意。这是共党在延安时期的一大污点。 ||
 
@@ -174,9 +174,11 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 === (其它) ===
 
 || *书名* || *作者* || *下载页面* || *备注* ||
+|| 未来的自由中国在民间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1015 中文PDF] || 刘晓波的名气挺大，俺就不介绍了。<br>此书汇集了刘晓波对天朝民主化的思考，内容包括政治、经济、文化等领域。<br>从书名可知，他认为应该自下而上推动政治变革，而不能指望朝廷。  ||
 || 大国沉沦<br>——写给中国的备忘录 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!964 中文PDF] || 刘晓波的名气挺大，俺就不介绍了。<br>本书写得比较杂，涉及了当今政坛的许多方面。<br>内容包括：一党独裁、权贵资本主义、维权、六四、民族主义、等。 ||
 || 单刃毒剑<br>——中国当代民族主义批判 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1012 中文PDF] || 刘晓波的名气挺大，俺就不介绍了。<br>此书重点批判民族主义，可算是《大国沉沦》的姐妹篇。 ||
-|| 火与冰 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1028 中文PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这是余杰正式出版的第一本书，里面包含了政治及文化方面的随笔。 ||
+|| 火与冰 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1028 中文PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这是余杰正式出版的第一本书，里面包含了政治及文化方面的随笔。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
+|| 致帝国的悼词——中国大陆的自由状况及前景 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1027 中文PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 
 
 == 美国 ==
