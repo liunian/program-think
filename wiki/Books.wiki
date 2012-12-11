@@ -57,13 +57,13 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 大失败<br>——二十世纪共产主义的兴亡 || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!941 中文PDF] || 布热津斯基是知名的国际关系学着，曾担任美国总统的国家安全顾问。<br>作者通过各方面分析，得出结论：“到了21世纪，共产主义将不可逆转地在历史上衰亡”。<br>此书出版于1989年4月，几年后苏联和东欧的共产党政权纷纷崩溃。不得不佩服布热津斯基的预见性。 ||
 || 共产主义实录 || [https://en.wikipedia.org/wiki/Richard_Pipes Richard Pipes] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!929 中文PDF] || 作者 Richard Pipes 不但是俄国史的专家，而且对世界共产运动有很深的研究。<br>此书详细介绍了世界各国共产主义运动的兴起和失败，分析了共产运动本身的缺陷导致其必然失败的命运。 ||
-|| 新阶级<br>——对共产主义制度的分析 || 德热拉斯 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!940 中文PDF] || 作者德热拉斯曾经担任南斯拉夫共产党的高层领导（副总统），之后跟铁托决裂，成为党内异议人士。<br>书名的“新阶级”指的是“党的领导层”在夺权之后，号称消灭了所有的剥削阶级，但自己却成了一个新的统治阶级。 ||
+|| 新阶级<br>——对共产主义制度的分析 || [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 密洛凡·德热拉斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!940 中文PDF] || 作者德热拉斯曾经担任南斯拉夫共产党的高层领导（副总统），之后跟铁托决裂，成为党内异议人士。<br>书名的“新阶级”指的是“党的领导层”在夺权之后，号称消灭了所有的剥削阶级，但自己却成了一个新的统治阶级。 ||
 || 历史决定论的贫困 || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1032 中文HTML] || 波普尔是20世纪著名的哲学家，政治上拥护自由主义，提倡“开放社会”。<br>此书有力地批驳了马克思的“历史唯物主义”。 ||
 
 === 极权主义 ===
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 极权主义的起源 || [https://en.wikipedia.org/wiki/Richard_Pipes 汉娜·阿伦特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!953 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!955 中文CHM] || 汉娜·阿伦特是国际知名的政治理论家，以研究极权主义而闻名于世。此书是她的成名作。<br>看完此书，你对“什么是极权主义”会有更深刻的认识。<br>而且你会发现：虽然“共产主义”和“纳粹主义”表面上迥异，其实本质相通，具有共同起源。<br>顺便说一下，毛太祖统治的天朝，就是典型的极权主义。 ||
+|| 极权主义的起源 || [https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9 汉娜·阿伦特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!953 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!955 中文CHM] || 汉娜·阿伦特是国际知名的政治理论家，以研究极权主义而闻名于世。此书是她的成名作。<br>看完此书，你对“什么是极权主义”会有更深刻的认识。<br>而且你会发现：虽然“共产主义”和“纳粹主义”表面上迥异，其实本质相通，具有共同起源。<br>顺便说一下，毛太祖统治的天朝，就是典型的极权主义。 ||
 
 === 非暴力抗争 ===
 
@@ -101,16 +101,16 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 八九天安门事件大事记 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!885 中文PDF] || 作者吴仁华是六四运动的骨干分子。<br>此书记录了六四期间（4月15日到6月9日）每天发生的重大事情。 ||
 || 人民不會忘記 || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港記者協會] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!863 繁體HTML]<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體在線版] || 此书是香港记者协会出版，汇总了几十名记者的六四报道。 ||
 || 八九民運史 || 陳小雅 || [http://www.64memo.com/b5/4.htm 繁體在線版] || 虽然此书的名气不大，但是俺在写《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》的过程中，也参考了它的某些内容。 ||
-|| 铭记天安门 || Robin Munro || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!884 中文PDF] || 作者Robin Munro是人权组织观察员。<br>六月3日夜间到次日凌晨4点，他在广场周边目睹了党国的血腥镇压。 ||
+|| 铭记天安门 || [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!884 中文PDF] || 作者Robin Munro是人权组织观察员。<br>六月3日夜间到次日凌晨4点，他在广场周边目睹了党国的血腥镇压。 ||
 || 黄雀行动 || 江迅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!886 中文PDF] || 六四运动被血腥镇压之后，朝廷鹰犬在大肆搜捕参与民主运动的骨干分子。<br>一些勇敢的香港人组织了秘密渠道，帮助民运人士逃离大陆，代号“黄雀行动”。 ||
 || 关键时刻<br>——李鹏日记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!864 中文CHM] || 此书从保守派的视角，叙述了六四期间高层的动态。<br>在此书中，李鹏这家伙处处不忘开脱自己。 ||
-|| 驚心動魄的五十六天 || 国家教委思想政治工作司 || [http://www.64memo.com/b5/2.htm 繁體在線版] || 此书是朝廷官方出版滴，看的时候要 *小心被洗脑* 。<br>这个在线阅读链接，是繁体的“香港注译本”。 ||
+|| 驚心動魄的五十六天 || 国家教委<br>思想政治工作司 || [http://www.64memo.com/b5/2.htm 繁體在線版] || 此书是朝廷官方出版滴，看的时候要 *小心被洗脑* 。<br>这个在线阅读链接，是繁体的“香港注译本”。 ||
 
 ==== 文革时期 ====
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 文化大革命<br>——历史真相和集体记忆 || 宋永毅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!936 中文PDF] || 这实际上是一本论文集。<br>书中收集了几十位研究学者和亲历者所写的文章。 ||
-|| 毛泽东最后的革命 || 麦克法夸尔 (中文名：马若德)<br>& 沈迈克 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!994 中文PDF] || 这本书2009年才出版，两位作者都是老外。<br>此书号称是西方学者写出来的，最权威的文革研究著作。<br>书中不但叙述了历史事件，还解释了相关政治人物的动机。 ||
+|| 毛泽东最后的革命 || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (中文名：马若德)<br>& 沈迈克 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!994 中文PDF] || 这本书2009年才出版，两位作者都是老外。<br>麦克法夸尔是历史及政治学者、中国问题专家，现为哈佛教授。<br>此书号称是西方学者写出来的，最权威的文革研究著作。<br>书中不但叙述了历史事件，还解释了相关政治人物的动机。 ||
 || 文化大革命十年史 || 高皋 & [https://zh.wikipedia.org/wiki/%E4%B8%A5%E5%AE%B6%E5%85%B6 严家其] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1025 中文PDF] || 两位作者都是中国社会科学院的学者。<br>此书是700多页的大部头，记述了文革期间的所有重大事件。 ||
 || 红卫兵档案 || 吴过 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!868 中文PDF] || 详细介绍了文革中红卫兵运动的兴衰。 ||
 || 文革研究 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!869 中文PDF] || 严格来说，这不是一本书，而是几篇文革相关的研究文章的汇总。 ||
@@ -129,7 +129,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 阳谋 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!981 中文CHM] || 此书的作者也就是前面《人祸》作者 ||
 || 1957年的夏季<br>——从百家争鸣到两家争鸣 || 朱正 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!982 中文HTML] || 作者不太出名，不过书写得还是很详细——里面列举了很多当事人（尤其是毛太祖）的言论。 ||
-|| 往事并不如烟 || 章诒和 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1018 中文TXT] || 作者章诒和是“中国头号大右派”章伯钧的次女。<br>此书描述了史良、储安平、张伯驹、康同璧、聂绀弩、罗隆基、张庚、章伯钧等知名“大右派”的悲剧命运。 ||
+|| 往事并不如烟 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1018 中文TXT] || 作者章诒和是“中国头号大右派”章伯钧的次女。<br>此书描述了史良、储安平、张伯驹、康同璧、聂绀弩、罗隆基、张庚、章伯钧等知名“大右派”的悲剧命运。<br>由于此书内容批评了毛太祖，在2004年大陆出版时，多处内容被删改。之后真理部禁止该书重印。 ||
 
 ==== 国共内战时期 ====
 
@@ -143,15 +143,15 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 红太阳是怎样升起的<br>——延安整风运动的来龙去脉 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!995 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!867 中文CHM] || 高华是党史研究方面的资深学者（已故）。<br>“延安整风”是老毛确立党内独裁地位的关键。此书详细介绍了这段历史。 ||
 || 中共壮大之谜<br>——被掩盖的中国抗日战争真相 || 谢幼田 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!984 中文CHM] || 作者是移居海外的历史学者。<br>此书介绍了中共利用日本侵华的机会，表面上口头抗日，背地里壮大自己的实力。<br>有兴趣的话可以再看看俺写的《[http://program-think.blogspot.com/2010/09/sino-japanese-war.html 谈谈真理部对抗战历史的篡改]》 ||
-|| 历史的先声<br>——半个世纪前的庄严承诺 || 笑蜀<br>(原名：陈敏) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!949 中文CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!950 中文TXT] || 此书收录了延安时期，中共喉舌《新华日报》的几十篇社论。<br>这些社论对“民主自由”的吹捧，俺看了都觉得肉麻。<br>看完之后，你会发现：中共没掌权时，说的比唱的还好听；一旦掌权，立马翻脸不认人。 ||
-|| 延安日记 || 弗拉基米洛夫 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!931 中文CHM] || 1942年，苏联派弗拉基米洛夫前往延安，担任共产国际驻中共区的联络员兼塔斯社随军记者。<br>由于作者的特殊身份，得以了解延安时期中共高层的内幕。<br>比如毛太祖消极抗日；比如延安根据地种植和销售鸦片，以获得资金来源。 ||
-|| 紅太陽下的罌粟花<br>——鴉片貿易與延安模式 || 陳永發 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!932 繁體PDF] || 陈永发是台湾中央研究院的知名学者。<br>通过此书可以更加详细地了解延安根据地的鸦片生意。这是共党在延安时期的一大污点。 ||
+|| 历史的先声<br>——半个世纪前的庄严承诺 || [https://zh.wikipedia.org/wiki/%E7%AC%91%E8%9C%80 笑蜀]<br>(原名：陈敏) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!949 中文CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!950 中文TXT] || 作者是知名作家，《南方周末》评论员。<br>此书收录了延安时期，中共喉舌《新华日报》的几十篇社论。<br>这些社论对“民主自由”的吹捧，俺看了都觉得肉麻。<br>看完之后，你会发现：中共没掌权时，说的比唱的还好听；一旦掌权，立马翻脸不认人。 ||
+|| 延安日记 || [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E6%B4%9B%E5%A4%AB 彼得·弗拉基米洛夫] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!931 中文CHM] || 1942年，苏联派弗拉基米洛夫前往延安，担任共产国际驻中共区的联络员兼塔斯社随军记者。<br>由于作者的特殊身份，得以了解延安时期中共高层的内幕。<br>比如毛太祖消极抗日；比如延安根据地种植和销售鸦片，以获得资金来源。 ||
+|| 紅太陽下的罌粟花<br>——鴉片貿易與延安模式 || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!932 繁體PDF] || 陈永发是台湾中央研究院的知名学者。<br>通过此书可以更加详细地了解延安根据地的鸦片生意。这是共党在延安时期的一大污点。 ||
 
 ==== (其它) ====
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 谁是新中国——中国现代史辨 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E7%81%8F%E5%B9%B4 辛灏年]<br>(原名：高尔品) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1024 中文CHM] || 辛灏年是天朝的作家、持不同政见者。这是他名气最大的一部作品。<br>此书共三部分：“导论 革命与复辟” “上卷 辛亥革命、中华民国与中国国民党” “下卷 共产革命、农民造反与中国共产党”<br>其内容有助于你了解近代史以及国共两党的本质差异。 ||
-|| 中國共產革命七十年 || 陳永發 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!959 繁體PDF (上冊)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!960 繁體PDF (下冊)] || 陈永发是台湾中央研究院的知名学者。<br>此书系统性介绍了中共的发家史。<br>可惜是扫描版，字有点模糊。 ||
+|| 中國共產革命七十年 || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!959 繁體PDF (上冊)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!960 繁體PDF (下冊)] || 陈永发是台湾中央研究院的知名学者。<br>此书系统性介绍了中共的发家史。<br>可惜是扫描版，字有点模糊。 ||
 || 在历史的风陵渡口 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1011 中文PDF] || 高华是党史研究方面的资深学者（已故）。<br>这本书是高华多篇论文的合集，涉及中共历史的多个时期。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 
 === 政治人物 ===
@@ -184,13 +184,13 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 美国 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 论美国的民主<br>(民主在美国) || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!946 中文PDF (上卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!947 中文PDF (下卷)] || 这本书是托克维尔的代表作，也是研究美国民主政治体制的经典著作。<br>书中从政治学、社会学、历史学等方面对美国的政体进行阐述。 ||
+|| 论美国的民主<br>(民主在美国) || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!946 中文PDF (上卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!947 中文PDF (下卷)] || 作者是法国的政治思想家和历史学家。<br>此书是托克维尔的代表作，也是研究美国民主政治体制的经典著作。<br>书中从政治学、社会学、历史学等方面对美国的政体进行阐述。 ||
 
 
 == 法国 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 旧制度与大革命 || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!944 中文PDF] || 这本书主要介绍大革命之前的法国社会，并分析了大革命的起因。<br>有小道消息称：如今中央政治局的某些家伙也在传阅此书。如属实，说明连朝廷也觉得天朝正处于革命的前夜。 ||
+|| 旧制度与大革命 || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!944 中文PDF] || 作者是法国的政治思想家和历史学家。<br>此书主要介绍大革命之前的法国社会，并分析了大革命的起因。<br>有小道消息称：如今中央政治局的某些家伙也在传阅此书。如属实，说明连朝廷也觉得天朝正处于革命的前夜。 ||
 
 
 <hr>
@@ -203,7 +203,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 中国人的性格 || [https://zh.wikipedia.org/wiki/%E6%98%8E%E6%81%A9%E6%BA%A5 亚瑟·史密斯]<br>(中文名：明恩溥) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!776 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!856 中文TXT] || 此书非常深刻地剖析了中国人的劣根性。<br>鲁迅受此书的影响很大。更多介绍请看[http://program-think.blogspot.com/2011/02/book-review-chinese-characteristics.html 俺的书评] ||
-|| 丑陋的中国人 || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏扬]<br>(原名：郭定生) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!952 中文TXT] || 柏扬是台湾作家、思想家，有“台湾鲁迅”之称。《丑陋的中国人》最早是柏扬1984年在美国爱荷华大学的一次演讲。<br>文中深刻批判了中国人的劣根性。比如用酱缸来类比中国文化（外来的好东西，进了酱缸，都要变质发臭），非常形象。 ||
+|| 丑陋的中国人 || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏扬]<br>(原名：郭定生) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!952 中文TXT] || 柏扬是台湾知名作家。<br>《丑陋的中国人》最早是柏扬1984年在美国爱荷华大学的一次演讲。<br>文中深刻批判了中国人的劣根性，柏扬因此获得“台湾鲁迅”之称。<br>书中的经典比喻是“酱缸文化”——任何外来的好东西，进了中国这个大酱缸，都要变质发臭。 ||
 
 
 <hr>
@@ -219,8 +219,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 洗脑 ==
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 思想改造和极权主义心理学<br>——中国的洗脑研究 || Robert Jay Lifton || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!957 英文MOBI] || 哪位网友能找到中文版，请不吝告知 ||
-|| 洗脑<br>——思维控制的科学 || Kathleen Taylor || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!958 英文PDF] || 哪位网友能找到中文版，请不吝告知 ||
+|| Thought Reform and the Psychology of Totalism<br>——A Study of Brainwashing in China || [https://en.wikipedia.org/wiki/Robert_Lifton Robert Jay Lifton] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!957 英文MOBI] || 哪位网友能找到中文版《思想改造和极权主义心理学——中国的洗脑研究》，请不吝告知 ||
+|| Brainwashing<br>——The Science of Thought Control || [https://en.wikipedia.org/wiki/Kathleen_Taylor_%28biologist%29 Kathleen Taylor] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!958 英文PDF] || 哪位网友能找到中文版《洗脑——思维控制的科学》，请不吝告知 ||
 
 
 <hr>
