@@ -150,7 +150,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 ==== (其它) ====
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 谁是新中国——中国现代史辨 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E7%81%8F%E5%B9%B4 辛灏年]<br>(原名：高尔品) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1024 中文CHM] || 辛灏年是天朝的作家、持不同政见者。这是他名气最大的一部作品。<br>此书共三部分：“导论 革命与复辟” “上卷 辛亥革命、中华民国与中国国民党” “下卷 共产革命、农民造反与中国共产党”<br>其内容有助于你了解近代史以及国共两党的本质差异。 ||
+|| 谁是新中国<br>——中国现代史辨 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E7%81%8F%E5%B9%B4 辛灏年]<br>(原名：高尔品) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1024 中文CHM] || 辛灏年是天朝的作家、持不同政见者。这是他名气最大的一部作品。<br>此书共三部分：“导论 革命与复辟” “上卷 辛亥革命、中华民国与中国国民党” “下卷 共产革命、农民造反与中国共产党”<br>其内容有助于你了解近代史以及国共两党的本质差异。 ||
 || 中國共產革命七十年 || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!959 繁體PDF (上冊)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!960 繁體PDF (下冊)] || 陈永发是台湾中央研究院的知名学者。<br>此书系统性介绍了中共的发家史。<br>可惜是扫描版，字有点模糊。 ||
 || 在历史的风陵渡口 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1011 中文PDF] || 高华是党史研究方面的资深学者（已故）。<br>这本书是高华多篇论文的合集，涉及中共历史的多个时期。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 
@@ -161,7 +161,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 红太阳的陨落<br>——千秋功罪毛泽东 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!996 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!865 中文DOC] || 此书深刻批判了毛太祖的种种罪恶。<br>因为批判得太彻底了，某毛派网站恼羞成怒，把辛子陵列为“头号汉奸”。 ||
 || 新发现的毛泽东<br>——仆人眼中的伟人 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!866 中文PDF] || 作者王若水长期担任《人民日报》副总编。<br>此书提供了一种新的视角（真理部内部的视角）来看毛太祖。 ||
 || 晚年周恩来 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!937 中文PDF] || 高文谦曾经在中共中央文献研究室工作，并担任周恩来生平研究小组组长。<br>这本书不但权威而且客观，还详细描述了毛周二人的勾心斗角。 ||
-|| 中国影帝温家宝 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!961 中文PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>此书揭露了温影帝虚伪的一面。余杰因此书而受朝廷迫害，2012年被迫移民美国。<br>鸣谢：在两位热心网友的帮助下，俺找到了此书完整的文字版，并制作了这个PDF。 ||
+|| 中国影帝温家宝 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!961 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1034 中文TXT] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>此书揭露了温影帝虚伪的一面。余杰因此书而受朝廷迫害，2012年被迫移民美国。<br>鸣谢：在两位热心网友的帮助下，俺找到了此书完整的文字版，并制作了这个PDF。 ||
 || 中南海日記<br>——中共兩代王儲的隕落 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E7%A8%BC%E7%A5%A5 吴稼祥] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1017 繁體PDF] || 作者吴稼祥是中共高层的官员，先后在真理部（中宣部）和大内（中办）任职。<br>此书从作者的角度，以日记的形式，叙述胡耀邦和赵紫阳被邓太上皇废黜的经过。 ||
 || 我的回忆 || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!962 中文PDF] || 应某网友在留言中的要求，俺分享了这本书。<br>张国焘是中共早期元老。此回忆录对了解中共早期历史有参考价值。 ||
 
@@ -178,7 +178,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 大国沉沦<br>——写给中国的备忘录 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!964 中文PDF] || 刘晓波的名气挺大，俺就不介绍了。<br>本书写得比较杂，涉及了当今政坛的许多方面。<br>内容包括：一党独裁、权贵资本主义、维权、六四、民族主义、等。 ||
 || 单刃毒剑<br>——中国当代民族主义批判 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1012 中文PDF] || 刘晓波的名气挺大，俺就不介绍了。<br>此书重点批判民族主义，可算是《大国沉沦》的姐妹篇。 ||
 || 火与冰 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1028 中文PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这是余杰正式出版的第一本书，里面包含了政治及文化方面的随笔。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
-|| 致帝国的悼词——中国大陆的自由状况及前景 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1027 中文PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
+|| 致帝国的悼词<br>——中国大陆的自由状况及前景 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1027 中文PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 
 
 == 美国 ==
