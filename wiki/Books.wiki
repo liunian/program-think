@@ -218,9 +218,10 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 洗脑 ==
 
-|| *书名* || *作者* || *下载页面* || *备注* ||
-|| Thought Reform and the Psychology of Totalism<br>——A Study of Brainwashing in China || [https://en.wikipedia.org/wiki/Robert_Lifton Robert Jay Lifton] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!957 英文MOBI] || 哪位网友能找到中文版《思想改造和极权主义心理学——中国的洗脑研究》，请不吝告知 ||
-|| Brainwashing<br>——The Science of Thought Control || [https://en.wikipedia.org/wiki/Kathleen_Taylor_%28biologist%29 Kathleen Taylor] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!958 英文PDF] || 哪位网友能找到中文版《洗脑——思维控制的科学》，请不吝告知 ||
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
+|| 洗脑术<br>——思想控制的荒唐史 || Brainwash<br>——The Secret History of Mind Control || 多米尼克·斯垂特菲尔德 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1036 中文PDF] || 此书详细介绍了“洗脑”技术的发展历史。<br>虽然是扫描版，但文字很清晰。 ||
+|| 思想改造和极权主义心理学<br>——中国的洗脑研究 || Thought Reform and the Psychology of Totalism<br>——A Study of Brainwashing in China || [https://en.wikipedia.org/wiki/Robert_Lifton Robert Jay Lifton] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!957 英文MOBI] || 哪位网友能找到中文版，请不吝告知 ||
+|| 洗脑<br>——思维控制的科学 || Brainwashing<br>——The Science of Thought Control || [https://en.wikipedia.org/wiki/Kathleen_Taylor_%28biologist%29 Kathleen Taylor] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!958 英文PDF] || 哪位网友能找到中文版，请不吝告知 ||
 
 
 <hr>
