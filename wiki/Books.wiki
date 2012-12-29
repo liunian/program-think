@@ -1,6 +1,6 @@
 #summary 【编程随想】收藏的电子书清单
 
-<h1>电子书总目录 (每月更新)</h1>
+<h1>电子书总目录 (频繁更新)</h1>
 
 <hr>
 
@@ -210,12 +210,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
 || 学会提问<br>——批判性思维指南 || Asking the Right Questions<br>——A Guide to Critical Thinking || 布朗 & 基利 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!837 中文PDF (第7版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!836 英文PDF (第8版)] || 这是一本不可多得的好书，具体介绍请看“[http://program-think.blogspot.com/2010/10/book-review-asking-right-questions.html 俺的书评]”。 ||
+|| 影响力 || Influence<br>——Science and Practice || [https://en.wikipedia.org/wiki/Robert_Cialdini 罗伯特·西奥迪尼] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1054 中文PDF (扫描版)] || 非常实用的一本心理学读物，在全球范围内具有很高知名度。<br>书中介绍了若干个重要的心理学原理。<br>掌握这些原理可以有效地对他人施加影响，还可以避免被别人轻易地忽悠。 ||
 || 无从选择<br>——为何多即是少 || The Paradox of Choice<br>——Why More Is Less || [https://en.wikipedia.org/wiki/Barry_Schwartz_%28psychologist%29 巴里·施瓦茨] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1052 中文PDF (扫描版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1053 英文PDF] || 如今的信息社会，人们面对日益增多的“选择”。<br>更多的选择有时候反而会给人们带来后悔、郁闷和痛苦。<br>此书会告诉你如何避免上述问题，并从心理学层面分析其中的根源。 ||
 
 == 人格心理学 ==
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
 || 少有人走的路<br>——心智成熟的旅程 || The Road Less Traveled<br>——A New Psychology of Love, Traditional Values and Spiritual Growth || 斯科特·派克 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!890 中文PDF (扫描版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!891 中文TXT] || 这是一本不可多得的好书，具体介绍请看“[http://program-think.blogspot.com/2012/06/book-review-road-less-traveled.html 俺的书评]”。 ||
+|| 动机与人格 || Motivation and Personality || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E6%96%AF%E6%B4%9B 马斯洛] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1055 中文PDF (扫描版)] || 马斯洛是知名的心理学家，他提出的“需求层次理论”闻名于世。<br>马斯洛在本书中介绍了人类动机理论以及不同层次的需求。<br>本书是扫描版，且字迹有点模糊。前言较长，目录从33页开始。 ||
 
 == 洗脑 ==
 
