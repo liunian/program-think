@@ -15,7 +15,7 @@
 
 下载或阅读过程中，如果有啥疑问，请用邮件 *[mailto:program.think@gmail.com]* 跟俺联系，也可以在本页面下方留言。
 
-每次上传新的电子书，俺会在博客上通知大伙儿。俺博客的订阅地址：[http://feeds2.feedburner.com/programthink]
+每次上传新的电子书，俺会在博客上通知大伙儿。俺博客的订阅地址是：[http://feeds2.feedburner.com/programthink] （强烈推荐用 *Google 阅读器* 订阅俺博客，效果最佳）。
 
 *PDF 格式*
 
@@ -35,13 +35,13 @@
  # 弹出“属性对话框”
  # 在属性对话框中，点“解除锁定”按钮
 
-用 Mac OS X 的同学，可以考虑用 CHM 阅读器（Chmox、iCHM）打开 CHM 电子书；
+用 Mac OS X 的同学，可以考虑用 Chmox 或 iCHM 打开 CHM 电子书；
 
 用 Linux 系统的同学，可以考虑用 CHM Viewer 打开 CHM 电子书。
 
 *TXT 格式*
 
-TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本可以正常打开。
+TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本（Notepad）可以直接打开。
 
 
 <hr>
@@ -197,7 +197,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 法国 ==
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
-|| 旧制度与大革命 || The Old Regime and the Revolution || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!944 中文PDF] || 作者是法国的政治思想家和历史学家。<br>此书主要介绍大革命之前的法国社会，并分析了大革命的起因。<br>有小道消息称：如今中央政治局的某些家伙也在传阅此书。如属实，说明连朝廷也觉得天朝正处于革命的前夜。 ||
+|| 旧制度与大革命 || The Old Regime and the French Revolution || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!944 中文PDF] || 作者是法国的政治思想家和历史学家。<br>此书主要介绍大革命之前的法国社会，并分析了大革命的起因。<br>有小道消息称：如今中央政治局的某些家伙也在传阅此书。如属实，说明连朝廷也觉得天朝正处于革命的前夜。 ||
 
 
 <hr>
@@ -219,9 +219,16 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 = ★心理学类 =
 
+== 认知心理学 ==
+
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
-|| 学会提问<br>——批判性思维指南 || Asking the Right Questions<br>——A Guide to Critical Thinking || 布朗 & 基利 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!837 中文PDF (第7版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!836 英文PDF (第8版)] || [http://program-think.blogspot.com/2010/10/book-review-asking-right-questions.html 俺的书评] ||
-|| 少有人走的路<br>——心智成熟的旅程 || The Road Less Traveled<br>——A New Psychology of Love, Traditional Values and Spiritual Growth || 斯科特·派克 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!890 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!891 中文TXT] || [http://program-think.blogspot.com/2012/06/book-review-road-less-traveled.html 俺的书评] ||
+|| 学会提问<br>——批判性思维指南 || Asking the Right Questions<br>——A Guide to Critical Thinking || 布朗 & 基利 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!837 中文PDF (第7版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!836 英文PDF (第8版)] || 这是一本不可多得的好书，具体介绍请看“[http://program-think.blogspot.com/2010/10/book-review-asking-right-questions.html 俺的书评]”。 ||
+|| 无从选择<br>——为何多即是少 || The Paradox of Choice<br>——Why More Is Less || [https://en.wikipedia.org/wiki/Barry_Schwartz_%28psychologist%29 巴里·施瓦茨] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1052 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1053 英文PDF] || 如今的信息社会，人们面对日益增多的“选择”。<br>更多的选择有时候反而会给人们带来后悔、郁闷和痛苦。<br>此书会告诉你如何避免上述问题，并从心理学层面分析其中的根源。 ||
+
+== 人格心理学 ==
+
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
+|| 少有人走的路<br>——心智成熟的旅程 || The Road Less Traveled<br>——A New Psychology of Love, Traditional Values and Spiritual Growth || 斯科特·派克 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!890 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!891 中文TXT] || 这是一本不可多得的好书，具体介绍请看“[http://program-think.blogspot.com/2012/06/book-review-road-less-traveled.html 俺的书评]”。 ||
 
 == 洗脑 ==
 
