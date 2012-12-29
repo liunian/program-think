@@ -9,7 +9,7 @@
 <hr>
 <hr>
 
-= 下载阅读须知 =
+= 阅读须知 =
 
 这里汇总了俺收藏的各类电子书（不断增加中）。
 
@@ -216,10 +216,15 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 人格心理学 ==
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
-|| 少有人走的路<br>——心智成熟的旅程 || The Road Less Traveled<br>——A New Psychology of Love,<br>Traditional Values and Spiritual Growth || 斯科特·派克 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!890 中文PDF (扫描版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!891 中文TXT] || 这是一本不可多得的好书，具体介绍请看“[http://program-think.blogspot.com/2012/06/book-review-road-less-traveled.html 俺的书评]”。 ||
+|| 少有人走的路<br>——心智成熟的旅程 || The Road Less Traveled<br>——A New Psychology of Love,<br>Traditional Values and Spiritual Growth || [https://en.wikipedia.org/wiki/M._Scott_Peck 斯科特·派克] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!890 中文PDF (扫描版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!891 中文TXT] || 这是一本不可多得的好书，具体介绍请看“[http://program-think.blogspot.com/2012/06/book-review-road-less-traveled.html 俺的书评]”。 ||
 || 动机与人格 || Motivation and Personality || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E6%96%AF%E6%B4%9B 亚伯拉罕·马斯洛] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1055 中文PDF (扫描版)] || 马斯洛是知名的心理学家，他提出的“需求层次理论”闻名于世。<br>马斯洛在本书中介绍了人类动机理论以及不同层次的需求。<br>本书是扫描版，且字迹有点模糊。前言较长，目录从33页开始。 ||
 || 梦的解析<br>(释梦) || The Interpretation of Dreams || [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 弗洛伊德] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1056 中文PDF] || 弗洛伊德号称现代心理学之父。本书是他的代表作。<br>书中介绍了潜意识相关的理论，作者认为梦境是“理解潜意识的捷径”。<br>弗洛伊德的心理学理论争议很大，本书也不例外。 ||
-|| 精神分析引论 ||  || [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 弗洛伊德] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1057 中文PDF] || 弗洛伊德号称现代心理学之父。<br>他创立的“精神分析学”是现代心理学的重要学派，对心理学的后续发展有深远影响。<br>本书号称是“精神分析学派”最重要的经典著作（没有之一）。<br>内容由浅入深，从最基础的知识讲起，适合心理学的入门者。 ||
+|| 精神分析引论 || A General Introduction to Psychoanalysis || [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 弗洛伊德] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1057 中文PDF] || 弗洛伊德号称现代心理学之父。<br>他创立的“精神分析学”是现代心理学的重要学派，对心理学的后续发展有深远影响。<br>本书号称是“精神分析学派”最重要的经典著作（没有之一）。<br>内容由浅入深，从最基础的知识讲起，适合心理学的入门者。 ||
+
+== 社会心理学 ==
+
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
+|| 乌合之众<br>——大众心理研究 || The Crowd<br>——A Study of the Popular Mind || [https://en.wikipedia.org/wiki/Gustave_Le_Bon 古斯塔夫·勒庞] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1059 中文PDF (扫描版)] || 作者是法国知名的心理学家、社会学家。<br>他的强项是研究群体心理，这本书是他的代表作。<br>作者在书中提到“群体的无意识行为代替了个人的有意识行为，是目前这个时代的主要特征之一”。书名《乌合之众》即来自于此。<br>此书的理论有助于解释历史上很多知名的政治运动和群众运动。 ||
 
 == 洗脑 ==
 
