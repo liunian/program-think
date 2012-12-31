@@ -179,8 +179,10 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.3.5 少数民族问题 ===
 
-|| *书名* || *作者* || *下载页面* || *备注* ||
-|| 天葬<br>——西藏的命运 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1065 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1064 中文TXT] || 王力雄是大陆知名作家、民族问题学者、环保人士。<br>作者在书中以大量的亲身经历和实地所见，叙述了西藏问题的历史、现状等多个方面。<br>在研究西藏问题的著作中，此书是非常客观、深刻的一部。 ||
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
+|| 天葬<br>——西藏的命运 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1065 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1064 中文TXT] || 王力雄是大陆知名作家、民族问题学者、环保人士。<br>作者在书中以大量的亲身经历和实地所见，叙述了西藏的各个方面。<br>此书的内容比较客观，有助于了解西藏的历史和现状。 ||
+|| 西藏生与死<br>——雪域的民族主义 || Tibet<br>——Survival in Question || [https://fr.wikipedia.org/wiki/Pierre-Antoine_Donnet Pierre-Antoine Donnet]<br>(董尼德) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1066 中文PDF (扫描版)] || 董尼德是法国新闻记者，曾长期派驻北京。<br>此书着重写西藏的现状（中共如何高压统治、藏文化如何被破坏...） ||
+
 
 === 1.3.6 (其它) ===
 
@@ -263,7 +265,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 = 4 管理类 =
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
-|| 你的灯亮着吗<br>——找到问题的真正所在 || Are Your Lights On<br>——How to Figure Out What the Problem Really Is || [https://en.wikipedia.org/wiki/Gerald_Weinberg 杰拉尔德·温伯格] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!764 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!855 中文TXT] || [http://program-think.blogspot.com/2009/07/book-review-are-your-lights-on.html 俺的书评] ||
+|| 你的灯亮着吗<br>——找到问题的真正所在 || Are Your Lights On<br>——How to Figure Out What the Problem Really Is || [https://en.wikipedia.org/wiki/Gerald_Weinberg Gerald Weinberg]<br>(杰拉尔德·温伯格) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!764 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!855 中文TXT] || [http://program-think.blogspot.com/2009/07/book-review-are-your-lights-on.html 俺的书评] ||
 
 
 <hr>
