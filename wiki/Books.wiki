@@ -9,7 +9,7 @@
 <hr>
 <hr>
 
-= 0 阅读须知 =
+= 0 电子书格式说明 =
 
 这里汇总了俺收藏的各类电子书（不断增加中）。
 
@@ -17,7 +17,7 @@
 
 每次上传新的电子书，俺会在博客上通知大伙儿。俺博客的订阅地址是：[http://feeds2.feedburner.com/programthink] （强烈推荐用 *Google 阅读器* 订阅俺博客，效果最佳）。
 
-*PDF 格式*
+<h2>PDF 格式</h2>
 
 俺共享的PDF格式电子书， *无需密码* 即可阅读。如果你无法打开PDF文件或者打开过程中提示输入密码，那应该是你的PDF阅读器 *版本不够新* 。用如下几款软件可以正常阅读。
 
@@ -26,7 +26,7 @@
  * PDF-XChange Viewer 2.0 或者更高的版本（绿色软件，推荐使用）
  * 如果你用 Chrome 浏览器，把 PDF 文件直接拖到 Chrome 窗口里，就可以看了
 
-*CHM 格式*
+<h2>CHM 格式</h2>
 
 如果你用 Windows 系统无法正常查看 CHM 电子书，请按照如下步骤设置，就可以正常打开了。
 
@@ -39,7 +39,11 @@
 
 用 Linux 系统的同学，可以考虑用 CHM Viewer 打开 CHM 电子书。
 
-*TXT 格式*
+<h2>HTML 格式</h2>
+
+HTML 格式的电子书会有多个文件，为了方便下载，用压缩打包成一个 ZIP 文件。下载后请先用压缩软件解开 ZIP 压缩包，即可直接浏览 HTML 文件。
+
+<h2>TXT 格式</h2>
 
 TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本（Notepad）可以直接打开。
 
@@ -175,14 +179,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 === 1.3.4 腐败问题 ===
 
 || *书名* || *作者* || *下载页面* || *备注* ||
+|| 远华案黑幕 || [https://zh.wikipedia.org/wiki/%E7%9B%9B%E9%9B%AA_%28%E8%87%A7%E9%8C%AB%E7%B4%85%29 盛雪]<br>(原名：臧锡红) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1068 中文TXT] || 盛雪是旅居加拿大的作家，并担任自由亚洲电台和德国之声的记者。<br>[http://zh.wikipedia.org/wiki/%E9%81%A0%E8%8F%AF%E6%A1%88 远华案]是天朝历史上震动最大、金额最高的经济案件。牵涉大量的朝廷高官。<br>此书是她的代表作，内容包括大量对赖昌星（远华案男一号）的访谈。<br>由于此书牵涉的在职高官太多，天朝官方的八个部委联合下达文件查禁此书。 ||
 || 编译局言情录<br>——一朝忽觉京梦醒，半世浮沉雨打萍 || 常艳 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1044 中文PDF] || “编译局”全称是“中共中央马克思、恩格斯、列宁、斯大林著作编译局”，简称“中央编译局”。<br>女博士常艳作为潜规则的当事人，通过此书详细地描述了自己和编译局局长衣俊卿之间的XXX往事。<br>此书近期走红，可惜在墙内遭严厉查禁。 ||
 
 === 1.3.5 少数民族问题 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
 || 天葬<br>——西藏的命运 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1065 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1064 中文TXT] || 王力雄是大陆知名作家、民族问题学者、环保人士。<br>作者在书中以大量的亲身经历和实地所见，叙述了西藏的各个方面。<br>此书的内容比较客观，有助于了解西藏的历史和现状。 ||
-|| 西藏生与死<br>——雪域的民族主义 || Tibet<br>——Survival in Question || [https://fr.wikipedia.org/wiki/Pierre-Antoine_Donnet Pierre-Antoine Donnet]<br>(董尼德) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1066 中文PDF (扫描版)] || 董尼德是法国新闻记者，曾长期派驻北京。<br>此书着重写西藏的现状（中共如何高压统治、藏文化如何被破坏...） ||
-
+|| 西藏生與死<br>——雪域的民族主義 || Tibet<br>——Survival in Question || [https://fr.wikipedia.org/wiki/Pierre-Antoine_Donnet Pierre-Antoine Donnet]<br>(董尼德) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1066 繁體PDF (竪排掃描版)] || 董尼德是法国新闻记者，曾长期派驻北京。<br>此书着重写西藏的现状（中共如何高压统治、藏文化如何被破坏...） ||
 
 === 1.3.6 (其它) ===
 
