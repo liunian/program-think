@@ -208,8 +208,10 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 1.5 苏联 ==
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
-|| 斯大林秘闻<br>——原苏联秘密档案披露 || Stalin<br>——The First In-depth Biography Based on Explosive New Documents from Russia's Secret Archives || [https://en.wikipedia.org/wiki/Edvard_Radzinsky 爱德华·拉津斯基] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1072 中文PDF] || 作者是俄罗斯知名传记作家。此书出版于1996年。<br>书中大量引用了前苏联的解密档案（包括斯大林个人档案、十月革命档案、苏共中央党务档案、等）。<br>本书有助于了解斯大林是如何血腥清洗党内高官，最终独揽大权成为新沙皇。 ||
+|| 斯大林秘闻<br>——原苏联秘密档案披露 || Stalin<br>——The First In-depth Biography<br>Based on Explosive New Documents<br>from Russia's Secret Archives || [https://en.wikipedia.org/wiki/Edvard_Radzinsky 爱德华·拉津斯基] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1072 中文PDF] || 作者是俄罗斯知名传记作家。此书出版于1996年。<br>书中大量引用了前苏联的解密档案（包括斯大林个人档案、十月革命档案、苏共中央党务档案、等）。<br>本书有助于了解斯大林是如何血腥清洗党内高官，最终独揽大权成为新沙皇。 ||
+|| 苏联真相——对101个重要问题的思考 ||  || 陆南泉 等人 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1076 中文PDF (上 扫描版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1077 中文PDF (中 扫描版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1078 中文PDF (下 扫描版)] || 本书作者多人，主要作者陆南泉是中国社科院教授/博导，长期在苏联东欧研究所任研究员。<br>书中列举了关于苏联的101个问题，并一一作答。<br>虽然是大陆出版，但对于苏共的独裁以及最终的崩溃，还是批判得比较深入。<br>这个扫描版很大，但是字迹很清晰。 ||
 || 苏联兴亡史 || N/A || 陈之骅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1069 中文PDF (扫描版)] || 作者是中国社科院世界历史研究所研究员。<br>本书28章、800多页，从十月革命讲到苏联解体，也讲了斯大林搞独裁的不光彩历史。<br>由于作者的背景，某些政治敏感内容语焉不详（比如819政变以及政变失败后苏共被取缔） ||
+|| 东欧大裂变纪实 || N/A || 欧阳东 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1071 中文PDF (扫描版)] || 作者不太有名。<br>此书主要是介绍上世纪80年代末90年代初的苏联/东欧剧变。<br>对那段历史有兴趣的同学可以参考。 ||
 
 == 1.6 法国 ==
 
