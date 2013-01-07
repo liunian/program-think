@@ -196,6 +196,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 单刃毒剑<br>——中国当代民族主义批判 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1012 中文PDF] || 刘晓波的名气挺大，俺就不介绍了。<br>此书重点批判民族主义，可算是《大国沉沦》的姐妹篇。 ||
 || 火与冰 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1028 中文PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这是余杰正式出版的第一本书，里面包含了政治及文化方面的随笔。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 || 致帝国的悼词<br>——中国大陆的自由状况及前景 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1027 中文PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
+|| 讨伐中宣部——焦国标文集 || [https://zh.wikipedia.org/wiki/%E7%84%A6%E5%9B%BD%E6%A0%87 焦国标] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1080 中文CHM] || 焦国标是北大新闻学院副教授、作家、政治异议人士。<br>他因为写了《讨伐中宣部》一文而广为人知。并因此被勒令停止教学。<br>此电子书收录了他的多篇文章。 ||
+|| 尘世·挽歌 || [https://zh.wikipedia.org/wiki/%E9%87%8E%E5%A4%AB 土家野夫]<br>(原名：郑世平) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1081 中文PDF] || 土家野夫是天朝作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此电子书包含了他的多篇作品。PDF由热心网友精心排版并分享给俺的，特此鸣谢。 ||
 
 
 == 1.4 美国 ==
@@ -207,7 +209,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
 || 斯大林秘闻<br>——原苏联秘密档案披露 || Stalin<br>——The First In-depth Biography Based on Explosive New Documents from Russia's Secret Archives || [https://en.wikipedia.org/wiki/Edvard_Radzinsky 爱德华·拉津斯基] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1072 中文PDF] || 作者是俄罗斯知名传记作家。此书出版于1996年。<br>书中大量引用了前苏联的解密档案（包括斯大林个人档案、十月革命档案、苏共中央党务档案、等）。<br>本书有助于了解斯大林是如何血腥清洗党内高官，最终独揽大权成为新沙皇。 ||
-|| 苏联兴亡史 || N/A || 陈之骅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1072 中文PDF (扫描版)] || 作者是中国社科院世界历史研究所研究员。<br>本书28章、800多页，从十月革命讲到苏联解体，也讲了斯大林搞独裁的不光彩历史。<br>由于作者的背景，某些政治敏感内容语焉不详（比如819政变以及政变失败后苏共被取缔） ||
+|| 苏联兴亡史 || N/A || 陈之骅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1069 中文PDF (扫描版)] || 作者是中国社科院世界历史研究所研究员。<br>本书28章、800多页，从十月革命讲到苏联解体，也讲了斯大林搞独裁的不光彩历史。<br>由于作者的背景，某些政治敏感内容语焉不详（比如819政变以及政变失败后苏共被取缔） ||
 
 == 1.6 法国 ==
 
