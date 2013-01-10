@@ -52,29 +52,6 @@ I2P 比 TOR 更加坚挺（不易被封杀），但是速度比较慢。可以�
 || (种子包) || 2012-11-15 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-netdb.7z 下载页面] ||
 
 
-== 赛风 ==
-
-老牌的赛风2提供的是网页代理。从赛风3开始，推出了客户端软件，同时支持VPN模式和基于SSH的代理模式。
-
-绿色软件，无需安装，无需管理员权限。压缩包内仅有单个可执行文件，带有数字签名。
-
-赛风官方提供了自动回复邮箱： get@psiphon3.com 。往该邮箱发送任意邮件，会收到自动回复，包含赛风的下载页面链接。
-
-更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2011/10/gfw-psiphon.html 双管齐下的赛风3]》
-
-|| *版本* || *发布日期* || *下载页面* ||
-|| 3.18 || 2011-10-14 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.18.7z 下载页面] ||
-|| 3.19 || 2011-11-08 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.19.7z 下载页面] ||
-|| 3.21 || 2011-12-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.21.7z 下载页面] ||
-|| 3.22 || 2012-01-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.22.7z 下载页面] ||
-|| 3.26 || 2012-02-01 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.26.7z 下载页面] ||
-|| 3.27 || 2012-02-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.27.7z 下载页面] ||
-|| 3.30 || 2012-03-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.30.7z 下载页面] ||
-|| 3.31 || 2012-04-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.31.7z 下载页面] ||
-|| 3.36 || 2012-07-09 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.36.7z 下载页面] ||
-|| 3.42 || 2012-09-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.42.7z 下载页面] ||
-
-
 == 自.由.門 ==
 
 官方网站（动.态.網）的域名是ＧＦW敏感词，请翻墙并通过[http://bit.ly/5qGII]跳转。
@@ -127,6 +104,9 @@ I2P 比 TOR 更加坚挺（不易被封杀），但是速度比较慢。可以�
 || 7.3.2 || 2012-09-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.2-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.2-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.2-restrict.7z 限制版] ||
 || 7.3.3 || 2012-09-08 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.3-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.3-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.3-restrict.7z 限制版] ||
 || 7.3.4 || 2012-09-25 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.4-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.4-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.4-restrict.7z 限制版] ||
+|| 7.3.5 || 2012-10-07 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.5-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.5-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.5-restrict.7z 限制版] ||
+|| 7.3.6 || 2012-10-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.6-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.6-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.6-restrict.7z 限制版] ||
+|| 7.3.7 || 2012-11-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.7-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.7-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.7-restrict.7z 限制版] ||
 
 
 以下是针对手机的 自.由.門，目前有Windows Mobile版本和Java版本两种。
@@ -182,6 +162,32 @@ I2P 比 TOR 更加坚挺（不易被封杀），但是速度比较慢。可以�
 || 12.05 || 2012-11-14 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.05.7z 下载页面] ||
 || 12.06 || 2012-11-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.06.7z 下载页面] ||
 || 12.07 || 2012-11-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.07.7z 下载页面] ||
+|| 12.08 || 2012-12-01 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.08.7z 下载页面] ||
+|| 12.09 || 2012-12-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.09.7z 下载页面] ||
+|| 12.10 || 2012-12-31 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.10.7z 下载页面] ||
+
+
+== 赛风 ==
+
+老牌的赛风2提供的是网页代理。从赛风3开始，推出了客户端软件，同时支持VPN模式和基于SSH的代理模式。
+
+绿色软件，无需安装，无需管理员权限。压缩包内仅有单个可执行文件，带有数字签名。
+
+赛风官方提供了自动回复邮箱： get@psiphon3.com 。往该邮箱发送任意邮件，会收到自动回复，包含赛风的下载页面链接。
+
+更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2011/10/gfw-psiphon.html 双管齐下的赛风3]》
+
+|| *版本* || *发布日期* || *下载页面* ||
+|| 3.18 || 2011-10-14 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.18.7z 下载页面] ||
+|| 3.19 || 2011-11-08 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.19.7z 下载页面] ||
+|| 3.21 || 2011-12-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.21.7z 下载页面] ||
+|| 3.22 || 2012-01-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.22.7z 下载页面] ||
+|| 3.26 || 2012-02-01 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.26.7z 下载页面] ||
+|| 3.27 || 2012-02-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.27.7z 下载页面] ||
+|| 3.30 || 2012-03-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.30.7z 下载页面] ||
+|| 3.31 || 2012-04-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.31.7z 下载页面] ||
+|| 3.36 || 2012-07-09 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.36.7z 下载页面] ||
+|| 3.42 || 2012-09-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.42.7z 下载页面] ||
 
 
 == Hotspot Shield ==
