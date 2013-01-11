@@ -34,31 +34,11 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 4.1.0 || 2008-09-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gpass-4.1.0.7z 下载页面] ||
 
 
-== I2P ==
-
-跟 TOR 很类似的一款软件（TOR 叫洋葱路由，而 I2P 是大蒜路由）。
-
-官方网站是[http://www.i2p2.de/]，必须翻墙才能访问。
-
-I2P 跟 TOR 一样，主要用途是“隐匿身份”，翻墙只是顺带的附加用途。
-
-I2P 比 TOR 更加坚挺（不易被封杀），但是速度比较慢。可以在紧急情况下（其它翻墙工具失效时）用来翻墙。
-
-更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2012/06/gfw-i2p.html 简单扫盲 I2P 的使用]》
-
-|| *版本* || *发布日期* || *下载页面* ||
-|| 0.9   || 2012-05-02 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.7z 下载页面] ||
-|| 0.9.3 || 2012-10-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.3.7z 下载页面] ||
-|| (种子包) || 2012-11-15 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-netdb.7z 下载页面] ||
-
-
 == 自.由.門 ==
 
 官方网站（动.态.網）的域名是ＧＦW敏感词，请翻墙并通过[http://bit.ly/5qGII]跳转。
 
-绿色软件，无需安装，无需管理员权限。
-
-以下是针对Windows系统的，压缩包内仅有单个可执行文件，带有数字签名。
+绿色软件，无需安装，无需管理员权限，压缩包内仅有单个可执行文件，且带有数字签名。
 
 更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2010/03/choose-free-gate.html 自由菛——TOR被封之后的另一个选择]》
 
@@ -123,7 +103,7 @@ I2P 比 TOR 更加坚挺（不易被封杀），但是速度比较慢。可以�
 
 官方网站的域名是ＧＦW敏感词，请翻墙并通过[http://bit.ly/w6Jhfm]跳转。
 
-绿色软件，无需安装，无需管理员权限。压缩包内仅有单个可执行文件。
+绿色软件，无需安装，无需管理员权限，压缩包内仅有单个可执行文件，且带有数字签名。
 
 更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2011/12/gfw-wujie.html 新版本无.界——赛风3失效后的另一选择]》
 
@@ -167,9 +147,28 @@ I2P 比 TOR 更加坚挺（不易被封杀），但是速度比较慢。可以�
 || 12.10 || 2012-12-31 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.10.7z 下载页面] ||
 
 
+== I2P ==
+
+I2P是非常类似于TＯR的翻墙工具（TＯR叫洋葱路由，而I2P是大蒜路由）。它俩的主要用途是“隐匿身份”，翻墙只是顺带的附加用途。
+
+I2P的安全性和坚挺程度比TＯR更强，换来的代价是速度很慢。所以I2P主要是用来作为备用翻墙工具。当你常用的工具失效时，就可以拿它来救急。
+
+官方网站是[http://www.i2p2.de/]，必须翻墙才能访问。
+
+更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2012/06/gfw-i2p.html 简单扫盲 I2P 的使用]》
+
+|| *版本* || *发布日期* || *下载页面* ||
+|| 0.9.0 || 2012-05-02 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.0-windows.7z 下载页面] ||
+|| 0.9.3 || 2012-10-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.3-windows.7z 下载页面] ||
+|| 0.9.4 || 2012-12-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.4-windows.7z 下载页面] ||
+|| (种子包) || 2012-11-15 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-netdb.7z 下载页面] ||
+
+
 == 赛风 ==
 
 老牌的赛风2提供的是网页代理。从赛风3开始，推出了客户端软件，同时支持VPN模式和基于SSH的代理模式。
+
+官方的下载页面是[http://www.psiphon3.com/]。
 
 绿色软件，无需安装，无需管理员权限。压缩包内仅有单个可执行文件，带有数字签名。
 
@@ -188,6 +187,7 @@ I2P 比 TOR 更加坚挺（不易被封杀），但是速度比较慢。可以�
 || 3.31 || 2012-04-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.31.7z 下载页面] ||
 || 3.36 || 2012-07-09 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.36.7z 下载页面] ||
 || 3.42 || 2012-09-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.42.7z 下载页面] ||
+|| 3.45 || 2013-01-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.45.7z 下载页面] ||
 
 
 == Hotspot Shield ==
