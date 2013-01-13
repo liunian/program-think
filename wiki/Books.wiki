@@ -81,6 +81,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 一九八四 || Nineteen Eighty-Four || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!748 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!853 中文TXT]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!834 英文PDF] || 表面上是科幻小说，实质上是很深刻的政治小说（号称“反乌托邦三部曲”之首）。<br>书中非常彻底地揭露了共产运动本质，还有极权权政府是如何对民众进行洗脑。<br>*绝对值得一读！* 俺的书评在“[http://program-think.blogspot.com/2009/06/book-review-1984.html 这里]”。 ||
 || 动物庄园 || Animal Farm || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!755 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!854 中文TXT]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!835 英文PDF] || 此书可算是《1984》的缩略版。<br>如果你嫌《1984》太长，可以先从此书看起。 ||
 || 美丽新世界 || Brave New World || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E6%96%AF%C2%B7%E9%9B%B7%E6%AD%90%E9%82%A3%E5%BE%B7%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E 奥尔德斯·赫胥黎] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!938 中文TXT] || 此书也是“反乌托邦三部曲”之一。<br>喜欢《一九八四》的读者，应该也会喜欢这本书。 ||
+|| 盛世<br>——中国2013 || The Fat Years || [https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E4%B8%AD 陈冠中] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1073 中文PDF] || 陈冠中是香港作家，现居北京。<br>本书是一部小说，写于2009年，虚构了2013年的天朝盛世。<br>“反讽”是此书的一大特色——看书名似乎在吹捧天朝的盛世，其实捏...... ||
 
 
 == 1.3 中国 ==
@@ -93,7 +94,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 中国改革年代的政治斗争 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!858 中文PDF] || 此书介绍了朝廷高层改革派与保守派的长期内斗。<br>作者杨继绳长期在新华社工作，写出的内容真实且客观。 ||
 || 改革历程<br>——赵紫阳回忆录 || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3 赵紫阳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!860 中文PDF] || 作为赵紫阳的回忆录，此书对于了解80年代的朝廷高层，很有价值。 ||
 || 赵紫阳还说过什么？<br>——杜导正日记 || [https://zh.wikipedia.org/wiki/%E6%9D%9C%E5%AF%BC%E6%AD%A3 杜导正] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!889 中文PDF] || 作者杜导正是赵紫阳的老部下。<br>赵紫阳被软禁之后，只有极少数人能够跟赵见面，杜导正是其中之一。<br>本书记录了杜导正同赵紫阳之间的多次秘密谈话。 ||
-|| 现代化的陷阱 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!985 中文HTML] || 何清涟是天朝知名且敢言的经济学家。此书是她的成名作。<br>书中介绍了经济改革引发的种种问题（包括贫富分化、国有资产流失、圈地运动、等）。 ||
+|| 现代化的陷阱 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!985 中文HTML] || 何清涟是天朝知名且敢言的经济学家，因受迫害移居美国。<br>此书是她的成名作，其电子版在网上流传很广。<br>书中介绍了经济改革引发的种种问题（包括贫富分化、国有资产流失、圈地运动、等）。 ||
 || 中国<br>——奇迹的黄昏 || 袁剑 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!859 中文PDF] || “黄昏”一词暗指天朝经济的繁荣是好景不长。<br>此书的价值在于：深刻揭露了天朝权贵阶层对社会财富的掠夺。 ||
 
 ==== 1.3.1.2 六四事件 ====
@@ -124,14 +125,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 墓碑<br>——中国六十年代大饥荒纪实 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!870 中文PDF] || 杨继绳的背景，前面已经提到了。<br>此书又是一本大部头纪实，足见杨继绳写纪实题材的功力。 ||
-|| 人祸<br>——“大跃进”与大饥荒 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!871 中文HTML] || 书名“人祸”直接就点到了三年大饥荒的要害——根本就没有“天灾”。<br>看完此书，你将更加明白这一点。 ||
+|| 人祸<br>——“大跃进”与大饥荒 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1102 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!871 中文HTML] || 作者是中国当代史研究学者、持不同政见者。<br>书名“人祸”直接就点到了三年大饥荒的要害——根本就没有“天灾”。<br>看完此书，你将更加明白这一点。 ||
 || 庐山会议实录 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!934 中文PDF] || 1959年的庐山会议是天朝历史的转折点，为后来的三年大饥荒埋下伏笔。<br>这次会议不光引发了彭德怀倒台，还使得毛太祖更加固执地坚持激进路线。<br>李锐作为会议的参加者，详细介绍了会议的经过。 ||
 || 辉煌的幻灭<br>——人民公社警示录 || 康健 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!935 中文CHM] || 此书主要介绍大跃进时期，农村大搞人民公社，大搞浮夸风。<br>之后发生的三年大饥荒，死亡最惨的省份恰恰是浮夸风最盛的省份。 ||
 
 ==== 1.3.1.5 反右运动 ====
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 阳谋 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!981 中文CHM] || 此书的作者也就是前面《人祸》作者 ||
+|| 阳谋 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1101 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!981 中文CHM] || 作者是中国当代史研究学者、持不同政见者。<br>他的著名作品有《人祸》和《阳谋》。 ||
 || 1957年的夏季<br>——从百家争鸣到两家争鸣 || 朱正 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!982 中文HTML] || 作者不太出名，不过书写得还是很详细——里面列举了很多当事人（尤其是毛太祖）的言论。 ||
 || 往事并不如烟 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1018 中文TXT] || 作者章诒和是“中国头号大右派”章伯钧的次女。<br>此书描述了史良、储安平、张伯驹、康同璧、聂绀弩、罗隆基、张庚、章伯钧等知名“大右派”的悲剧命运。<br>由于此书内容批评了毛太祖，在2004年大陆出版时，多处内容被删改。之后真理部禁止该书重印。 ||
 
@@ -170,7 +171,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 中南海日記<br>——中共兩代王儲的隕落 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E7%A8%BC%E7%A5%A5 吴稼祥] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1017 繁體PDF (掃描版)] || 作者吴稼祥是中共高层的官员，先后在真理部（中宣部）和大内（中办）任职。<br>此书从作者的角度，以日记的形式，叙述胡耀邦和赵紫阳被邓太上皇废黜的经过。 ||
 || 我的回忆 || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!962 中文PDF] || 应某网友在留言中的要求，俺分享了这本书。<br>张国焘是中共早期元老。此回忆录对了解中共早期历史有参考价值。 ||
 
-=== 1.3.3 社会阶层 ===
+=== 1.3.3 社会阶层 & 贫富分化 ===
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 中国底层访谈录 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1020 中文PDF (扫描版 上卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1021 中文PDF (扫描版 下卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1045 中文PDF (文字版 上)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1046 中文PDF (文字版 中)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1047 中文PDF (文字版 下)] || 作者廖亦武是中国有名的诗人、流亡作家。<br>此书专写社会底层的民众，让“不见天日的下水道里的中国”浮出地面。<br>朝廷对此书的出版大为震怒，出版社遭严厉整肃，廖亦武也获得了“出版社杀手”的绰号。<br>鸣谢：某热心网友分享了此书的 *完全版* ||
@@ -179,16 +180,22 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 === 1.3.4 腐败问题 ===
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 远华案黑幕 || [https://zh.wikipedia.org/wiki/%E7%9B%9B%E9%9B%AA_%28%E8%87%A7%E9%8C%AB%E7%B4%85%29 盛雪]<br>(原名：臧锡红) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1068 中文TXT] || 盛雪是旅居加拿大的作家，并担任自由亚洲电台和德国之声的记者。<br>[https://zh.wikipedia.org/wiki/%E9%81%A0%E8%8F%AF%E6%A1%88 远华案]是天朝历史上震动最大、金额最高的经济案件。牵涉大量的朝廷高官。<br>此书是她的代表作，内容包括大量对赖昌星（远华案男一号）的访谈。<br>由于牵涉太多在职高官（江泽民、贾庆林、等），朝廷八个部委联合发文查禁。 ||
+|| 远华案黑幕 || [https://zh.wikipedia.org/wiki/%E7%9B%9B%E9%9B%AA_%28%E8%87%A7%E9%8C%AB%E7%B4%85%29 盛雪]<br>(原名：臧锡红) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1068 中文TXT] || 盛雪是旅居加拿大的作家，并担任自由亚洲电台和德国之声的记者。<br>[https://zh.wikipedia.org/wiki/%E9%81%A0%E8%8F%AF%E6%A1%88 远华案]是天朝历史上震动最大、金额最高的经济案件。牵涉大量的朝廷高官。<br>此书是她的代表作，内容包括大量对赖昌星（远华案男一号）的访谈。<br>由于牵涉太多在职高官（江泽民、贾庆林、等），被朝廷八个部委联合发文查禁。 ||
 || 编译局言情录<br>——一朝忽觉京梦醒，半世浮沉雨打萍 || 常艳 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1044 中文PDF] || “编译局”全称是“中共中央马克思、恩格斯、列宁、斯大林著作编译局”，简称“中央编译局”。<br>女博士常艳作为潜规则的当事人，通过此书详细地描述了自己和编译局局长衣俊卿之间的XXX往事。<br>此书近期走红，可惜在墙内遭严厉查禁。 ||
 
-=== 1.3.5 少数民族问题 ===
+=== 1.3.5 中宣部 & 新闻审查 ===
+
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
+|| 讨伐中宣部<br>——焦国标文集 || [https://zh.wikipedia.org/wiki/%E7%84%A6%E5%9B%BD%E6%A0%87 焦国标] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1080 中文CHM] || 焦国标是北大新闻学院副教授、作家、政治异议人士。<br>他因为写了《讨伐中宣部》一文而广为人知。并因此被勒令停止教学。<br>此电子书收录了他的多篇文章。 ||
+|| 中国政府如何控制媒体<br>——中国人权研究报告 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1098 中文HTML] || 何清涟是天朝知名且敢言的经济学家，因受迫害移居美国。<br>作者曾有8年的媒体工作经历，熟悉党国控制传媒的种种手法。 ||
+
+=== 1.3.6 少数民族问题 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
 || 天葬<br>——西藏的命运 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1065 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1064 中文TXT] || 王力雄是大陆知名作家、民族问题学者、环保人士。<br>作者在书中以大量的亲身经历和实地所见，叙述了西藏的各个方面。<br>此书的内容比较客观，有助于了解西藏的历史和现状。 ||
 || 西藏生與死<br>——雪域的民族主義 || Tibet<br>——Survival in Question || [https://fr.wikipedia.org/wiki/Pierre-Antoine_Donnet Pierre-Antoine Donnet]<br>(董尼德) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1066 繁體PDF (竪排掃描版)] || 董尼德是法国新闻记者，曾长期派驻北京。<br>此书着重写西藏的现状（中共如何高压统治、藏文化如何被破坏...） ||
 
-=== 1.3.6 (其它) ===
+=== 1.3.7 (其它) ===
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 未来的自由中国在民间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1015 中文PDF] || 刘晓波的名气挺大，俺就不介绍了。<br>此书汇集了刘晓波对天朝民主化的思考，内容包括政治、经济、文化等领域。<br>从书名可知，他认为应该自下而上推动政治变革，而不能指望朝廷。  ||
@@ -196,7 +203,6 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 单刃毒剑<br>——中国当代民族主义批判 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1012 中文PDF] || 刘晓波的名气挺大，俺就不介绍了。<br>此书重点批判民族主义，可算是《大国沉沦》的姐妹篇。 ||
 || 火与冰 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1028 中文PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这是余杰正式出版的第一本书，里面包含了政治及文化方面的随笔。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 || 致帝国的悼词<br>——中国大陆的自由状况及前景 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1027 中文PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
-|| 讨伐中宣部——焦国标文集 || [https://zh.wikipedia.org/wiki/%E7%84%A6%E5%9B%BD%E6%A0%87 焦国标] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1080 中文CHM] || 焦国标是北大新闻学院副教授、作家、政治异议人士。<br>他因为写了《讨伐中宣部》一文而广为人知。并因此被勒令停止教学。<br>此电子书收录了他的多篇文章。 ||
 || 尘世·挽歌 || [https://zh.wikipedia.org/wiki/%E9%87%8E%E5%A4%AB 土家野夫]<br>(原名：郑世平) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1081 中文PDF] || 土家野夫是天朝作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此电子书包含了他的多篇作品。PDF由热心网友精心排版并分享给俺的，特此鸣谢。 ||
 
 
@@ -216,7 +222,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 1.6 法国 ==
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
-|| 旧制度与大革命 || The Old Regime and the French Revolution || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!944 中文PDF] || 作者是法国的政治思想家和历史学家。<br>此书主要介绍大革命之前的法国社会，并分析了大革命的起因。<br>有小道消息称：如今中央政治局的某些家伙也在传阅此书。如属实，说明连朝廷也觉得天朝正处于革命的前夜。 ||
+|| 旧制度与大革命 || The Old Regime and the French Revolution || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!944 中文PDF] || 作者是法国的政治思想家和历史学家。<br>此书主要介绍大革命之前的法国社会，并分析了大革命的起因。<br>早在2012年初，就有小道消息称：中央政治局的某些家伙在传阅此书。<br>由此可见，连朝廷高层也觉得天朝正处于革命前夜。 ||
 
 
 <hr>
