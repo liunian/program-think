@@ -100,7 +100,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 ==== 1.3.1.2 六四事件 ====
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 天安门文件<br>(中国六四真相) || 张良 (化名) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!861 中文CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!862 中文PDF] || 此书传播很广，影响较大，但部分内容有争议。<br>争议部分，俺会在《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》中指明。 ||
+|| 天安门文件<br>(中国六四真相) || 张良 (化名) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!861 中文CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1096 中文PDF] || 此书传播很广，影响较大，但部分内容有争议。<br>争议部分，俺会在《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》中指明。 ||
 || 天安門血腥清場内幕 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!888 繁體PDF] || 作者吴仁华是六四运动的骨干分子。<br>此书对6月3日晚间到6月4日上午的血腥清场过程，有非常详细的介绍。 ||
 || “六四”事件民间白皮书 || 纪念“六四”事件委员会 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!887 中文PDF] || 主要作者之一李进进是六四运动的学生领袖。<br>此书尝试从民间的角度，对整个六四事件作一个全面的分析（包括政治层面和法律层面）。 ||
 || 八九天安门事件大事记 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!885 中文PDF] || 作者吴仁华是六四运动的骨干分子。<br>此书记录了六四期间（4月15日到6月9日）每天发生的重大事情。 ||
