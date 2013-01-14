@@ -54,7 +54,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 = 1 政治类 =
 
-== 1.1 政治理论及学术著作 ==
+== 1.1 政治理论和学术著作 ==
 
 === 1.1.1 共产主义 ===
 
@@ -106,6 +106,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 八九天安门事件大事记 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!885 中文PDF] || 作者吴仁华是六四运动的骨干分子。<br>此书记录了六四期间（4月15日到6月9日）每天发生的重大事情。 ||
 || 人民不會忘記 || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港記者協會] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!863 繁體HTML]<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體在線版] || 此书是香港记者协会出版，汇总了几十名记者的六四报道。 ||
 || 八九民運史 || 陳小雅 || [http://www.64memo.com/b5/4.htm 繁體在線版] || 虽然此书的名气不大，但是俺在写《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》的过程中，也参考了它的某些内容。 ||
+|| 天安门的力量<br>——国家-社会关系和1989北京学生运动 || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1048 中文PDF] || 赵鼎新是美国芝加哥大学社会学系教授。<br> 此书以“国家—社会关系”理论来解释整个学运的发展。<br>作者通过该理论来解答：为啥学运各方都曾经寻求过妥协，最后却以流血收场。 ||
 || 铭记天安门 || [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!884 中文PDF] || 作者Robin Munro是人权组织观察员。<br>六月3日夜间到次日凌晨4点，他在广场周边目睹了党国的血腥镇压。 ||
 || 黄雀行动 || 江迅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!886 中文PDF] || 六四运动被血腥镇压之后，朝廷鹰犬在大肆搜捕参与民主运动的骨干分子。<br>一些勇敢的香港人组织了秘密渠道，帮助民运人士逃离大陆，代号“黄雀行动”。 ||
 || 关键时刻<br>——李鹏日记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!864 中文CHM] || 此书从保守派的视角，叙述了六四期间高层的动态。<br>在此书中，李鹏这家伙处处不忘开脱自己。 ||
@@ -121,18 +122,18 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 文革研究 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!869 中文PDF] || 严格来说，这不是一本书，而是几篇文革相关的研究文章的汇总。 ||
 || 牛鬼蛇神录<br>——文革囚禁中的精灵 || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯]<br>(原名：杨羲光) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1014 中文PDF] || 杨小凯是天朝知名的经济学家（已故）。<br>文革期间他写了知名的大字报《中国向何处去》，引起轰动并因此被关押多年。<br>此书写的是他的狱中难友。 ||
 
-==== 1.3.1.4 大跃进和大饥荒时期 ====
+==== 1.3.1.4 “大跃进”和大饥荒时期 ====
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 墓碑<br>——中国六十年代大饥荒纪实 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!870 中文PDF] || 杨继绳的背景，前面已经提到了。<br>此书又是一本大部头纪实，足见杨继绳写纪实题材的功力。 ||
-|| 人祸<br>——“大跃进”与大饥荒 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1102 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!871 中文HTML] || 作者是中国当代史研究学者、持不同政见者。<br>书名“人祸”直接就点到了三年大饥荒的要害——根本就没有“天灾”。<br>看完此书，你将更加明白这一点。 ||
+|| 人祸<br>——“大跃进”与大饥荒 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1102 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!871 中文HTML] || 作者是中国当代史研究学者、持不同政见者。<br>书名“人祸”直接就点到了三年大饥荒的要害——根本就没有“天灾”。<br>看完此书，你将更加明白这一点。<br>PDF是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
 || 庐山会议实录 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!934 中文PDF] || 1959年的庐山会议是天朝历史的转折点，为后来的三年大饥荒埋下伏笔。<br>这次会议不光引发了彭德怀倒台，还使得毛太祖更加固执地坚持激进路线。<br>李锐作为会议的参加者，详细介绍了会议的经过。 ||
 || 辉煌的幻灭<br>——人民公社警示录 || 康健 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!935 中文CHM] || 此书主要介绍大跃进时期，农村大搞人民公社，大搞浮夸风。<br>之后发生的三年大饥荒，死亡最惨的省份恰恰是浮夸风最盛的省份。 ||
 
-==== 1.3.1.5 反右运动 ====
+==== 1.3.1.5 “反右”运动 ====
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 阳谋 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1101 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!981 中文CHM] || 作者是中国当代史研究学者、持不同政见者。<br>他的著名作品有《人祸》和《阳谋》。 ||
+|| 阳谋 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1101 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!981 中文CHM] || 作者是中国当代史研究学者、持不同政见者。<br>他的著名作品有《人祸》和《阳谋》。<br>PDF是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
 || 1957年的夏季<br>——从百家争鸣到两家争鸣 || 朱正 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!982 中文HTML] || 作者不太出名，不过书写得还是很详细——里面列举了很多当事人（尤其是毛太祖）的言论。 ||
 || 往事并不如烟 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1018 中文TXT] || 作者章诒和是“中国头号大右派”章伯钧的次女。<br>此书描述了史良、储安平、张伯驹、康同璧、聂绀弩、罗隆基、张庚、章伯钧等知名“大右派”的悲剧命运。<br>由于此书内容批评了毛太祖，在2004年大陆出版时，多处内容被删改。之后真理部禁止该书重印。 ||
 
@@ -171,7 +172,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 中南海日記<br>——中共兩代王儲的隕落 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E7%A8%BC%E7%A5%A5 吴稼祥] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1017 繁體PDF (掃描版)] || 作者吴稼祥是中共高层的官员，先后在真理部（中宣部）和大内（中办）任职。<br>此书从作者的角度，以日记的形式，叙述胡耀邦和赵紫阳被邓太上皇废黜的经过。 ||
 || 我的回忆 || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!962 中文PDF] || 应某网友在留言中的要求，俺分享了这本书。<br>张国焘是中共早期元老。此回忆录对了解中共早期历史有参考价值。 ||
 
-=== 1.3.3 社会阶层 & 贫富分化 ===
+=== 1.3.3 社会阶层和贫富分化 ===
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 中国底层访谈录 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1020 中文PDF (扫描版 上卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1021 中文PDF (扫描版 下卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1045 中文PDF (文字版 上)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1046 中文PDF (文字版 中)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1047 中文PDF (文字版 下)] || 作者廖亦武是中国有名的诗人、流亡作家。<br>此书专写社会底层的民众，让“不见天日的下水道里的中国”浮出地面。<br>朝廷对此书的出版大为震怒，出版社遭严厉整肃，廖亦武也获得了“出版社杀手”的绰号。<br>鸣谢：某热心网友分享了此书的 *完全版* ||
@@ -180,10 +181,10 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 === 1.3.4 腐败问题 ===
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 远华案黑幕 || [https://zh.wikipedia.org/wiki/%E7%9B%9B%E9%9B%AA_%28%E8%87%A7%E9%8C%AB%E7%B4%85%29 盛雪]<br>(原名：臧锡红) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1068 中文TXT] || 盛雪是旅居加拿大的作家，并担任自由亚洲电台和德国之声的记者。<br>[https://zh.wikipedia.org/wiki/%E9%81%A0%E8%8F%AF%E6%A1%88 远华案]是天朝历史上震动最大、金额最高的经济案件。牵涉大量的朝廷高官。<br>此书是她的代表作，内容包括大量对赖昌星（远华案男一号）的访谈。<br>由于牵涉太多在职高官（江泽民、贾庆林、等），被朝廷八个部委联合发文查禁。 ||
+|| 远华案黑幕 || [https://zh.wikipedia.org/wiki/%E7%9B%9B%E9%9B%AA_%28%E8%87%A7%E9%8C%AB%E7%B4%85%29 盛雪]<br>(原名：臧锡红) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1103 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1068 中文TXT] || 盛雪是旅居加拿大的作家，并担任自由亚洲电台和德国之声的记者。<br>[https://zh.wikipedia.org/wiki/%E9%81%A0%E8%8F%AF%E6%A1%88 远华案]是天朝历史上震动最大、金额最高的经济案件。牵涉大量的朝廷高官。<br>此书是她的代表作，内容包括大量对赖昌星（远华案男一号）的访谈。<br>由于牵涉太多在职高官（江泽民、贾庆林、等），被朝廷八个部委联合发文查禁。 ||
 || 编译局言情录<br>——一朝忽觉京梦醒，半世浮沉雨打萍 || 常艳 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1044 中文PDF] || “编译局”全称是“中共中央马克思、恩格斯、列宁、斯大林著作编译局”，简称“中央编译局”。<br>女博士常艳作为潜规则的当事人，通过此书详细地描述了自己和编译局局长衣俊卿之间的XXX往事。<br>此书近期走红，可惜在墙内遭严厉查禁。 ||
 
-=== 1.3.5 中宣部 & 新闻审查 ===
+=== 1.3.5 中宣部和言论审查 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
 || 讨伐中宣部<br>——焦国标文集 || [https://zh.wikipedia.org/wiki/%E7%84%A6%E5%9B%BD%E6%A0%87 焦国标] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1080 中文CHM] || 焦国标是北大新闻学院副教授、作家、政治异议人士。<br>他因为写了《讨伐中宣部》一文而广为人知。并因此被勒令停止教学。<br>此电子书收录了他的多篇文章。 ||
