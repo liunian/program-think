@@ -25,12 +25,18 @@
 || 中国数字时代 || || || 曾经和多伦多大学公民实验室联合推出翻墙利器——“赛风” ||
 || || [http://chinadigitaltimes.net/] || Web || English Home ||
 || || [http://chinadigitaltimes.net/chinese/] || Web || 简体中文主页 ||
-|| || [https://twitter.com/cdt @cdt] || Twitter || 简体中文推特 ||
-|| 新世纪新闻网 || || || 以新闻、政治评论为主的综合类网站 ||
-|| || [http://www.newcenturynews.com/] || Web || 简体中文主页 ||
+|| || [https://chinadigitaltimes.net/feed/ 订阅] || RSS || 简体中文， ||
+|| || [https://plus.google.com/102352597823180899622/posts +China Digital Times] || G+ || English ||
+|| || [https://plus.google.com/114542928368198238414/posts +中国数字时代] || G+ || 简体中文 ||
+|| || [https://twitter.com/cdt @cdt] || Twitter || English ||
+|| || [https://twitter.com/CDTChinese @CDTChinese] || Twitter || 简体中文推特 ||
 || 看中国 || || || 总部在美国的独立媒体，包括政治、社会、财经、历史、文化、娱乐等栏目 ||
 || || [http://www.secretchina.com/] || Web || 简体中文主页 ||
-|| || [http://www.secretchina.com/rss.xml 新闻订阅] || RSS || 简体中文，摘要输出 ||
+|| || [http://en.kanzhongguo.com/] || Web || English Home ||
+|| || [http://www.secretchina.com/rss.xml 新闻订阅] || RSS || 简体中文，全文输出 ||
+|| || [https://twitter.com/kanzhongguo @KanZhongGuo] || Twitter || 简体中文推特 ||
+|| 新世纪新闻网 || || || 以新闻、政治评论为主的综合类网站 ||
+|| || [http://www.newcenturynews.com/] || Web || 简体中文主页 ||
 
 
 == 电子杂志类 ==
@@ -38,19 +44,17 @@
 || *名称* || *链接* || *类型* || *说明* ||
 || 阳光时务周刊 || || || 2011年创办于香港的中文时政杂志。杂志出版人是阳光卫视总裁，主编长平是大陆很知名很敢言的媒体人士。 ||
 || || [http://www.isunaffairs.com/] || Web || 繁體中文主頁 ||
-|| || [http://www.isunaffairs.com/?feed=rss2] || RSS || 繁體中文，摘要輸出 ||
+|| || [http://www.isunaffairs.com/?feed=rss2 订阅] || RSS || 繁體中文，摘要輸出 ||
 || || [https://plus.google.com/105389029463525925239/posts +阳光时务周刊] || G+ || 简体中文 ||
 || || [https://twitter.com/isunaffairs @isunaffairs] || Twitter || 繁體中文推特 ||
 || 中国报道周刊 || || || 含政治、经济、新闻、学术、历史、军事、哲学、等方面的电子杂志 ||
 || || [http://www.china-week.com/] || Web || 简体中文主页 ||
-|| || [https://twitter.com/chinaweek @chinaweek] || Twitter || 简体中文推特 ||
+|| || [https://twitter.com/chinaweek @ChinaWeek] || Twitter || 简体中文推特 ||
 || || [http://feeds.feedburner.com/china-week 文章订阅] || RSS || 简体中文，全文输出 ||
 || 民主中国 || || || 以政治评论（六四、零八宪章）为主 ||
 || || [http://minzhuzhongguo.org/] || Web || 简体中文主页 ||
-|| || [https://twitter.com/minzhuzhongguo @minzhuzhongguo] || Twitter || 简体中文推特 ||
-|| 观察(双月刊) || || || 在美国的综合性刊物，包括新闻及各种专栏报道 ||
-|| || [http://www.observechina.net/] || Web || 简体中文主页 ||
-|| || [http://www.observechina.net/info_eng/Index.asp] || Web || English Home ||
+|| || [http://www.democraticchina.org/] || Web || English Home ||
+|| || [https://twitter.com/minzhuzhongguo @MinZhuZhongGuo] || Twitter || 简体中文推特 ||
 || 北京之春(月刊) || || || 以促进中国人权、民主化和社会公正为宗旨的中文月刊 ||
 || || [http://bjzc.org/] || Web || 简体中文主页 ||
 || || [http://bjzc.org/en/] || Web || English Home ||
@@ -58,23 +62,26 @@
 || 纵览中国 || || || 普林斯顿中国学社主办，包括政治、文化、经济、外交等 ||
 || || [http://www.chinainperspective.com/] || Web || 简体中文主页 ||
 || || [http://www.chinainperspective.com/rss.aspx 订阅] || RSS || 简体中文，摘要输出 ||
+|| 观察(双月刊) || || || 在美国的综合性刊物，包括新闻及各种专栏报道 ||
+|| || [http://www.observechina.net/] || Web || 简体中文主页 ||
+|| || [http://www.observechina.net/info_eng/Index.asp] || Web || English Home ||
 
 == 博客类网站 ==
 
 || *名称* || *链接* || *类型* || *说明* ||
+|| 一五一十部落 || || || 虽然此网站在墙内，但还是有些不和谐的声音 ||
+|| || [http://my1510.cn/] || Web || 一五一十部落的主页 ||
+|| || [http://feed.feedsky.com/my1510 部落头条] || RSS || 全文输出，平均70帖/周，发帖量挺大 ||
+|| || [http://twitter.com/my1510 @my1510] || Twitter || 简体中文推特 ||
 || 牛博 || || || 老罗（罗永浩）办的一个博客网站，汇集不少有名的博客 ||
 || || [http://www.bullogger.com/] || Web || 牛博国际的主页 ||
 || || [http://www.bullogger.cn/] || Web || 嫣牛博的主页，阉割了敏感政治内容 ||
 || || [http://www.bullogger.com/Entry/RssHandler.ashx?selectedA=1&selectedB=1 最新文章订阅] || RSS || 全文输出，平均40帖/周 ||
 || || [https://twitter.com/bullogger @bullogger] || Twitter || 简体中文推特 ||
-|| 一五一十部落 || || || 虽然此网站在墙内，但还是有些不和谐的声音 ||
-|| || [http://my1510.cn/] || Web || 一五一十部落的主页 ||
-|| || [http://feed.feedsky.com/my1510 部落头条] || RSS || 全文输出，平均70帖/周，发帖量挺大 ||
-|| || [http://twitter.com/my1510 @my1510] || Twitter || 简体中文推特 ||
 || 德赛公园 || || || 德赛虽是取自“德先生、赛先生”之意，但主要是些政治博客 ||
 || || [http://www.de-sci.org/] || Web || 德赛公园的主页 ||
 || || [http://www.de-sci.org/blogs/rss.php 推荐文章订阅] || RSS || 全文输出，2011年下半年就没怎么更新了 ||
-|| || [https://twitter.com/desaigongyuan @desaigongyuan] || Twitter || 简体中文推特 ||
+|| || [https://twitter.com/desaigongyuan @DeSaiGongYuan] || Twitter || 简体中文推特 ||
 
 
 == 论坛类网站 ==
