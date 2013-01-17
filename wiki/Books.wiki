@@ -60,7 +60,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
 || 政治自由主义 || Political Liberalism || [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1108 中文HTML] || 约翰·罗尔斯是美国著名的政治哲学家，在自由主义理论方面颇有建树。<br>此书是罗尔斯对他的代表作《正义论》的补充和修正。<br>在罗尔斯的作品中，此书的名气仅次于《正义论》。 ||
-|| 自由主义与正义的局限 || Liberalism and the Limits of Justice || [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1075 中文PDF] || 迈克尔·桑德尔是哈佛当红的政治学教授。<br>他主讲的课程《公正》（Justice）成为哈佛最受欢迎的选修课。<br>此书是他的成名作，以批评罗尔斯的《正义论》而闻名 。||
+|| 自由主义与正义的局限 || Liberalism and the Limits of Justice || [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1075 中文PDF] || 迈克尔·桑德尔是哈佛当红的政治学教授。<br>他主讲的课程《公正》（Justice）成为哈佛最受欢迎的选修课。<br>此书是他的成名作，以批评罗尔斯的《正义论》而闻名 。 ||
 
 === 1.1.2 共产主义 ===
 
@@ -106,13 +106,13 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 ==== 1.3.1.2 六四事件 ====
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 天安门文件<br>(中国六四真相) || 张良 (化名) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!861 中文CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1096 中文PDF] || 此书传播很广，影响较大，但部分内容有争议。<br>争议部分，俺会在《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》中指明。 ||
+|| 天安门文件<br>(中国六四真相) || 张良 (化名) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!861 中文CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1096 中文PDF] || 此书传播很广，影响较大，但部分内容有争议。<br>争议部分，俺会在《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》中指明。<br>PDF版本是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
 || 天安門血腥清場内幕 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!888 繁體PDF] || 作者吴仁华是六四运动的骨干分子。<br>此书对6月3日晚间到6月4日上午的血腥清场过程，有非常详细的介绍。 ||
 || “六四”事件民间白皮书 || 纪念“六四”事件委员会 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!887 中文PDF] || 主要作者之一李进进是六四运动的学生领袖。<br>此书尝试从民间的角度，对整个六四事件作一个全面的分析（包括政治层面和法律层面）。 ||
 || 八九天安门事件大事记 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!885 中文PDF] || 作者吴仁华是六四运动的骨干分子。<br>此书记录了六四期间（4月15日到6月9日）每天发生的重大事情。 ||
 || 人民不會忘記 || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港記者協會] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!863 繁體HTML]<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體在線版] || 此书是香港记者协会出版，汇总了几十名记者的六四报道。 ||
 || 八九民運史 || 陳小雅 || [http://www.64memo.com/b5/4.htm 繁體在線版] || 虽然此书的名气不大，但是俺在写《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》的过程中，也参考了它的某些内容。 ||
-|| 天安门的力量<br>——国家-社会关系和1989北京学生运动 || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1048 中文PDF] || 赵鼎新是美国芝加哥大学社会学系教授。<br> 此书以“国家—社会关系”理论来解释整个学运的发展。<br>作者通过该理论来解答：为啥学运各方都曾经寻求过妥协，最后却以流血收场。 ||
+|| 天安门的力量<br>——国家-社会关系和1989北京学生运动 || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1048 中文PDF] || 赵鼎新是美国芝加哥大学社会学系教授。<br>此书以“国家—社会关系”理论来解释整个学运的发展。<br>作者通过该理论来解答：为啥学运各方都曾经寻求过妥协，最后却以流血收场。 ||
 || 铭记天安门 || [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!884 中文PDF] || 作者Robin Munro是人权组织观察员。<br>六月3日夜间到次日凌晨4点，他在广场周边目睹了党国的血腥镇压。 ||
 || 黄雀行动 || 江迅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!886 中文PDF] || 六四运动被血腥镇压之后，朝廷鹰犬在大肆搜捕参与民主运动的骨干分子。<br>一些勇敢的香港人组织了秘密渠道，帮助民运人士逃离大陆，代号“黄雀行动”。 ||
 || 关键时刻<br>——李鹏日记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!864 中文CHM] || 此书从保守派的视角，叙述了六四期间高层的动态。<br>在此书中，李鹏这家伙处处不忘开脱自己。 ||
@@ -132,14 +132,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 墓碑<br>——中国六十年代大饥荒纪实 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!870 中文PDF] || 杨继绳的背景，前面已经提到了。<br>此书又是一本大部头纪实，足见杨继绳写纪实题材的功力。 ||
-|| 人祸<br>——“大跃进”与大饥荒 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1102 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!871 中文HTML] || 作者是中国当代史研究学者、持不同政见者。<br>书名“人祸”直接就点到了三年大饥荒的要害——根本就没有“天灾”。<br>看完此书，你将更加明白这一点。<br>PDF是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
+|| 人祸<br>——“大跃进”与大饥荒 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1102 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!871 中文HTML] || 作者是中国当代史研究学者、持不同政见者。<br>书名“人祸”直接就点到了三年大饥荒的要害——根本就没有“天灾”。<br>看完此书，你将更加明白这一点。<br>PDF版本是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
 || 庐山会议实录 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!934 中文PDF] || 1959年的庐山会议是天朝历史的转折点，为后来的三年大饥荒埋下伏笔。<br>这次会议不光引发了彭德怀倒台，还使得毛太祖更加固执地坚持激进路线。<br>李锐作为会议的参加者，详细介绍了会议的经过。 ||
 || 辉煌的幻灭<br>——人民公社警示录 || 康健 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!935 中文CHM] || 此书主要介绍大跃进时期，农村大搞人民公社，大搞浮夸风。<br>之后发生的三年大饥荒，死亡最惨的省份恰恰是浮夸风最盛的省份。 ||
 
 ==== 1.3.1.5 “反右”运动 ====
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 阳谋 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1101 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!981 中文CHM] || 作者是中国当代史研究学者、持不同政见者。<br>他的著名作品有《人祸》和《阳谋》。<br>PDF是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
+|| 阳谋 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1101 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!981 中文CHM] || 作者是中国当代史研究学者、持不同政见者。<br>他的著名作品有《人祸》和《阳谋》。<br>PDF版本是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
 || 1957年的夏季<br>——从百家争鸣到两家争鸣 || 朱正 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!982 中文HTML] || 作者不太出名，不过书写得还是很详细——里面列举了很多当事人（尤其是毛太祖）的言论。 ||
 || 往事并不如烟 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1018 中文TXT] || 作者章诒和是“中国头号大右派”章伯钧的次女。<br>此书描述了史良、储安平、张伯驹、康同璧、聂绀弩、罗隆基、张庚、章伯钧等知名“大右派”的悲剧命运。<br>由于此书内容批评了毛太祖，在2004年大陆出版时，多处内容被删改。之后真理部禁止该书重印。 ||
 
@@ -174,7 +174,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 新发现的毛泽东<br>——仆人眼中的伟人 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!866 中文PDF] || 作者王若水长期担任《人民日报》副总编。<br>此书提供了一种新的视角（真理部内部的视角）来看毛太祖。 ||
 || 晚年周恩来 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!937 中文PDF] || 高文谦曾经在中共中央文献研究室工作，并担任周恩来生平研究小组组长。<br>这本书不但权威而且客观，还详细描述了毛周二人的勾心斗角。 ||
 || 中国影帝温家宝 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!961 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1034 中文TXT] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>此书揭露了温影帝虚伪的一面。余杰因此书而受朝廷迫害，2012年被迫移民美国。<br>在两位热心网友的帮助下，俺找到了此书完整的文字版并制作了此PDF，特此鸣谢。 ||
-|| 胡耀邦下台的背景<br>——人道主义在中国的命运 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1038 中文TXT] || 作者王若水长期担任《人民日报》副总编。<br>此书重点介绍了80年代中期的“清除思想污染”运动。<br>该运动引发了邓小平对胡耀邦的不满，最终导致了胡耀邦在86学潮后下台。 ||
+|| 胡耀邦下台的背景<br>——人道主义在中国的命运 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1038 中文TXT] || 作者王若水长期担任《人民日报》副总编。<br>此书重点介绍了80年代中期的“清除思想污染”运动。<br>该运动引发了邓小平对胡耀邦的不满，最终导致了胡耀邦在86学潮后下台。<br>此书由热心网友分享TXT版本，特此鸣谢。 ||
 || 中南海日記<br>——中共兩代王儲的隕落 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E7%A8%BC%E7%A5%A5 吴稼祥] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1017 繁體PDF (掃描版)] || 作者吴稼祥是中共高层的官员，先后在真理部（中宣部）和大内（中办）任职。<br>此书从作者的角度，以日记的形式，叙述胡耀邦和赵紫阳被邓太上皇废黜的经过。 ||
 || 我的回忆 || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!962 中文PDF] || 应某网友在留言中的要求，俺分享了这本书。<br>张国焘是中共早期元老。此回忆录对了解中共早期历史有参考价值。 ||
 
@@ -200,7 +200,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
 || 天葬<br>——西藏的命运 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1065 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1064 中文TXT] || 王力雄是大陆知名作家、民族问题学者、环保人士。<br>作者在书中以大量的亲身经历和实地所见，叙述了西藏的各个方面。<br>此书的内容比较客观，有助于了解西藏的历史和现状。 ||
-|| 西藏生與死<br>——雪域的民族主義 || Tibet<br>——Survival in Question || [https://fr.wikipedia.org/wiki/Pierre-Antoine_Donnet Pierre-Antoine Donnet]<br>(董尼德) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1066 繁體PDF (竪排掃描版)] || 董尼德是法国新闻记者，曾长期派驻北京。<br>此书着重写西藏的现状（中共如何高压统治、藏文化如何被破坏...） ||
+|| 西藏生與死<br>——雪域的民族主義 || Tibet<br>——Survival in Question || [https://fr.wikipedia.org/wiki/Pierre-Antoine_Donnet Pierre-Antoine Donnet]<br>(董尼德) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1066 繁體PDF (竪排掃描版)] || 董尼德是法国新闻记者，曾长期派驻北京。<br>此书着重写西藏的现状（中共如何高压统治、藏文化如何被破坏...）<br>扫描版，字迹有点模糊。 ||
 
 === 1.3.7 (其它) ===
 
@@ -210,7 +210,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 单刃毒剑<br>——中国当代民族主义批判 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1012 中文PDF] || 刘晓波的名气挺大，俺就不介绍了。<br>此书重点批判民族主义，可算是《大国沉沦》的姐妹篇。 ||
 || 火与冰 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1028 中文PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这是余杰正式出版的第一本书，里面包含了政治及文化方面的随笔。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 || 致帝国的悼词<br>——中国大陆的自由状况及前景 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1027 中文PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
-|| 尘世·挽歌 || [https://zh.wikipedia.org/wiki/%E9%87%8E%E5%A4%AB 土家野夫]<br>(原名：郑世平) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1081 中文PDF] || 土家野夫是天朝作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此电子书包含了他的多篇作品。PDF由热心网友精心排版并分享给俺的，特此鸣谢。 ||
+|| 尘世·挽歌 || [https://zh.wikipedia.org/wiki/%E9%87%8E%E5%A4%AB 土家野夫]<br>(原名：郑世平) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1081 中文PDF] || 土家野夫是天朝作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此电子书包含了他的多篇作品。PDF由热心网友精心排版并分享给俺，特此鸣谢。 ||
 || 沉沦的圣殿<br>——中国20世纪70年代地下诗歌遗照 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武]主编 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1107 中文PDF] || 作者廖亦武是中国有名的诗人、流亡作家。<br>此书是廖亦武主编的文集，讲述70年代的理想主义者和他们所写的地下诗歌。 ||
 
 == 1.4 美国 ==
@@ -222,8 +222,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
 || 斯大林秘闻<br>——原苏联秘密档案披露 || Stalin<br>——The First In-depth Biography<br>Based on Explosive New Documents<br>from Russia's Secret Archives || [https://en.wikipedia.org/wiki/Edvard_Radzinsky 爱德华·拉津斯基] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1072 中文PDF] || 作者是俄罗斯知名传记作家。此书出版于1996年。<br>书中大量引用了前苏联的解密档案（包括斯大林个人档案、十月革命档案、苏共中央党务档案、等）。<br>本书有助于了解斯大林是如何血腥清洗党内高官，最终独揽大权成为新沙皇。 ||
-|| 苏联真相——对101个重要问题的思考 ||  || 陆南泉 等人 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1076 中文PDF (上 扫描版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1077 中文PDF (中 扫描版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1078 中文PDF (下 扫描版)] || 本书作者多人，主要作者陆南泉是中国社科院教授/博导，长期在苏联东欧研究所任研究员。<br>书中列举了关于苏联的101个问题，并一一作答。<br>虽然是大陆出版，但对于苏共的独裁以及最终的崩溃，还是批判得比较深入。<br>这个扫描版很大，但是字迹很清晰。 ||
-|| 苏联兴亡史 || N/A || 陈之骅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1069 中文PDF (扫描版)] || 作者是中国社科院世界历史研究所研究员。<br>本书28章、800多页，从十月革命讲到苏联解体，也讲了斯大林搞独裁的不光彩历史。<br>由于作者的背景，某些政治敏感内容语焉不详（比如819政变以及政变失败后苏共被取缔） ||
+|| 苏联真相<br>——对101个重要问题的思考 ||  || 陆南泉 等人 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1076 中文PDF (上 扫描版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1077 中文PDF (中 扫描版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1078 中文PDF (下 扫描版)] || 本书作者多人，主要作者陆南泉是中国社科院教授/博导，长期在苏联东欧研究所任研究员。<br>书中列举了关于苏联的101个问题，并一一作答。<br>虽然是大陆出版，但对于苏共的独裁以及最终的崩溃，还是批判得比较深入。<br>这个扫描版很大，但是字迹很清晰。 ||
+|| 苏联兴亡史 || N/A || 陈之骅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1069 中文PDF (扫描版)] || 作者是中国社科院世界历史研究所研究员。<br>本书28章、800多页，从十月革命讲到苏联解体，也讲了斯大林搞独裁的不光彩历史。<br>由于作者是天朝背景，某些政治敏感内容语焉不详（比如819政变以及政变失败后苏共被取缔） ||
 || 东欧大裂变纪实 || N/A || 欧阳东 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1071 中文PDF (扫描版)] || 作者不太有名。<br>此书主要是介绍上世纪80年代末90年代初的苏联/东欧剧变。<br>对那段历史有兴趣的同学可以参考。 ||
 
 == 1.6 法国 ==
