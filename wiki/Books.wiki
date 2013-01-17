@@ -173,7 +173,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 红太阳的陨落<br>——千秋功罪毛泽东 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!996 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!865 中文DOC] || 此书深刻批判了毛太祖的种种罪恶。<br>因为批判得太彻底了，某毛派网站恼羞成怒，把辛子陵列为“头号汉奸”。 ||
 || 新发现的毛泽东<br>——仆人眼中的伟人 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!866 中文PDF] || 作者王若水长期担任《人民日报》副总编。<br>此书提供了一种新的视角（真理部内部的视角）来看毛太祖。 ||
 || 晚年周恩来 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!937 中文PDF] || 高文谦曾经在中共中央文献研究室工作，并担任周恩来生平研究小组组长。<br>这本书不但权威而且客观，还详细描述了毛周二人的勾心斗角。 ||
-|| 中国影帝温家宝 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!961 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1034 中文TXT] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>此书揭露了温影帝虚伪的一面。余杰因此书而受朝廷迫害，2012年被迫移民美国。<br>鸣谢：在两位热心网友的帮助下，俺找到了此书完整的文字版，并制作了这个PDF。 ||
+|| 中国影帝温家宝 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!961 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1034 中文TXT] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>此书揭露了温影帝虚伪的一面。余杰因此书而受朝廷迫害，2012年被迫移民美国。<br>在两位热心网友的帮助下，俺找到了此书完整的文字版并制作了此PDF，特此鸣谢。 ||
 || 胡耀邦下台的背景<br>——人道主义在中国的命运 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1038 中文TXT] || 作者王若水长期担任《人民日报》副总编。<br>此书重点介绍了80年代中期的“清除思想污染”运动。<br>该运动引发了邓小平对胡耀邦的不满，最终导致了胡耀邦在86学潮后下台。 ||
 || 中南海日記<br>——中共兩代王儲的隕落 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E7%A8%BC%E7%A5%A5 吴稼祥] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1017 繁體PDF (掃描版)] || 作者吴稼祥是中共高层的官员，先后在真理部（中宣部）和大内（中办）任职。<br>此书从作者的角度，以日记的形式，叙述胡耀邦和赵紫阳被邓太上皇废黜的经过。 ||
 || 我的回忆 || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!962 中文PDF] || 应某网友在留言中的要求，俺分享了这本书。<br>张国焘是中共早期元老。此回忆录对了解中共早期历史有参考价值。 ||
@@ -181,7 +181,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 === 1.3.3 社会阶层 贫富分化 ===
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 中国底层访谈录 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1020 中文PDF (扫描版 上卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1021 中文PDF (扫描版 下卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1045 中文PDF (文字版 上)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1046 中文PDF (文字版 中)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1047 中文PDF (文字版 下)] || 作者廖亦武是中国有名的诗人、流亡作家。<br>此书专写社会底层的民众，让“不见天日的下水道里的中国”浮出地面。<br>朝廷对此书的出版大为震怒，出版社遭严厉整肃，廖亦武也获得了“出版社杀手”的绰号。<br>鸣谢：某热心网友分享了此书的 *完全版* ||
+|| 中国底层访谈录 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1020 中文PDF (扫描版 上卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1021 中文PDF (扫描版 下卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1045 中文PDF (文字版 上)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1046 中文PDF (文字版 中)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1047 中文PDF (文字版 下)] || 作者廖亦武是中国有名的诗人、流亡作家。<br>此书专写社会底层的民众，让“不见天日的下水道里的中国”浮出地面。<br>朝廷对此书的出版大为震怒，出版社遭严厉整肃，廖亦武也获得了“出版社杀手”的绰号。<br>某热心网友分享了此书的精美文字版，特此鸣谢。 ||
 || 中国社会各阶层分析 || [https://zh.wikipedia.org/wiki/%E6%A2%81%E6%99%93%E5%A3%B0 梁晓声] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1023 中文PDF] || 梁晓声也算是当代知名作家，其作品多写知青题材。<br>此书详细介绍当今天朝的各个社会阶层。 ||
 
 === 1.3.4 腐败问题 ===
@@ -211,7 +211,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 火与冰 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1028 中文PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这是余杰正式出版的第一本书，里面包含了政治及文化方面的随笔。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 || 致帝国的悼词<br>——中国大陆的自由状况及前景 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1027 中文PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 || 尘世·挽歌 || [https://zh.wikipedia.org/wiki/%E9%87%8E%E5%A4%AB 土家野夫]<br>(原名：郑世平) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1081 中文PDF] || 土家野夫是天朝作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此电子书包含了他的多篇作品。PDF由热心网友精心排版并分享给俺的，特此鸣谢。 ||
-
+|| 沉沦的圣殿<br>——中国20世纪70年代地下诗歌遗照 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武]主编 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1107 中文PDF] || 作者廖亦武是中国有名的诗人、流亡作家。<br>此书是廖亦武主编的文集，讲述70年代的理想主义者和他们所写的地下诗歌。 ||
 
 == 1.4 美国 ==
 
