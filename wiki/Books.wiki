@@ -54,9 +54,15 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 = 1 政治类 =
 
-== 1.1 政治理论和学术著作 ==
+== 1.1 政治理论 学术著作 ==
 
-=== 1.1.1 共产主义 ===
+=== 1.1.1 自由主义 ===
+
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
+|| 政治自由主义 || Political Liberalism || [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1108 中文HTML] || 约翰·罗尔斯是美国著名的政治哲学家，在自由主义理论方面颇有建树。<br>此书是罗尔斯对他的代表作《正义论》的补充和修正。<br>在罗尔斯的作品中，此书的名气仅次于《正义论》。 ||
+|| 自由主义与正义的局限 || Liberalism and the Limits of Justice || [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1075 中文PDF] || 迈克尔·桑德尔是哈佛当红的政治学教授。<br>他主讲的课程《公正》（Justice）成为哈佛最受欢迎的选修课。<br>此书是他的成名作，以批评罗尔斯的《正义论》而闻名 。||
+
+=== 1.1.2 共产主义 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
 || 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and The Death of Communism in the Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!941 中文PDF (扫描版)] || 布热津斯基是知名的国际关系学着，曾担任美国总统的国家安全顾问。<br>作者通过各方面分析，得出结论：“到了21世纪，共产主义将不可逆转地在历史上衰亡”。<br>此书出版于1989年4月，几年后苏联和东欧的共产党政权纷纷崩溃。不得不佩服布热津斯基的预见性。 ||
@@ -64,12 +70,12 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 密洛凡·德热拉斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!940 中文PDF (扫描版)] || 作者德热拉斯曾经担任南斯拉夫共产党的高层领导（副总统），之后跟铁托决裂，成为党内异议人士。<br>书名的“新阶级”指的是“党的领导层”在夺权之后，号称消灭了所有的剥削阶级，但自己却成了一个新的统治阶级。 ||
 || 历史决定论的贫困 || The Poverty of Historicism || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1032 中文HTML] || 波普尔是20世纪著名的哲学家，政治上拥护自由主义，提倡“开放社会”。<br>此书有力地批驳了马克思的“历史唯物主义”。 ||
 
-=== 1.1.2 极权主义 ===
+=== 1.1.3 极权主义 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
 || 极权主义的起源 || The Origins of Totalitarianism || [https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9 汉娜·阿伦特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!953 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!955 中文CHM] || 汉娜·阿伦特是国际知名的政治理论家，以研究极权主义而闻名于世。此书是她的成名作。<br>看完此书，你对“什么是极权主义”会有更深刻的认识。<br>而且你会发现：虽然“共产主义”和“纳粹主义”表面上迥异，其实本质相通，具有共同起源。<br>顺便说一下，毛太祖统治的天朝，就是典型的极权主义。 ||
 
-=== 1.1.3 非暴力抗争 ===
+=== 1.1.4 非暴力抗争 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
 || 从独裁到民主<br>——解放运动的概念框架 || From Dictatorship to Democracy || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!908 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!907 英文PDF] || 此书号称非暴力抗争的“圣经”，影响很广，已翻译成几十种文字。<br>在俺博客的[http://program-think.blogspot.com/2011/12/revolution-0.html 《谈革命》系列]中，会具体介绍此书的内容。 ||
@@ -141,7 +147,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 戰后中共奪取東北始末 || 楊奎松 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1026 繁體PDF] || 杨奎松是党史方面的研究学者。<br>中共能够夺权成功，占领东北是其中的关键。<br>此书介绍了中共拿下东北的经过以及当时美苏之间的博弈。 ||
-|| 大江大海 一九四九 || [https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%87%89%E5%8F%B0 龙应台] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1019 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!979 繁體PDF (豎排掃描版)] || 应某网友在留言中的要求，俺分享了这本书。<br>这本书主要讲述众多小人物在1949年大陆沦陷时的遭遇。 ||
+|| 大江大海 一九四九 || [https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%87%89%E5%8F%B0 龙应台] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1106 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!979 繁體PDF (豎排掃描版)] || 应某网友在留言中的要求，俺分享了这本书。<br>这本书主要讲述众多小人物在1949年大陆沦陷时的遭遇。<br>简体PDF是某网友精心排版并分享，特此鸣谢。 ||
 
 
 ==== 1.3.1.7 延安和八年抗战时期 ====
@@ -172,7 +178,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 中南海日記<br>——中共兩代王儲的隕落 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E7%A8%BC%E7%A5%A5 吴稼祥] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1017 繁體PDF (掃描版)] || 作者吴稼祥是中共高层的官员，先后在真理部（中宣部）和大内（中办）任职。<br>此书从作者的角度，以日记的形式，叙述胡耀邦和赵紫阳被邓太上皇废黜的经过。 ||
 || 我的回忆 || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!962 中文PDF] || 应某网友在留言中的要求，俺分享了这本书。<br>张国焘是中共早期元老。此回忆录对了解中共早期历史有参考价值。 ||
 
-=== 1.3.3 社会阶层和贫富分化 ===
+=== 1.3.3 社会阶层 贫富分化 ===
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 中国底层访谈录 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1020 中文PDF (扫描版 上卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1021 中文PDF (扫描版 下卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1045 中文PDF (文字版 上)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1046 中文PDF (文字版 中)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1047 中文PDF (文字版 下)] || 作者廖亦武是中国有名的诗人、流亡作家。<br>此书专写社会底层的民众，让“不见天日的下水道里的中国”浮出地面。<br>朝廷对此书的出版大为震怒，出版社遭严厉整肃，廖亦武也获得了“出版社杀手”的绰号。<br>鸣谢：某热心网友分享了此书的 *完全版* ||
@@ -184,7 +190,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 远华案黑幕 || [https://zh.wikipedia.org/wiki/%E7%9B%9B%E9%9B%AA_%28%E8%87%A7%E9%8C%AB%E7%B4%85%29 盛雪]<br>(原名：臧锡红) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1103 中文PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1068 中文TXT] || 盛雪是旅居加拿大的作家，并担任自由亚洲电台和德国之声的记者。<br>[https://zh.wikipedia.org/wiki/%E9%81%A0%E8%8F%AF%E6%A1%88 远华案]是天朝历史上震动最大、金额最高的经济案件。牵涉大量的朝廷高官。<br>此书是她的代表作，内容包括大量对赖昌星（远华案男一号）的访谈。<br>由于牵涉太多在职高官（江泽民、贾庆林、等），被朝廷八个部委联合发文查禁。 ||
 || 编译局言情录<br>——一朝忽觉京梦醒，半世浮沉雨打萍 || 常艳 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1044 中文PDF] || “编译局”全称是“中共中央马克思、恩格斯、列宁、斯大林著作编译局”，简称“中央编译局”。<br>女博士常艳作为潜规则的当事人，通过此书详细地描述了自己和编译局局长衣俊卿之间的XXX往事。<br>此书近期走红，可惜在墙内遭严厉查禁。 ||
 
-=== 1.3.5 中宣部和言论审查 ===
+=== 1.3.5 中宣部 言论审查 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
 || 讨伐中宣部<br>——焦国标文集 || [https://zh.wikipedia.org/wiki/%E7%84%A6%E5%9B%BD%E6%A0%87 焦国标] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1080 中文CHM] || 焦国标是北大新闻学院副教授、作家、政治异议人士。<br>他因为写了《讨伐中宣部》一文而广为人知。并因此被勒令停止教学。<br>此电子书收录了他的多篇文章。 ||
