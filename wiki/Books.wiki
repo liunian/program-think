@@ -174,10 +174,11 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 太子党关系网络 || 编程随想 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!966 简体PDF] || 这是俺花了好几个不眠之夜，在网上搜集的天朝权贵关系网。<br>为了让大伙儿看起来直观，特地做成可视化的网状图。<br>看了这个关系网，你对天朝的权贵阶层会有更深刻的认识。<br>为与时俱进，本文档会不定期更新。如有重大更新，会在[http://program-think.blogspot.com/ 俺博客中]告知大伙儿。<br>如碰到问题（比如：PDF打不开、图太大找不着人、等），请看[http://program-think.blogspot.com/2012/11/princelings-faq.html 关于《太子党关系网络》的常见问题解答] ||
-|| 红太阳的陨落<br>——千秋功罪毛泽东 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!996 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!865 简体DOC] || 此书深刻批判了毛太祖的种种罪恶。<br>因为批判得太彻底了，某毛派网站恼羞成怒，把辛子陵列为“头号汉奸”。 ||
+|| 红太阳的陨落<br>——千秋功罪毛泽东 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵]<br>(原名：宋科) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!996 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!865 简体DOC] || 此书深刻批判了毛太祖的种种罪恶。<br>因为批判得太彻底了，某毛派网站恼羞成怒，把辛子陵列为“头号汉奸”。 ||
 || 新发现的毛泽东<br>——仆人眼中的伟人 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!866 简体PDF] || 作者王若水长期担任《人民日报》副总编。<br>此书提供了一种新的视角（真理部内部的视角）来看毛太祖。 ||
 || 晚年周恩来 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!937 简体PDF] || 高文谦曾经在中共中央文献研究室工作，并担任周恩来生平研究小组组长。<br>这本书不但权威而且客观，还详细描述了毛周二人的勾心斗角。 ||
 || 中国影帝温家宝 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!961 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1034 简体TXT] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>此书揭露了温影帝虚伪的一面。余杰因此书而受朝廷迫害，2012年被迫移民美国。<br>在两位热心网友的帮助下，俺找到了此书完整的文字版并制作了此PDF，特此鸣谢。 ||
+|| 胡耀邦与中国政治改革<br>——12位老共产党人的反思 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1114 简体PDF (扫描版)] || 本书收录了多篇纪念胡耀邦的文章，这些文章的作者包括多位中共元老。<br>通过这些文章，有助于了解胡耀邦在政治改革方面的贡献。 ||
 || 胡耀邦下台的背景<br>——人道主义在中国的命运 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1038 简体TXT] || 作者王若水长期担任《人民日报》副总编。<br>此书重点介绍了80年代中期的“清除思想污染”运动。<br>该运动引发了邓小平对胡耀邦的不满，最终导致了胡耀邦在86学潮后下台。<br>此书由热心网友分享TXT版本，特此鸣谢。 ||
 || 中南海日記<br>——中共兩代王儲的隕落 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E7%A8%BC%E7%A5%A5 吴稼祥] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1017 繁體PDF (掃描版)] || 作者吴稼祥是中共高层的官员，先后在真理部（中宣部）和大内（中办）任职。<br>此书从作者的角度，以日记的形式，叙述胡耀邦和赵紫阳被邓太上皇废黜的经过。 ||
 || 我的回忆 || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!962 简体PDF] || 应某网友在留言中的要求，俺分享了这本书。<br>张国焘是中共早期元老。此回忆录对了解中共早期历史有参考价值。 ||
@@ -209,7 +210,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 === 1.3.7 外交 ===
 
 || *中文书名* || *作者* || *下载页面* || *备注* ||
-|| 十年论战<br>——1956-1966中苏关系回忆录 || 吴冷西 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1117 简体PDF (扫描版)] || 吴冷西曾任新华社社长、《人民日报》总编、中宣部副部长等职务。<br>此书详细介绍了中苏关系逐步恶化的过程。<br>俺写的《[http://program-think.blogspot.com/2012/05/three-years-famine-0.html 谈谈三年大饥荒]》系列博文引用过本书的内容，证明“苏联逼债”是误传。 ||
+|| 十年论战<br>——1956-1966中苏关系回忆录 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%B7%E8%A5%BF 吴冷西] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1117 简体PDF (扫描版)] || 吴冷西曾任新华社社长、《人民日报》总编、中宣部副部长等职务。<br>此书详细介绍了中苏关系逐步恶化的过程。<br>俺写的《[http://program-think.blogspot.com/2012/05/three-years-famine-0.html 谈谈三年大饥荒]》系列博文引用过本书的内容，证明“苏联逼债”是误传。 ||
 
 === 1.3.8 (其它) ===
 
@@ -221,6 +222,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 致帝国的悼词<br>——中国大陆的自由状况及前景 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1027 简体PDF] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 || 尘世·挽歌 || [https://zh.wikipedia.org/wiki/%E9%87%8E%E5%A4%AB 土家野夫]<br>(原名：郑世平) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1081 简体PDF] || 土家野夫是天朝作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此电子书包含了他的多篇作品。PDF由热心网友精心排版并分享给俺，特此鸣谢。 ||
 || 沉沦的圣殿<br>——中国20世纪70年代地下诗歌遗照 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武]主编 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1107 简体PDF] || 作者廖亦武是中国有名的诗人、流亡作家。<br>这是廖亦武主编的文集，讲述70年代的理想主义者和他们所写的地下诗歌。<br>此书1999年刚出版时畅销，但随即被新闻出版总署宣布为“反动书籍”，相关印刷厂被查抄。 ||
+|| 《让子弹飞》喻意图文解释精华版 || (不详) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1135 简体CHM] || 此CHM是某网友主动分享，其内容是解读姜文的电影《让子弹飞》中的各种政治隐喻。 ||
 
 == 1.4 美国 ==
 
