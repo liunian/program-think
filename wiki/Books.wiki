@@ -100,7 +100,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 中国改革年代的政治斗争 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!858 简体PDF] || 此书介绍了朝廷高层改革派与保守派的长期内斗。<br>作者杨继绳长期在新华社工作，写出的内容真实且客观。 ||
 || 改革历程<br>——赵紫阳回忆录 || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3 赵紫阳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!860 简体PDF] || 作为赵紫阳的回忆录，此书对于了解80年代的朝廷高层，很有价值。 ||
 || 赵紫阳还说过什么？<br>——杜导正日记 || [https://zh.wikipedia.org/wiki/%E6%9D%9C%E5%AF%BC%E6%AD%A3 杜导正] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!889 简体PDF] || 作者杜导正是赵紫阳的老部下。<br>赵紫阳被软禁之后，只有极少数人能够跟赵见面，杜导正是其中之一。<br>本书记录了杜导正同赵紫阳之间的多次秘密谈话。 ||
-|| 现代化的陷阱 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!985 简体HTML] || 何清涟是天朝知名且敢言的经济学家，因受迫害移居美国。<br>此书是她的成名作，其电子版在网上流传很广。<br>书中介绍了经济改革引发的种种问题（包括贫富分化、国有资产流失、圈地运动、等）。 ||
+|| 现代化的陷阱 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1130 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!985 简体HTML] || 何清涟是天朝知名且敢言的经济学家，因受迫害移居美国。<br>此书是她的成名作，其电子版在网上流传很广。<br>书中介绍了经济改革引发的种种问题（包括贫富分化、国有资产流失、圈地运动、等）。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 || 中国<br>——奇迹的黄昏 || 袁剑 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!859 简体PDF] || “黄昏”一词暗指天朝经济的繁荣是好景不长。<br>此书的价值在于：深刻揭露了天朝权贵阶层对社会财富的掠夺。 ||
 
 ==== 1.3.1.2 六四事件 ====
@@ -142,8 +142,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 阳谋 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1101 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!981 简体CHM] || 作者是中国当代史研究学者、持不同政见者。<br>他的著名作品有《人祸》和《阳谋》。<br>PDF版本是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
 || 1957年的夏季<br>——从百家争鸣到两家争鸣 || 朱正 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!982 简体HTML] || 作者不太出名，不过书写得还是很详细——里面列举了很多当事人（尤其是毛太祖）的言论。 ||
-|| 往事并不如烟 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1018 简体TXT] || 作者章诒和是“中国头号大右派”章伯钧的次女。<br>此书描述了史良、储安平、张伯驹、康同璧、聂绀弩、罗隆基、张庚、章伯钧等知名“大右派”的悲剧命运。<br>由于此书内容批评了毛太祖，在2004年大陆出版时，多处内容被删改。之后真理部禁止该书重印。 ||
-|| 十四万言书<br>——致人民日报编辑部信 || [https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭]<br>(原名：彭令昭) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1111 简体PDF] || 林昭是北大才女，曾任北大校刊《未名湖》编辑和《北大诗刊》编辑。1957年“反右”期间被划为右派。<br>1960年在针砭时弊的《星火》杂志上发表长诗《海鸥之歌》和《普鲁米修斯受难之日》，同年10月被逮捕。<br>1962年保外就医，与黄政共同起草了《中国自由青年战斗同盟》的纲领和章程。<br>1962年再度被捕，1968年被枪决。<br>她在狱中坚持自己的信仰，写了20万字的血书与日记。这本十四万言书是其中之一。 ||
+|| 往事并不如烟 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1131 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1018 简体TXT] || 作者章诒和是“中国头号大右派”章伯钧的次女。<br>此书描述了史良、储安平、张伯驹、康同璧、聂绀弩、罗隆基、张庚、章伯钧等知名“大右派”的悲剧命运。<br>由于此书内容批评了毛太祖，在2004年大陆出版时，多处内容被删改。之后真理部禁止该书重印。<br>简体PDF是某网友精心排版并分享，该版本标注了被删节的内容，特此鸣谢。 ||
+|| 十四万言书<br>——致人民日报编辑部信 || [https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭]<br>(原名：彭令昭) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1111 简体PDF] || 林昭是北大才女，曾任北大校刊《未名湖》编辑和《北大诗刊》编辑。1957年“反右”期间被划为右派。<br>1960年在针砭时弊的《星火》杂志上发表长诗《海鸥之歌》和《普鲁米修斯受难之日》，同年10月被逮捕。<br>1962年初保外就医，与黄政共同起草了《中国自由青年战斗同盟》的纲领和章程。<br>当年底再度被捕，1968年被枪决。<br>她在狱中坚持自己的信仰，写了20万字的血书与日记。这本十四万言书是其中之一。 ||
 || 林昭，不再被遗忘 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1110 简体PDF (扫描版)] || 此书是关于林昭的纪念文章的合集。 ||
 || 中华民族的自由女神<br>——林昭罹难40年纪念文集 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1112 简体PDF] || 此书是关于林昭的纪念文章的合集。 ||
 
@@ -152,7 +152,6 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 戰后中共奪取東北始末 || 楊奎松 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1026 繁體PDF] || 杨奎松是党史方面的研究学者。<br>中共能够夺权成功，占领东北是其中的关键。<br>此书介绍了中共拿下东北的经过以及当时美苏之间的博弈。 ||
 || 大江大海 一九四九 || [https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%87%89%E5%8F%B0 龙应台] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1106 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!979 繁體PDF (豎排掃描版)] || 应某网友在留言中的要求，俺分享了这本书。<br>这本书主要讲述众多小人物在1949年大陆沦陷时的遭遇。<br>简体PDF是某网友精心排版并分享，特此鸣谢。 ||
-
 
 ==== 1.3.1.7 延安和八年抗战时期 ====
 
@@ -168,7 +167,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 谁是新中国<br>——中国现代史辨 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E7%81%8F%E5%B9%B4 辛灏年]<br>(原名：高尔品) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1062 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1024 简体CHM] || 辛灏年是天朝的作家、持不同政见者。这是他名气最大的一部作品。<br>此书共三部分：“导论 革命与复辟” “上卷 辛亥革命、中华民国与中国国民党” “下卷 共产革命、农民造反与中国共产党”<br>其内容有助于你了解近代史以及国共两党的本质差异。 ||
 || 中國共產革命七十年 || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!959 繁體PDF (掃描版 上冊)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!960 繁體PDF (掃描版 下冊)] || 陈永发是台湾中央研究院的知名学者。<br>此书系统性介绍了中共的发家史。<br>可惜是扫描版，字有点模糊。 ||
-|| 在历史的风陵渡口 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1011 简体PDF] || 高华是党史研究方面的资深学者（已故）。<br>这本书是高华多篇论文的合集，涉及中共历史的多个时期。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
+|| 在历史的风陵渡口 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1011 简体PDF] || 高华是党史研究方面的资深学者（已故）。<br>这本书是高华多篇论文的合集，涉及中共历史的多个时期。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 
 === 1.3.2 政治人物 ===
 
