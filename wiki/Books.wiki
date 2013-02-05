@@ -97,7 +97,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 ==== 1.3.1.1 改革开放时期 ====
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 中国改革年代的政治斗争 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!858 简体PDF] || 此书介绍了朝廷高层改革派与保守派的长期内斗。<br>作者杨继绳长期在新华社工作，写出的内容真实且客观。 ||
+|| 中国改革年代的政治斗争 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!858 简体PDF] || 杨继绳是新华社高级记者，《炎黄春秋》杂志副社长。<br>此书介绍了朝廷高层改革派与保守派的长期内斗，内容真实且客观。 ||
 || 改革历程<br>——赵紫阳回忆录 || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3 赵紫阳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!860 简体PDF] || 作为赵紫阳的回忆录，此书对于了解80年代的朝廷高层，很有价值。 ||
 || 赵紫阳还说过什么？<br>——杜导正日记 || [https://zh.wikipedia.org/wiki/%E6%9D%9C%E5%AF%BC%E6%AD%A3 杜导正] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!889 简体PDF] || 作者杜导正是赵紫阳的老部下。<br>赵紫阳被软禁之后，只有极少数人能够跟赵见面，杜导正是其中之一。<br>本书记录了杜导正同赵紫阳之间的多次秘密谈话。 ||
 || 现代化的陷阱 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1130 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!985 简体HTML] || 何清涟是天朝知名且敢言的经济学家，因受迫害移居美国。<br>此书是她的成名作，其电子版在网上流传很广。<br>书中介绍了经济改革引发的种种问题（包括贫富分化、国有资产流失、圈地运动、等）。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
@@ -133,7 +133,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 ==== 1.3.1.4 “大跃进”和大饥荒时期 ====
 
 || *书名* || *作者* || *下载页面* || *备注* ||
-|| 墓碑<br>——中国六十年代大饥荒纪实 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!870 简体PDF] || 杨继绳的背景，前面已经提到了。<br>此书又是一本大部头纪实，足见杨继绳写纪实题材的功力。 ||
+|| 墓碑<br>——中国六十年代大饥荒纪实 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!870 简体PDF] || 杨继绳是新华社高级记者，《炎黄春秋》杂志副社长。<br>此书又是一本大部头纪实，足见杨继绳写纪实题材的功力。 ||
 || 人祸<br>——“大跃进”与大饥荒 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1102 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!871 简体HTML] || 作者是中国当代史研究学者、持不同政见者。<br>书名“人祸”直接就点到了三年大饥荒的要害——根本就没有“天灾”。<br>看完此书，你将更加明白这一点。<br>PDF版本是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
 || 庐山会议实录 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!934 简体PDF] || 1959年的庐山会议是天朝历史的转折点，为后来的三年大饥荒埋下伏笔。<br>这次会议不光引发了彭德怀倒台，还使得毛太祖更加固执地坚持激进路线。<br>李锐作为会议的参加者，详细介绍了会议的经过。 ||
 || 辉煌的幻灭<br>——人民公社警示录 || 康健 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!935 简体CHM] || 此书主要介绍大跃进时期，农村大搞人民公社，大搞浮夸风。<br>之后发生的三年大饥荒，死亡最惨的省份恰恰是浮夸风最盛的省份。 ||
@@ -178,7 +178,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 新发现的毛泽东<br>——仆人眼中的伟人 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!866 简体PDF] || 作者王若水长期担任《人民日报》副总编。<br>此书提供了一种新的视角（真理部内部的视角）来看毛太祖。 ||
 || 晚年周恩来 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!937 简体PDF] || 高文谦曾经在中共中央文献研究室工作，并担任周恩来生平研究小组组长。<br>这本书不但权威而且客观，还详细描述了毛周二人的勾心斗角。 ||
 || 中国影帝温家宝 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!961 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1034 简体TXT] || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>此书揭露了温影帝虚伪的一面。余杰因此书而受朝廷迫害，2012年被迫移民美国。<br>在两位热心网友的帮助下，俺找到了此书完整的文字版并制作了此PDF，特此鸣谢。 ||
-|| 胡耀邦与中国政治改革<br>——12位老共产党人的反思 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1114 简体PDF (扫描版)] || 本书收录了多篇纪念胡耀邦的文章，这些文章的作者包括多位中共元老。<br>通过这些文章，有助于了解胡耀邦在政治改革方面的贡献。 ||
+|| 胡耀邦與中國政治改革<br>——12位老共產黨人的反思 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1114 繁體PDF (掃描版)] || 本书收录了多篇纪念胡耀邦的文章，这些文章的作者包括多位中共元老。<br>通过这些文章，有助于了解胡耀邦在政治改革方面的贡献。 ||
 || 胡耀邦下台的背景<br>——人道主义在中国的命运 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1038 简体TXT] || 作者王若水长期担任《人民日报》副总编。<br>此书重点介绍了80年代中期的“清除思想污染”运动。<br>该运动引发了邓小平对胡耀邦的不满，最终导致了胡耀邦在86学潮后下台。<br>此书由热心网友分享TXT版本，特此鸣谢。 ||
 || 中南海日記<br>——中共兩代王儲的隕落 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E7%A8%BC%E7%A5%A5 吴稼祥] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1017 繁體PDF (掃描版)] || 作者吴稼祥是中共高层的官员，先后在真理部（中宣部）和大内（中办）任职。<br>此书从作者的角度，以日记的形式，叙述胡耀邦和赵紫阳被邓太上皇废黜的经过。 ||
 || 我的回忆 || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!962 简体PDF] || 应某网友在留言中的要求，俺分享了这本书。<br>张国焘是中共早期元老。此回忆录对了解中共早期历史有参考价值。 ||
@@ -187,7 +187,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *书名* || *作者* || *下载页面* || *备注* ||
 || 中国底层访谈录 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1020 简体PDF (扫描版 上卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1021 简体PDF (扫描版 下卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1045 简体PDF (文字版 上)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1046 简体PDF (文字版 中)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1047 简体PDF (文字版 下)] || 作者廖亦武是中国有名的诗人、流亡作家。<br>此书专写社会底层的民众，让“不见天日的下水道里的中国”浮出地面。<br>朝廷对此书的出版大为震怒，出版社遭严厉整肃，廖亦武也获得了“出版社杀手”的绰号。<br>某热心网友分享了此书的精美文字版，特此鸣谢。 ||
-|| 中国社会各阶层分析 || [https://zh.wikipedia.org/wiki/%E6%A2%81%E6%99%93%E5%A3%B0 梁晓声] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1023 简体PDF] || 梁晓声也算是当代知名作家，其作品多写知青题材。<br>此书详细介绍当今天朝的各个社会阶层。 ||
+|| 中国当代社会各阶层分析 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1104 简体PDF (扫描版)] || 杨继绳是新华社高级记者，《炎黄春秋》杂志副社长。<br>全书共18章。先介绍了导致阶层分化的因素，然后再具体介绍每一个阶层。 ||
+|| 中国社会各阶层分析 || [https://zh.wikipedia.org/wiki/%E6%A2%81%E6%99%93%E5%A3%B0 梁晓声] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1023 简体PDF (扫描版)] || 梁晓声也算是当代知名作家，其作品多写知青题材。<br>全书共7章，分别介绍了资产阶级、“买办”阶级、中产阶级、知识分子、平民和贫民、农民、黑社会。 ||
 
 === 1.3.4 腐败问题 ===
 
