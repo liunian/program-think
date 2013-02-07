@@ -304,7 +304,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 潜规则<br>——中国历史中的真实游戏 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E6%80%9D 吴思] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1137 简体CHM] || 作者是知名作家，《炎黄春秋》杂志的主编、副社长。<br>此书是他的代表作。如今广为流传的“潜规则”一词，就是出自此书。<br>作者总结出了中国古代政坛/官场的种种隐形规律。 ||
 || 兴盛与危机<br>——论中国社会超稳定结构 || [https://zh.wikipedia.org/wiki/%E9%87%91%E8%A7%80%E6%BF%A4 金观涛] & 刘青峰 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1138 简体PDF] || 作者是一对夫妻。金观涛曾经担任知名的纪录片《和殇》的顾问。因为六四事件而流亡海外。<br>此书分析了中国封建社会几千年的朝代更迭，却始终停滞不前的原因。 ||
 
-== 3.3 古罗马 ==
+== 3.3 古希腊 ==
+
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
+|| 希腊城邦制度<br>——读希腊史笔记 || || [https://zh.wikipedia.org/wiki/%E9%A1%A7%E5%87%86 顾准] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1143 简体PDF] || 作者是中国当代的思想家，经济学家。<br>虽然作者不是历史学家，但对历史颇有研究颇有心得。<br>此书是顾准阅读希腊史的笔记，顾准逝世后由其第整理遗稿，之后出版。 ||
+|| 亚历山大远征记 || Anabasis Alexandri || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1143 简体PDF] || 作者是古希腊历史学家。<br>此书详细记述了亚历山大大帝十年东征的经过。 ||
+
+
+== 3.4 古罗马 ==
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
 || 罗马帝国衰亡史 || The History of the Decline and Fall of the Roman Empire || [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E5%90%89%E6%9C%AC 爱德华·吉本] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1141 简体PDF (上)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1142 简体PDF (下)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1139 简体CHM] || 作者是200多年前的英国历史学家。<br>此书堪称是古罗马历史的巨著，共6卷。<br>内容不但丰富，而且严谨。历时200多年，但尚未发现有明显的错误。足见作者考证的功力。<br>由于原书内容太多，此中译本的译者只节选了其中部分内容（约三分之一）。 ||
