@@ -294,8 +294,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 3.1 世界史 ==
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
-|| 全球通史<br>——从史前史到21世纪 || A Global History<br>——From Prehistory to the 21st Century || [https://zh.wikipedia.org/wiki/L%C2%B7S%C2%B7%E6%96%AF%E5%A1%94%E5%A4%AB%E9%87%8C%E9%98%BF%E8%AF%BA%E6%96%AF 斯塔夫里阿诺斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1136 简体CHM] || 作者是加拿大知名历史学家。<br>此书的知名度很高，至今已出到第7版。<br>此书的特色在于：将整个世界看做一个不可分割的整体，从全球的角度来叙述各个文明的产生和发展。 ||
-|| 枪炮、病菌与钢铁<br>——人类社会的命运 || Guns, Germs, and Steel<br>——The Fates of Human Societies || [https://zh.wikipedia.org/wiki/%E8%B3%88%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99 贾雷德·戴蒙德] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1127 简体CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1128 英文PDF] || 作者是美国生物学家、生物地理学家。此书是他的代表作。<br>此书用通俗的笔法讲述了人类发展史 。<br>他会告诉你，为啥只有欧亚大陆的文明一直延续下来，为啥最终是欧洲殖民者征服了全球？<br>不是因为人种的差异，而是因为地理因素的差异。<br>美国许多大学已把此书列为大学基础课程教材。 ||
+|| 全球通史<br>——从史前史到21世纪 || A Global History<br>——From Prehistory to the 21st Century || [https://zh.wikipedia.org/wiki/L%C2%B7S%C2%B7%E6%96%AF%E5%A1%94%E5%A4%AB%E9%87%8C%E9%98%BF%E8%AF%BA%E6%96%AF 斯塔夫里阿诺斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1136 简体CHM] || 作者是加拿大知名历史学家。<br>此书的知名度很高，至今已出到第7版。<br>此书的特色在于：将整个世界看做一个不可分割的整体，从全球的角度来叙述各个文明的产生和发展。<br>美国许多大学已把此书列为大学基础课程教材。 ||
+|| 枪炮、病菌与钢铁<br>——人类社会的命运 || Guns, Germs, and Steel<br>——The Fates of Human Societies || [https://zh.wikipedia.org/wiki/%E8%B3%88%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99 贾雷德·戴蒙德] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1127 简体CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1128 英文PDF] || 作者是美国生物学家、生物地理学家。此书是他的代表作。<br>此书用通俗的笔法讲述了人类发展史 。<br>他会告诉你，为啥只有欧亚大陆的文明一直延续下来，为啥最终是欧洲殖民者征服了全球？<br>不是因为人种的差异，而是因为地理因素的差异。 ||
 
 == 3.2 中国 ==
 
@@ -308,7 +308,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *备注* ||
 || 希腊城邦制度<br>——读希腊史笔记 || || [https://zh.wikipedia.org/wiki/%E9%A1%A7%E5%87%86 顾准] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1143 简体PDF] || 作者是中国当代的思想家，经济学家。<br>虽然作者不是历史学家，但对历史颇有研究颇有心得。<br>此书是顾准阅读希腊史的笔记，顾准逝世后由其第整理遗稿，之后出版。 ||
-|| 亚历山大远征记 || Anabasis Alexandri || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1143 简体PDF] || 作者是古希腊历史学家。<br>此书详细记述了亚历山大大帝十年东征的经过。 ||
+|| 亚历山大远征记 || Anabasis Alexandri || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1144 简体PDF] || 作者是古希腊历史学家。<br>此书详细记述了亚历山大大帝十年东征的经过。 ||
 
 
 == 3.4 古罗马 ==
