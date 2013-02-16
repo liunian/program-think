@@ -1,0 +1,774 @@
+#summary 【编程随想】收藏的 Python 开源项目
+
+<h1>Python 开源项目及示例代码</h1>
+
+下面列出的各种 Python 库/模块/工具，如果名称带超链接，说明是第三方的；否则是 Python 语言内置的。
+
+<hr>
+
+<wiki:toc max_depth="2" />
+
+<hr>
+<hr>
+
+= 算法 =
+
+== 字符串处理 ==
+
+=== StringIO / cStringIO ===
+
+以文件的方式操作字符串（有点类似于内存文件）。
+
+=== re ===
+
+正则表达式的标准库。
+
+=== [https://github.com/erikrose/chardet chardet] ===
+
+chardet 可以猜测任意一段文本的字符集编码。对于编码类型未知的文本，它会很有用。
+
+chardet 既可以作为模块来使用，也可以作为命令行工具来使用。
+
+举例
+{{{
+import chardet
+print chardet.detect(bytes) 
+}}}
+
+== 数学类 ==
+
+=== math ===
+
+这个标准库顾名思义，封装了常用的数学函数（开方、指数、对数、三角函数、等）
+
+=== random ===
+
+这个标准库顾名思义，是用来进行随机数生成的
+
+举例
+{{{
+# 生成 0-100 的随机数
+import random
+random.seed()
+random.randint(0, 100)
+}}}
+
+=== fractions ===
+
+这个标准库封装了跟有理数（分数）相关的运算
+
+== 编码/解码类 ==
+
+=== json ===
+
+提供 JSON 格式的编码/解码。
+
+JSON 格式如今在 Web 开发中广为应用。
+
+举例
+{{{
+import json
+
+json.dumps(['foo', {'bar': ('baz', None, 1.0, 2)}])
+# JSON 编码
+# 得到如下字符串
+# '["foo", {"bar": ["baz", null, 1.0, 2]}]'
+
+json.loads('["foo", {"bar":["baz", null, 1.0, 2]}]')
+# JSON 解码
+# 得到如下对象
+# [u'foo', {u'bar': [u'baz', None, 1.0, 2]}]
+}}}
+
+=== base64 ===
+
+提供 Base16、Base32、Base64 格式的编码/解码。
+
+=== binhex ===
+
+提供 binhex4 格式的编码/解码。
+
+=== uu ===
+
+提供 uuencode 格式的编码/解码。
+
+
+== 安全类 ==
+
+=== hashlib ===
+
+在 Python 2.5 版本加入到标准库中。通过它，你可以很方便地计算各种散列值。它支持的哈希算法有：MD5 SHA1 SHA224 SHA256 SHA384 SHA512
+
+关于散列算法，俺写过一篇扫盲（在[http://program-think.blogspot.com/2013/02/file-integrity-check.html 这里]）。
+
+举例
+{{{
+# 计算字符串的 SHA1 散列值
+import hashlib
+sha1 = hashlib.sha1('hello world').hexdigest()
+}}}
+
+=== [http://www.dlitz.net/software/pycrypto/ PyCrypto] ===
+
+这个库包含了常见的对称加密算法（DES、AES、IDEA、等）、公钥加密算法（RSA、DSA、等）、散列算法（MD5、SHA1、RIPEMD、等）。
+
+=== [http://pyopenssl.sourceforge.net/ pyOpenSSL] ===
+
+OpenSSL 在加密领域可是大名鼎鼎。这个库使用 Python 对 OpenSSL 进行很薄的封装。
+
+
+<hr>
+
+
+= 跨编程语言 =
+
+Python 可以很容易地跟其它编程语言整合。整合之后，就可以在 Python 代码中使用其它编程语言的函数、模块、库，非常爽！
+
+== C/C++ 语言 ==
+
+=== ctypes ===
+
+ctypes 在 Python 2.5 版本加入到标准库中。通过它，你可以很方便地调用 C/C++ 动态库导出的函数，可以在 Python 中使用各种 C/C++ 的数据类型（比如指针）。
+
+举例
+{{{
+# 调用 Linux/Unix 系统的标准 C 函数，获取当前时间
+from ctypes import *
+libc = CDLL('libc.so.6')
+time = libc.time(None)
+
+# 调用 Windows 系统 API，弹出消息提示框
+from ctypes import c_int, WINFUNCTYPE, windll
+from ctypes.wintypes import HWND, LPCSTR, UINT
+prototype = WINFUNCTYPE(c_int, HWND, LPCSTR, LPCSTR, UINT)
+paramflags = (1, 'hwnd', 0), (1, 'text', 'Hi'), (1, 'caption', None), (1, 'flags', 0)
+MessageBox = prototype(('MessageBoxA', windll.user32), paramflags)
+MessageBox(text='Hello world'，flags=2)
+}}}
+
+=== [http://swig.org/ SWIG] ===
+
+这是一个很老牌的、有名气的工具，它可以把多种语言（Java、Python、C#、Ruby、PHP、Perl、Lua、Go、等）整合到 C/C++ 中。
+
+=== [http://cython.org/ Cython] ===
+
+这个工具可以让你用 Python 的语法写扩展模块的代码，然后它帮你把 Python 代码编译为本地动态库（机器码）。
+用它编译出来的扩展模块，其性能跟 C/C++ 编写的扩展模块相当。
+
+== JVM 平台 ==
+
+=== [http://www.jython.org/ Jython] ===
+
+通过 Jython 可以让 Python 代码运行在 JVM 上，并且可以调用其它的 JVM 语言的代码（比如 Java Scale）
+
+== dotNet 平台 ==
+
+=== [http://ironpython.net/ IronPython] ===
+
+通过 IronPython 可以让 Python 代码运行在 dotNET 平台上，并且可以调用其它的 dotNET 语言的代码（比如 C# F#）
+
+
+<hr>
+
+
+= 操作系统相关 =
+
+=== os ===
+
+这是一个非常基本的标准库，提供了常见的操作系统相关操作。
+
+== 文件/目录操作 ==
+
+=== shutil ===
+
+相对于 os 标准库，shutil 标准库提供了一些比较高级的文件/目录操作（目录递归复制、目录递归删除、目录压缩打包、等）
+
+举例
+{{{
+# 递归删除某个目录
+import shutil
+shutil.rmtree(xxxx)
+}}}
+
+=== glob ===
+
+这个标准库用于查找文件（支持通配符）
+
+举例
+{{{
+# 获取当前目录所有 txt 文件
+import glob
+files = glob.glob('./*.txt')
+}}}
+
+=== fnmatch ===
+
+这个标准库用于匹配文件名（支持通配符）
+
+举例
+{{{
+# 列出当前目录所有 txt 文件
+import os, fnmatch
+for file in os.listdir('.') :
+    if fnmatch.fnmatch(file, '*.txt') :
+        print(file)
+}}}
+
+=== tempfile ===
+
+使用这个标准库，可以安全地生成临时文件/临时目录。
+
+== 本地进程间通信（IPC） ==
+
+=== subprocess ===
+
+用于进程管理的标准库，可以启动子进程，通过标准输入输出跟子进程交互。
+
+=== signal ===
+
+用于进程信号处理的标准库。
+
+=== mmap ===
+
+提供了内存映射文件的支持。
+
+举例
+{{{
+# 利用 mmap 在父子进程间交换数据
+import os
+import mmap
+
+map = mmap.mmap(-1, 13)
+map.write("Hello world!")
+
+pid = os.fork()
+
+if pid == 0: # 子进程
+    map.seek(0)
+    print map.readline()
+
+    map.close()
+}}}
+
+== Windows 系统相关 ==
+
+=== [http://python.net/crew/mhammond/win32/ PyWin32] ===
+
+这个第三方库封装了 Windows API 及 COM API。通过它可以方便地用 Python 进行 Windows 编程（调用 COM 组件、编写 Windows 服务、等）。
+
+== Linux/Unix 系统相关 ==
+
+=== syslog ===
+
+通过这个标准库，可以很方便地跟 POSIX 的 syslog 服务进行交互。
+
+== 程序打包 ==
+
+=== [http://www.pyinstaller.org/ PyInstaller] ===
+
+PyInstaller 可以把你的 Python 代码制作成独立运行的程序（不依赖 Python 环境就可以运行）。
+
+该工具支持多种操作系统，包括：Windows、Linux、Mac OS X、Solaris、AIX、等。
+
+=== [http://www.py2exe.org/ Py2exe] ===
+
+Py2exe 的功能类似 PyInstaller，但只支持 Windows 平台。
+
+<hr>
+
+
+= Web 开发及相关协议 =
+
+如今 Web 开发很火，俺把 Web 相关的单独分一类。
+
+== HTTP 协议 ==
+
+=== httplib / httplib2 / http.request / urllib.parse ===
+
+这几个库可以进行各种 HTTP 客户端请求（GET、POST、等）。
+
+httplib 和 httplib2 属于 Python2，到 Python3 改为 http.request 和 urllib.parse
+
+举例
+{{{
+# 读取指定 URL 的网页内容
+import urllib
+handle = urllib.urlopen('http://www.google.com')
+page = handle.read()
+handle.close()
+}}}
+
+== Web Server ==
+
+=== SimpleHTTPServer / http.server ===
+
+提供轻量级 HTTP Server 的标准库。
+
+SimpleHTTPServer 属于 Python2，到 Python3 改为 http.server。
+
+举例
+{{{
+#一个极简单的 HTTP 服务
+import SocketServer
+import SimpleHTTPServer
+
+PORT = 8000
+Handler = SimpleHTTPServer.SimpleHTTPRequestHandler
+httpd = SocketServer.TCPServer(('', PORT), Handler)
+print 'serving at port', PORT
+httpd.serve_forever()
+}}}
+
+== Web 开发框架 ==
+
+=== [http://www.djangoproject.com/ Django] ===
+
+在 Python 社区，Django 是目前最有影响力的 Web 开发框架。该框架很重型，内置了 Web 服务端开发常用的组件。
+
+Django 应用范围很广，比如 Google 的 Web 开发平台 GAE 就支持它。
+
+Django 完全支持前面提到的 Jython 运行环境，可以运行在任何 J2EE 服务器上。
+
+=== [http://www.turbogears.org/ TurboGears] ===
+
+又一个重型的 Web 开发框架，名气仅次于 Django。
+
+
+== 浏览器/用户界面 ==
+
+=== webbrowser ===
+
+操纵当前系统的默认浏览器，访问指定 URL 的页面。
+
+举例
+{{{
+# 用默认浏览器打开 Google 主页
+import webbrowser
+webbrowser.open('http://www.google.com')
+}}}
+
+=== [http://pyjs.org/ Pyjamas / pyjs] ===
+
+这是从 GWT（Google Web Toolkit）移植的第三方库。提供了 Python 到 JS 的编译，AJAX 框架等功能。
+Pyjamas 甚至能用来开发桌面 GUI 应用。
+
+=== [https://github.com/chrivers/pyjaco pyjaco] ===
+
+这也是一个 Python 到 JavaScript 的编译工具。
+
+
+<hr>
+
+
+= 网络编程 =
+
+== 链路层/网络层 ==
+
+=== [http://www.secdev.org/projects/scapy/ Scapy] ===
+
+这是一个底层的网络库，可以在不同协议层次构造网络数据包（包括链路层、网络层、传输层），还支持 Sniffer 抓包。
+
+搞网络安全的网友应该会喜欢这个库。
+
+举例
+{{{
+# 传统的 ping 扫描（网络层）
+ans,unans = sr(IP(dst='192.168.1.1-254')/ICMP())
+
+# 局域网内的 ARP 扫描（链路层）
+ans,unans = srp(Ether(dst='ff:ff:ff:ff:ff:ff')/ARP(pdst='192.168.1.0/24'), timeout=2)
+}}}
+
+== 传输层 ==
+
+=== socket ===
+
+Python 标准库很早就提供了对 socket 编程的支持。
+
+这个标准库是对伯克利套接字进行简单的封装，其 API 基本上跟 BSD SOCKET 一一对应。
+
+=== asyncore ===
+
+这个标准库提供了异步 SOCKET 的支持。
+
+=== asynchat ===
+
+这个标准库基于上述的 asyncore，提供更高层的 API，简化异步通讯编程。
+
+=== [http://twistedmatrix.com/ Twisted] ===
+
+这是一个基于 Python 网络通讯开发框架，有十多年历史，某些设计类似于 C++ 的 ACE 框架。除了能用来进行传输层（TCP UDP）的开发，还提供了若干应用层协议（HTTP、XMPP、SSH、IRC、等）的支持。
+
+举例
+{{{
+# 实现一个简单的 Echo 服务，监听在 12345 端口
+from twisted.internet import protocol, reactor
+
+class Echo(protocol.Protocol) :
+    def dataReceived(self, data) :
+        self.transport.write(data)
+
+class EchoFactory(protocol.Factory) :
+    def buildProtocol(self, addr) :
+        return Echo()
+
+reactor.listenTCP(12345, EchoFactory())
+reactor.run()
+}}}
+
+== 应用层 ==
+
+=== ftplib ===
+
+封装 FTP 协议（文件传输）的标准库
+
+=== smtplib ===
+
+封装 SMTP 协议（邮件发送）的标准库
+
+=== imaplib ===
+
+封装 IMAP 协议（邮件接收）的标准库
+
+=== poplib ===
+
+封装 POP3 协议（邮件接收）的标准库
+
+=== [http://pycurl.sourceforge.net/ PycURL] ===
+
+cURL 是一个功能很强的网络库/网络工具，支持 N 多应用层协议。这是用 Python 封装的第三方库。
+
+关于 cURL，俺前几年写过一篇博文推荐它（在[http://program-think.blogspot.com/2009/03/opensource-review-curl-library.html 这里]）。
+
+=== [http://jabberpy.sourceforge.net/ jabber.py] ===
+
+Jabber（又称 XMPP）是IM（即时通信）协议的标准。这是用 Python 封装的第三方库。
+
+=== [https://bitbucket.org/jaraco/irc irclib] ===
+
+IRC 是 Internet Relay Chat 的缩写。这是用 Python 封装的第三方库。
+
+
+<hr>
+
+
+= 数据库 =
+
+为了便于数据库开发，Python 社区制定了数据库的 API 规范（[http://www.python.org/dev/peps/pep-0249/ PEP 249]）。
+
+只要是涉及到数据库操作，标准库和大部分第三方库都会遵循该规范。请看如下几个模块的示例代码。
+
+== ODBC ==
+
+=== [http://code.google.com/p/pyodbc/ pyODBC] ===
+
+pyODBC 封装了 ODBC API，通过它可以访问各种数据库（只要有 ODBC 驱动即可）。
+
+举例
+{{{
+# 查询某个 ODBC 数据源的某个表
+import pyodbc
+conn = pyodbc.connect('DSN=xxx;PWD=password')
+cursor = conn.cursor()
+cursor.execute('SELECT field1 FROM table1')
+while True :
+    row = cursor.fetchone()
+    if not row :
+        break
+    print(row)
+cursor.close()
+conn.close()
+}}}
+
+=== [http://ceodbc.sourceforge.net/ ceODBC] ===
+
+又一个封装 ODBC API 的第三方库
+
+== 特定数据库 ==
+
+=== sqlite3 ===
+
+sqlite3 从 Python 2.5 版本开始加入到标准库中。通过它，你可以很方便地操作 SQLite 数据库。
+
+SQLite 是一个很优秀的轻量级数据库，俺前几年写过一篇博文推荐它（在[http://program-think.blogspot.com/2009/04/how-to-use-sqlite.html 这里]）。
+
+举例
+{{{
+# 创建一个内存数据库，建表并插入记录
+import sqlite3
+conn = sqlite3.connect(':memory:')
+cursor = conn.cursor()
+cursor.execute('CREATE TABLE person (name text, age int)')
+cursor.execute('''INSERT INTO stocks VALUES ('TOM',20)''')
+conn.commit()
+conn.close()
+}}}
+
+=== [http://mysql-python.sourceforge.net/ MySQL for Python] ===
+
+操作 MySQL 的第三方库
+
+举例
+{{{
+# 查询某个 MySQL 数据库的某个表
+import MySQLdb
+conn = MySQLdb.connect(db='test', passwd='password')
+cursor = conn.cursor()
+cursor.execute('SELECT field1 FROM table1')
+while True :
+    row = cursor.fetchone()
+    if not row :
+        break
+    print(row)
+cursor.close()
+conn.close()
+}}}
+
+=== [http://initd.org/psycopg/ psycopg] ===
+
+操作 PostgreSQL 的第三方库
+
+=== [http://www.pygresql.org/ psycopg] ===
+
+操作 PostgreSQL 的第三方库
+
+=== [http://cx-oracle.sourceforge.net/ cx_Oracle] ===
+
+操作 Oracle 的第三方库
+
+=== [https://code.google.com/p/ibm-db/ ibm-db] ===
+
+操作 DB2 的第三方库
+
+=== [http://code.google.com/p/pymssql/ pymssql] ===
+
+操作微软 SQL Server 的第三方库
+
+=== [http://www.jcea.es/programacion/pybsddb.htm PyBSDDB] ===
+
+操作 Berkeley DB 的第三方库
+
+== ORM（Object-Relational Mapping） ==
+
+=== [http://www.sqlalchemy.org/ SQLAlchemy] ===
+
+SQLAlchemy 支持的数据库有：MySQL、PostgreSQL、Sqlite、Oracle、MS SQL Server、Firebird、Sybase SQL Server、Informix、等。
+
+举例
+{{{
+# 通过对象的方式创建两张依赖关系的表
+from sqlalchemy import *
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import relation, sessionmaker
+ 
+Base = declarative_base()
+ 
+class Movie(Base) :
+    __tablename__ = 'movies'
+ 
+    id = Column(Integer, primary_key=True)
+    title = Column(String(255), nullable=False)
+    year = Column(Integer)
+    directed_by = Column(Integer, ForeignKey('directors.id'))
+    director = relation('Director', backref='movies', lazy=False)
+ 
+    def __init__(self, title=None, year=None) :
+        self.title = title
+        self.year = year
+
+    def __repr__(self) :
+        return 'Movie(%r, %r, %r)' % (self.title, self.year, self.director)
+ 
+class Director(Base) :
+    __tablename__ = 'directors'
+ 
+    id = Column(Integer, primary_key=True)
+    name = Column(String(50), nullable=False, unique=True)
+ 
+    def __init__(self, name=None) :
+        self.name = name
+ 
+    def __repr__(self) :
+        return 'Director(%r)' % (self.name)
+ 
+Base.metadata.create_all(create_engine('dbms://user:pwd@host/dbname'))
+}}}
+
+=== [http://sqlobject.org/ SQLObject] ===
+
+SQLObject 支持的数据库有：MySQL、PostgreSQL、Sqlite、MS SQL Server、Firebird、Sybase SQL Server、SAP DB、等。
+
+举例
+{{{
+# 通过对象的方式创建表
+from sqlobject import *
+sqlhub.processConnection = connectionForURI('sqlite:/:memory:')
+
+class Person(SQLObject) :
+    first_name = StringCol()
+    last_name = StringCol()
+
+Person.createTable()
+}}}
+
+
+<hr>
+
+
+= GUI/桌面开发 =
+
+
+=== [http://wiki.python.org/moin/WxPython WxPython] ===
+
+WxWidgets 是 C++ 开发的跨平台 GUI 框架。这是 Python 对 WxWidgets 的封装。
+
+=== [http://www.pygtk.org/ PyGtk] ===
+
+GTK 是 C 开发的跨平台界面组件库。这是 Python 对 GTK 的封装。
+
+=== [http://www.pyside.org/ PySide] ===
+
+Qt 是 C++ 开发的跨平台 GUI 框架。这是 Python 对 Qt 的封装。
+
+=== [http://www.riverbankcomputing.com/software/pyqt/ PyQt] ===
+
+这也是 Python 对 Qt 的封装。
+
+=== [http://pyfltk.sourceforge.net/ PyFltk] ===
+
+FLTK 是 C++ 开发的轻量级界面组件库。这是 Python 对 FLTK 的封装。
+
+
+<hr>
+
+
+= 处理文件格式 =
+
+== 处理"压缩/打包"文件 ==
+
+=== zipfile ===
+
+处理 zip 文件格式的标准库。
+
+=== bz2 ===
+
+处理 bzip2 文件格式的标准库。
+
+=== zlib / gzip ===
+
+处理 gzip 文件格式的标准库。
+
+=== tarfile ===
+
+处理 tar 文件格式的标准库。
+
+=== [http://rarfile.berlios.de/ rarfile] ===
+
+处理 rar 文件格式的第三方库。
+
+=== [http://www.joachim-bauch.de/projects/pylzma/ PyLZMA] ===
+
+处理 7zip 文件格式的第三方库。
+
+
+== 处理 XML 文件 ==
+
+=== xml.dom / xml.miniDom / xml.etree.ElementTree ===
+
+用 DOM（Document Object Model）方式处理 XML 文件的标准库。
+
+=== xml.sax / xml.parsers.expat ===
+
+用 SAX（Simple API for XML）方式处理 XML 文件的标准库。
+
+=== [http://lxml.de/ lxml] ===
+
+著名的 C 语言库 libxml 和 libxslt 的 Python 封装，功能很强。
+
+
+== 处理 HTML 文件 ==
+
+=== HTMLParser ===
+
+以回调方式解析 HTML/XHTML 文件内容的标准库。
+
+
+== 处理"图像/照片"文件 ==
+
+=== [http://www.pythonware.com/products/pil/ Python Imaging Library (PIL)] ===
+
+这是一个很有名气的 Python 图像处理库，支持常见图像文件格式（BMP、JPG、GIF、PNG、等），可以对图像进行各种常见操作（格式转换、旋转、缩放、剪切、等）。
+
+举例
+{{{
+# 旋转某图片并显示
+from PIL import Image
+im = Image.open('xxx.jpg')
+im.rotate(90)
+im.show()
+}}}
+
+== 处理 PDF 文件 ==
+
+=== [http://www.unixuser.org/~euske/python/pdfminer/ PDFMiner] ===
+
+处理 PDF 文件格式的第三方库。
+可以提取 PDF 文件属性（标题、页数、创建人、创建时间、修改时间、等）以及每一页的文本，支持 PDF 转 HTML。
+
+== 处理 CHM 文件 ==
+
+=== [http://gnochm.sourceforge.net/pychm.html PyCHM] ===
+
+这是基于 [http://www.jedrea.com/chmlib/ chmlib] 的 Python 封装库。可以提取 CHM 文件的属性以及每个页面的内容。
+
+
+<hr>
+
+
+= 游戏开发 =
+
+=== [http://www.pygame.org/ PyGame] ===
+
+跨平台的 Python 第三方库，用来辅助游戏开发的，名气非常大。
+
+=== [http://pyopengl.sourceforge.net/ PyOpenGL] ===
+
+封装 OpenGL 的 Python 第三方库。
+
+=== [http://www.python-ogre.org/ Python-Ogre] ===
+
+封装 OGRE（3D 渲染引擎）的 Python 第三方库。
+
+=== [http://kivy.org/ Kivy] ===
+
+跨平台的多媒体框架和界面库，用来开发比较炫的界面，支持多点触摸。
+
+
+<hr>
+
+
+= 数值计算/科学计算 =
+
+=== [http://www.numpy.org/ NumPy] ===
+
+NumPy 提供了功能强大、性能很高的数值数组，可以用来进行各种数值计算（包括矩阵运算）
+
+举例
+{{{
+# 以下是传统 Python 写法，冗长且速度较慢
+a = range(10000000)
+b = range(10000000)
+c = []
+for i in range(len(a)) :
+    c.append(a[i] + b[i])
+
+# 以下是 NumPy 的写法，简洁且速度飞快
+import numpy as np
+a = np.arange(10000000)
+b = np.arange(10000000)
+c = a + b
+}}}
+
+=== [http://www.scipy.org/ SciPy] ===
+
+SciPy 依赖 NumPy 提供的多维数组。相比 NumPy，SciPy 提供了更高层的数学运算模块（统计、线性代数、积分、常微分方程求解、傅立叶变换、信号处理、等），被广泛用于科研和工程领域。
