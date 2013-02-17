@@ -126,7 +126,7 @@ OpenSSL 在加密领域可是大名鼎鼎。这个库使用 Python 对 OpenSSL �
 
 Python 可以很容易地跟其它编程语言整合。整合之后，就可以在 Python 代码中使用其它编程语言的函数、模块、库，非常爽！
 
-== 2.1 C/C++ 语言 ==
+== 2.1 整合 C/C++ 语言 ==
 
 ==== ctypes ====
 
@@ -155,19 +155,26 @@ MessageBox(text='Hello world'，flags=2)
 ==== [http://cython.org/ Cython] ====
 
 这个工具可以让你用 Python 的语法写扩展模块的代码，然后它帮你把 Python 代码编译为本地动态库（机器码）。
+
 用它编译出来的扩展模块，其性能跟 C/C++ 编写的扩展模块相当。
 
-== 2.2 JVM 平台 ==
+== 2.2 整合 JVM 平台 ==
 
 ==== [http://www.jython.org/ Jython] ====
 
 通过 Jython 可以让 Python 代码运行在 JVM 上，并且可以调用其它的 JVM 语言的代码（比如 Java Scale）
 
-== 2.3 dotNet 平台 ==
+== 2.3 整合 dotNet 平台 ==
 
 ==== [http://ironpython.net/ IronPython] ====
 
 通过 IronPython 可以让 Python 代码运行在 dotNET 平台上，并且可以调用其它的 dotNET 语言的代码（比如 C# F#）
+
+== 2.4 整合 Objective-C 语言 ==
+
+==== [http://pyobjc.sourceforge.net/ PyObjC] ====
+
+这是用 Python 封装 Mac OS X 上的 Objective-C 库。
 
 
 <hr>
@@ -272,9 +279,14 @@ PyInstaller 可以把你的 Python 代码制作成独立运行的程序（不依
 
 该工具支持多种操作系统，包括：Windows、Linux、Mac OS X、Solaris、AIX、等。
 
-==== [http://www.py2exe.org/ Py2exe] ====
+==== [http://www.py2exe.org/ py2exe] ====
 
-Py2exe 的功能类似 PyInstaller，但只支持 Windows 平台。
+py2exe 的功能类似 PyInstaller，但只支持 Windows 平台。
+
+==== [https://bitbucket.org/ronaldoussoren/py2app py2app] ====
+
+它很类似于 [http://www.py2exe.org/ py2exe]，差别在于 [http://www.py2exe.org/ py2exe] 支持 Windows 平台，而 [https://bitbucket.org/ronaldoussoren/py2app py2app] 支持 Mac OS X 平台。
+
 
 <hr>
 
@@ -336,7 +348,18 @@ Django 完全支持前面提到的 Jython 运行环境，可以运行在任何 J
 又一个重型的 Web 开发框架，名气仅次于 Django。
 
 
-== 4.4 浏览器/用户界面 ==
+== 4.4 Web前端 / JS整合 ==
+
+==== [http://pyjs.org/ Pyjamas / pyjs] ====
+
+这是从 GWT（Google Web Toolkit）移植的第三方库。提供了 Python 到 JS 的编译，AJAX 框架等功能。
+Pyjamas 甚至能用来开发桌面 GUI 应用。
+
+==== [https://github.com/chrivers/pyjaco pyjaco] ====
+
+这也是一个 Python 到 JavaScript 的编译工具。
+
+== 4.5 浏览器整合 ==
 
 ==== webbrowser ====
 
@@ -349,14 +372,10 @@ import webbrowser
 webbrowser.open('http://www.google.com')
 }}}
 
-==== [http://pyjs.org/ Pyjamas / pyjs] ====
+==== [http://code.google.com/p/pywebkitgtk/ PyWebKitGtk] ====
 
-这是从 GWT（Google Web Toolkit）移植的第三方库。提供了 Python 到 JS 的编译，AJAX 框架等功能。
-Pyjamas 甚至能用来开发桌面 GUI 应用。
+[http://webkitgtk.org/ WebKitGtk] 是一个基于 WebKit 的 Web 渲染引擎。这是 WebKitGtk 的 Python 封装。
 
-==== [https://github.com/chrivers/pyjaco pyjaco] ====
-
-这也是一个 Python 到 JavaScript 的编译工具。
 
 
 <hr>
@@ -653,9 +672,9 @@ Person.createTable()
 
 = 7 桌面GUI开发 =
 
-== 7.1 GUI框架/组件库 ==
+== 7.1 GUI框架 / 组件库 ==
 
-=== 7.1.1 Tk ===
+=== 7.1.1 基于 Tk ===
 
 [http://en.wikipedia.org/wiki/Tk_(framework) Tk] 是一个跨平台的界面组件库。
 
@@ -665,27 +684,30 @@ Person.createTable()
 
 Python2 的模块名叫 Tkinter，到 Python3 模块名改为 tkinter
 
-=== 7.1.2 wxWidgets ===
+
+=== 7.1.2 基于 wxWidgets ===
+
+[http://en.wikipedia.org/wiki/WxWidgets wxWidgets] 是 C++ 开发的跨平台框架（不仅包括 GUI，还有其它功能）。
 
 ==== [http://www.wxpython.org/ wxPython] ====
 
-wxWidgets 是 C++ 开发的跨平台 GUI 框架。这是 Python 对 WxWidgets 的封装。
+在所有的 wxWidgets 的 Python 封装库中，这个是名气最大的。
 
-Ulipad（知名的国产的 Python IDE）就是基于 wxPython 开发的。
+[http://code.google.com/p/ulipad/ Ulipad]（知名的国产的 Python IDE）就是基于 wxPython 开发的。
 
 ==== [http://pythoncard.sourceforge.net/ PythonCard] ====
 
 又一个基于 wxWidgets 的 GUI 库。
 
-=== 7.1.3 GTK+ ===
+=== 7.1.3 基于 GTK+ ===
 
-[http://en.wikipedia.org/wiki/GTK%2B GTK+]，全称是（GIMP Toolkit），由 C 开发的跨平台界面组件库。
+[http://en.wikipedia.org/wiki/GTK%2B GTK+] 全称是（GIMP Toolkit），由 C 开发的跨平台界面组件库。
 
-==== [http://www.pygtk.org/ PyGtk] ====
+==== [http://www.pygtk.org/ PyGTK] ====
 
 这是 Python 对 GTK 的封装。
 
-=== 7.1.4 Qt ===
+=== 7.1.4 基于 Qt ===
 
 [http://en.wikipedia.org/wiki/Qt_(toolkit) Qt] 是 C++ 开发的跨平台框架（不仅包括 GUI，还有其它功能）。
 
@@ -697,15 +719,15 @@ Ulipad（知名的国产的 Python IDE）就是基于 wxPython 开发的。
 
 这也是 Python 对 Qt 的封装。
 
-=== 7.1.5 FLTK ===
+=== 7.1.5 基于 FLTK ===
 
-[http://en.wikipedia.org/wiki/FLTK FLTK]全称是（ Fast Light Tool Kit），由 C++ 开发的跨平台、轻量级界面组件库。
+[http://en.wikipedia.org/wiki/FLTK FLTK] 全称是（ Fast Light Tool Kit），由 C++ 开发的跨平台、轻量级界面组件库。
 
 ==== [http://pyfltk.sourceforge.net/ PyFltk] ====
 
 这是 Python 对 FLTK 的封装。
 
-=== 7.1.6 Windows 系统的 GUI ===
+=== 7.1.6 基于 Windows 平台 ===
 
 ==== [http://python.net/crew/mhammond/win32/ PyWin32] ====
 
@@ -715,15 +737,27 @@ PyWin32 前面提到过。它可以提供原生的 Windows GUI 界面。
 
 IronPython 前面提到过。它可以提供 dotNET 的 GUI 界面。
 
-=== 7.1.7 其它 GUI 库 ===
+=== 7.1.7 基于 JVM 平台 ===
 
 ==== [http://www.jython.org/ Jython] ====
 
 Jython 前面提到过。它可以提供基于 Java 的 [http://en.wikipedia.org/wiki/Swing_%28Java%29 Swing] 界面。
 
+=== 7.1.8 其它 ===
+
 ==== [http://easygui.sourceforge.net/ EasyGUI] ====
 
 EasyGUI 这是一个很轻量级的库。跟其它 GUI 不同之处在于——没有事件驱动。
+
+==== [http://www.cosc.canterbury.ac.nz/greg.ewing/python_gui/ PyGUI] ====
+
+PyGUI 是一个更高层的 GUI 库，底层分别封装了 [http://python.net/crew/mhammond/win32/ PyWin32]（Windows 平台）、[http://www.pygtk.org/ PyGTK]（Linux 平台）、[http://pyobjc.sourceforge.net/ PyObjC]（Mac OS X 平台）。
+
+==== [http://kivy.org/ Kivy] ====
+
+跨平台的多媒体框架和界面库，用来开发比较炫的界面。
+
+除了支持桌面操作系统，还支持 Android / iOS，支持多点触摸。
 
 ==== [http://ocemp.sourceforge.net/gui.html OcempGUI] ====
 
@@ -739,7 +773,7 @@ EasyGUI 这是一个很轻量级的库。跟其它 GUI 不同之处在于——�
 
 ==== [http://gnuplot-py.sourceforge.net/ Gnuplot.py] ====
 
-这是 Python 对 [http://www.gnuplot.info/ gnuplot] 的封装。效果图在“[http://www.gnuplot.info/screenshots/index.html 这里]”。
+这是 Python 对 [http://www.gnuplot.info/ gnuplot] 的封装。gnuplot 的效果图在“[http://www.gnuplot.info/screenshots/index.html 这里]”。
 
 ==== [http://www.pyqtgraph.org/ PyQtGraph] ====
 
@@ -759,33 +793,33 @@ EasyGUI 这是一个很轻量级的库。跟其它 GUI 不同之处在于——�
 
 = 8 处理文件格式 =
 
-== 8.1 处理"压缩/打包"文件 ==
+== 8.1 处理压缩文件 / 打包文件 ==
 
 ==== zipfile ====
 
-处理 zip 文件格式的标准库。
+处理 zip 格式的标准库。
 
 ==== bz2 ====
 
-处理 bzip2 文件格式的标准库。
+处理 bzip2 格式的标准库。
 
 ==== zlib / gzip ====
 
-处理 gzip 文件格式的标准库。
+处理 gzip 格式的标准库。
 
 ==== tarfile ====
 
-处理 tar 文件格式的标准库。
+处理 tar 格式的标准库。
 
 ==== [http://rarfile.berlios.de/ rarfile] ====
 
-处理 rar 文件格式的第三方库。
+处理 rar 格式的第三方库。
 
 ==== [http://www.joachim-bauch.de/projects/pylzma/ PyLZMA] ====
 
-处理 7zip 文件格式的第三方库。
+处理 7zip 格式的第三方库。
 
-== 8.2 处理 XML 文件 ==
+== 8.2 处理 XML ==
 
 ==== xml.dom / xml.miniDom / xml.etree.ElementTree ====
 
@@ -799,14 +833,13 @@ EasyGUI 这是一个很轻量级的库。跟其它 GUI 不同之处在于——�
 
 著名的 C 语言库 libxml 和 libxslt 的 Python 封装，功能很强。
 
-
-== 8.3 处理 HTML 文件 ==
+== 8.3 处理 HTML ==
 
 ==== HTMLParser ====
 
 以回调方式解析 HTML/XHTML 文件内容的标准库。
 
-== 8.4 处理"图像/照片"文件 ==
+== 8.4 处理图片 ==
 
 ==== [http://www.pythonware.com/products/pil/ Python Imaging Library (PIL)] ====
 
@@ -821,14 +854,14 @@ im.rotate(90)
 im.show()
 }}}
 
-== 8.5 处理 PDF 文件 ==
+== 8.5 处理 PDF ==
 
 ==== [http://www.unixuser.org/~euske/python/pdfminer/ PDFMiner] ====
 
 处理 PDF 文件格式的第三方库。
 可以提取 PDF 文件属性（标题、页数、创建人、创建时间、修改时间、等）以及每一页的文本，支持 PDF 转 HTML。
 
-== 8.6 处理 CHM 文件 ==
+== 8.6 处理 CHM ==
 
 ==== [http://gnochm.sourceforge.net/pychm.html PyCHM] ====
 
@@ -852,9 +885,6 @@ im.show()
 
 封装 OGRE（3D 渲染引擎）的 Python 第三方库。
 
-==== [http://kivy.org/ Kivy] ====
-
-跨平台的多媒体框架和界面库，用来开发比较炫的界面，支持多点触摸。
 
 
 <hr>
