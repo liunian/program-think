@@ -15,13 +15,13 @@
 
 == 字符串处理 ==
 
-=== StringIO / cStringIO ===
-
-以文件的方式操作字符串（有点类似于内存文件）。
-
 === re ===
 
 正则表达式的标准库。
+
+=== StringIO / cStringIO ===
+
+以文件的方式操作字符串（有点类似于内存文件）。
 
 === [https://github.com/erikrose/chardet chardet] ===
 
@@ -287,7 +287,7 @@ Py2exe 的功能类似 PyInstaller，但只支持 Windows 平台。
 
 这几个库可以进行各种 HTTP 客户端请求（GET、POST、等）。
 
-httplib 和 httplib2 属于 Python2，到 Python3 改为 http.request 和 urllib.parse
+Python2 的模块名叫 httplib / httplib2，到 Python3 模块名改为 http.request / urllib.parse
 
 举例
 {{{
@@ -304,7 +304,7 @@ handle.close()
 
 提供轻量级 HTTP Server 的标准库。
 
-SimpleHTTPServer 属于 Python2，到 Python3 改为 http.server。
+Python2 的模块名叫 SimpleHTTPServer，到 Python3 模块名改为 http.server
 
 举例
 {{{
@@ -615,28 +615,79 @@ Person.createTable()
 <hr>
 
 
-= GUI/桌面开发 =
+= 桌面GUI开发 =
 
+== Tkinter ==
 
-=== [http://wiki.python.org/moin/WxPython WxPython] ===
+=== Tkinter / tkinter ===
 
-WxWidgets 是 C++ 开发的跨平台 GUI 框架。这是 Python 对 WxWidgets 的封装。
+这是 Python 内置的标准库，封装了 Tcl/Tk 界面库。
+
+Python2 的模块名叫 Tkinter，到 Python3 模块名改为 tkinter
+
+== wxWidgets ==
+
+=== [http://www.wxpython.org/ wxPython] ===
+
+wxWidgets 是 C++ 开发的跨平台 GUI 框架。这是 Python 对 WxWidgets 的封装。
+
+Ulipad（知名的国产的 Python IDE）就是基于 wxPython 开发的。
+
+=== [http://pythoncard.sourceforge.net/ PythonCard] ===
+
+又一个基于 wxWidgets 的 GUI 库。
+
+== GTK+ ==
+
+[http://en.wikipedia.org/wiki/GTK%2B GTK+]，全称是（GIMP Toolkit），由 C 开发的跨平台界面组件库。
 
 === [http://www.pygtk.org/ PyGtk] ===
 
-GTK 是 C 开发的跨平台界面组件库。这是 Python 对 GTK 的封装。
+这是 Python 对 GTK 的封装。
+
+== Qt ==
+
+[http://en.wikipedia.org/wiki/Qt_(toolkit) Qt] 是 C++ 开发的跨平台框架（不仅包括 GUI，还有其它功能）。
 
 === [http://www.pyside.org/ PySide] ===
 
-Qt 是 C++ 开发的跨平台 GUI 框架。这是 Python 对 Qt 的封装。
+这是 Python 对 Qt 的封装。
 
 === [http://www.riverbankcomputing.com/software/pyqt/ PyQt] ===
 
 这也是 Python 对 Qt 的封装。
 
+== FLTK ==
+
+[http://en.wikipedia.org/wiki/FLTK FLTK]全称是（ Fast Light Tool Kit），由 C++ 开发的跨平台、轻量级界面组件库。
+
 === [http://pyfltk.sourceforge.net/ PyFltk] ===
 
-FLTK 是 C++ 开发的轻量级界面组件库。这是 Python 对 FLTK 的封装。
+这是 Python 对 FLTK 的封装。
+
+== 特定于 Windows 系统的 GUI ==
+
+=== [http://python.net/crew/mhammond/win32/ PyWin32] ===
+
+这个库前面提到过。它可以提供原生的 Windows GUI 界面。
+
+=== [http://ironpython.net/ IronPython] ===
+
+这个库前面提到过。它可以提供 dotNET 的 GUI 界面。
+
+== 其它 GUI 库 ==
+
+=== [http://www.jython.org/ Jython] ===
+
+这个库前面提到过。它可以提供基于 Java 的 [http://en.wikipedia.org/wiki/Swing_%28Java%29 Swing] 界面。
+
+=== [http://easygui.sourceforge.net/ EasyGUI] ===
+
+EasyGUI 这是一个很轻量级的库。跟其它 GUI 不同之处在于——没有事件驱动。
+
+=== [http://ocemp.sourceforge.net/gui.html OcempGUI] ===
+
+基于 PyGame 的一个跨平台 GUI 库。PyGame 下面会提到。
 
 
 <hr>
@@ -751,7 +802,7 @@ im.show()
 
 === [http://www.numpy.org/ NumPy] ===
 
-NumPy 提供了功能强大、性能很高的数值数组，可以用来进行各种数值计算（包括矩阵运算）
+NumPy 提供了功能强大、性能很高的数值数组，可以用来进行各种数值计算（包括矩阵运算）。
 
 举例
 {{{
