@@ -23,7 +23,9 @@
 
 ==== StringIO / cStringIO ====
 
-以文件的方式操作字符串（有点类似于内存文件）。
+以读写文件的方式来操作字符串（有点类似于内存文件）。
+
+cStringIO 是 C 语言实现的，提供高性能；而 StringIO 是 Python 实现的，提供 Unicode 兼容性。
 
 ==== [https://github.com/erikrose/chardet chardet] ====
 
@@ -31,7 +33,7 @@ chardet 可以猜测任意一段文本的字符集编码。对于编码类型未
 
 chardet 既可以作为模块来使用，也可以作为命令行工具来使用。
 
-举例
+代码示例
 {{{
 import chardet
 print chardet.detect(bytes) 
@@ -47,7 +49,7 @@ print chardet.detect(bytes)
 
 这个标准库顾名思义，是用来进行随机数生成的
 
-举例
+代码示例
 {{{
 # 生成 0-100 的随机数
 import random
@@ -59,15 +61,15 @@ random.randint(0, 100)
 
 这个标准库封装了跟有理数（分数）相关的运算
 
-== 1.3 编码/解码类 ==
+== 1.3 编码和解码类 ==
 
 ==== json ====
 
-提供 JSON 格式的编码/解码。
+提供 JSON 格式的编码和解码。
 
 JSON 格式如今在 Web 开发中广为应用。
 
-举例
+代码示例
 {{{
 import json
 
@@ -84,15 +86,15 @@ json.loads('["foo", {"bar":["baz", null, 1.0, 2]}]')
 
 ==== base64 ====
 
-提供 Base16、Base32、Base64 格式的编码/解码。
+提供 Base16、Base32、Base64 格式的编码和解码。
 
 ==== binhex ====
 
-提供 binhex4 格式的编码/解码。
+提供 binhex4 格式的编码和解码。
 
 ==== uu ====
 
-提供 uuencode 格式的编码/解码。
+提供 uuencode 格式的编码和解码。
 
 
 == 1.4 安全类 ==
@@ -103,7 +105,7 @@ json.loads('["foo", {"bar":["baz", null, 1.0, 2]}]')
 
 关于散列算法，俺写过一篇扫盲（在[http://program-think.blogspot.com/2013/02/file-integrity-check.html 这里]）。
 
-举例
+代码示例
 {{{
 # 计算字符串的 SHA1 散列值
 import hashlib
@@ -126,13 +128,13 @@ OpenSSL 在加密领域可是大名鼎鼎。这个库使用 Python 对 OpenSSL �
 
 Python 可以很容易地跟其它编程语言整合。整合之后，就可以在 Python 代码中使用其它编程语言的函数、模块、库，非常爽！
 
-== 2.1 整合 C/C++ 语言 ==
+== 2.1 整合 C / C++ 语言 ==
 
 ==== ctypes ====
 
 ctypes 在 Python 2.5 版本加入到标准库中。通过它，你可以很方便地调用 C/C++ 动态库导出的函数，可以在 Python 中使用各种 C/C++ 的数据类型（比如指针）。
 
-举例
+代码示例
 {{{
 # 调用 Linux/Unix 系统的标准 C 函数，获取当前时间
 from ctypes import *
@@ -186,13 +188,13 @@ MessageBox(text='Hello world'，flags=2)
 
 这是一个非常基本的标准库，提供了常见的操作系统相关操作。
 
-== 3.1 文件/目录操作 ==
+== 3.1 文件和目录操作 ==
 
 ==== shutil ====
 
-相对于 os 标准库，shutil 标准库提供了一些比较高级的文件/目录操作（目录递归复制、目录递归删除、目录压缩打包、等）
+相对于 os 标准库，shutil 标准库提供了一些比较高级的文件和目录操作（目录递归复制、目录递归删除、目录压缩打包、等）
 
-举例
+代码示例
 {{{
 # 递归删除某个目录
 import shutil
@@ -203,7 +205,7 @@ shutil.rmtree(xxxx)
 
 这个标准库用于查找文件（支持通配符）
 
-举例
+代码示例
 {{{
 # 获取当前目录所有 txt 文件
 import glob
@@ -214,7 +216,7 @@ files = glob.glob('./*.txt')
 
 这个标准库用于匹配文件名（支持通配符）
 
-举例
+代码示例
 {{{
 # 列出当前目录所有 txt 文件
 import os, fnmatch
@@ -225,7 +227,7 @@ for file in os.listdir('.') :
 
 ==== tempfile ====
 
-使用这个标准库，可以安全地生成临时文件/临时目录。
+使用这个标准库，可以安全地生成临时文件或临时目录。
 
 == 3.2 本地进程间通信（IPC） ==
 
@@ -241,7 +243,7 @@ for file in os.listdir('.') :
 
 提供了内存映射文件的支持。
 
-举例
+代码示例
 {{{
 # 利用 mmap 在父子进程间交换数据
 import os
@@ -265,7 +267,7 @@ if pid == 0: # 子进程
 
 这个第三方库封装了 Windows API 及 COM API。通过它可以方便地用 Python 进行 Windows 编程（调用 COM 组件、编写 Windows 服务、等）。
 
-== 3.4 Linux/Unix 系统相关 ==
+== 3.4 Linux / Unix 系统相关 ==
 
 ==== syslog ====
 
@@ -291,7 +293,7 @@ py2exe 的功能类似 PyInstaller，但只支持 Windows 平台。
 <hr>
 
 
-= 4 Web 开发及相关协议 =
+= 4 Web 开发 =
 
 如今 Web 开发很火，俺把 Web 相关的单独分一类。
 
@@ -303,7 +305,7 @@ py2exe 的功能类似 PyInstaller，但只支持 Windows 平台。
 
 Python2 的模块名叫 httplib / httplib2，到 Python3 模块名改为 http.request / urllib.parse
 
-举例
+代码示例
 {{{
 # 读取指定 URL 的网页内容
 import urllib
@@ -320,7 +322,7 @@ handle.close()
 
 Python2 的模块名叫 SimpleHTTPServer，到 Python3 模块名改为 http.server
 
-举例
+代码示例
 {{{
 #一个极简单的 HTTP 服务
 import SocketServer
@@ -347,7 +349,6 @@ Django 完全支持前面提到的 Jython 运行环境，可以运行在任何 J
 
 又一个重型的 Web 开发框架，名气仅次于 Django。
 
-
 == 4.4 Web前端 / JS整合 ==
 
 ==== [http://pyjs.org/ Pyjamas / pyjs] ====
@@ -365,11 +366,32 @@ Pyjamas 甚至能用来开发桌面 GUI 应用。
 
 操纵当前系统的默认浏览器，访问指定 URL 的页面。
 
-举例
+代码示例
 {{{
 # 用默认浏览器打开 Google 主页
 import webbrowser
 webbrowser.open('http://www.google.com')
+}}}
+
+==== [http://code.google.com/p/pyv8/ pyv8] ====
+
+[http://code.google.com/apis/v8/ v8] 是 Google 开发的 JavaScript 解释引擎。这是对 v8 引擎的 Python 封装。
+
+代码示例
+{{{
+import PyV8
+
+ctxt1 = PyV8.JSContext()
+ctxt1.enter()
+ctxt1.eval('1+2')  # 对 JS 表达式求值
+
+class Global(PyV8.JSClass) :  # 定义一个兼容 JS 的类
+    def hello(self) :
+        print 'Hello world'
+
+ctxt2 = PyV8.JSContext(Global()) # 创建一个 JS 上下文，传入 Global 类的对象
+ctxt2.enter()                    
+ctxt2.eval('hello()')  # 调用 hello() 函数
 }}}
 
 ==== [http://code.google.com/p/pywebkitgtk/ PyWebKitGtk] ====
@@ -377,13 +399,12 @@ webbrowser.open('http://www.google.com')
 [http://webkitgtk.org/ WebKitGtk] 是一个基于 WebKit 的 Web 渲染引擎。这是 WebKitGtk 的 Python 封装。
 
 
-
 <hr>
 
 
 = 5 网络编程 =
 
-== 5.1 链路层/网络层 ==
+== 5.1 链路层 / 网络层 ==
 
 ==== [http://www.secdev.org/projects/scapy/ Scapy] ====
 
@@ -391,7 +412,7 @@ webbrowser.open('http://www.google.com')
 
 搞网络安全的网友应该会喜欢这个库。
 
-举例
+代码示例
 {{{
 # 传统的 ping 扫描（网络层）
 ans,unans = sr(IP(dst='192.168.1.1-254')/ICMP())
@@ -420,7 +441,7 @@ Python 标准库很早就提供了对 socket 编程的支持。
 
 这是一个基于 Python 网络通讯开发框架，有十多年历史，某些设计类似于 C++ 的 ACE 框架。除了能用来进行传输层（TCP UDP）的开发，还提供了若干应用层协议（HTTP、XMPP、SSH、IRC、等）的支持。
 
-举例
+代码示例
 {{{
 # 实现一个简单的 Echo 服务，监听在 12345 端口
 from twisted.internet import protocol, reactor
@@ -487,7 +508,7 @@ IRC 是 Internet Relay Chat 的缩写。这是用 Python 封装的第三方库�
 
 pyODBC 封装了 ODBC API，通过它可以访问各种数据库（只要有 ODBC 驱动即可）。
 
-举例
+代码示例
 {{{
 # 查询某个 ODBC 数据源的某个表
 import pyodbc
@@ -532,7 +553,7 @@ IronPython 前面提到过。它可以基于 [http://en.wikipedia.org/wiki/ADO.N
 
 操作 MySQL 的第三方库。
 
-举例
+代码示例
 {{{
 # 查询某个 MySQL 数据库的某个表
 import MySQLdb
@@ -585,7 +606,7 @@ sqlite3 从 Python 2.5 版本开始加入到标准库中。通过它，你可以
 
 SQLite 是一个很优秀的轻量级数据库，俺前几年写过一篇博文推荐它（在[http://program-think.blogspot.com/2009/04/how-to-use-sqlite.html 这里]）。
 
-举例
+代码示例
 {{{
 # 创建一个内存数据库，建表并插入记录
 import sqlite3
@@ -609,7 +630,7 @@ conn.close()
 
 SQLAlchemy 支持的数据库有：MySQL、PostgreSQL、Sqlite、Oracle、MS SQL Server、Firebird、Sybase SQL Server、Informix、等。
 
-举例
+代码示例
 {{{
 # 通过对象的方式创建两张依赖关系的表
 from sqlalchemy import *
@@ -653,7 +674,7 @@ Base.metadata.create_all(create_engine('dbms://user:pwd@host/dbname'))
 
 SQLObject 支持的数据库有：MySQL、PostgreSQL、Sqlite、MS SQL Server、Firebird、Sybase SQL Server、SAP DB、等。
 
-举例
+代码示例
 {{{
 # 通过对象的方式创建表
 from sqlobject import *
@@ -670,9 +691,9 @@ Person.createTable()
 <hr>
 
 
-= 7 桌面GUI开发 =
+= 7 桌面 GUI 开发 =
 
-== 7.1 GUI框架 / 组件库 ==
+== 7.1 GUI 框架 / 组件库 ==
 
 === 7.1.1 基于 Tk ===
 
@@ -684,6 +705,17 @@ Person.createTable()
 
 Python2 的模块名叫 Tkinter，到 Python3 模块名改为 tkinter
 
+代码示例
+{{{
+# 用 Tkinter 写 Hello world
+from Tkinter import *
+
+if __name__ == '__main__' :
+    root = Tk()
+    label = Label(root, text='Hello world')
+    label.pack()
+    root.mainloop()
+}}}
 
 === 7.1.2 基于 wxWidgets ===
 
@@ -694,6 +726,26 @@ Python2 的模块名叫 Tkinter，到 Python3 模块名改为 tkinter
 在所有的 wxWidgets 的 Python 封装库中，这个是名气最大的。
 
 [http://code.google.com/p/ulipad/ Ulipad]（知名的国产的 Python IDE）就是基于 wxPython 开发的。
+
+代码示例
+{{{
+# 用 wxPython 写 Hello world
+import wx
+
+class Frame(wx.Frame) :
+    pass
+
+class App(wx.App) :
+    def OnInit(self) :
+        self.frame = Frame(parent=None, title='Hello world')
+        self.frame.Show()
+        self.SetTopWindow(self.frame)
+        return True
+
+if __name__ == '__main__' :
+    app = App()
+    app.MainLoop()
+}}}
 
 ==== [http://pythoncard.sourceforge.net/ PythonCard] ====
 
@@ -707,15 +759,71 @@ Python2 的模块名叫 Tkinter，到 Python3 模块名改为 tkinter
 
 这是 Python 对 GTK 的封装。
 
+代码示例
+{{{
+# 用 PyGTK 写 Hello world
+import pygtk
+pygtk.require('2.0')
+import gtk
+
+class HelloWorld :
+    def __init__(self) :
+        self.window = gtk.Window(gtk.WINDOW_TOPLEVEL)
+        self.window.connect('delete_event', self.delete_event)
+        self.window.connect('destroy', self.destroy)
+        self.window.set_border_width(10)
+
+        self.button = gtk.Button('Hello world')
+        self.button.connect('clicked', self.hello, None)
+        self.button.connect_object('clicked', gtk.Widget.destroy, self.window)
+        self.window.add(self.button)
+
+        self.button.show()
+        self.window.show()
+
+    def main(self) :
+        gtk.main()
+
+    def hello(self, widget, data=None) :
+        print 'Hello world'
+
+    def delete_event(self, widget, event, data=None) :
+        print 'delete event occurred'
+        return False
+
+    def destroy(self, widget, data=None) :
+        gtk.main_quit()
+
+if __name__ == '__main__' :
+    hello = HelloWorld()
+    hello.main()
+}}}
+
 === 7.1.4 基于 Qt ===
 
 [http://en.wikipedia.org/wiki/Qt_(toolkit) Qt] 是 C++ 开发的跨平台框架（不仅包括 GUI，还有其它功能）。
 
-==== [http://www.pyside.org/ PySide] ====
+==== [http://www.riverbankcomputing.com/software/pyqt/ PyQt] ====
 
 这是 Python 对 Qt 的封装。
 
-==== [http://www.riverbankcomputing.com/software/pyqt/ PyQt] ====
+代码示例
+{{{
+# 用 pyQt 写 Hello world
+import sys
+from PyQt4.QtGui import *
+
+if __name__ == '__main__' :
+    app = QApplication(sys.argv)
+    window = QWidget()
+
+    window.resize(320, 240)
+    window.setWindowTitle('Hello world')
+    window.show()
+    sys.exit(app.exec_())
+}}}
+
+==== [http://www.pyside.org/ PySide] ====
 
 这也是 Python 对 Qt 的封装。
 
@@ -723,7 +831,7 @@ Python2 的模块名叫 Tkinter，到 Python3 模块名改为 tkinter
 
 [http://en.wikipedia.org/wiki/FLTK FLTK] 全称是（ Fast Light Tool Kit），由 C++ 开发的跨平台、轻量级界面组件库。
 
-==== [http://pyfltk.sourceforge.net/ PyFltk] ====
+==== [http://pyfltk.sourceforge.net/ PyFLTK] ====
 
 这是 Python 对 FLTK 的封装。
 
@@ -795,31 +903,55 @@ PyGUI 是一个更高层的 GUI 库，底层分别封装了 [http://python.net/c
 
 == 8.1 处理压缩文件 / 打包文件 ==
 
+=== 8.1.1 zip ===
+
 ==== zipfile ====
 
 处理 zip 格式的标准库。
+
+=== 8.1.2 bzip2（bz2） ===
 
 ==== bz2 ====
 
 处理 bzip2 格式的标准库。
 
-==== zlib / gzip ====
+=== 8.1.3 gzip（gz） ===
+
+==== gzip ====
 
 处理 gzip 格式的标准库。
+
+==== zlib ====
+
+处理 gzip 格式的标准库。
+
+=== 8.1.4 tar ===
 
 ==== tarfile ====
 
 处理 tar 格式的标准库。
 
-==== [http://rarfile.berlios.de/ rarfile] ====
-
-处理 rar 格式的第三方库。
+=== 8.1.5 7zip（7z） ===
 
 ==== [http://www.joachim-bauch.de/projects/pylzma/ PyLZMA] ====
 
 处理 7zip 格式的第三方库。
 
-== 8.2 处理 XML ==
+=== 8.1.6 rar ===
+
+==== [http://rarfile.berlios.de/ rarfile] ====
+
+处理 rar 格式的第三方库。
+
+=== 8.1.7 msi ===
+
+==== msilib ====
+
+处理 msi 格式的标准库，从 Python 2.5 版本开始提供。
+
+== 8.2 处理标记语言 ==
+
+=== 8.2.1 XML ===
 
 ==== xml.dom / xml.miniDom / xml.etree.ElementTree ====
 
@@ -833,19 +965,19 @@ PyGUI 是一个更高层的 GUI 库，底层分别封装了 [http://python.net/c
 
 著名的 C 语言库 libxml 和 libxslt 的 Python 封装，功能很强。
 
-== 8.3 处理 HTML ==
+=== 8.2.2 HTML ===
 
 ==== HTMLParser ====
 
 以回调方式解析 HTML/XHTML 文件内容的标准库。
 
-== 8.4 处理图片 ==
+== 8.3 处理图片 ==
 
 ==== [http://www.pythonware.com/products/pil/ Python Imaging Library (PIL)] ====
 
 这是一个很有名气的 Python 图像处理库，支持常见图像文件格式（BMP、JPG、GIF、PNG、等），可以对图像进行各种常见操作（格式转换、旋转、缩放、剪切、等）。
 
-举例
+代码示例
 {{{
 # 旋转某图片并显示
 from PIL import Image
@@ -854,14 +986,14 @@ im.rotate(90)
 im.show()
 }}}
 
-== 8.5 处理 PDF ==
+== 8.4 处理 PDF ==
 
 ==== [http://www.unixuser.org/~euske/python/pdfminer/ PDFMiner] ====
 
 处理 PDF 文件格式的第三方库。
 可以提取 PDF 文件属性（标题、页数、创建人、创建时间、修改时间、等）以及每一页的文本，支持 PDF 转 HTML。
 
-== 8.6 处理 CHM ==
+== 8.5 处理 CHM ==
 
 ==== [http://gnochm.sourceforge.net/pychm.html PyCHM] ====
 
@@ -896,7 +1028,7 @@ im.show()
 
 NumPy 提供了功能强大、性能很高的数值数组，可以用来进行各种数值计算（包括矩阵运算）。
 
-举例
+代码示例
 {{{
 # 以下是传统 Python 写法，冗长且速度较慢
 a = range(10000000)
