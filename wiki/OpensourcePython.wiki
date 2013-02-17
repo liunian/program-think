@@ -2,6 +2,8 @@
 
 <h1>Python 开源项目及示例代码</h1>
 
+本页面是俺收集的各种 Python 资源，不定期更新。
+
 下面列出的各种 Python 库/模块/工具，如果名称带超链接，说明是第三方的；否则是 Python 语言内置的。
 
 <hr>
@@ -11,9 +13,9 @@
 <hr>
 <hr>
 
-= 算法 =
+= 1 算法 =
 
-== 字符串处理 ==
+== 1.1 字符串处理 ==
 
 === re ===
 
@@ -35,7 +37,7 @@ import chardet
 print chardet.detect(bytes) 
 }}}
 
-== 数学类 ==
+== 1.2 数学类 ==
 
 === math ===
 
@@ -57,7 +59,7 @@ random.randint(0, 100)
 
 这个标准库封装了跟有理数（分数）相关的运算
 
-== 编码/解码类 ==
+== 1.3 编码/解码类 ==
 
 === json ===
 
@@ -93,7 +95,7 @@ json.loads('["foo", {"bar":["baz", null, 1.0, 2]}]')
 提供 uuencode 格式的编码/解码。
 
 
-== 安全类 ==
+== 1.4 安全类 ==
 
 === hashlib ===
 
@@ -120,11 +122,11 @@ OpenSSL 在加密领域可是大名鼎鼎。这个库使用 Python 对 OpenSSL �
 <hr>
 
 
-= 跨编程语言 =
+= 2 跨编程语言 =
 
 Python 可以很容易地跟其它编程语言整合。整合之后，就可以在 Python 代码中使用其它编程语言的函数、模块、库，非常爽！
 
-== C/C++ 语言 ==
+== 2.1 C/C++ 语言 ==
 
 === ctypes ===
 
@@ -155,13 +157,13 @@ MessageBox(text='Hello world'，flags=2)
 这个工具可以让你用 Python 的语法写扩展模块的代码，然后它帮你把 Python 代码编译为本地动态库（机器码）。
 用它编译出来的扩展模块，其性能跟 C/C++ 编写的扩展模块相当。
 
-== JVM 平台 ==
+== 2.2 JVM 平台 ==
 
 === [http://www.jython.org/ Jython] ===
 
 通过 Jython 可以让 Python 代码运行在 JVM 上，并且可以调用其它的 JVM 语言的代码（比如 Java Scale）
 
-== dotNet 平台 ==
+== 2.3 dotNet 平台 ==
 
 === [http://ironpython.net/ IronPython] ===
 
@@ -171,13 +173,13 @@ MessageBox(text='Hello world'，flags=2)
 <hr>
 
 
-= 操作系统相关 =
+= 3 操作系统相关 =
 
 === os ===
 
 这是一个非常基本的标准库，提供了常见的操作系统相关操作。
 
-== 文件/目录操作 ==
+== 3.1 文件/目录操作 ==
 
 === shutil ===
 
@@ -218,7 +220,7 @@ for file in os.listdir('.') :
 
 使用这个标准库，可以安全地生成临时文件/临时目录。
 
-== 本地进程间通信（IPC） ==
+== 3.2 本地进程间通信（IPC） ==
 
 === subprocess ===
 
@@ -250,19 +252,19 @@ if pid == 0: # 子进程
     map.close()
 }}}
 
-== Windows 系统相关 ==
+== 3.3 Windows 系统相关 ==
 
 === [http://python.net/crew/mhammond/win32/ PyWin32] ===
 
 这个第三方库封装了 Windows API 及 COM API。通过它可以方便地用 Python 进行 Windows 编程（调用 COM 组件、编写 Windows 服务、等）。
 
-== Linux/Unix 系统相关 ==
+== 3.4 Linux/Unix 系统相关 ==
 
 === syslog ===
 
 通过这个标准库，可以很方便地跟 POSIX 的 syslog 服务进行交互。
 
-== 程序打包 ==
+== 3.5 程序打包 ==
 
 === [http://www.pyinstaller.org/ PyInstaller] ===
 
@@ -277,11 +279,11 @@ Py2exe 的功能类似 PyInstaller，但只支持 Windows 平台。
 <hr>
 
 
-= Web 开发及相关协议 =
+= 4 Web 开发及相关协议 =
 
 如今 Web 开发很火，俺把 Web 相关的单独分一类。
 
-== HTTP 协议 ==
+== 4.1 HTTP 协议 ==
 
 === httplib / httplib2 / http.request / urllib.parse ===
 
@@ -298,7 +300,7 @@ page = handle.read()
 handle.close()
 }}}
 
-== Web Server ==
+== 4.2 Web Server ==
 
 === SimpleHTTPServer / http.server ===
 
@@ -319,7 +321,7 @@ print 'serving at port', PORT
 httpd.serve_forever()
 }}}
 
-== Web 开发框架 ==
+== 4.3 Web 开发框架 ==
 
 === [http://www.djangoproject.com/ Django] ===
 
@@ -334,7 +336,7 @@ Django 完全支持前面提到的 Jython 运行环境，可以运行在任何 J
 又一个重型的 Web 开发框架，名气仅次于 Django。
 
 
-== 浏览器/用户界面 ==
+== 4.4 浏览器/用户界面 ==
 
 === webbrowser ===
 
@@ -360,9 +362,9 @@ Pyjamas 甚至能用来开发桌面 GUI 应用。
 <hr>
 
 
-= 网络编程 =
+= 5 网络编程 =
 
-== 链路层/网络层 ==
+== 5.1 链路层/网络层 ==
 
 === [http://www.secdev.org/projects/scapy/ Scapy] ===
 
@@ -379,7 +381,7 @@ ans,unans = sr(IP(dst='192.168.1.1-254')/ICMP())
 ans,unans = srp(Ether(dst='ff:ff:ff:ff:ff:ff')/ARP(pdst='192.168.1.0/24'), timeout=2)
 }}}
 
-== 传输层 ==
+== 5.2 传输层 ==
 
 === socket ===
 
@@ -416,7 +418,7 @@ reactor.listenTCP(12345, EchoFactory())
 reactor.run()
 }}}
 
-== 应用层 ==
+== 5.3 应用层 ==
 
 === ftplib ===
 
@@ -452,13 +454,13 @@ IRC 是 Internet Relay Chat 的缩写。这是用 Python 封装的第三方库�
 <hr>
 
 
-= 数据库 =
+= 6 数据库 =
 
 为了便于数据库开发，Python 社区制定了数据库的 API 规范（[http://www.python.org/dev/peps/pep-0249/ PEP 249]）。
 
 只要是涉及到数据库操作，标准库和大部分第三方库都会遵循该规范。请看如下几个模块的示例代码。
 
-== ODBC ==
+== 6.1 ODBC ==
 
 === [http://code.google.com/p/pyodbc/ pyODBC] ===
 
@@ -484,7 +486,7 @@ conn.close()
 
 又一个封装 ODBC API 的第三方库
 
-== 特定数据库 ==
+== 6.2 特定数据库 ==
 
 === sqlite3 ===
 
@@ -548,7 +550,7 @@ conn.close()
 
 操作 Berkeley DB 的第三方库
 
-== ORM（Object-Relational Mapping） ==
+== 6.3 ORM（Object-Relational Mapping） ==
 
 === [http://www.sqlalchemy.org/ SQLAlchemy] ===
 
@@ -615,9 +617,11 @@ Person.createTable()
 <hr>
 
 
-= 桌面GUI开发 =
+= 7 桌面GUI开发 =
 
-== Tkinter ==
+== 7.1 Tk ==
+
+[http://en.wikipedia.org/wiki/Tk_(framework) Tk] 是一个跨平台的界面组件库。
 
 === Tkinter / tkinter ===
 
@@ -625,7 +629,7 @@ Person.createTable()
 
 Python2 的模块名叫 Tkinter，到 Python3 模块名改为 tkinter
 
-== wxWidgets ==
+== 7.2 wxWidgets ==
 
 === [http://www.wxpython.org/ wxPython] ===
 
@@ -637,7 +641,7 @@ Ulipad（知名的国产的 Python IDE）就是基于 wxPython 开发的。
 
 又一个基于 wxWidgets 的 GUI 库。
 
-== GTK+ ==
+== 7.3 GTK+ ==
 
 [http://en.wikipedia.org/wiki/GTK%2B GTK+]，全称是（GIMP Toolkit），由 C 开发的跨平台界面组件库。
 
@@ -645,7 +649,7 @@ Ulipad（知名的国产的 Python IDE）就是基于 wxPython 开发的。
 
 这是 Python 对 GTK 的封装。
 
-== Qt ==
+== 7.4 Qt ==
 
 [http://en.wikipedia.org/wiki/Qt_(toolkit) Qt] 是 C++ 开发的跨平台框架（不仅包括 GUI，还有其它功能）。
 
@@ -657,7 +661,7 @@ Ulipad（知名的国产的 Python IDE）就是基于 wxPython 开发的。
 
 这也是 Python 对 Qt 的封装。
 
-== FLTK ==
+== 7.5 FLTK ==
 
 [http://en.wikipedia.org/wiki/FLTK FLTK]全称是（ Fast Light Tool Kit），由 C++ 开发的跨平台、轻量级界面组件库。
 
@@ -665,7 +669,7 @@ Ulipad（知名的国产的 Python IDE）就是基于 wxPython 开发的。
 
 这是 Python 对 FLTK 的封装。
 
-== 特定于 Windows 系统的 GUI ==
+== 7.3 Windows 系统的 GUI ==
 
 === [http://python.net/crew/mhammond/win32/ PyWin32] ===
 
@@ -675,7 +679,7 @@ Ulipad（知名的国产的 Python IDE）就是基于 wxPython 开发的。
 
 这个库前面提到过。它可以提供 dotNET 的 GUI 界面。
 
-== 其它 GUI 库 ==
+== 7.7 其它 GUI 库 ==
 
 === [http://www.jython.org/ Jython] ===
 
@@ -693,9 +697,9 @@ EasyGUI 这是一个很轻量级的库。跟其它 GUI 不同之处在于——�
 <hr>
 
 
-= 处理文件格式 =
+= 8 处理文件格式 =
 
-== 处理"压缩/打包"文件 ==
+== 8.1 处理"压缩/打包"文件 ==
 
 === zipfile ===
 
@@ -721,8 +725,7 @@ EasyGUI 这是一个很轻量级的库。跟其它 GUI 不同之处在于——�
 
 处理 7zip 文件格式的第三方库。
 
-
-== 处理 XML 文件 ==
+== 8.2 处理 XML 文件 ==
 
 === xml.dom / xml.miniDom / xml.etree.ElementTree ===
 
@@ -737,14 +740,13 @@ EasyGUI 这是一个很轻量级的库。跟其它 GUI 不同之处在于——�
 著名的 C 语言库 libxml 和 libxslt 的 Python 封装，功能很强。
 
 
-== 处理 HTML 文件 ==
+== 8.3 处理 HTML 文件 ==
 
 === HTMLParser ===
 
 以回调方式解析 HTML/XHTML 文件内容的标准库。
 
-
-== 处理"图像/照片"文件 ==
+== 8.4 处理"图像/照片"文件 ==
 
 === [http://www.pythonware.com/products/pil/ Python Imaging Library (PIL)] ===
 
@@ -759,14 +761,14 @@ im.rotate(90)
 im.show()
 }}}
 
-== 处理 PDF 文件 ==
+== 8.5 处理 PDF 文件 ==
 
 === [http://www.unixuser.org/~euske/python/pdfminer/ PDFMiner] ===
 
 处理 PDF 文件格式的第三方库。
 可以提取 PDF 文件属性（标题、页数、创建人、创建时间、修改时间、等）以及每一页的文本，支持 PDF 转 HTML。
 
-== 处理 CHM 文件 ==
+== 8.6 处理 CHM 文件 ==
 
 === [http://gnochm.sourceforge.net/pychm.html PyCHM] ===
 
@@ -776,7 +778,7 @@ im.show()
 <hr>
 
 
-= 游戏开发 =
+= 9 游戏开发 =
 
 === [http://www.pygame.org/ PyGame] ===
 
@@ -798,7 +800,7 @@ im.show()
 <hr>
 
 
-= 数值计算/科学计算 =
+= 10 数值计算/科学计算 =
 
 === [http://www.numpy.org/ NumPy] ===
 
