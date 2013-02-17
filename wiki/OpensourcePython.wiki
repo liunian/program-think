@@ -61,43 +61,8 @@ random.randint(0, 100)
 
 这个标准库封装了跟有理数（分数）相关的运算
 
-== 1.3 编码和解码类 ==
 
-==== json ====
-
-提供 JSON 格式的编码和解码。
-
-JSON 格式如今在 Web 开发中广为应用。
-
-代码示例
-{{{
-import json
-
-json.dumps(['foo', {'bar': ('baz', None, 1.0, 2)}])
-# JSON 编码
-# 得到如下字符串
-# '["foo", {"bar": ["baz", null, 1.0, 2]}]'
-
-json.loads('["foo", {"bar":["baz", null, 1.0, 2]}]')
-# JSON 解码
-# 得到如下对象
-# [u'foo', {u'bar': [u'baz', None, 1.0, 2]}]
-}}}
-
-==== base64 ====
-
-提供 Base16、Base32、Base64 格式的编码和解码。
-
-==== binhex ====
-
-提供 binhex4 格式的编码和解码。
-
-==== uu ====
-
-提供 uuencode 格式的编码和解码。
-
-
-== 1.4 安全类 ==
+== 1.3 安全类 ==
 
 ==== hashlib ====
 
@@ -404,7 +369,9 @@ ctxt2.eval('hello()')  # 调用 hello() 函数
 
 = 5 网络编程 =
 
-== 5.1 链路层 / 网络层 ==
+== 5.1 标准协议 ==
+
+=== 5.1.1 链路层 / 网络层 ===
 
 ==== [http://www.secdev.org/projects/scapy/ Scapy] ====
 
@@ -421,7 +388,7 @@ ans,unans = sr(IP(dst='192.168.1.1-254')/ICMP())
 ans,unans = srp(Ether(dst='ff:ff:ff:ff:ff:ff')/ARP(pdst='192.168.1.0/24'), timeout=2)
 }}}
 
-== 5.2 传输层 ==
+=== 5.1.2 传输层 ===
 
 ==== socket ====
 
@@ -437,28 +404,7 @@ Python 标准库很早就提供了对 socket 编程的支持。
 
 这个标准库基于上述的 asyncore，提供更高层的 API，简化异步通讯编程。
 
-==== [http://twistedmatrix.com/ Twisted] ====
-
-这是一个基于 Python 网络通讯开发框架，有十多年历史，某些设计类似于 C++ 的 ACE 框架。除了能用来进行传输层（TCP UDP）的开发，还提供了若干应用层协议（HTTP、XMPP、SSH、IRC、等）的支持。
-
-代码示例
-{{{
-# 实现一个简单的 Echo 服务，监听在 12345 端口
-from twisted.internet import protocol, reactor
-
-class Echo(protocol.Protocol) :
-    def dataReceived(self, data) :
-        self.transport.write(data)
-
-class EchoFactory(protocol.Factory) :
-    def buildProtocol(self, addr) :
-        return Echo()
-
-reactor.listenTCP(12345, EchoFactory())
-reactor.run()
-}}}
-
-== 5.3 应用层 ==
+=== 5.1.3 应用层 ===
 
 ==== ftplib ====
 
@@ -489,6 +435,72 @@ Jabber（又称 XMPP）是IM（即时通信）协议的标准。这是用 Python
 ==== [https://bitbucket.org/jaraco/irc irclib] ====
 
 IRC 是 Internet Relay Chat 的缩写。这是用 Python 封装的第三方库。
+
+== 5.2 编码和解码 ==
+
+==== json ====
+
+标准库，提供 JSON 格式的编码和解码。
+
+JSON 格式如今在 Web 开发中广为应用。
+
+代码示例
+{{{
+import json
+
+json.dumps(['foo', {'bar': ('baz', None, 1.0, 2)}])
+# JSON 编码
+# 得到如下字符串
+# '["foo", {"bar": ["baz", null, 1.0, 2]}]'
+
+json.loads('["foo", {"bar":["baz", null, 1.0, 2]}]')
+# JSON 解码
+# 得到如下对象
+# [u'foo', {u'bar': [u'baz', None, 1.0, 2]}]
+}}}
+
+==== base64 ====
+
+标准库，提供 Base16、Base32、Base64 格式的编码和解码。
+
+==== binhex ====
+
+标准库，提供 binhex4 格式的编码和解码。
+
+==== uu ====
+
+标准库，提供 uuencode 格式的编码和解码。
+
+==== [http://code.google.com/p/protobuf/ Protocol Buffers（protobuf）] ====
+
+这是 Google 开发的一个跨语言的库，用于网络传输的编码和解码。
+
+它的优点是：跨多种语言、高性能、向前兼容、向后兼容。俺前几年写过一篇博文推荐 protobuf（在[http://program-think.blogspot.com/2009/05/opensource-review-protocol-buffers.html 这里]）。
+
+== 5.3 网络开发框架 ==
+
+==== [http://twistedmatrix.com/ Twisted] ====
+
+这是一个基于 Python 网络通讯开发框架，有十多年历史，名气很大。
+
+它的某些设计类似于 C++ 的 [http://en.wikipedia.org/wiki/Adaptive_Communication_Environment ACE] 框架。除了能用来进行传输层（TCP UDP）的开发，还提供了若干应用层协议（HTTP、XMPP、SSH、IRC、等）的支持。
+
+代码示例
+{{{
+# 实现一个简单的 Echo 服务，监听在 12345 端口
+from twisted.internet import protocol, reactor
+
+class Echo(protocol.Protocol) :
+    def dataReceived(self, data) :
+        self.transport.write(data)
+
+class EchoFactory(protocol.Factory) :
+    def buildProtocol(self, addr) :
+        return Echo()
+
+reactor.listenTCP(12345, EchoFactory())
+reactor.run()
+}}}
 
 
 <hr>
