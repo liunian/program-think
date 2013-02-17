@@ -729,6 +729,30 @@ EasyGUI 这是一个很轻量级的库。跟其它 GUI 不同之处在于——�
 
 基于 PyGame 的一个跨平台 GUI 库。PyGame 下面会提到。
 
+== 7.2 图表/报表 ==
+
+==== [http://matplotlib.org/ matplotlib] ====
+
+这是一个有名的图形库，主要用来绘制数学相关的图形。
+
+跟后面提到的 [http://www.scipy.org/ SciPy] 整合可以起到类似  MATLAB 的效果。效果图在“[http://matplotlib.org/users/screenshots.html 这里]”。
+
+==== [http://gnuplot-py.sourceforge.net/ Gnuplot.py] ====
+
+这是 Python 对 [http://www.gnuplot.info/ gnuplot] 的封装。效果图在“[http://www.gnuplot.info/screenshots/index.html 这里]”。
+
+==== [http://www.pyqtgraph.org/ PyQtGraph] ====
+
+这是一个纯 Python 的库，依赖于 PyQt4 / PySide。效果图在“[http://www.pyqtgraph.org/images/plotting_sm.png 这里]”。
+
+==== [http://pyx.sourceforge.net/ PyX] ====
+
+这个库可以跟 TeX / LaTeX 无缝整合，支持导出为 PostScript / PDF 格式。适合用来制作报表。效果图在“[http://pyx.sourceforge.net/gallery/index.html 这里]”。
+
+==== [http://code.enthought.com/chaco/ Chaco] ====
+
+这是一个商业公司维护的库，主要提供2维图表。效果图在“[http://docs.enthought.com/chaco/user_manual/annotated_examples.html 这里]”。
+
 
 <hr>
 
