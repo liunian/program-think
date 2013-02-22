@@ -3,16 +3,16 @@
 = 科技类网站 =
 
 || *名称* || *链接* || *类型* || *说明* ||
-|| 《连线》 || || || 这杂志在全球IT届，那可是重量级滴。杂志创始人是同样大名鼎鼎的KK（Kevin Kelly） ||
+|| 《连线》 || || || 这杂志在全球IT届，那可是重量级滴。杂志创始人是同样大名鼎鼎的KK（[https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E5%87%AF%E5%88%A9 Kevin Kelly]）。 ||
 || || [http://wired.com/] || Web || Engilsh Homepage ||
 || || [http://feeds.wired.com/wired/index Wired Top Stories] || RSS || English, summary output, 5 posts/week ||
 || || [https://twitter.com/WIRED @WIRED] || Twitter || English Twitter ||
 || || [http://wired.tw/] || Web || 繁體中文主頁，2012年剛上線不久 ||
 || || [http://feeds.feedburner.com/wired/tw WIRED.tw] || RSS || 繁體中文，摘要輸出 ||
 || || [https://twitter.com/WiredTaiwan @WIRED] || Twitter || 繁體中文推特 ||
-|| 《MIT 技术评论》 || || || 麻省理工主办的老字号科技杂志，有百多年历史 ||
+|| 《MIT 技术评论》 || || || 麻省理工主办的老字号科技杂志，有百多年历史。 ||
 || || [http://www.technologyreview.com/] || Web || Engilsh Homepage ||
-|| || [http://www.mittrchinese.com/] || Web || 简体中文主页 ||
+|| || [http://www.techreviewchina.com/] || Web || 简体中文主页 ||
 || || [http://feeds.technologyreview.com/technology_review_top_stories Technology Review Top Stories] || RSS || English, summary output, 100 posts/week ||
 || || [https://twitter.com/techreview @TechReview] || Twitter || English ||
 || Engadget || || || 名气很大的，注重于消费类电子产品的资讯网站。在全球不同国家都有基于当地语言的分站。 ||
@@ -30,13 +30,13 @@
 || || [https://twitter.com/slashdot @slashdot] || Twitter || English ||
 || Solidot || || || 完全模仿Slashdot，该网站的口号是“奇客的资讯，重要的东西”。 ||
 || || [http://www.solidot.org/] || Web || 简体中文主页 ||
-|| || [http://feeds.feedburner.com/solidot 文章订阅] || RSS || 简体中文，全文输出，平均100帖/周，发帖量挺大  ||
+|| || [http://feeds.feedburner.com/solidot 文章订阅] || RSS || 简体中文，全文输出，平均100帖/周，发帖量挺大。  ||
 || || [https://twitter.com/solidot @solidot] || Twitter || 简体中文推特 ||
-|| 科学松鼠会 || || || 由众多科学爱好者（其中不乏科学工作者）共同创作文章的科普网站 ||
+|| 科学松鼠会 || || || 由众多科学爱好者（其中不乏科学工作者）共同创作文章的科普网站。 ||
 || || [http://songshuhui.net/] || Web || 简体中文主页 ||
 || || [http://songshuhui.net/feed 文章订阅] || RSS || 简体中文，全文输出 ||
 || || [https://twitter.com/songshuhui @songshuhui] || Twitter || 简体中文推特 ||
-|| 新雨丝 || || || 由方舟子创办的科普类网站。被 GFW 封杀可能是因为经常揭露学术腐败 ||
+|| 新语丝 || || || 由方舟子创办的科普类网站。被 GFW 封杀可能是因为经常揭露学术腐败。 ||
 || || [http://www.xys.org/] || Web || 简体中文主页 ||
 || || [http://feeds.feedburner.com/xys 文章订阅] || RSS || 简体中文，全文输出 ||
 || || [https://twitter.com/xys @xys] || Twitter || 简体中文推特 ||
