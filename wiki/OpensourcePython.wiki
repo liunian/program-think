@@ -994,7 +994,7 @@ PyGUI 是一个更高层的 GUI 库，底层分别封装了 [http://python.net/c
 # 旋转某图片并显示
 from PIL import Image
 im = Image.open('xxx.jpg')
-im.rotate(90)
+im = im.rotate(90)
 im.show()
 }}}
 
