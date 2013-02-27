@@ -302,14 +302,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 3.1 世界史 ==
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
-|| 全球通史<br>——从史前史到21世纪 || A Global History<br>——From Prehistory to the 21st Century || [https://zh.wikipedia.org/wiki/L%C2%B7S%C2%B7%E6%96%AF%E5%A1%94%E5%A4%AB%E9%87%8C%E9%98%BF%E8%AF%BA%E6%96%AF 斯塔夫里阿诺斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1136 简体CHM] || 2013-02-07 || 作者是加拿大知名历史学家。<br>此书的知名度很高，至今已出到第7版。<br>此书的特色在于：将整个世界看做一个不可分割的整体，从全球的角度来叙述各个文明的产生和发展。<br>美国许多大学已把此书列为大学基础课程教材。 ||
+|| 全球通史<br>——从史前史到21世纪 || A Global History<br>——From Prehistory to the 21st Century || [https://zh.wikipedia.org/wiki/L%C2%B7S%C2%B7%E6%96%AF%E5%A1%94%E5%A4%AB%E9%87%8C%E9%98%BF%E8%AF%BA%E6%96%AF 斯塔夫里阿诺斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1163 简体PDF (上)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1164 简体PDF (下)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1136 简体CHM] || 2013-02-27<br>2013-02-27<br>2013-02-07 || 作者是加拿大知名历史学家。<br>此书的知名度很高，至今已出到第7版。<br>此书的特色在于：将整个世界看做一个不可分割的整体，从全球的角度来叙述各个文明的产生和发展。<br>美国许多大学已把此书列为大学基础课程教材。 ||
 || 枪炮、病菌与钢铁<br>——人类社会的命运 || Guns, Germs, and Steel<br>——The Fates of Human Societies || [https://zh.wikipedia.org/wiki/%E8%B3%88%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99 贾雷德·戴蒙德] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1127 简体CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1128 英文PDF] || 2013-02-05<br>2013-02-05 || 作者是美国生物学家、生物地理学家。此书是他的代表作。<br>此书用通俗的笔法讲述了人类发展史 。<br>他会告诉你，为啥只有欧亚大陆的文明一直延续下来，为啥最终是欧洲殖民者征服了全球？<br>不是因为人种的差异，而是因为地理因素的差异。 ||
 
 == 3.2 中国 ==
 
 || *中文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 中国大历史 || [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1129 简体PDF] || 2013-02-05 || 作者是知名历史学家。<br>黄仁宇强调大历史观（macro-history），抛开历史人物的善恶，抛开意识形态，从技术角度分析历史走向。<br>此书特别能反映作者的大历史观。 ||
-|| 潜规则<br>——中国历史中的真实游戏 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E6%80%9D 吴思] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1137 简体CHM] || 2013-02-07 || 作者是知名作家，《炎黄春秋》杂志的主编、副社长。<br>此书是他的代表作。如今广为流传的“潜规则”一词，就是出自此书。<br>作者总结出了中国古代政坛/官场的种种隐形规律。 ||
+|| 潜规则<br>——中国历史中的真实游戏 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E6%80%9D 吴思] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1162 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1137 简体CHM] || 2013-02-27<br>2013-02-07 || 作者是知名作家，《炎黄春秋》杂志的主编、副社长。<br>此书是他的代表作。如今广为流传的“潜规则”一词，就是出自此书。<br>作者总结出了中国古代政坛/官场的种种隐形规律。 ||
 || 兴盛与危机<br>——论中国社会超稳定结构 || [https://zh.wikipedia.org/wiki/%E9%87%91%E8%A7%80%E6%BF%A4 金观涛] & 刘青峰 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1138 简体PDF] || 2013-02-07 || 作者是一对夫妻。金观涛曾经担任知名纪录片《河殇》的顾问。因为六四事件而流亡海外。<br>此书分析了中国"封建社会"（严格来讲，是秦朝到清朝）几千年的朝代更迭，却始终停滞不前的原因。 ||
 
 == 3.3 古希腊 ==
