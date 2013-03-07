@@ -102,6 +102,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 中国改革年代的政治斗争 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!858 简体PDF] || 2012-04-05 || 杨继绳是新华社高级记者，《炎黄春秋》杂志副社长。<br>此书介绍了朝廷高层改革派与保守派的长期内斗，内容真实且客观。 ||
 || 现代化的陷阱 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1130 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!985 简体HTML] || 2013-02-05<br>2012-11-18 || 何清涟是天朝知名且敢言的经济学家，因受迫害移居美国。<br>此书是她的成名作，其电子版在网上流传很广。<br>书中介绍了经济改革引发的种种问题（包括贫富分化、国有资产流失、圈地运动、等）。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 || 中国<br>——奇迹的黄昏 || 袁剑 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!859 简体PDF] || 2012-04-05 || “黄昏”一词暗指天朝经济的繁荣是好景不长。<br>此书的价值在于：深刻揭露了天朝权贵阶层对社会财富的掠夺。 ||
+|| 山坳上的中国<br>——问题、困境、痛苦的选择 (扫描版).pdf || 何博传 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1165 简体PDF (扫描版)] || 2013-03-07 || 作者是中山大学科学哲学系副教授，发表多篇关于中国危机问题的论文。<br>此书1989年出版，曾一度被列为禁书。20多年后再看此书，作者的许多担忧已变成现实。 ||
+
 
 ==== 1.3.1.2 六四事件 ====
 
@@ -279,6 +281,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 乌合之众<br>——大众心理研究 || The Crowd<br>——A Study of the Popular Mind || [https://en.wikipedia.org/wiki/Gustave_Le_Bon 古斯塔夫·勒庞] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1059 简体PDF (扫描版)] || 2012-12-29 || 作者是法国知名的心理学家、社会学家。<br>他的强项是研究群体心理，这本书是他的代表作。<br>作者在书中提到“群体的无意识行为代替了个人的有意识行为，是目前这个时代的主要特征之一”。书名《乌合之众》指的就是这种群体的无意识行为。<br>此书的理论有助于解释历史上很多知名的政治运动和群众运动。 ||
+|| 路西法效应<br>——好人是如何变成恶魔的 || The Lucifer Effect<br>——Understanding How Good People Turn Evil || [https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A 菲利普·津巴多] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1066 繁體PDF (掃描版)] || 2013-02-05 || 路西法效应最早是从[https://zh.wikipedia.org/wiki/%E6%96%AF%E5%9D%A6%E7%A6%8F%E7%9B%91%E7%8B%B1%E5%AE%9E%E9%AA%8C 斯坦福监狱实验]揭示出来的。<br>该效应说的是：一个身心健康的善良的人在特定的情景之下，也会变得如同恶魔一般。 ||
 
 == 2.4 洗脑 ==
 
