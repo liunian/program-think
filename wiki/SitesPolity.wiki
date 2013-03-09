@@ -8,7 +8,7 @@
 == 新闻报道类 ==
 
 || *名称* || *链接* || *类型* || *说明* ||
-|| 自由亚洲电台 || || || 美国国会资助的非盈利电台，主要搞民运宣传 ||
+|| 自由亚洲电台 || || || 美国国会资助的非盈利电台，主要搞民运宣传。 ||
 || || [http://www.rfa.org/] || Web || English Home ||
 || || [http://www.rfa.org/mandarin/] || Web || 简体中文主页 ||
 || || [https://twitter.com/RFAchinese @RFAchinese] || Twitter || 简体中文推特 ||
@@ -16,13 +16,13 @@
 || || [http://www.rfa.org/mandarin/pinglun/RSS 特约评论订阅] || RSS || 简体中文，摘要输出 ||
 || || [http://www.rfa.org/mandarin/zhuanlan/diaochabaodao/RSS 调查报道订阅] || RSS || 简体中文，摘要输出 ||
 || || [http://www.rfa.org/mandarin/zhuanlan/huashengdunshouji/RSS 华盛顿手记订阅] || RSS || 简体中文，摘要输出 ||
-|| 博讯 || || || 没有政府背景，发布的内容自由度较高 ||
+|| 博讯 || || || 没有政府背景，发布的内容自由度较高。 ||
 || || [http://www.boxun.com/] || Web || 简体中文主页 ||
 || || [http://www.peacehall.com/] || Web || 另一个域名，内容同上 ||
 || || [http://www.boxun.us/] || Web || English Home ||
 || || [http://news.boxun.com/news/rss/focus.xml 焦点新闻订阅] || RSS || 简体中文，仅标题输出 ||
 || || [http://news.boxun.com/news/rss/pol.xml 政治新闻订阅] || RSS || 简体中文，仅标题输出 ||
-|| 中国数字时代 || || || 曾经和多伦多大学公民实验室联合推出翻墙利器——“赛风” ||
+|| 中国数字时代 || || || 曾经和多伦多大学公民实验室联合推出翻墙利器——“赛风”。 ||
 || || [http://chinadigitaltimes.net/] || Web || English Home ||
 || || [http://chinadigitaltimes.net/chinese/] || Web || 简体中文主页 ||
 || || [https://chinadigitaltimes.net/feed/ 订阅] || RSS || 简体中文， ||
@@ -30,12 +30,7 @@
 || || [https://plus.google.com/114542928368198238414/posts +中国数字时代] || G+ || 简体中文 ||
 || || [https://twitter.com/cdt @cdt] || Twitter || English ||
 || || [https://twitter.com/CDTChinese @CDTChinese] || Twitter || 简体中文推特 ||
-|| 看中国 || || || 总部在美国的独立媒体，包括政治、社会、财经、历史、文化、娱乐等栏目 ||
-|| || [http://www.secretchina.com/] || Web || 简体中文主页 ||
-|| || [http://en.kanzhongguo.com/] || Web || English Home ||
-|| || [http://www.secretchina.com/rss.xml 新闻订阅] || RSS || 简体中文，全文输出 ||
-|| || [https://twitter.com/kanzhongguo @KanZhongGuo] || Twitter || 简体中文推特 ||
-|| 新世纪新闻网 || || || 以新闻、政治评论为主的综合类网站 ||
+|| 新世纪新闻网 || || || 以新闻、政治评论为主的综合类网站。 ||
 || || [http://www.newcenturynews.com/] || Web || 简体中文主页 ||
 
 
@@ -123,13 +118,19 @@
 === 维权 ===
 
 || *名称* || *链接* || *类型* || *说明* ||
-|| 六四天网 || || || 黄琦主办的国内第一家人权网站。被关闭后，在06年重建，海外运营 ||
-|| || [http://64tianwang.com/] || Web || 简体中文主页 ||
-|| || [http://64tianwang.com/] || Web || English Home ||
-|| 《参与》 || || || 包括维权和民运内容 ||
+|| 中国人权 || || || 网站内容包括新闻、维权、六四等内容。 ||
+|| || [http://www.hrichina.org/] || Web || English Home ||
+|| || [http://www.hrichina.org/cn/] || Web || 简体中文主页 ||
+|| || [http://www.hrichina.org/hk/] || Web || 繁體中文主頁 ||
+|| || [https://twitter.com/hrichina @hriChina] || Twitter || 简体中文推特 ||
+|| || [http://biweekly.hrichina.org/] || Web || 《中国人权双周刊》电子杂志 ||
+|| 《参与》 || || || 网站内容包括维权和民运等内容。 ||
 || || [http://www.canyu.org/] || Web || 简体中文主页 ||
 || || [http://www.canyu.org/chinese.aspx?big5=1] || Web || 繁體中文主頁 ||
 || || [http://www.canyu.org/rssFeed.aspx] || RSS || 简体中文，摘要输出 ||
+|| 六四天网 || || || 黄琦主办的国内第一家人权网站。被关闭后，在06年重建，海外运营 ||
+|| || [http://64tianwang.com/] || Web || 简体中文主页 ||
+|| || [http://64tianwang.com/] || Web || English Home ||
 
 
 === 零八宪章 ===
