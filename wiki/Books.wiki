@@ -139,6 +139,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 人祸<br>——“大跃进”与大饥荒 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1102 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!871 简体HTML] || 2013-01-13<br>2012-04-06 || 作者是中国当代史研究学者、持不同政见者。<br>书名“人祸”直接就点到了三年大饥荒的要害——根本就没有“天灾”。<br>看完此书，你将更加明白这一点。<br>PDF版本是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
 || 庐山会议实录 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!934 简体PDF] || 2012-10-05 || 1959年的庐山会议是天朝历史的转折点，为后来的三年大饥荒埋下伏笔。<br>这次会议不光引发了彭德怀倒台，还使得毛太祖更加固执地坚持激进路线。<br>李锐作为会议的参加者，详细介绍了会议的经过。 ||
 || 辉煌的幻灭<br>——人民公社警示录 || 康健 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!935 简体CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!948 简体HTML] || 2012-10-05<br>2012-10-06 || 此书主要介绍大跃进时期，农村大搞人民公社，大搞浮夸风。<br>之后发生的三年大饥荒，死亡最惨的省份恰恰是浮夸风最盛的省份。 ||
+|| 定西孤儿院纪事 || 杨显惠 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1166 简体PDF (扫描版)] || 2013-03-08 || 大饥荒期间，甘肃省的定西专区是重灾区。<br>此书根据翔实的史料和当事人的回忆，再现了当时的惨状。 ||
 
 ==== 1.3.1.5 “反右”运动 ====
 
@@ -206,18 +207,23 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 讨伐中宣部<br>——焦国标文集 || [https://zh.wikipedia.org/wiki/%E7%84%A6%E5%9B%BD%E6%A0%87 焦国标] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1080 简体CHM] || 2013-01-07 || 焦国标是北大新闻学院副教授、作家、政治异议人士。<br>他因为写了《讨伐中宣部》一文而广为人知。并因此被勒令停止教学。<br>此电子书收录了他的多篇文章。 ||
 || 中国政府如何控制媒体<br>——中国人权研究报告 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1098 简体HTML] || 2013-01-13 || 何清涟是天朝知名且敢言的经济学家，因受迫害移居美国。<br>作者曾有8年的媒体工作经历，熟悉党国控制传媒的种种手法。 ||
 
-=== 1.3.6 少数民族问题 ===
+=== 1.3.6 教育问题 ===
+
+|| *中文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 审视中学语文教育 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1158 简体PDF (扫描版)] || 2013-02-25 || 此书收集了多篇文章，指出天朝官方教育存在的种种弊端。 ||
+
+=== 1.3.7 少数民族问题 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 天葬<br>——西藏的命运 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1065 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1064 简体TXT] || 2012-12-31<br>2012-12-31 || 王力雄是大陆知名作家、民族问题学者、环保人士。<br>作者在书中以大量的亲身经历和实地所见，叙述了西藏的各个方面。<br>此书的内容比较客观，有助于了解西藏的历史和现状。 ||
 || 西藏生與死<br>——雪域的民族主義 || Tibet<br>——Survival in Question || [https://fr.wikipedia.org/wiki/Pierre-Antoine_Donnet Pierre-Antoine Donnet]<br>(董尼德) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1066 繁體PDF (竪排掃描版)] || 2012-12-31 || 董尼德是法国新闻记者，曾长期派驻北京。<br>此书着重写西藏的现状（中共如何高压统治、藏文化如何被破坏...）<br>扫描版，字迹有点模糊。 ||
 
-=== 1.3.7 外交 ===
+=== 1.3.8 外交 ===
 
 || *中文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 十年论战<br>——1956-1966中苏关系回忆录 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%B7%E8%A5%BF 吴冷西] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1117 简体PDF (扫描版)] || 2013-02-01 || 吴冷西曾任新华社社长、《人民日报》总编、中宣部副部长等职务。<br>此书详细介绍了中苏关系逐步恶化的过程。<br>俺写的《[http://program-think.blogspot.com/2012/05/three-years-famine-0.html 谈谈三年大饥荒]》系列博文引用过本书的内容，证明“苏联逼债”是误传。 ||
 
-=== 1.3.8 (其它) ===
+=== 1.3.9 (其它) ===
 
 || *书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 未来的自由中国在民间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1015 简体PDF] || 2012-12-09 || 刘晓波的名气挺大，俺就不介绍了。<br>此书汇集了刘晓波对天朝民主化的思考，内容包括政治、经济、文化等领域。<br>从书名可知，他认为应该自下而上推动政治变革，而不能指望朝廷。  ||
@@ -225,6 +231,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 单刃毒剑<br>——中国当代民族主义批判 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1012 简体PDF] || 2012-12-09 || 刘晓波的名气挺大，俺就不介绍了。<br>此书重点批判民族主义，可算是《大国沉沦》的姐妹篇。 ||
 || 火与冰 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1028 简体PDF] || 2012-12-11 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这是余杰正式出版的第一本书，里面包含了政治及文化方面的随笔。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 || 致帝国的悼词<br>——中国大陆的自由状况及前景 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1027 简体PDF] || 2012-12-11 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
+|| 第二种忠诚 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1168 简体PDF] || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>在此书中，作者写道：雷锋式的人物，党让干啥就干啥，那是第一种忠诚；而敢于向党提意见，那是第二种忠诚。<br>此书以报告文学的形式，介绍了那些敢于向党提意见的小人物以及他们的悲惨命运。 ||
+|| 人妖之间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1169 简体PDF] || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>此书是文革刚结束时发表的报告文学，揭露了地方官员的重大贪污案。 ||
 || 尘世·挽歌 || [https://zh.wikipedia.org/wiki/%E9%87%8E%E5%A4%AB 土家野夫]<br>(原名：郑世平) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1081 简体PDF] || 2013-01-07 || 土家野夫是天朝作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此电子书包含了他的多篇作品。PDF由热心网友精心排版并分享给俺，特此鸣谢。 ||
 || 沉沦的圣殿<br>——中国20世纪70年代地下诗歌遗照 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武]主编 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1107 简体PDF] || 2013-01-17 || 作者廖亦武是中国有名的诗人、流亡作家。<br>这是廖亦武主编的文集，讲述70年代的理想主义者和他们所写的地下诗歌。<br>此书1999年刚出版时畅销，但随即被新闻出版总署宣布为“反动书籍”，相关印刷厂被查抄。 ||
 || 《让子弹飞》喻意图文解释精华版 || (不详) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1135 简体CHM] || 2013-02-05 || 此CHM是某网友主动分享，其内容是解读姜文的电影《让子弹飞》中的各种政治隐喻。 ||
