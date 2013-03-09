@@ -2,8 +2,6 @@
 
 = 政治类网站 =
 
-显然，政治类的网站是非常受GFW青睐的。只要传播的信息（政见、立场、意识形态）和党国的宣传不一致，妨碍了党国宣扬的“和谐”，都会遭到GFW的封杀。
-
 
 == 新闻报道类 ==
 
@@ -37,7 +35,7 @@
 == 电子杂志类 ==
 
 || *名称* || *链接* || *类型* || *说明* ||
-|| 阳光时务周刊 || || || 2011年创办于香港的中文时政杂志。杂志出版人是阳光卫视总裁，主编长平是大陆很知名很敢言的媒体人士。 ||
+|| 阳光时务周刊 || || || 2011年创办于香港的中文时政杂志。<br>杂志出版人是阳光卫视总裁，主编长平是大陆很知名很敢言的媒体人士。 ||
 || || [http://www.isunaffairs.com/] || Web || 繁體中文主頁 ||
 || || [http://www.isunaffairs.com/?feed=rss2 订阅] || RSS || 繁體中文，摘要輸出 ||
 || || [https://plus.google.com/105389029463525925239/posts +阳光时务周刊] || G+ || 简体中文 ||
@@ -85,10 +83,8 @@
 || 自由中国论坛 || || || 方应看2002年创办，宣传民主自由为主。最近几年，论坛的气氛越来越像毛左网站。 ||
 || || [http://www.zyzg.us/] || Web || 简体中文主页 ||
 || || [http://www.zyzg.us/rss.php?auth=0 论坛帖子订阅] || RSS || 摘要输出 ||
-|| || [http://zh.wikipedia.org/zh/%E8%87%AA%E7%94%B1%E4%B8%AD%E5%9B%BD%E8%AE%BA%E5%9D%9B] || wiki || 维基词条 ||
-|| 1984BBS || || || 成立于2008年，属封闭型网络社区，需邀请码才能注册。人气很旺，不少网络名人加入其中。[http://zh.wikipedia.org/zh/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波]得诺贝尔和平奖之后，党国不断骚扰站长张健男（网名“张书记”）及其家人，致使站长在2010-10-12宣布关站。 ||
+|| 1984BBS || || || 成立于2008年，属封闭型网络社区，需邀请码才能注册。人气很旺，不少网络名人加入其中。<br>[https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波]得诺贝尔和平奖之后，党国不断骚扰站长张健男（网名“张书记”）及其家人，致使站长在2010-10-12宣布关站。 ||
 || || [https://1984bbs.com/] || Web || 简体中文主页 ||
-|| || [http://zh.wikipedia.org/zh/1984bbs] || wiki || 维基词条 ||
 
 
 == 其它 ==
@@ -97,23 +93,23 @@
 
 || *名称* || *链接* || *类型* || *说明* ||
 || 维基百科词条 || || || 俺搜罗的“六四”相关词条 ||
-|| || [http://zh.wikipedia.org/zh/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6 六四事件] || wiki || 比较客观详细地介绍整个事件的过程 ||
-|| || [http://zh.wikipedia.org/zh/%E8%83%A1%E8%80%80%E9%82%A6 胡耀邦] || wiki || 他的死成为六四的导火索 ||
-|| || [http://zh.wikipedia.org/zh/%E8%B6%99%E7%B4%AB%E9%99%BD 赵紫阳] || wiki || 他因为不肯镇压学生而被邓小平罢黜 ||
-|| || [http://zh.wikipedia.org/zh/%E9%A6%99%E6%B8%AF%E5%B8%82%E6%B0%91%E6%94%AF%E6%8F%B4%E6%84%9B%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E8%81%AF%E5%90%88%E6%9C%83 支聯會] || wiki || 香港市民支持六四运动的民间组织 ||
-|| || [http://zh.wikipedia.org/zh/%E5%A4%A9%E5%AE%89%E9%96%80%E6%AF%8D%E8%A6%AA 天安门母亲运动] || wiki || 死难者家属丁子霖等人发起 ||
-|| || [http://zh.wikipedia.org/zh/%E5%A4%A9%E5%AE%89%E9%97%A8_%28%E8%AE%BF%E9%97%AE%E7%BA%AA%E5%BD%95%E7%89%87%29 《天安门》记录片] || wiki || 反映天安门事件的大型文献纪录片（此纪录片的部分内容有争议） ||
-|| || [http://zh.wikipedia.org/zh/%E5%A4%A9%E5%AE%89%E9%96%80%E6%96%87%E4%BB%B6 《天安门文件》] || wiki || 又名《中国六四真相》，大部分内容来自中共高层泄漏的文件 ||
+|| || [https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6 六四事件] || wiki || 比较客观详细地介绍整个事件的过程 ||
+|| || [https://zh.wikipedia.org/wiki/%E8%83%A1%E8%80%80%E9%82%A6 胡耀邦] || wiki || 他的死成为六四的导火索 ||
+|| || [https://zh.wikipedia.org/wiki/%E8%B6%99%E7%B4%AB%E9%99%BD 赵紫阳] || wiki || 他因为不肯镇压学生而被邓小平罢黜 ||
+|| || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E5%B8%82%E6%B0%91%E6%94%AF%E6%8F%B4%E6%84%9B%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E8%81%AF%E5%90%88%E6%9C%83 支聯會] || wiki || 香港市民支持六四运动的民间组织 ||
+|| || [https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%96%80%E6%AF%8D%E8%A6%AA 天安门母亲运动] || wiki || 死难者家属丁子霖等人发起 ||
+|| || [https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8_%28%E8%AE%BF%E9%97%AE%E7%BA%AA%E5%BD%95%E7%89%87%29 《天安门》记录片] || wiki || 反映天安门事件的大型文献纪录片（此纪录片的部分内容有争议） ||
+|| || [https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%96%80%E6%96%87%E4%BB%B6 《天安门文件》] || wiki || 又名《中国六四真相》，大部分内容来自中共高层泄漏的文件 ||
 || 六四档案 || [http://www.64memo.com/] || Web || 由封从德（六四学生领袖之一）创办 ||
 || 博讯六四资料 || [http://www.boxun.com/hero/64/] || Web || [http://www.boxun.com/ 博讯网]汇总的六四相关资料 ||
-|| 天安门母亲网站 || [http://www.tiananmenmother.org/] || Web || 关于“天安门母亲”的介绍，请看[http://zh.wikipedia.org/zh/%E5%A4%A9%E5%AE%89%E9%96%80%E6%AF%8D%E8%A6%AA 维基百科] ||
+|| 天安门母亲网站 || [http://www.tiananmenmother.org/] || Web || 关于“天安门母亲”的介绍，请看[https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%96%80%E6%AF%8D%E8%A6%AA 维基百科] ||
 || 支聯會 || [http://www.alliance.org.hk/] || Web || 全稱是“香港市民支援愛國民主運動聯合會” ||
 || 天安门对峙 || [http://www.tiananmenduizhi.com/] || Web || ||
 || 六四民运志 || [http://www.ngensis.com/june4/june4s.htm] || Web || ||
 || 纪录片《天安门》 || || || 该纪录片的官方网站（此纪录片的部分内容有争议） ||
 || || [http://www.tsquare.tv/] || Web || English Home ||
 || || [http://www.tsquare.tv/chinese/] || Web || 简体中文主页 ||
-
+|| 《回顾六四》 || [http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html program-think.blogspot.com] || Web || 这是俺写的系列博文，以帮助不了解“六四事件”的网友。 ||
 
 === 维权 ===
 
@@ -124,11 +120,11 @@
 || || [http://www.hrichina.org/hk/] || Web || 繁體中文主頁 ||
 || || [https://twitter.com/hrichina @hriChina] || Twitter || 简体中文推特 ||
 || || [http://biweekly.hrichina.org/] || Web || 《中国人权双周刊》电子杂志 ||
-|| 《参与》 || || || 网站内容包括维权和民运等内容。 ||
+|| 参与 || || || 网站内容包括维权和民运等内容。 ||
 || || [http://www.canyu.org/] || Web || 简体中文主页 ||
 || || [http://www.canyu.org/chinese.aspx?big5=1] || Web || 繁體中文主頁 ||
 || || [http://www.canyu.org/rssFeed.aspx] || RSS || 简体中文，摘要输出 ||
-|| 六四天网 || || || 黄琦主办的国内第一家人权网站。被关闭后，在06年重建，海外运营 ||
+|| 六四天网 || || || 黄琦主办的国内第一家人权网站。<br>被关闭后于2006年重建，海外运营。 ||
 || || [http://64tianwang.com/] || Web || 简体中文主页 ||
 || || [http://64tianwang.com/] || Web || English Home ||
 
@@ -137,6 +133,6 @@
 
 || *名称* || *链接* || *类型* || *说明* ||
 || 维基百科词条 || || || 俺搜罗的“零八宪章”相关词条 ||
-|| || [http://zh.wikipedia.org/zh/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0 零八宪章] || wiki || ||
-|| || [http://zh.wikipedia.org/zh/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || wiki || 零八宪章主要起草人，因起草宪章被重判11年。但因祸得福，荣获2010年诺贝尔和平奖，并引来大量网友声援（俺收集的相关tweet在“[http://program-think.blogspot.com/2010/10/nobel-peace-prize-tweet.html 这里]”）。 ||
+|| || [https://zh.wikipedia.org/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0 零八宪章] || wiki || ||
+|| || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || wiki || 零八宪章主要起草人，因起草宪章被重判11年。<br>但因祸得福，荣获2010年诺贝尔和平奖，并引来大量网友声援。<br>（俺收集的网友评论在“[http://program-think.blogspot.com/2010/10/nobel-peace-prize-tweet.html 这里]”） ||
 || 零八宪章网站 || [http://www.2008xianzhang.info/] || Web || 简体中文主页 ||
