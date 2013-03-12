@@ -76,7 +76,7 @@ random.randint(0, 100)
 {{{
 # 计算字符串的 SHA1 散列值
 import hashlib
-sha1 = hashlib.sha1('hello world').hexdigest()
+sha1 = hashlib.sha1('Hello world').hexdigest()
 }}}
 
 ==== [http://www.dlitz.net/software/pycrypto/ PyCrypto] ====
@@ -221,14 +221,13 @@ import os
 import mmap
 
 map = mmap.mmap(-1, 13)
-map.write("Hello world!")
+map.write("Hello world")
 
 pid = os.fork()
 
 if pid == 0: # 子进程
     map.seek(0)
     print map.readline()
-
     map.close()
 }}}
 
@@ -348,9 +347,9 @@ import webbrowser
 webbrowser.open('http://www.google.com')
 }}}
 
-==== [http://code.google.com/p/pyv8/ pyv8] ====
+==== [https://code.google.com/p/pyv8/ pyv8] ====
 
-[http://code.google.com/apis/v8/ v8] 是 Google 开发的 JavaScript 解释引擎。这是对 v8 引擎的 Python 封装。
+[https://code.google.com/apis/v8/ v8] 是 Google 开发的 JavaScript 解释引擎。这是对 v8 引擎的 Python 封装。
 
 代码示例
 {{{
@@ -369,7 +368,7 @@ ctxt2.enter()
 ctxt2.eval('hello()')  # 调用 hello() 函数
 }}}
 
-==== [http://code.google.com/p/pywebkitgtk/ PyWebKitGtk] ====
+==== [https://code.google.com/p/pywebkitgtk/ PyWebKitGtk] ====
 
 [http://webkitgtk.org/ WebKitGtk] 是一个基于 WebKit 的 Web 渲染引擎。这是 WebKitGtk 的 Python 封装。
 
@@ -481,7 +480,7 @@ json.loads('["foo", {"bar":["baz", null, 1.0, 2]}]')
 
 标准库，提供 uuencode 格式的编码和解码。
 
-==== [http://code.google.com/p/protobuf/ Protocol Buffers（protobuf）] ====
+==== [https://code.google.com/p/protobuf/ Protocol Buffers（protobuf）] ====
 
 这是 Google 开发的一个跨语言的库，用于网络传输的编码和解码。
 
@@ -526,7 +525,7 @@ reactor.run()
 
 === 6.1.1 ODBC ===
 
-==== [http://code.google.com/p/pyodbc/ pyODBC] ====
+==== [https://code.google.com/p/pyodbc/ pyODBC] ====
 
 pyODBC 封装了 ODBC API，通过它可以访问各种数据库（只要有 ODBC 驱动即可）。
 
@@ -609,7 +608,7 @@ conn.close()
 
 === 6.2.4 MS SQL Server ===
 
-==== [http://code.google.com/p/pymssql/ pymssql] ====
+==== [https://code.google.com/p/pymssql/ pymssql] ====
 
 操作微软 SQL Server 的第三方库。
 
@@ -747,7 +746,7 @@ if __name__ == '__main__' :
 
 在所有的 wxWidgets 的 Python 封装库中，这个是名气最大的。
 
-[http://code.google.com/p/ulipad/ Ulipad]（知名的国产的 Python IDE）就是基于 wxPython 开发的。
+[https://code.google.com/p/ulipad/ Ulipad]（知名的国产的 Python IDE）就是基于 wxPython 开发的。
 
 代码示例
 {{{
@@ -985,7 +984,9 @@ PyGUI 是一个更高层的 GUI 库，底层分别封装了 [http://python.net/c
 
 ==== [http://lxml.de/ lxml] ====
 
-著名的 C 语言库 libxml 和 libxslt 的 Python 封装，功能很强。
+著名的 C 语言库 libxml 和 libxslt 的 Python 封装。
+
+功能很强，支持 XPath 1.0、XSLT 1.0、扩展 EXSLT、等。还可以用来解析 HTML 格式。
 
 === 8.2.2 HTML ===
 
@@ -1010,17 +1011,87 @@ im.show()
 
 == 8.4 处理 PDF ==
 
+==== [https://code.google.com/p/pyfpdf/ pyfpdf] ====
+
+这是 [http://www.fpdf.org/ FPDF] 的 Python 移植库，用来生成 PDF 文档。
+
+支持的功能比较全（嵌入字体、嵌入图片），文档也比较详细。
+
+代码示例
+{{{
+# 这是个简单 Hello World 示例
+from fpdf import FPDF
+
+pdf = FPDF()
+pdf.add_page()
+pdf.set_font('Arial', 'B', 16)
+pdf.cell(40, 10, 'Hello World')
+pdf.output('test.pdf', 'F')
+}}}
+
+{{{
+# 支持写入 HTML 语法。目前支持几种常见的 HTML tag
+from pyfpdf import FPDF, HTMLMixin
+
+class MyFPDF(FPDF, HTMLMixin) :
+    pass
+                    
+pdf = MyFPDF()
+pdf.add_page()
+pdf.write_html(html)
+pdf.output('test.pdf', 'F')
+}}}
+
+==== [http://pybrary.net/pyPdf/ pyPdf] / [http://knowah.github.com/PyPDF2/ PyPDF2] ====
+
+pyPdf 目前已经不继续升级维护了。PyPDF2 是 pyPdf 的 fork 并继续增加新功能。
+
+除了可以提取文件属性，还可以切分/合并文档，加密/解密文档。
+
 ==== [http://www.unixuser.org/~euske/python/pdfminer/ PDFMiner] ====
 
-处理 PDF 文件格式的第三方库。
+可以提取 PDF 文件属性以及每页的文本，支持把内容输出为 HTML 格式。
 
-可以提取 PDF 文件属性（标题、页数、创建人、创建时间、修改时间、等）以及每一页的文本，支持 PDF 转 HTML。
 
-== 8.5 处理 CHM ==
+== 8.5 处理 Office 文档 ==
+
+=== 8.5.1 Word（doc、docx） ===
+
+==== [http://python.net/crew/mhammond/win32/ PyWin32] ====
+
+PyWin32 前面提到过。它可以基于 [http://en.wikipedia.org/wiki/Component_Object_Model COM] 操作 Office 文档，包括 Word（本地需要安装 Office）。
+
+=== 8.5.2 Excel（xls、xlsx） ===
+
+==== [http://sourceforge.net/projects/pyexcelerator/ pyExcelerator] ====
+
+该库可以支持 Office Excel（97/2000/XP/2003）以及 OpenOffice Calc 的文档。无需依赖外部软件。
+
+==== [http://python.net/crew/mhammond/win32/ PyWin32] ====
+
+PyWin32 前面提到过。它可以基于 [http://en.wikipedia.org/wiki/Component_Object_Model COM] 操作 Office 文档，包括 Excel（本地需要安装 Office）。
+
+=== 8.5.3 Power Point（ppt、pptx） ===
+
+==== [https://github.com/scanny/python-pptx python-pptx] ====
+
+该库可以用来生成 pptx（Open XML PowerPoint）格式的文档。
+
+==== [http://python.net/crew/mhammond/win32/ PyWin32] ====
+
+PyWin32 前面提到过。它可以基于 [http://en.wikipedia.org/wiki/Component_Object_Model COM] 操作 Office 文档，包括 Excel（本地需要安装 Office）。
+
+== 8.6 处理 CHM ==
 
 ==== [http://gnochm.sourceforge.net/pychm.html PyCHM] ====
 
 这是基于 [http://www.jedrea.com/chmlib/ chmlib] 的 Python 封装库。可以提取 CHM 文件的属性以及每个页面的内容。
+
+== 8.7 处理 RTF ==
+
+==== [http://pyrtf.sourceforge.net/ PyRTF] ====
+
+这个 Python 库可以用来处理 RTF（富文本格式）文档。
 
 
 <hr>
@@ -1045,7 +1116,7 @@ im.show()
 <hr>
 
 
-= 10 数值计算/科学计算 =
+= 10 数值计算 / 科学计算 =
 
 ==== [http://www.numpy.org/ NumPy] ====
 
@@ -1079,4 +1150,4 @@ SciPy 依赖 NumPy 提供的多维数组。相比 NumPy，SciPy 提供了更高�
 
 这是一个用 Python 写的 Python 解释器（有点绕口令）。
 
-PyPy 支持 JIT 和沙箱技术，可做到比 CPython 更快的运行速度。
+PyPy 支持 JIT（Just-in-time compilation）和沙箱技术，可做到比 CPython 更快的运行速度。
