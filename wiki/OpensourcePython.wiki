@@ -66,7 +66,9 @@ random.randint(0, 100)
 
 ==== hashlib ====
 
-在 Python 2.5 版本加入到标准库中。通过它，你可以很方便地计算各种散列值。它支持的哈希算法有：MD5 SHA1 SHA224 SHA256 SHA384 SHA512
+在 Python 2.5 版本加入到标准库中。通过它，你可以很方便地计算各种散列值。
+
+它支持的哈希算法有：MD5 SHA1 SHA224 SHA256 SHA384 SHA512
 
 关于散列算法，俺写过一篇扫盲（在[http://program-think.blogspot.com/2013/02/file-integrity-check.html 这里]）。
 
@@ -97,7 +99,9 @@ Python 可以很容易地跟其它编程语言整合。整合之后，就可以�
 
 ==== ctypes ====
 
-ctypes 在 Python 2.5 版本加入到标准库中。通过它，你可以很方便地调用 C/C++ 动态库导出的函数，可以在 Python 中使用各种 C/C++ 的数据类型（比如指针）。
+ctypes 在 Python 2.5 版本加入到标准库中。
+
+通过它，你可以很方便地调用 C/C++ 动态库导出的函数，可以在 Python 中使用各种 C/C++ 的数据类型（比如指针）。
 
 代码示例
 {{{
@@ -196,9 +200,11 @@ for file in os.listdir('.') :
 
 == 3.2 本地进程间通信（IPC） ==
 
-==== subprocess ====
+==== subprocess / multiprocessing ====
 
 用于进程管理的标准库，可以启动子进程，通过标准输入输出跟子进程交互。
+
+其中 multiprocessing 是 2.6 版本加入到标准库的。
 
 ==== signal ====
 
@@ -253,6 +259,10 @@ py2exe 的功能类似 PyInstaller，但只支持 Windows 平台。
 ==== [https://bitbucket.org/ronaldoussoren/py2app py2app] ====
 
 它很类似于 [http://www.py2exe.org/ py2exe]，差别在于 [http://www.py2exe.org/ py2exe] 支持 Windows 平台，而 [https://bitbucket.org/ronaldoussoren/py2app py2app] 支持 Mac OS X 平台。
+
+==== [https://pypi.python.org/pypi/setuptools EasyInstall / Setuptools] ====
+
+这套工具可以帮助你进行第三方库的管理（下载、编译、安装、升级、卸载）
 
 
 <hr>
@@ -1003,6 +1013,7 @@ im.show()
 ==== [http://www.unixuser.org/~euske/python/pdfminer/ PDFMiner] ====
 
 处理 PDF 文件格式的第三方库。
+
 可以提取 PDF 文件属性（标题、页数、创建人、创建时间、修改时间、等）以及每一页的文本，支持 PDF 转 HTML。
 
 == 8.5 处理 CHM ==
@@ -1059,3 +1070,13 @@ c = a + b
 ==== [http://www.scipy.org/ SciPy] ====
 
 SciPy 依赖 NumPy 提供的多维数组。相比 NumPy，SciPy 提供了更高层的数学运算模块（统计、线性代数、积分、常微分方程求解、傅立叶变换、信号处理、等），被广泛用于科研和工程领域。
+
+= 11 其它 =
+
+一些不方便归类的，暂时放到这里。
+
+==== [http://www.pypy.org/ PyPy] ====
+
+这是一个用 Python 写的 Python 解释器（有点绕口令）。
+
+PyPy 支持 JIT 和沙箱技术，可做到比 CPython 更快的运行速度。
