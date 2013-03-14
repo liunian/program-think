@@ -155,6 +155,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 戰后中共奪取東北始末 || 楊奎松 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1026 繁體PDF] || 2012-12-11 || 杨奎松是党史方面的研究学者。<br>中共能够夺权成功，占领东北是其中的关键。<br>此书介绍了中共拿下东北的经过以及当时美苏之间的博弈。 ||
+|| 1949年<br>——中国知识分子的私人记录 (扫描版) || [https://zh.wikipedia.org/wiki/%E5%82%85%E5%9B%BD%E6%B6%8C 傅国涌] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1170 简体PDF (扫描版)] || 2013-03-14 || 作者是自由撰稿人，出版过不少历史类著作。<br>此书收集了1949年前后，14位知名知识分子的日记和书信。<br>通过这些日记和书信，有助于了解那段历史。 ||
 || 大江大海 一九四九 || [https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%87%89%E5%8F%B0 龙应台] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1106 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!979 繁體PDF (豎排掃描版)] || 2013-01-17<br>2012-11-17 || 应某网友在留言中的要求，俺分享了这本书。<br>这本书主要讲述众多小人物在1949年大陆沦陷时的遭遇。<br>简体PDF是某网友精心排版并分享，特此鸣谢。 ||
 
 ==== 1.3.1.7 延安和八年抗战时期 ====
@@ -181,6 +182,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 新发现的毛泽东<br>——仆人眼中的伟人 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!866 简体PDF] || 2012-04-05 || 作者王若水长期担任《人民日报》副总编。<br>此书提供了一种新的视角（真理部内部的视角）来看毛太祖。 ||
 || 晚年周恩来 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!937 简体PDF] || 2012-10-05 || 高文谦曾经在中共中央文献研究室工作，并担任周恩来生平研究小组组长。<br>这本书不但权威而且客观，还详细描述了毛周二人的勾心斗角。 ||
 || 中国影帝温家宝 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!961 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1034 简体TXT] || 2012-10-26<br>2012-12-13 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>此书揭露了温影帝虚伪的一面。余杰因此书而受朝廷迫害，2012年被迫移民美国。<br>在两位热心网友的帮助下，俺找到了此书完整的文字版并制作了此PDF，特此鸣谢。 ||
+|| 河蟹大帝胡锦涛 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1172 简体PDF (不全)] || 2013-03-14 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>此书堪称是《中国影帝温家宝》的姐妹篇，专门揭露胡锦涛的嘴脸。<br>某热心网友帮俺收集制作了该书，目前只找到前几个章节。<br>如果哪位同学有完整版，请不吝告知。 ||
 || 胡耀邦與中國政治改革<br>——12位老共產黨人的反思 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1114 繁體PDF (掃描版)] || 2013-02-01 || 本书收录了多篇纪念胡耀邦的文章，这些文章的作者包括多位中共元老。<br>通过这些文章，有助于了解胡耀邦在政治改革方面的贡献。 ||
 || 胡耀邦下台的背景<br>——人道主义在中国的命运 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1038 简体TXT] || 2012-12-19 || 作者王若水长期担任《人民日报》副总编。<br>此书重点介绍了80年代中期的“清除思想污染”运动。<br>该运动引发了邓小平对胡耀邦的不满，最终导致了胡耀邦在86学潮后下台。<br>此书由热心网友分享TXT格式，特此鸣谢。 ||
 || 中南海日記<br>——中共兩代王儲的隕落 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E7%A8%BC%E7%A5%A5 吴稼祥] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1017 繁體PDF (掃描版)] || 2012-12-09 || 作者吴稼祥是中共高层的官员，先后在真理部（中宣部）和大内（中办）任职。<br>此书从作者的角度，以日记的形式，叙述胡耀邦和赵紫阳被邓太上皇废黜的经过。 ||
@@ -231,6 +233,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 单刃毒剑<br>——中国当代民族主义批判 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1012 简体PDF] || 2012-12-09 || 刘晓波的名气挺大，俺就不介绍了。<br>此书重点批判民族主义，可算是《大国沉沦》的姐妹篇。 ||
 || 火与冰 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1028 简体PDF] || 2012-12-11 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这是余杰正式出版的第一本书，里面包含了政治及文化方面的随笔。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 || 致帝国的悼词<br>——中国大陆的自由状况及前景 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1027 简体PDF] || 2012-12-11 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
+|| 美人赠我蒙汗药 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%9C%94 王朔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1171 简体PDF] || 2013-03-14 || 作者是当代知名的作家和编剧。名气较大，俺就不多介绍了。<br>书的主要内容是王朔跟匿名者老侠的对话。<br>通过对话点评了天朝当代文化艺术，抨击大众文化的媚俗和某些知识分子的虚伪。<br>据说匿名对话者老侠就是刘晓波。 ||
 || 第二种忠诚 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1168 简体PDF] || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>在此书中，作者写道：雷锋式的人物，党让干啥就干啥，那是第一种忠诚；而敢于向党提意见，那是第二种忠诚。<br>此书以报告文学的形式，介绍了那些敢于向党提意见的小人物以及他们的悲惨命运。 ||
 || 人妖之间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1169 简体PDF] || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>此书是文革刚结束时发表的报告文学，揭露了地方官员的重大贪污案。 ||
 || 尘世·挽歌 || [https://zh.wikipedia.org/wiki/%E9%87%8E%E5%A4%AB 土家野夫]<br>(原名：郑世平) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1081 简体PDF] || 2013-01-07 || 土家野夫是天朝作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此电子书包含了他的多篇作品。PDF由热心网友精心排版并分享给俺，特此鸣谢。 ||
@@ -295,8 +298,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 洗脑术<br>——思想控制的荒唐史 || Brainwash<br>——The Secret History of Mind Control || 多米尼克·斯垂特菲尔德 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1036 简体PDF (扫描版)] || 2012-12-16 || 此书通俗地介绍了“洗脑”技术的发展史。<br>虽然是扫描版，但文字很清晰。 ||
-|| 思想改造和极权主义心理学<br>——中国的洗脑研究 || Thought Reform and the Psychology of Totalism<br>——A Study of Brainwashing in China || [https://en.wikipedia.org/wiki/Robert_Lifton Robert Jay Lifton] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!957 英文MOBI] || 2012-10-14 || 哪位网友能找到中文版，请不吝告知 ||
-|| 洗脑<br>——思维控制的科学 || Brainwashing<br>——The Science of Thought Control || [https://en.wikipedia.org/wiki/Kathleen_Taylor_%28biologist%29 Kathleen Taylor] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!958 英文PDF] || 2012-10-14 || 哪位网友能找到中文版，请不吝告知 ||
+|| 思想改造和极权主义心理学<br>——中国的洗脑研究 || Thought Reform and the Psychology of Totalism<br>——A Study of Brainwashing in China || [https://en.wikipedia.org/wiki/Robert_Lifton Robert Jay Lifton] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!957 英文MOBI] || 2012-10-14 || 哪位网友能找到中文版，请不吝告知。 ||
+|| 洗脑<br>——思维控制的科学 || Brainwashing<br>——The Science of Thought Control || [https://en.wikipedia.org/wiki/Kathleen_Taylor_%28biologist%29 Kathleen Taylor] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!958 英文PDF] || 2012-10-14 || 哪位网友能找到中文版，请不吝告知。 ||
 
 == 2.5 (其它) ==
 
