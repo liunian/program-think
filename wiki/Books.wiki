@@ -9,24 +9,37 @@
 <hr>
 <hr>
 
-= 0 电子书格式说明 =
+= 下载须知 及 格式说明 =
 
 这里汇总了俺收藏的各类电子书（不断增加中）。
 
-下载或阅读过程中，如果有啥疑问，请用邮件 *[mailto:program.think@gmail.com]* 跟俺联系，也可以在本页面下方留言。
+俺每月会在博客上通知大伙儿，近期更新了哪些书。俺博客的订阅地址是：[http://feeds2.feedburner.com/programthink]
 
-每次上传新的电子书，俺会在博客上通知大伙儿。俺博客的订阅地址是：[http://feeds2.feedburner.com/programthink] （强烈推荐用 *Google 阅读器* 订阅俺博客，效果最佳）。
+下载或阅读过程中，如果碰到啥问题，请先看下面的说明。
 
-<h2>PDF 格式</h2>
+如果还是搞不定，可以用邮件 *[mailto:program.think@gmail.com]* 跟俺联系，也可以在本页面下方留言。
+
+<h2>下载须知</h2>
+
+本页面的电子书都放在俺的微软网盘（SkyDrive）。
+
+SkyDrive 的 Web 页面需要依赖 JavaScript，如果你的浏览器禁用了 JavaScript 会导致无法下载。
+
+SkyDrive 支持批量下载——先多选，然后点下载按钮。
+
+<h2>格式说明</h2>
+
+<h3>PDF 格式</h3>
 
 俺共享的PDF格式电子书， *无需密码* 即可阅读。如果你无法打开PDF文件或者打开过程中提示输入密码，那应该是你的PDF阅读器 *版本不够新* 。用如下几款软件可以正常阅读。
 
  * Acrobat Reader 7.0 或者更高的版本（Acrobat Reader 太臃肿，不推荐）
  * Foxit Reader 3.1.0 或者更高的版本（绿色软件，推荐使用）
  * PDF-XChange Viewer 2.0 或者更高的版本（绿色软件，推荐使用）
- * 如果你用 Chrome 浏览器，把 PDF 文件直接拖到 Chrome 窗口里，就可以看了
+ * 如果你用 Chrome 浏览器，把 PDF 文件直接拖到 Chrome 窗口里，就可以看
+ * 如果你用 Firefox 浏览器（版本 >= 19.0），把 PDF 文件直接拖到 Firefox 窗口里，就可以看
 
-<h2>CHM 格式</h2>
+<h3>CHM 格式</h3>
 
 如果你用 Windows 系统无法正常查看 CHM 电子书，请按照如下步骤设置，就可以正常打开了。
 
@@ -39,11 +52,11 @@
 
 用 Linux 系统的同学，可以考虑用 CHM Viewer 打开 CHM 电子书。
 
-<h2>HTML 格式</h2>
+<h3>HTML 格式</h3>
 
 HTML 格式的电子书会有多个文件，为了方便下载，用压缩打包成一个 ZIP 文件。下载后请先用压缩软件解开 ZIP 压缩包，即可直接浏览 HTML 文件。
 
-<h2>TXT 格式</h2>
+<h3>TXT 格式</h3>
 
 TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本（Notepad）可以直接打开。
 
@@ -79,8 +92,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 从独裁到民主<br>——解放运动的概念框架 || From Dictatorship to Democracy || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!908 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!907 英文PDF] || 2012-08-16<br>2012-08-16  || 吉恩·夏普在“非暴力抗争”领域很有影响力。<br>此书号称非暴力抗争的“圣经”，影响很广，已翻译成几十种文字。<br>在俺博客的[http://program-think.blogspot.com/2011/12/revolution-0.html 《谈革命》系列]中，会具体介绍此书的内容。 ||
-|| 群眾性防衛<br>——一種超軍事的武器系統 || Civilian-Based Defense<br>——A Post-Military Weapons System || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1119 繁體PDF (掃描版)] || 2013-02-02 || 此书是吉恩·夏普又一部知名著作。<br>主要内容是：利用群众性防卫的方式来对付内部的篡权者和外部的侵略者。 ||
-
+|| 群众性防卫<br>——一种超军事的武器系统 || Civilian-Based Defense<br>——A Post-Military Weapons System || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1175 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1119 繁體PDF (掃描版)] || 2013-03-16<br>2013-02-02 || 此书是吉恩·夏普又一部知名著作。<br>主要介绍：利用群众性防卫的方式对付内部篡权者和外部侵略者。<br>简体PDF版本是某热心网友分享给俺的，特此鸣谢。 ||
 
 
 == 1.2 政治小说 ==
@@ -102,7 +114,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 中国改革年代的政治斗争 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!858 简体PDF] || 2012-04-05 || 杨继绳是新华社高级记者，《炎黄春秋》杂志副社长。<br>此书介绍了朝廷高层改革派与保守派的长期内斗，内容真实且客观。 ||
 || 现代化的陷阱 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1130 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!985 简体HTML] || 2013-02-05<br>2012-11-18 || 何清涟是天朝知名且敢言的经济学家，因受迫害移居美国。<br>此书是她的成名作，其电子版在网上流传很广。<br>书中介绍了经济改革引发的种种问题（包括贫富分化、国有资产流失、圈地运动、等）。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 || 中国<br>——奇迹的黄昏 || 袁剑 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!859 简体PDF] || 2012-04-05 || “黄昏”一词暗指天朝经济的繁荣是好景不长。<br>此书的价值在于：深刻揭露了天朝权贵阶层对社会财富的掠夺。 ||
-|| 山坳上的中国<br>——问题、困境、痛苦的选择 (扫描版).pdf || 何博传 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1165 简体PDF (扫描版)] || 2013-03-07 || 作者是中山大学科学哲学系副教授，发表多篇关于中国危机问题的论文。<br>此书1989年出版，曾一度被列为禁书。20多年后再看此书，作者的许多担忧已变成现实。 ||
+|| 山坳上的中国<br>——问题、困境、痛苦的选择 || 何博传 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1165 简体PDF (扫描版)] || 2013-03-07 || 作者是中山大学科学哲学系副教授，发表多篇关于中国危机问题的论文。<br>此书1989年出版，曾一度被列为禁书。20多年后再看此书，作者的许多担忧已变成现实。 ||
 
 
 ==== 1.3.1.2 六四事件 ====
@@ -130,6 +142,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 文化大革命十年史 || 高皋 & [https://zh.wikipedia.org/wiki/%E4%B8%A5%E5%AE%B6%E5%85%B6 严家其] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1025 简体PDF (扫描版)] || 2012-12-10 || 两位作者都是中国社会科学院的学者。<br>此书是700多页的大部头，记述了文革期间的所有重大事件。 ||
 || 红卫兵档案 || 吴过 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!868 简体PDF] || 2012-04-06 || 详细介绍了文革中红卫兵运动的兴衰。 ||
 || 文革研究 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!869 简体PDF] || 2012-04-06 || 严格来说，这不是一本书，而是几篇文革相关的研究文章的汇总。 ||
+|| 遇罗克之遗作与回忆 || 徐晓 & 丁东 & [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1173 简体PDF (扫描版)] || 2013-03-16 || [https://zh.wikipedia.org/wiki/%E9%81%87%E7%BD%97%E5%85%8B 遇罗克]是文革时期的一个小人物。<br>他写了《出身论》批判当时盛行的“血统论”，在国内造成很大影响。<br>1968年被捕，1970年被当作反革命分子处决。<br>此书收集了遇罗克本人的多篇文章以及相关的一些评论文章（包括攻击遇罗克的）。 ||
 || 牛鬼蛇神录<br>——文革囚禁中的精灵 || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯]<br>(原名：杨羲光) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1014 简体PDF] || 2012-12-09 || 杨小凯是天朝知名的经济学家（已故）。<br>文革期间他写了知名的大字报《中国向何处去》，引起轰动并因此被关押多年。<br>此书写的是他的狱中难友。 ||
 
 ==== 1.3.1.4 “大跃进”和大饥荒时期 ====
@@ -146,19 +159,24 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 阳谋 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1101 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!981 简体CHM] || 2013-01-13<br>2012-11-17 || 作者是中国当代史研究学者、持不同政见者。<br>他的著名作品有《人祸》和《阳谋》。<br>PDF版本是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
 || 1957年的夏季<br>——从百家争鸣到两家争鸣 || 朱正 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!982 简体HTML] || 2012-11-17 || 作者不太出名，不过书写得还是很详细——里面列举了很多当事人（尤其是毛太祖）的言论。 ||
-|| 往事并不如烟 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1131 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1018 简体TXT] || 2013-02-05<br>2012-12-09 || 作者章诒和是“中国头号大右派”章伯钧的次女。<br>此书描述了史良、储安平、张伯驹、康同璧、聂绀弩、罗隆基、张庚、章伯钧等知名“大右派”的悲剧命运。<br>由于此书内容批评了毛太祖，在2004年大陆出版时，多处内容被删改。之后真理部禁止该书重印。<br>简体PDF是某网友精心排版并分享，该版本标注了被删节的内容，特此鸣谢。 ||
+|| 往事并不如烟 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1131 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1018 简体TXT] || 2013-02-05<br>2012-12-09 || 作者章诒和是“中国头号大右派”章伯钧的次女。<br>此书描述了史良、储安平、张伯驹、康同璧、聂绀弩、罗隆基、张庚、章伯钧等知名“大右派”的悲剧命运。<br>由于此书内容批评了毛太祖，在2004年大陆出版时，多处内容被删改。之后真理部禁止该书重印。<br>PDF版本是某网友精心排版并分享，该版本标注了被删节的内容，特此鸣谢。 ||
 || 十四万言书<br>——致人民日报编辑部信 || [https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭]<br>(原名：彭令昭) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1111 简体PDF] || 2013-02-01 || 林昭是北大才女，曾任北大校刊《未名湖》编辑和《北大诗刊》编辑。1957年“反右”期间被划为右派。<br>1960年在针砭时弊的《星火》杂志上发表长诗《海鸥之歌》和《普鲁米修斯受难之日》，同年10月被逮捕。<br>1962年初保外就医，与黄政共同起草了《中国自由青年战斗同盟》的纲领和章程。<br>当年底再度被捕，1968年被枪决。<br>她在狱中坚持自己的信仰，写了20万字的血书与日记。这本十四万言书是其中之一。 ||
-|| 林昭，不再被遗忘 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1110 简体PDF (扫描版)] || 2013-02-01 || 此书是关于林昭的纪念文章的合集。<br>感谢某网友主动分享。 ||
-|| 中华民族的自由女神<br>——林昭罹难40年纪念文集 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1112 简体PDF] || 2013-02-01 || 此书是关于林昭的纪念文章的合集。<br>感谢某网友主动分享。 ||
+|| 林昭，不再被遗忘 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1110 简体PDF (扫描版)] || 2013-02-01 || 此书是关于[https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭]的纪念文章的合集。<br>感谢某热心网友分享PDF版本。 ||
+|| 中华民族的自由女神<br>——林昭罹难40年纪念文集 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1112 简体PDF] || 2013-02-01 || 此书是关于[https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭]的纪念文章的合集。<br>感谢某热心网友分享PDF版本。 ||
 
-==== 1.3.1.6 国共内战时期 ====
+==== 1.3.1.6 “土改”运动 ====
+
+|| *书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 最后的地主 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1177 简体PDF (上)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1178 简体PDF (下)] || 2013-03-16<br>2013-03-16 || 作者是中国有名的诗人、流亡作家。<br>此书介绍了“土改”时期，地主的悲惨遭遇。<br>当时有大量的地主/富农被滥杀，至今得不到平反。 ||
+
+==== 1.3.1.7 国共内战时期 ====
 
 || *书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 戰后中共奪取東北始末 || 楊奎松 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1026 繁體PDF] || 2012-12-11 || 杨奎松是党史方面的研究学者。<br>中共能够夺权成功，占领东北是其中的关键。<br>此书介绍了中共拿下东北的经过以及当时美苏之间的博弈。 ||
 || 1949年<br>——中国知识分子的私人记录 (扫描版) || [https://zh.wikipedia.org/wiki/%E5%82%85%E5%9B%BD%E6%B6%8C 傅国涌] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1170 简体PDF (扫描版)] || 2013-03-14 || 作者是自由撰稿人，出版过不少历史类著作。<br>此书收集了1949年前后，14位知名知识分子的日记和书信。<br>通过这些日记和书信，有助于了解那段历史。 ||
-|| 大江大海 一九四九 || [https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%87%89%E5%8F%B0 龙应台] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1106 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!979 繁體PDF (豎排掃描版)] || 2013-01-17<br>2012-11-17 || 应某网友在留言中的要求，俺分享了这本书。<br>这本书主要讲述众多小人物在1949年大陆沦陷时的遭遇。<br>简体PDF是某网友精心排版并分享，特此鸣谢。 ||
+|| 大江大海 一九四九 || [https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%87%89%E5%8F%B0 龙应台] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1106 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!979 繁體PDF (豎排掃描版)] || 2013-01-17<br>2012-11-17 || 应某网友在留言中的要求，俺分享了这本书。<br>这本书主要讲述众多小人物在1949年大陆沦陷时的遭遇。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 
-==== 1.3.1.7 延安和八年抗战时期 ====
+==== 1.3.1.8 延安和八年抗战时期 ====
 
 || *书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 红太阳是怎样升起的<br>——延安整风运动的来龙去脉 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!995 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!867 简体CHM] || 2012-12-09<br>2012-04-06 || 高华是党史研究方面的资深学者（已故）。<br>“延安整风”是老毛确立党内独裁地位的关键。此书详细介绍了这段历史。 ||
@@ -167,7 +185,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 延安日记 || [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E6%B4%9B%E5%A4%AB 彼得·弗拉基米洛夫] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!931 简体CHM] || 2012-10-05 || 1942年，苏联派弗拉基米洛夫前往延安，担任共产国际驻中共区的联络员兼塔斯社随军记者。<br>由于作者的特殊身份，得以了解延安时期中共高层的内幕。<br>比如毛太祖消极抗日；比如延安根据地种植和销售鸦片，以获得资金来源。 ||
 || 紅太陽下的罌粟花<br>——鴉片貿易與延安模式 || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!932 繁體PDF (掃描版)] || 2012-10-05 || 陈永发是台湾中央研究院的知名学者。<br>通过此书可以更加详细地了解延安根据地的鸦片生意。这是共党在延安时期的一大污点。 ||
 
-==== 1.3.1.8 (其它) ====
+==== 1.3.1.9 (其它) ====
 
 || *书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 谁是新中国<br>——中国现代史辨 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E7%81%8F%E5%B9%B4 辛灏年]<br>(原名：高尔品) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1062 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1024 简体CHM] || 2012-12-30<br>2012-12-10 || 辛灏年是天朝的作家、持不同政见者。这是他名气最大的一部作品。<br>此书共三部分：“导论 革命与复辟” “上卷 辛亥革命、中华民国与中国国民党” “下卷 共产革命、农民造反与中国共产党”<br>其内容有助于你了解近代史以及国共两党的本质差异。 ||
@@ -182,9 +200,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 新发现的毛泽东<br>——仆人眼中的伟人 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!866 简体PDF] || 2012-04-05 || 作者王若水长期担任《人民日报》副总编。<br>此书提供了一种新的视角（真理部内部的视角）来看毛太祖。 ||
 || 晚年周恩来 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!937 简体PDF] || 2012-10-05 || 高文谦曾经在中共中央文献研究室工作，并担任周恩来生平研究小组组长。<br>这本书不但权威而且客观，还详细描述了毛周二人的勾心斗角。 ||
 || 中国影帝温家宝 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!961 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1034 简体TXT] || 2012-10-26<br>2012-12-13 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>此书揭露了温影帝虚伪的一面。余杰因此书而受朝廷迫害，2012年被迫移民美国。<br>在两位热心网友的帮助下，俺找到了此书完整的文字版并制作了此PDF，特此鸣谢。 ||
-|| 河蟹大帝胡锦涛 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1172 简体PDF (不全)] || 2013-03-14 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>此书堪称是《中国影帝温家宝》的姐妹篇，专门揭露胡锦涛的嘴脸。<br>某热心网友帮俺收集制作了该书，目前只找到前几个章节。<br>如果哪位同学有完整版，请不吝告知。 ||
+|| 河蟹大帝胡锦涛 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1172 简体PDF (不全)] || 2013-03-14 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>此书堪称是《中国影帝温家宝》的姐妹篇，专门揭露胡锦涛的嘴脸。<br>某热心网友帮俺收集制作了该书，目前只找到前几个章节。<br>如果哪位同学有完整版，还请不吝告知哦。 ||
 || 胡耀邦與中國政治改革<br>——12位老共產黨人的反思 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1114 繁體PDF (掃描版)] || 2013-02-01 || 本书收录了多篇纪念胡耀邦的文章，这些文章的作者包括多位中共元老。<br>通过这些文章，有助于了解胡耀邦在政治改革方面的贡献。 ||
-|| 胡耀邦下台的背景<br>——人道主义在中国的命运 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1038 简体TXT] || 2012-12-19 || 作者王若水长期担任《人民日报》副总编。<br>此书重点介绍了80年代中期的“清除思想污染”运动。<br>该运动引发了邓小平对胡耀邦的不满，最终导致了胡耀邦在86学潮后下台。<br>此书由热心网友分享TXT格式，特此鸣谢。 ||
+|| 胡耀邦下台的背景<br>——人道主义在中国的命运 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1038 简体TXT] || 2012-12-19 || 作者王若水长期担任《人民日报》副总编。<br>此书重点介绍了80年代中期的“清除思想污染”运动。<br>该运动引发了邓小平对胡耀邦的不满，最终导致了胡耀邦在86学潮后下台。<br>TXT版本由热心网友分享，特此鸣谢。 ||
 || 中南海日記<br>——中共兩代王儲的隕落 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E7%A8%BC%E7%A5%A5 吴稼祥] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1017 繁體PDF (掃描版)] || 2012-12-09 || 作者吴稼祥是中共高层的官员，先后在真理部（中宣部）和大内（中办）任职。<br>此书从作者的角度，以日记的形式，叙述胡耀邦和赵紫阳被邓太上皇废黜的经过。 ||
 || 改革历程<br>——赵紫阳回忆录 || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3 赵紫阳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!860 简体PDF] || 2012-04-05 || 作为赵紫阳的回忆录，此书对于了解80年代的朝廷高层，很有价值。 ||
 || 赵紫阳还说过什么？<br>——杜导正日记 || [https://zh.wikipedia.org/wiki/%E6%9D%9C%E5%AF%BC%E6%AD%A3 杜导正] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!889 简体PDF] || 2012-05-25 || 作者杜导正是赵紫阳的老部下。<br>赵紫阳被软禁之后，只有极少数人能够跟赵见面，杜导正是其中之一。<br>本书记录了杜导正同赵紫阳之间的多次秘密谈话。 ||
@@ -193,7 +211,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 === 1.3.3 社会阶层 贫富分化 ===
 
 || *书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
-|| 中国底层访谈录 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1020 简体PDF (扫描版 上卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1021 简体PDF (扫描版 下卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1045 简体PDF (上)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1046 简体PDF (中)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1047 简体PDF (下)] || 2012-12-10<br>2012-12-10<br>2012-12-26<br>2012-12-26<br>2012-12-26 || 作者廖亦武是中国有名的诗人、流亡作家。<br>此书专写社会底层的民众，让“不见天日的下水道里的中国”浮出地面。<br>朝廷对此书的出版大为震怒，出版社遭严厉整肃，廖亦武也获得了“出版社杀手”的绰号。<br>某热心网友分享了此书的精美文字版，特此鸣谢。 ||
+|| 中国底层访谈录 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1020 简体PDF (扫描版 上卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1021 简体PDF (扫描版 下卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1045 简体PDF (上)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1046 简体PDF (中)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1047 简体PDF (下)] || 2012-12-10<br>2012-12-10<br>2012-12-26<br>2012-12-26<br>2012-12-26 || 作者是中国有名的诗人、流亡作家。<br>此书专写社会底层的民众，让“不见天日的下水道里的中国”浮出地面。<br>朝廷对此书的出版大为震怒，出版社遭严厉整肃，廖亦武也获得了“出版社杀手”的绰号。<br>某热心网友分享了此书的精美文字版，特此鸣谢。 ||
 || 中国当代社会各阶层分析 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1104 简体PDF (扫描版)] || 2012-01-14 || 杨继绳是新华社高级记者，《炎黄春秋》杂志副社长。<br>全书共18章。先介绍了导致阶层分化的因素，然后再具体介绍每一个阶层。 ||
 || 中国社会各阶层分析 || [https://zh.wikipedia.org/wiki/%E6%A2%81%E6%99%93%E5%A3%B0 梁晓声] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1023 简体PDF (扫描版)] || 2012-12-10 || 梁晓声也算是当代知名作家，其作品多写知青题材。<br>全书共7章，分别介绍了资产阶级、“买办”阶级、中产阶级、知识分子、平民和贫民、农民、黑社会。 ||
 
@@ -231,14 +249,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 未来的自由中国在民间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1015 简体PDF] || 2012-12-09 || 刘晓波的名气挺大，俺就不介绍了。<br>此书汇集了刘晓波对天朝民主化的思考，内容包括政治、经济、文化等领域。<br>从书名可知，他认为应该自下而上推动政治变革，而不能指望朝廷。  ||
 || 大国沉沦<br>——写给中国的备忘录 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!964 简体PDF] || 2012-10-28 || 刘晓波的名气挺大，俺就不介绍了。<br>本书写得比较杂，涉及了当今政坛的许多方面。<br>内容包括：一党独裁、权贵资本主义、维权、六四、民族主义、等。 ||
 || 单刃毒剑<br>——中国当代民族主义批判 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1012 简体PDF] || 2012-12-09 || 刘晓波的名气挺大，俺就不介绍了。<br>此书重点批判民族主义，可算是《大国沉沦》的姐妹篇。 ||
-|| 火与冰 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1028 简体PDF] || 2012-12-11 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这是余杰正式出版的第一本书，里面包含了政治及文化方面的随笔。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
-|| 致帝国的悼词<br>——中国大陆的自由状况及前景 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1027 简体PDF] || 2012-12-11 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这个PDF是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
-|| 美人赠我蒙汗药 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%9C%94 王朔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1171 简体PDF] || 2013-03-14 || 作者是当代知名的作家和编剧。名气较大，俺就不多介绍了。<br>书的主要内容是王朔跟匿名者老侠的对话。<br>通过对话点评了天朝当代文化艺术，抨击大众文化的媚俗和某些知识分子的虚伪。<br>据说匿名对话者老侠就是刘晓波。 ||
-|| 第二种忠诚 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1168 简体PDF] || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>在此书中，作者写道：雷锋式的人物，党让干啥就干啥，那是第一种忠诚；而敢于向党提意见，那是第二种忠诚。<br>此书以报告文学的形式，介绍了那些敢于向党提意见的小人物以及他们的悲惨命运。 ||
-|| 人妖之间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1169 简体PDF] || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>此书是文革刚结束时发表的报告文学，揭露了地方官员的重大贪污案。 ||
-|| 尘世·挽歌 || [https://zh.wikipedia.org/wiki/%E9%87%8E%E5%A4%AB 土家野夫]<br>(原名：郑世平) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1081 简体PDF] || 2013-01-07 || 土家野夫是天朝作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此电子书包含了他的多篇作品。PDF由热心网友精心排版并分享给俺，特此鸣谢。 ||
-|| 沉沦的圣殿<br>——中国20世纪70年代地下诗歌遗照 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武]主编 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1107 简体PDF] || 2013-01-17 || 作者廖亦武是中国有名的诗人、流亡作家。<br>这是廖亦武主编的文集，讲述70年代的理想主义者和他们所写的地下诗歌。<br>此书1999年刚出版时畅销，但随即被新闻出版总署宣布为“反动书籍”，相关印刷厂被查抄。 ||
-|| 《让子弹飞》喻意图文解释精华版 || (不详) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1135 简体CHM] || 2013-02-05 || 此CHM是某网友主动分享，其内容是解读姜文的电影《让子弹飞》中的各种政治隐喻。 ||
+|| 數人頭勝過砍人頭 || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1174 繁體PDF] || 2013-03-16 || 作者是流亡美国的政治异议人士，《北京之春》杂志主编。<br>此书是作者本人的文集，包含了八十几篇政治评论。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
+|| 火与冰 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1028 简体PDF] || 2012-12-11 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这是余杰正式出版的第一本书，里面包含了政治及文化方面的随笔。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
+|| 致帝国的悼词<br>——中国大陆的自由状况及前景 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1027 简体PDF] || 2012-12-11 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 
 == 1.4 美国 ==
 
@@ -292,14 +305,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 乌合之众<br>——大众心理研究 || The Crowd<br>——A Study of the Popular Mind || [https://en.wikipedia.org/wiki/Gustave_Le_Bon 古斯塔夫·勒庞] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1059 简体PDF (扫描版)] || 2012-12-29 || 作者是法国知名的心理学家、社会学家。<br>他的强项是研究群体心理，这本书是他的代表作。<br>作者在书中提到“群体的无意识行为代替了个人的有意识行为，是目前这个时代的主要特征之一”。书名《乌合之众》指的就是这种群体的无意识行为。<br>此书的理论有助于解释历史上很多知名的政治运动和群众运动。 ||
-|| 路西法效应<br>——好人是如何变成恶魔的 || The Lucifer Effect<br>——Understanding How Good People Turn Evil || [https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A 菲利普·津巴多] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1066 繁體PDF (掃描版)] || 2013-02-05 || 路西法效应最早是从[https://zh.wikipedia.org/wiki/%E6%96%AF%E5%9D%A6%E7%A6%8F%E7%9B%91%E7%8B%B1%E5%AE%9E%E9%AA%8C 斯坦福监狱实验]揭示出来的。<br>该效应说的是：一个身心健康的善良的人在特定的情景之下，也会变得如同恶魔一般。 ||
+|| 路西法效应<br>——好人是如何变成恶魔的 || The Lucifer Effect<br>——Understanding How Good People Turn Evil || [https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A 菲利普·津巴多] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1134 繁體PDF (掃描版)] || 2013-02-05 || 路西法效应最早是从[https://zh.wikipedia.org/wiki/%E6%96%AF%E5%9D%A6%E7%A6%8F%E7%9B%91%E7%8B%B1%E5%AE%9E%E9%AA%8C 斯坦福监狱实验]揭示出来的。<br>该效应说的是：一个身心健康的善良的人在特定的情景之下，也会变得如同恶魔一般。 ||
 
 == 2.4 洗脑 ==
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 洗脑术<br>——思想控制的荒唐史 || Brainwash<br>——The Secret History of Mind Control || 多米尼克·斯垂特菲尔德 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1036 简体PDF (扫描版)] || 2012-12-16 || 此书通俗地介绍了“洗脑”技术的发展史。<br>虽然是扫描版，但文字很清晰。 ||
-|| 思想改造和极权主义心理学<br>——中国的洗脑研究 || Thought Reform and the Psychology of Totalism<br>——A Study of Brainwashing in China || [https://en.wikipedia.org/wiki/Robert_Lifton Robert Jay Lifton] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!957 英文MOBI] || 2012-10-14 || 哪位网友能找到中文版，请不吝告知。 ||
-|| 洗脑<br>——思维控制的科学 || Brainwashing<br>——The Science of Thought Control || [https://en.wikipedia.org/wiki/Kathleen_Taylor_%28biologist%29 Kathleen Taylor] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!958 英文PDF] || 2012-10-14 || 哪位网友能找到中文版，请不吝告知。 ||
+|| 思想改造和极权主义心理学<br>——中国的洗脑研究 || Thought Reform and the Psychology of Totalism<br>——A Study of Brainwashing in China || [https://en.wikipedia.org/wiki/Robert_Lifton Robert Jay Lifton] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!957 英文MOBI] || 2012-10-14 || 哪位网友能找到中文版，还请不吝告知哦。 ||
+|| 洗脑<br>——思维控制的科学 || Brainwashing<br>——The Science of Thought Control || [https://en.wikipedia.org/wiki/Kathleen_Taylor_%28biologist%29 Kathleen Taylor] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!958 英文PDF] || 2012-10-14 || 哪位网友能找到中文版，还请不吝告知哦。 ||
 
 == 2.5 (其它) ==
 
@@ -347,14 +360,26 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 <hr>
 
 
-= 4 文化类 =
+= 4 文艺类 =
 
 == 4.1 中国 ==
+
+=== 4.1.1 文化 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 中国人的性格 || Chinese Characteristics || [https://zh.wikipedia.org/wiki/%E6%98%8E%E6%81%A9%E6%BA%A5 亚瑟·史密斯]<br>(中文名：明恩溥) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!776 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!856 简体TXT] || 2011-02-09<br>2012-03-19 || 此书非常深刻地剖析了中国人的劣根性。<br>鲁迅受此书的影响很大。更多介绍请看[http://program-think.blogspot.com/2011/02/book-review-chinese-characteristics.html 俺的书评] ||
 || 丑陋的中国人 || || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏扬]<br>(原名：郭定生) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!952 简体TXT] || 2012-10-06 || 柏扬是台湾知名作家。<br>《丑陋的中国人》最早是柏扬1984年在美国爱荷华大学的一次演讲。<br>文中深刻批判了中国人的劣根性，柏扬因此获得“台湾鲁迅”之称。<br>书中的经典比喻是“酱缸文化”——任何外来的好东西，进了中国这个大酱缸，都要变质发臭。 ||
 || 中国比小说更离奇 || || [https://zh.wikipedia.org/wiki/%E9%8D%BE%E7%A5%96%E5%BA%B7 钟祖康] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1159 简体TXT]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1160 简体MOBI] || 2013-02-25 || 作者曾经是香港政治评论人，2003年移居挪威。<br>此书描写了天朝的种种荒诞之处。如果你在天朝待久了，或许习以为常了。<br>在本书的自序中，作者写道：“在人的解放、平等和尊严这些信念底下，甚么爱国主义、爱党主义、民族主义都是可弃之而毫不足惜的。”<br>此书由热心网友分享TXT/MOBI格式，特此鸣谢。 ||
+
+=== 4.1.2 (其它) ===
+
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 美人赠我蒙汗药 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%9C%94 王朔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1171 简体PDF] || 2013-03-14 || 作者是当代知名的作家和编剧。名气较大，俺就不多介绍了。<br>书的主要内容是王朔跟匿名者老侠的对话。<br>通过对话点评了天朝当代文化艺术，抨击大众文化的媚俗和某些知识分子的虚伪。<br>据说匿名对话者老侠就是刘晓波。 ||
+|| 第二种忠诚 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1168 简体PDF] || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>在此书中，作者写道：雷锋式的人物，党让干啥就干啥，那是第一种忠诚；而敢于向党提意见，那是第二种忠诚。<br>此书以报告文学的形式，介绍了那些敢于向党提意见的小人物以及他们的悲惨命运。 ||
+|| 人妖之间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1169 简体PDF] || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>此书是文革刚结束时发表的报告文学，揭露了地方官员的重大贪污案。 ||
+|| 尘世·挽歌 || [https://zh.wikipedia.org/wiki/%E9%87%8E%E5%A4%AB 土家野夫]<br>(原名：郑世平) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1081 简体PDF] || 2013-01-07 || 土家野夫是天朝作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此电子书包含了他的多篇作品。PDF由热心网友精心排版并分享给俺，特此鸣谢。 ||
+|| 沉沦的圣殿<br>——中国20世纪70年代地下诗歌遗照 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武]主编 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1107 简体PDF] || 2013-01-17 || 作者是中国有名的诗人、流亡作家。<br>这是他主编的文集，讲述70年代的理想主义者和他们所写的地下诗歌。<br>此书1999年刚出版时畅销，但随即被新闻出版总署宣布为“反动书籍”，相关印刷厂被查抄。 ||
+|| 《让子弹飞》喻意图文解释精华版 || (不详) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1135 简体CHM] || 2013-02-05 || 此CHM是某网友主动分享，其内容是解读姜文的电影《让子弹飞》中的各种政治隐喻。 ||
 
 
 <hr>
