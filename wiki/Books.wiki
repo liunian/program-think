@@ -311,7 +311,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 洗脑术<br>——思想控制的荒唐史 || Brainwash<br>——The Secret History of Mind Control || 多米尼克·斯垂特菲尔德 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1036 简体PDF (扫描版)] || 2012-12-16 || 此书通俗地介绍了“洗脑”技术的发展史。<br>虽然是扫描版，但文字很清晰。 ||
-|| 人的驯化、躲避与反叛 || || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1179 简体TXT] || 2013-03-17 || 作者是流亡美国的政治异议人士，《北京之春》杂志主编。<br>此书从不同角度介绍了中共的“思想改造”。<br>看完此书你会明白，中共乃是“洗脑手法”之集大成者。 ||
+|| 人的驯化、躲避与反叛 || || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1180 简体TXT] || 2013-03-17 || 作者是流亡美国的政治异议人士，《北京之春》杂志主编。<br>此书从不同角度介绍了中共的“思想改造”。<br>看完此书你会明白，中共乃是“洗脑手法”之集大成者。 ||
 || 思想改造和极权主义心理学<br>——中国的洗脑研究 || Thought Reform and the Psychology of Totalism<br>——A Study of Brainwashing in China || [https://en.wikipedia.org/wiki/Robert_Lifton Robert Jay Lifton] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!957 英文MOBI] || 2012-10-14 || 哪位网友能找到中文版，还请不吝告知哦。 ||
 || 洗脑<br>——思维控制的科学 || Brainwashing<br>——The Science of Thought Control || [https://en.wikipedia.org/wiki/Kathleen_Taylor_%28biologist%29 Kathleen Taylor] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!958 英文PDF] || 2012-10-14 || 哪位网友能找到中文版，还请不吝告知哦。 ||
 
@@ -357,22 +357,61 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 第三帝国的兴亡 || The Rise and Fall of the Third Reich || [https://en.wikipedia.org/wiki/William_L._Shirer 威廉·夏伊勒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1153 简体PDF (上)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1154 简体PDF (中)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1155 简体PDF (下)] || 2013-02-22 || 作者是美国记者，世界现代史学家。<br>此书详细介绍了希特勒的纳粹德国从兴起到崩溃的全过程。<br>作者收集了许多第三帝国的第一手资料，本书是该领域的权威著作。 ||
 
+
 <hr>
 <hr>
 
 
-= 4 文艺类 =
+= 4 军事类 =
 
-== 4.1 中国 ==
+== 4.1 军事理论 ==
 
-=== 4.1.1 文化 ===
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 战略论<br>——间接路线 || Strategy<br>——the indirect approach || [https://en.wikipedia.org/wiki/B._H._Liddell_Hart 李德·哈特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1121 简体PDF] || 2013-02-05 || 作者是著名军事理论家、战略学家。<br>他在战略思想方面的地位，可以跟克劳塞维兹相提并论。<br>这本书也是最能体现作者战略思想的一本，堪称代表作。 ||
+
+== 4.2 现代军事史 ==
+
+=== 4.2.1 二战 ===
+
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 第二次世界大战战史大全 || || [https://en.wikipedia.org/wiki/Arnold_J._Toynbee 阿诺德·汤因比] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1123 简体CHM] || 2013-02-05 || 作者是英国著名历史学家，一生著作颇丰。<br>这本书实在太详尽了，完全不辜负书名中的“大全”二字。<br>光凭 chm 文件有10兆，你就能感觉到内容有多丰富了。<br>CHM 格式类似于压缩的 HTML，而且此书没有图片，全是文字。 ||
+
+=== 4.2.2 韩战 ===
+
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 朝鲜战争<br>——李奇微回忆录 || || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%BF%AE%C2%B7%E6%9D%8E%E5%A5%87%E5%BE%AE 李奇微] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1181 简体PDF] || 2013-03-17 || 作者是美国名将，接替麦克阿瑟担任联合国军总司令。<br>李奇微在韩战中表现出色，阻止了中国志愿军的攻势，使志愿军遭受重大损失。<br>这本回忆录有助于从美国人的视角了解韩战。 ||
+|| 朝鮮戰爭揭秘 || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1120 繁體PDF (豎排掃描版)] || 2013-02-02 || 作者是历史学者，对中苏关系和冷战史有深入研究。<br>此书侧重介绍了朝鲜战争各方（美、中、苏）的高层决策。 ||
+
+=== 4.2.3 越战 ===
+
+|| *中文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 中国秘密大发兵<br>——援越抗美实录 || 王贤根 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1125 简体PDF (扫描版)] || 当初写《[http://program-think.blogspot.com/2012/10/history-of-red-khmers.html 最"纯正"的共产主义政权——红色高棉简史]》参考过此书内容，顺便放上来。<br>此书的扫描质量较差，字迹模糊。 ||
+
+== 4.3 古代军事史 ==
+
+=== 4.3.1 迦太基战争 / 布匿战争 ===
+
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 战略之父<br>——汉尼拔的军事生涯 || Father of Strategy<br>——The Military Life of Hannibal || [https://en.wikipedia.org/wiki/Trevor_N._Dupuy 杜普伊] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1124 简体PDF] || 2013-02-05 || 此书着重介绍汉尼拔本人的军事才能，内容相对简略。 ||
+|| 汉尼拔战争 || || 王乃新 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1126 简体PDF (扫描版)] || 2013-02-05 || 第二次布匿战争又称为“汉尼拔战争”——因为大部分时间是汉尼拔唱主角。<br>此书的内容比前面一本要详尽。 ||
+
+
+<hr>
+<hr>
+
+
+= 5 文艺类 =
+
+== 5.1 中国 ==
+
+=== 5.1.1 文化 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 中国人的性格 || Chinese Characteristics || [https://zh.wikipedia.org/wiki/%E6%98%8E%E6%81%A9%E6%BA%A5 亚瑟·史密斯]<br>(中文名：明恩溥) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!776 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!856 简体TXT] || 2011-02-09<br>2012-03-19 || 此书非常深刻地剖析了中国人的劣根性。<br>鲁迅受此书的影响很大。更多介绍请看[http://program-think.blogspot.com/2011/02/book-review-chinese-characteristics.html 俺的书评] ||
 || 丑陋的中国人 || || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏扬]<br>(原名：郭定生) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!952 简体TXT] || 2012-10-06 || 柏扬是台湾知名作家。<br>《丑陋的中国人》最早是柏扬1984年在美国爱荷华大学的一次演讲。<br>文中深刻批判了中国人的劣根性，柏扬因此获得“台湾鲁迅”之称。<br>书中的经典比喻是“酱缸文化”——任何外来的好东西，进了中国这个大酱缸，都要变质发臭。 ||
 || 中国比小说更离奇 || || [https://zh.wikipedia.org/wiki/%E9%8D%BE%E7%A5%96%E5%BA%B7 钟祖康] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1159 简体TXT]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1160 简体MOBI] || 2013-02-25 || 作者曾经是香港政治评论人，2003年移居挪威。<br>此书描写了天朝的种种荒诞之处。如果你在天朝待久了，或许习以为常了。<br>在本书的自序中，作者写道：“在人的解放、平等和尊严这些信念底下，甚么爱国主义、爱党主义、民族主义都是可弃之而毫不足惜的。”<br>此书由热心网友分享TXT/MOBI格式，特此鸣谢。 ||
 
-=== 4.1.2 (其它) ===
+=== 5.1.2 (其它) ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 美人赠我蒙汗药 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%9C%94 王朔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1171 简体PDF] || 2013-03-14 || 作者是当代知名的作家和编剧。名气较大，俺就不多介绍了。<br>书的主要内容是王朔跟匿名者老侠的对话。<br>通过对话点评了天朝当代文化艺术，抨击大众文化的媚俗和某些知识分子的虚伪。<br>据说匿名对话者老侠就是刘晓波。 ||
@@ -387,14 +426,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 <hr>
 
 
-= 5 管理类 =
+= 6 管理类 =
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 你的灯亮着吗<br>——找到问题的真正所在 || Are Your Lights On<br>——How to Figure Out What the Problem Really Is || [https://en.wikipedia.org/wiki/Gerald_Weinberg Gerald Weinberg]<br>(杰拉尔德·温伯格) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!764 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!855 简体TXT] || 2010-11-02<br>2012-03-08 || [http://program-think.blogspot.com/2009/07/book-review-are-your-lights-on.html 俺的书评] ||
-
-
-<hr>
-<hr>
-
-
-= 6 IT类 =
