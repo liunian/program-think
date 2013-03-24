@@ -83,12 +83,18 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 密洛凡·德热拉斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!940 简体PDF (扫描版)] || 2012-10-06 || 作者德热拉斯曾经担任南斯拉夫共产党的高层领导（副总统），之后跟铁托决裂，成为党内异议人士。<br>书名的“新阶级”指的是“党的领导层”在夺权之后，号称消灭了所有的剥削阶级，但自己却成了一个新的统治阶级。 ||
 || 历史决定论的贫困 || The Poverty of Historicism || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1032 简体HTML] || 2012-12-11 || 波普尔是20世纪著名的哲学家，政治上拥护自由主义，提倡“开放社会”。<br>此书有力地批驳了马克思的“历史唯物主义”。 ||
 
-=== 1.1.3 极权主义 ===
+=== 1.1.3 社会主义 ===
+
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 通往奴役之路 || The Road to Serfdom || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1207 简体PDF] || 2013-03-24 || 作者是英国知名经济学家和政治哲学家，奥地利经济学派最重要的成员（没有之一）。<br>他一贯坚持自由资本主义和个人主义、反对社会主义和集体主义。<br>此书阐述了：所有实行中央计划经济的社会，不管采用什么意识形态，最终都会沦为极权主义。<br>希特勒的纳粹主义是如此，斯大林的共产主义亦如此。 ||
+|| 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1208 简体PDF] || 2013-03-24 || 作者是英国知名经济学家和政治哲学家，奥地利经济学派最重要的成员（没有之一）。<br>他一贯坚持自由资本主义和个人主义、反对社会主义和集体主义。<br>此书写于哈耶克学术生涯的最后几年，可以视作其毕生的学术总结。 ||
+
+=== 1.1.4 极权主义 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 极权主义的起源 || The Origins of Totalitarianism || [https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9 汉娜·阿伦特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!953 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!955 简体CHM] || 2012-10-06<br>2012-10-14 || 汉娜·阿伦特是国际知名的政治理论家，以研究极权主义而闻名于世。此书是她的成名作。<br>看完此书，你对“什么是极权主义”会有更深刻的认识。<br>而且你会发现：虽然“共产主义”和“纳粹主义”表面上迥异，其实本质相通，具有共同起源。<br>顺便说一下，毛太祖统治的天朝，就是典型的极权主义。 ||
 
-=== 1.1.4 非暴力抗争 ===
+=== 1.1.5 非暴力抗争 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 从独裁到民主<br>——解放运动的概念框架 || From Dictatorship to Democracy || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!908 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!907 英文PDF] || 2012-08-16<br>2012-08-16  || 吉恩·夏普在“非暴力抗争”领域很有影响力。<br>此书号称非暴力抗争的“圣经”，影响很广，已翻译成几十种文字。<br>在俺博客的[http://program-think.blogspot.com/2011/12/revolution-0.html 《谈革命》系列]中，会具体介绍此书的内容。 ||
