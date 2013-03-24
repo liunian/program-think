@@ -114,6 +114,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 中国改革年代的政治斗争 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!858 简体PDF] || 2012-04-05 || 杨继绳是新华社高级记者，《炎黄春秋》杂志副社长。<br>此书介绍了朝廷高层改革派与保守派的长期内斗，内容真实且客观。 ||
 || 现代化的陷阱 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1130 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!985 简体HTML] || 2013-02-05<br>2012-11-18 || 何清涟是天朝知名且敢言的经济学家，因受迫害移居美国。<br>此书是她的成名作，其电子版在网上流传很广。<br>书中介绍了经济改革引发的种种问题（包括贫富分化、国有资产流失、圈地运动、等）。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 || 中国<br>——奇迹的黄昏 || 袁剑 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!859 简体PDF] || 2012-04-05 || “黄昏”一词暗指天朝经济的繁荣是好景不长。<br>此书的价值在于：深刻揭露了天朝权贵阶层对社会财富的掠夺。 ||
+|| 断裂<br>——20世纪90年代以来的中国社会 || 孙立平 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1176 简体PDF] || 2013-03-16 || 作者是清华大学社会学系教授。<br>本书主要分析了80年代到90年代的社会转型以及由此引出的种种问题（比如贫富分化、社会不公）。<br>作者认为：相比80年代，90年代之后的中国已经是一个完全不同的社会。 ||
 || 山坳上的中国<br>——问题、困境、痛苦的选择 || 何博传 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1165 简体PDF (扫描版)] || 2013-03-07 || 作者是中山大学科学哲学系副教授，发表多篇关于中国危机问题的论文。<br>此书1989年出版，曾一度被列为禁书。20多年后再看此书，作者的许多担忧已变成现实。 ||
 
 
@@ -368,7 +369,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 战略论<br>——间接路线 || Strategy<br>——the indirect approach || [https://en.wikipedia.org/wiki/B._H._Liddell_Hart 李德·哈特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1121 简体PDF] || 2013-02-05 || 作者是著名军事理论家、战略学家。<br>他在战略思想方面的地位，可以跟克劳塞维兹相提并论。<br>这本书也是最能体现作者战略思想的一本，堪称代表作。 ||
-|| 战争论 || On War || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E5%85%8B%E5%8A%B3%E5%A1%9E%E7%BB%B4%E8%8C%A8 克劳塞维茨] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1201 简体PDF (卷1)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1202 简体PDF (卷2)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1203 简体PDF (卷3)] || 2013-03-22 || 作者是西方军事理论的鼻祖，此书是其代表作。<br>书中有很多持久不衰的观点，两百多年后依然没过时。<br>比如：战争是政治的延续，进攻是最好的防御 ||
+|| 战争论 || On War || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E5%85%8B%E5%8A%B3%E5%A1%9E%E7%BB%B4%E8%8C%A8 克劳塞维茨] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1201 简体PDF (卷1)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1202 简体PDF (卷2)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1203 简体PDF (卷3)] || 2013-03-22<br>2013-03-22<br>2013-03-22 || 作者是西方军事理论的鼻祖，此书是其代表作。<br>书中有很多持久不衰的观点，两百多年后依然没过时。<br>比如：战争是政治的延续，进攻是最好的防御 ||
 || 海权论 || || [https://zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E8%B3%BD%E8%80%B6%C2%B7%E9%A6%AC%E6%BC%A2 马汉] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1204 简体PDF] || 2013-03-22 || 作者是美国很有影响力的军事理论家，他特别强调制海权的重要性。<br>此书汇集了作者的4本著作：《[https://zh.wikipedia.org/wiki/%E6%B5%B7%E6%9D%83%E5%AF%B9%E5%8E%86%E5%8F%B2%E7%9A%84%E5%BD%B1%E5%93%8D1660-1783 海权对历史的影响]》、《欧洲的冲突》、《亚洲的问题》、《美国的利益》<br>第一本尤其出名，是目前为止关于海上战略最有影响力的著作。 ||
 
 == 4.2 现代军事史 ==
@@ -382,13 +383,13 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 === 4.2.2 韩战 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
-|| 朝鲜战争<br>——李奇微回忆录 || || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%BF%AE%C2%B7%E6%9D%8E%E5%A5%87%E5%BE%AE 李奇微] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1181 简体PDF] || 2013-03-17 || 作者是美国名将，接替麦克阿瑟担任联合国军总司令。<br>李奇微在韩战中表现出色，阻止了中国志愿军的攻势，使志愿军遭受重大损失。<br>这本回忆录有助于从美国人的视角了解韩战。 ||
-|| 朝鮮戰爭揭秘 || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1120 繁體PDF (豎排掃描版)] || 2013-02-02 || 作者是历史学者，对中苏关系和冷战史有深入研究。<br>此书侧重介绍了朝鲜战争各方（美、中、苏）的高层决策。 ||
+|| 朝鲜战争<br>——李奇微回忆录 || The Korean War || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%BF%AE%C2%B7%E6%9D%8E%E5%A5%87%E5%BE%AE 李奇微] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1181 简体PDF] || 2013-03-17 || 作者是美国名将，接替麦克阿瑟担任联合国军总司令。<br>李奇微在韩战中表现出色，阻止了中国志愿军的攻势，使志愿军遭受重大损失。<br>这本回忆录有助于从美国人的视角了解韩战。 ||
+|| 朝鮮戰爭揭秘 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1120 繁體PDF (豎排掃描版)] || 2013-02-02 || 作者是历史学者，对中苏关系和冷战史有深入研究。<br>此书侧重介绍了朝鲜战争各方（美、中、苏）的高层决策。 ||
 
 === 4.2.3 越战 ===
 
 || *中文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
-|| 中国秘密大发兵<br>——援越抗美实录 || 王贤根 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1125 简体PDF (扫描版)] || 当初写《[http://program-think.blogspot.com/2012/10/history-of-red-khmers.html 最"纯正"的共产主义政权——红色高棉简史]》参考过此书内容，顺便放上来。<br>此书的扫描质量较差，字迹模糊。 ||
+|| 中国秘密大发兵<br>——援越抗美实录 || 王贤根 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1125 简体PDF (扫描版)] || 2013-02-05 || 当初写《[http://program-think.blogspot.com/2012/10/history-of-red-khmers.html 最"纯正"的共产主义政权——红色高棉简史]》参考过此书内容，顺便放上来。<br>此书的扫描质量较差，字迹模糊。 ||
 
 == 4.3 古代军事史 ==
 
@@ -416,7 +417,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 5.1.2 (其它) ===
 
-|| *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| *中文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 美人赠我蒙汗药 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%9C%94 王朔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1171 简体PDF] || 2013-03-14 || 作者是当代知名的作家和编剧。名气较大，俺就不多介绍了。<br>书的主要内容是王朔跟匿名者老侠的对话。<br>通过对话点评了天朝当代文化艺术，抨击大众文化的媚俗和某些知识分子的虚伪。<br>据说匿名对话者老侠就是刘晓波。 ||
 || 第二种忠诚 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1168 简体PDF] || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>在此书中，作者写道：雷锋式的人物，党让干啥就干啥，那是第一种忠诚；而敢于向党提意见，那是第二种忠诚。<br>此书以报告文学的形式，介绍了那些敢于向党提意见的小人物以及他们的悲惨命运。 ||
 || 人妖之间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1169 简体PDF] || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>此书是文革刚结束时发表的报告文学，揭露了地方官员的重大贪污案。 ||
