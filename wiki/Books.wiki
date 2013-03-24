@@ -336,10 +336,12 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 3.2 中国 ==
 
-|| *中文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
-|| 中国大历史 || [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1129 简体PDF] || 2013-02-05 || 作者是知名历史学家。<br>黄仁宇强调大历史观（macro-history），抛开历史人物的善恶，抛开意识形态，从技术角度分析历史走向。<br>此书特别能反映作者的大历史观。 ||
-|| 潜规则<br>——中国历史中的真实游戏 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E6%80%9D 吴思] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1162 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1137 简体CHM] || 2013-02-27<br>2013-02-07 || 作者是知名作家，《炎黄春秋》杂志的主编、副社长。<br>此书是他的代表作。如今广为流传的“潜规则”一词，就是出自此书。<br>作者总结出了中国古代政坛/官场的种种隐形规律。 ||
-|| 兴盛与危机<br>——论中国社会超稳定结构 || [https://zh.wikipedia.org/wiki/%E9%87%91%E8%A7%80%E6%BF%A4 金观涛] & 刘青峰 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1138 简体PDF] || 2013-02-07 || 作者是一对夫妻。金观涛曾经担任知名纪录片《河殇》的顾问。因为六四事件而流亡海外。<br>此书分析了中国"封建社会"（严格来讲，是秦朝到清朝）几千年的朝代更迭，却始终停滞不前的原因。 ||
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 中国大历史 || || [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1129 简体PDF] || 2013-02-05 || 作者是知名历史学家。<br>黄仁宇强调大历史观（macro-history），抛开历史人物的善恶，抛开意识形态，从技术角度分析历史走向。<br>此书特别能反映作者的大历史观。 ||
+|| 潜规则<br>——中国历史中的真实游戏 || || [https://zh.wikipedia.org/wiki/%E5%90%B4%E6%80%9D 吴思] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1162 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1137 简体CHM] || 2013-02-27<br>2013-02-07 || 作者是知名作家，《炎黄春秋》杂志的主编、副社长。<br>此书是他的代表作。如今广为流传的“潜规则”一词，就是出自此书。<br>作者总结出了中国古代政坛/官场的种种隐形规律。 ||
+|| 兴盛与危机<br>——论中国社会超稳定结构 || || [https://zh.wikipedia.org/wiki/%E9%87%91%E8%A7%80%E6%BF%A4 金观涛] & 刘青峰 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1138 简体PDF] || 2013-02-07 || 作者是一对夫妻。金观涛曾经担任知名纪录片《河殇》的顾问。因为六四事件而流亡海外。<br>此书分析了中国"封建社会"（严格来讲，是秦朝到清朝）几千年的朝代更迭，却始终停滞不前的原因。 ||
+|| 中国近代史 || The Rise of Modern China || [https://zh.wikipedia.org/wiki/%E5%BE%90%E4%B8%AD%E7%B4%84 徐中约] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1196 简体PDF (上)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1197 简体PDF (下)] || 2013-03-22<br>2013-03-22 || 作者是美国加州大学历史系教授。<br>此书是美国大学研究中国问题的常用教科书。<br>由于政治原因，在中国出版的是删减本。<br>此书由热心网友分享PDF文字版，初步判定是完全版，特此鸣谢。 ||
+
 
 == 3.3 古希腊 ==
 
