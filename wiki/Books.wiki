@@ -203,7 +203,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 === 1.3.2 政治人物 ===
 
 || *书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
-|| 太子党关系网络 || 编程随想 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!966 简体PDF] || 2012-11-02 || 这是俺花了好几个不眠之夜，在网上搜集的天朝权贵关系网。<br>为了让大伙儿看起来直观，特地做成可视化的网状图。<br>看了这个关系网，你对天朝的权贵阶层会有更深刻的认识。<br>为与时俱进，本文档会不定期更新。如有重大更新，会在[http://program-think.blogspot.com/ 俺博客中]告知大伙儿。<br>如碰到问题（比如：PDF打不开、图太大找不着人、等），请看[http://program-think.blogspot.com/2012/11/princelings-faq.html 关于《太子党关系网络》的常见问题解答] ||
+|| 太子党关系网络 (2.0.6) || 编程随想 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!966 简体PDF] || 2013-03-27 || 这是俺花了好几个不眠之夜，在网上搜集的天朝权贵关系网。<br>为了让大伙儿看起来直观，特地做成可视化的网状图。<br>看了这个关系网，你对天朝的权贵阶层会有更深刻的认识。<br>为与时俱进，本文档会不定期更新。如有重大更新，会在[http://program-think.blogspot.com/ 俺博客中]告知大伙儿。 ||
 || 红太阳的陨落<br>——千秋功罪毛泽东 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵]<br>(原名：宋科) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!996 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!865 简体DOC] || 2012-12-09<br>2012-04-05 || 此书深刻批判了毛太祖的种种罪恶。<br>因为批判得太彻底了，某毛派网站恼羞成怒，把辛子陵列为“头号汉奸”。 ||
 || 新发现的毛泽东<br>——仆人眼中的伟人 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!866 简体PDF] || 2012-04-05 || 作者王若水长期担任《人民日报》副总编。<br>此书提供了一种新的视角（真理部内部的视角）来看毛太祖。 ||
 || 晚年周恩来 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!937 简体PDF] || 2012-10-05 || 高文谦曾经在中共中央文献研究室工作，并担任周恩来生平研究小组组长。<br>这本书不但权威而且客观，还详细描述了毛周二人的勾心斗角。 ||
