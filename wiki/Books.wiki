@@ -291,6 +291,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 1.8 其它国家 ==
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 二十世纪最后的革命家<br>——菲德尔·卡斯特罗传 || || [https://zh.wikipedia.org/wiki/%E7%A8%8B%E6%98%A0%E8%99%B9 程映虹] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1217 简体PDF] || 2013-03-30 || 作者是历史学者，美国特拉华州立大学历史系副教授。<br>此书主要讲述古巴共产革命的历史。<br>此书曾引发古巴外交部的强烈抗议，在天朝被中宣部查禁。 ||
 || 哈维尔文集 || || [https://zh.wikipedia.org/wiki/%E7%93%A6%E8%8C%A8%E6%8B%89%E5%A4%AB%C2%B7%E5%93%88%E7%BB%B4%E5%B0%94 哈维尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1198 简体PDF] || 2013-03-22 || 作者是捷克作家、剧作家，领导了捷克斯洛伐克的“[https://zh.wikipedia.org/wiki/%E5%A4%A9%E9%B5%9D%E7%B5%A8%E9%9D%A9%E5%91%BD 天鹅绒革命]”。<br>民主化转型之后，曾担任捷克总统。<br>此书包含了作者若干代表性的文章（比如：无权者的权力）。 ||
 
 <hr>
