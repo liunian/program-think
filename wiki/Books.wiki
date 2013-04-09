@@ -430,27 +430,18 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 <hr>
 <hr>
 
-
-= 5 文艺类 =
-
-== 5.1 中国 ==
-
-=== 5.1.1 文化 ===
+= 5 经济类 =
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
-|| 中国人的性格 || Chinese Characteristics || [https://zh.wikipedia.org/wiki/%E6%98%8E%E6%81%A9%E6%BA%A5 亚瑟·史密斯]<br>(中文名：明恩溥) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!776 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!856 简体TXT] || 2011-02-09<br>2012-03-19 || 此书非常深刻地剖析了中国人的劣根性。<br>鲁迅受此书的影响很大。更多介绍请看[http://program-think.blogspot.com/2011/02/book-review-chinese-characteristics.html 俺的书评] ||
-|| 丑陋的中国人 || || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏扬]<br>(原名：郭定生) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!952 简体TXT] || 2012-10-06 || 柏扬是台湾知名作家。<br>《丑陋的中国人》最早是柏扬1984年在美国爱荷华大学的一次演讲。<br>文中深刻批判了中国人的劣根性，柏扬因此获得“台湾鲁迅”之称。<br>书中的经典比喻是“酱缸文化”——任何外来的好东西，进了中国这个大酱缸，都要变质发臭。 ||
-|| 中国比小说更离奇 || || [https://zh.wikipedia.org/wiki/%E9%8D%BE%E7%A5%96%E5%BA%B7 钟祖康] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1159 简体TXT]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1160 简体MOBI] || 2013-02-25 || 作者曾经是香港政治评论人，2003年移居挪威。<br>此书描写了天朝的种种荒诞之处。如果你在天朝待久了，或许习以为常了。<br>在本书的自序中，作者写道：“在人的解放、平等和尊严这些信念底下，甚么爱国主义、爱党主义、民族主义都是可弃之而毫不足惜的。”<br>此书由热心网友分享TXT/MOBI格式，特此鸣谢。 ||
-
-=== 5.1.2 (其它) ===
-
-|| *中文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
-|| 美人赠我蒙汗药 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%9C%94 王朔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1171 简体PDF] || 2013-03-14 || 作者是当代知名的作家和编剧。名气较大，俺就不多介绍了。<br>书的主要内容是王朔跟匿名者老侠的对话。<br>通过对话点评了天朝当代文化艺术，抨击大众文化的媚俗和某些知识分子的虚伪。<br>据说匿名对话者老侠就是刘晓波。 ||
-|| 第二种忠诚 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1168 简体PDF] || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>在此书中，作者写道：雷锋式的人物，党让干啥就干啥，那是第一种忠诚；而敢于向党提意见，那是第二种忠诚。<br>此书以报告文学的形式，介绍了那些敢于向党提意见的小人物以及他们的悲惨命运。 ||
-|| 人妖之间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1169 简体PDF] || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>此书是文革刚结束时发表的报告文学，揭露了地方官员的重大贪污案。 ||
-|| 尘世·挽歌 || [https://zh.wikipedia.org/wiki/%E9%87%8E%E5%A4%AB 土家野夫]<br>(原名：郑世平) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1081 简体PDF] || 2013-01-07 || 土家野夫是天朝作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此电子书包含了他的多篇作品。PDF由热心网友精心排版并分享给俺，特此鸣谢。 ||
-|| 沉沦的圣殿<br>——中国20世纪70年代地下诗歌遗照 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武]主编 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1107 简体PDF] || 2013-01-17 || 作者是中国有名的诗人、流亡作家。<br>这是他主编的文集，讲述70年代的理想主义者和他们所写的地下诗歌。<br>此书1999年刚出版时畅销，但随即被新闻出版总署宣布为“反动书籍”，相关印刷厂被查抄。 ||
-|| 《让子弹飞》喻意图文解释精华版 || (不详) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1135 简体CHM] || 2013-02-05 || 此CHM是某网友主动分享，其内容是解读姜文的电影《让子弹飞》中的各种政治隐喻。 ||
+|| 国富论<br>(国民财富的性质和原因) || The Wealth of Nations || [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1235 简体CHM] || 2013-04-09 || 亚当·斯密堪称现代经济学之父，此书是他的代表作，也是经济学专业必读著作。<br>国富论强调市场的自我调节，反对政府对经济的管制。<br>此书还率先提出了“看不见的手”这个概念。 ||
+|| 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 米塞斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1229 简体PDF] || 2013-03-31 || 作者是知名的经济学家、被誉为“奥地利经济学派的院长”。<br>此书分别从经济学和社会学方方面面，对社会主义进行猛烈批判。<br>哈耶克这样评价米塞斯的这本书：<br>最初的时候我们每个人都觉得他的观点夸张得太过吓人甚至语气上火气太大。但是逐渐地，他还是赢得了我们，当然这花了很长的时间。那时我不得不承认他在结论上是对的，但是要在心里接受他的观点仍然是一件不舒服的事情。<br>全书600多页，目录从61页开始。 ||
+|| 自由选择<br>(选择的自由) ||  Free to Choose<br>——A personal statement || [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%B0%94%E9%A1%BF%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E6%9B%BC 米尔顿·弗里德曼] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1209 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1233 英文PDF] || 2013-03-24<br>2013-04-09 || 作者是美国知名的经济学家，诺贝尔奖得主。主张自由放任的资本主义。<br>此书用通俗的笔法，对常见的社会问题（医疗、教育、通胀、等）进行分析。<br>通过这些问题的分析，阐明了作者对经济“自由放任”的主张。 ||
+|| 从马克思到凯恩斯 || Ten Great Economists from Marx to Keynes || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼得] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1238 简体PDF] || 2013-04-09 || 作者是知名的政治经济学家，提出了经济周期理论和经济创新理论。<br>此书包含10篇文章，分别介绍10位知名的经济学家及其理论。 ||
+|| 以自由看待发展 || || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1241 简体PDF] || 2013-04-09 || 作者是印度经济学家，诺贝尔奖获得者。<br>此书的核心观点是：经济发展的本质就是自由的增长。<br>此书从经济、政治、文化等方面阐述这一观点。<br>目录从35页开始。 ||
+|| 市场经济——大师们的思考 || || 詹姆斯·多蒂 & 德威特·李 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1237 简体PDF] || 2013-04-09 || 本书的两位作者倾向于古典自由主义。<br>此书摘录了多位知名经济学家关于自由市场的文章，另外也包括两位作者自己写的文章。 ||
+|| 充满灵性的经济学 || || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 保罗·萨缪尔森] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1234 简体PDF] || 2013-04-09 || 作者是知名经济学家，凯恩斯学派。<br>此书收集了作者在不同时期的99篇评论性文章，涉及经济的各个方面。 ||
+|| 生活中的经济学 || || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1234 简体PDF] || 2013-04-09 || 作者是国内经济学家，曾获米尔顿·弗里德曼自由奖。<br>此书汇总了作者在中国社科院内部刊物上的专栏文章，内容比较通俗。<br>此书从微观经济、宏观经济、经济体制三个方面，介绍了美国的经济和社会生活。 ||
+|| 从来就没有救世主 || || [https://zh.wikipedia.org/wiki/%E8%AE%B8%E5%B0%8F%E5%B9%B4 许小年] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1240 简体PDF] || 2013-04-09 || 作者是国内经济学家，美国加州大学经济学博士。<br>此书批判了凯恩斯主义，并分析了08年金融海啸的原因。<br>作者认为：金融危机是政府失灵不是市场失灵。 ||
 
 
 <hr>
@@ -461,3 +452,29 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 你的灯亮着吗<br>——找到问题的真正所在 || Are Your Lights On<br>——How to Figure Out What the Problem Really Is || [https://en.wikipedia.org/wiki/Gerald_Weinberg Gerald Weinberg]<br>(杰拉尔德·温伯格) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!764 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!855 简体TXT] || 2010-11-02<br>2012-03-08 || [http://program-think.blogspot.com/2009/07/book-review-are-your-lights-on.html 俺的书评] ||
+
+
+<hr>
+<hr>
+
+
+= 7 文艺类 =
+
+== 7.1 中国 ==
+
+=== 7.1.1 文化 ===
+
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 中国人的性格 || Chinese Characteristics || [https://zh.wikipedia.org/wiki/%E6%98%8E%E6%81%A9%E6%BA%A5 亚瑟·史密斯]<br>(中文名：明恩溥) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!776 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!856 简体TXT] || 2011-02-09<br>2012-03-19 || 此书非常深刻地剖析了中国人的劣根性。<br>鲁迅受此书的影响很大。更多介绍请看[http://program-think.blogspot.com/2011/02/book-review-chinese-characteristics.html 俺的书评] ||
+|| 丑陋的中国人 || || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏扬]<br>(原名：郭定生) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!952 简体TXT] || 2012-10-06 || 柏扬是台湾知名作家。<br>《丑陋的中国人》最早是柏扬1984年在美国爱荷华大学的一次演讲。<br>文中深刻批判了中国人的劣根性，柏扬因此获得“台湾鲁迅”之称。<br>书中的经典比喻是“酱缸文化”——任何外来的好东西，进了中国这个大酱缸，都要变质发臭。 ||
+|| 中国比小说更离奇 || || [https://zh.wikipedia.org/wiki/%E9%8D%BE%E7%A5%96%E5%BA%B7 钟祖康] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1159 简体TXT]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1160 简体MOBI] || 2013-02-25 || 作者曾经是香港政治评论人，2003年移居挪威。<br>此书描写了天朝的种种荒诞之处。如果你在天朝待久了，或许习以为常了。<br>在本书的自序中，作者写道：“在人的解放、平等和尊严这些信念底下，甚么爱国主义、爱党主义、民族主义都是可弃之而毫不足惜的。”<br>此书由热心网友分享TXT/MOBI格式，特此鸣谢。 ||
+
+=== 7.1.2 (其它) ===
+
+|| *中文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 美人赠我蒙汗药 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%9C%94 王朔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1171 简体PDF] || 2013-03-14 || 作者是当代知名的作家和编剧。名气较大，俺就不多介绍了。<br>书的主要内容是王朔跟匿名者老侠的对话。<br>通过对话点评了天朝当代文化艺术，抨击大众文化的媚俗和某些知识分子的虚伪。<br>据说匿名对话者老侠就是刘晓波。 ||
+|| 第二种忠诚 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1168 简体PDF] || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>在此书中，作者写道：雷锋式的人物，党让干啥就干啥，那是第一种忠诚；而敢于向党提意见，那是第二种忠诚。<br>此书以报告文学的形式，介绍了那些敢于向党提意见的小人物以及他们的悲惨命运。 ||
+|| 人妖之间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1169 简体PDF] || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>此书是文革刚结束时发表的报告文学，揭露了地方官员的重大贪污案。 ||
+|| 尘世·挽歌 || [https://zh.wikipedia.org/wiki/%E9%87%8E%E5%A4%AB 土家野夫]<br>(原名：郑世平) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1081 简体PDF] || 2013-01-07 || 土家野夫是天朝作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此电子书包含了他的多篇作品。PDF由热心网友精心排版并分享给俺，特此鸣谢。 ||
+|| 沉沦的圣殿<br>——中国20世纪70年代地下诗歌遗照 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武]主编 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1107 简体PDF] || 2013-01-17 || 作者是中国有名的诗人、流亡作家。<br>这是他主编的文集，讲述70年代的理想主义者和他们所写的地下诗歌。<br>此书1999年刚出版时畅销，但随即被新闻出版总署宣布为“反动书籍”，相关印刷厂被查抄。 ||
+|| 《让子弹飞》喻意图文解释精华版 || (不详) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1135 简体CHM] || 2013-02-05 || 此CHM是某网友主动分享，其内容是解读姜文的电影《让子弹飞》中的各种政治隐喻。 ||
