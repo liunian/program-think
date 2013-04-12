@@ -11,13 +11,15 @@
 
 = 下载须知 及 格式说明 =
 
+<h2>如何阅读书籍</h2>
+
+考虑到很多网友不善于阅读书籍， *俺强烈推荐大伙儿看一下《如何阅读一本书》* ([https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1250 PDF]、[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1251 TXT])。此书传授了关于阅读书籍的技巧，非常有价值。
+
+<h2>更新通知</h2>
+
 这里汇总了俺收藏的各类电子书（不断增加中）。
 
 俺每月会在博客上通知大伙儿，近期更新了哪些书。俺博客的订阅地址是：[http://feeds2.feedburner.com/programthink]
-
-下载或阅读过程中，如果碰到啥问题，请先看下面的说明。
-
-如果还是搞不定，可以用邮件 *[mailto:program.think@gmail.com]* 跟俺联系，也可以在本页面下方留言。
 
 <h2>下载须知</h2>
 
@@ -26,6 +28,8 @@
 SkyDrive 的 Web 页面需要依赖 JavaScript，如果你的浏览器禁用了 JavaScript 会导致无法下载。
 
 SkyDrive 支持批量下载——先多选，然后点下载按钮。
+
+下载或阅读过程中，如果还碰到其它问题搞不定，可以用邮件 *[mailto:program.think@gmail.com]* 跟俺联系，也可以在本页面下方留言。
 
 <h2>格式说明</h2>
 
