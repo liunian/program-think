@@ -73,39 +73,45 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 1.1 政治理论 学术著作 ==
 
-=== 1.1.1 自由主义 ===
+=== 1.1.1 民主 宪政 ===
+
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 平民政治的基本原理 || || 保罗·芮恩施 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1105 简体PDF (扫描版)] || 2013-01-14 || 作者是美国学者、外交官，1913-1919年任美国驻华公使，也是“中国通”。<br>作者通过此书向当时的中国民众介绍宪政原理和民主常识。<br>虽然已经出版将近百年，仍然是很好的民主政治普及教材。 ||
+
+=== 1.1.2 自由主义 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 政治自由主义 || Political Liberalism || [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1108 简体HTML] || 2013-01-17 || 约翰·罗尔斯是美国著名的政治哲学家，在自由主义理论方面颇有建树。<br>此书是罗尔斯对他的代表作《正义论》的补充和修正。<br>在罗尔斯的作品中，此书的名气仅次于《正义论》。 ||
 || 自由主义与正义的局限 || Liberalism and the Limits of Justice || [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1075 简体PDF] || 2013-01-01 || 迈克尔·桑德尔是哈佛当红的政治学教授。<br>他主讲的课程《公正》（Justice）成为哈佛最受欢迎的选修课。<br>此书是他的成名作，以批评罗尔斯的《正义论》而闻名 。 ||
 
-=== 1.1.2 共产主义 ===
+=== 1.1.3 共产主义 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and The Death of Communism in the Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!941 简体PDF (扫描版)] || 2012-10-06 || 布热津斯基是知名的国际关系学着，曾担任美国总统的国家安全顾问。<br>作者通过各方面分析，得出结论：“到了21世纪，共产主义将不可逆转地在历史上衰亡”。<br>此书出版于1989年4月，几年后苏联和东欧的共产党政权纷纷崩溃。不得不佩服布热津斯基的预见性。 ||
 || 共产主义实录 || Communism<br>——A History || [https://en.wikipedia.org/wiki/Richard_Pipes Richard Pipes] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!929 简体PDF] || 2012-10-05 || 作者 Richard Pipes 不但是俄国史的专家，而且对世界共产运动有很深的研究。<br>此书详细介绍了世界各国共产主义运动的兴起和失败，分析了共产运动本身的缺陷导致其必然失败的命运。 ||
 || 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 密洛凡·德热拉斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!940 简体PDF (扫描版)] || 2012-10-06 || 作者德热拉斯曾经担任南斯拉夫共产党的高层领导（副总统），之后跟铁托决裂，成为党内异议人士。<br>书名的“新阶级”指的是“党的领导层”在夺权之后，号称消灭了所有的剥削阶级，但自己却成了一个新的统治阶级。 ||
 || 历史决定论的贫困 || The Poverty of Historicism || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1032 简体HTML] || 2012-12-11 || 波普尔是20世纪著名的哲学家，政治上拥护自由主义，提倡“开放社会”。<br>此书有力地批驳了马克思的“历史唯物主义”。 ||
+|| 恐怖主义与共产主义 || Terrorism and Communism || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 卡尔·考茨基] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1249 简体PDF] || 2013-04-11 || 作者是社会民主主义者，恩格斯的好友，《[https://zh.wikipedia.org/wiki/%E8%B5%84%E6%9C%AC%E8%AE%BA 资本论]》第四卷的编者。<br>在对待马克思的理论方面，考茨基跟列宁发生严重分歧。考茨基批评列宁搞独裁专制，列宁批评考茨基是修正主义。<br>通过此书可以了解：共产运动从巴黎公社一直到十月革命，充斥着血腥和杀戮。 ||
 
-=== 1.1.3 社会主义 ===
+=== 1.1.4 社会主义 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 通往奴役之路 || The Road to Serfdom || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1207 简体PDF] || 2013-03-24 || 作者是英国知名经济学家和政治哲学家，奥地利经济学派最有影响力的成员。<br>他一贯坚持自由资本主义和个人主义、反对社会主义和集体主义。<br>此书阐述了：所有实行中央计划经济的社会，不管采用什么意识形态，最终都会沦为极权主义。<br>希特勒的纳粹主义是如此，斯大林的共产主义亦如此。 ||
 || 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1208 简体PDF] || 2013-03-24 || 作者是英国知名经济学家和政治哲学家，奥地利经济学派最重要的成员（没有之一）。<br>他一贯坚持自由资本主义和个人主义、反对社会主义和集体主义。<br>此书写于哈耶克学术生涯的最后几年，可以视作其毕生的学术总结。 ||
 || 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 米塞斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1229 简体PDF (扫描版)] || 2013-03-31 || 作者是知名的经济学家、被誉为“奥地利经济学派的院长”。<br>此书分别从经济学和社会学方方面面，对社会主义进行猛烈批判。<br>[https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克]这样评价米塞斯的这本书：<br>最初的时候我们每个人都觉得他的观点夸张得太过吓人甚至语气上火气太大。但是逐渐地，他还是赢得了我们，当然这花了很长的时间。那时我不得不承认他在结论上是对的，但是要在心里接受他的观点仍然是一件不舒服的事情。<br>全书600多页，目录从61页开始。 ||
 
-=== 1.1.4 极权主义 ===
+=== 1.1.5 极权主义 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 极权主义的起源 || The Origins of Totalitarianism || [https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9 汉娜·阿伦特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!953 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!955 简体CHM] || 2012-10-06<br>2012-10-14 || 汉娜·阿伦特是国际知名的政治理论家，以研究极权主义而闻名于世。此书是她的成名作。<br>看完此书，你对“什么是极权主义”会有更深刻的认识。<br>而且你会发现：虽然“共产主义”和“纳粹主义”表面上迥异，其实本质相通，具有共同起源。<br>顺便说一下，毛太祖统治的天朝，就是典型的极权主义。 ||
 
-=== 1.1.5 非暴力抗争 ===
+=== 1.1.6 非暴力抗争 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 从独裁到民主<br>——解放运动的概念框架 || From Dictatorship to Democracy || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!908 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!907 英文PDF] || 2012-08-16<br>2012-08-16  || 吉恩·夏普在“非暴力抗争”领域很有影响力。<br>此书号称非暴力抗争的“圣经”，影响很广，已翻译成几十种文字。<br>在俺博客的[http://program-think.blogspot.com/2011/12/revolution-0.html 《谈革命》系列]中，会具体介绍此书的内容。 ||
 || 群众性防卫<br>——一种超军事的武器系统 || Civilian-Based Defense<br>——A Post-Military Weapons System || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1175 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1119 繁體PDF (掃描版)] || 2013-03-16<br>2013-02-02 || 此书是吉恩·夏普又一部知名著作。<br>主要介绍：利用群众性防卫的方式对付内部篡权者和外部侵略者。<br>简体PDF版本是某热心网友分享给俺的，特此鸣谢。 ||
 
-=== 1.1.6 女权运动 ===
+=== 1.1.7 女权运动 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 第二性 || The Second Sex || [https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%92%99%C2%B7%E6%B3%A2%E5%A8%83 西蒙·波伏娃] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1244 简体PDF (扫描版)] || 2013-04-10 || 作者是法国作家，女权运动的领袖人物，哲学家[https://zh.wikipedia.org/wiki/%E8%AE%93-%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%89%B9 萨特]的伴侣。<br>此书主要阐述女性弱势的事实及原因分析。<br>内容涉及文学、历史、社会学、生物学、医学等多方面，堪称女权运动的“圣经”。 ||
@@ -225,6 +231,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 河蟹大帝胡锦涛 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1172 简体PDF (不全)] || 2013-03-14 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>此书堪称是《中国影帝温家宝》的姐妹篇，专门揭露胡锦涛的嘴脸。<br>某热心网友帮俺收集制作了该书，目前只找到前几个章节。<br>如果哪位同学有完整版，还请不吝告知哦。 ||
 || 胡耀邦與中國政治改革<br>——12位老共產黨人的反思 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1114 繁體PDF (掃描版)] || 2013-02-01 || 本书收录了多篇纪念胡耀邦的文章，这些文章的作者包括多位中共元老。<br>通过这些文章，有助于了解胡耀邦在政治改革方面的贡献。 ||
 || 胡耀邦下台的背景<br>——人道主义在中国的命运 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1038 简体TXT] || 2012-12-19 || 作者王若水长期担任《人民日报》副总编。<br>此书重点介绍了80年代中期的“清除思想污染”运动。<br>该运动引发了邓小平对胡耀邦的不满，最终导致了胡耀邦在86学潮后下台。<br>TXT版本由热心网友分享，特此鸣谢。 ||
+|| 十年的路<br>——和胡燿邦相處的日子 || 吴江 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1115 简体PDF (掃描版)] || 2013-02-02 || 作者曾经是中共高层的理论家，胡耀邦的智囊之一。<br>此书回忆了1977-1987这十年间中共高层之事，皆是作者亲身经历。 ||
 || 中南海日記<br>——中共兩代王儲的隕落 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E7%A8%BC%E7%A5%A5 吴稼祥] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1017 繁體PDF (掃描版)] || 2012-12-09 || 作者吴稼祥是中共高层的官员，先后在真理部（中宣部）和大内（中办）任职。<br>此书从作者的角度，以日记的形式，叙述胡耀邦和赵紫阳被邓太上皇废黜的经过。 ||
 || 改革历程<br>——赵紫阳回忆录 || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3 赵紫阳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!860 简体PDF] || 2012-04-05 || 作为赵紫阳的回忆录，此书对于了解80年代的朝廷高层，很有价值。 ||
 || 赵紫阳还说过什么？<br>——杜导正日记 || [https://zh.wikipedia.org/wiki/%E6%9D%9C%E5%AF%BC%E6%AD%A3 杜导正] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!889 简体PDF] || 2012-05-25 || 作者杜导正是赵紫阳的老部下。<br>赵紫阳被软禁之后，只有极少数人能够跟赵见面，杜导正是其中之一。<br>本书记录了杜导正同赵紫阳之间的多次秘密谈话。 ||
