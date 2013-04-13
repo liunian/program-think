@@ -76,7 +76,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 === 1.1.1 民主 宪政 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
-|| 平民政治的基本原理 || || 保罗·芮恩施 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1105 简体PDF (扫描版)] || 2013-01-14 || 作者是美国学者、外交官，1913-1919年任美国驻华公使，也是“中国通”。<br>作者通过此书向当时的中国民众介绍宪政原理和民主常识。<br>虽然已经出版将近百年，仍然是很好的民主政治普及教材。 ||
+|| 平民政治的基本原理 || || [https://zh.wikipedia.org/wiki/%E8%8A%AE%E6%81%A9%E6%96%BD 保罗·芮恩施] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1105 简体PDF (扫描版)] || 2013-01-14 || 作者是美国学者、外交官，1913-1919年任美国驻华公使，也是“中国通”。<br>作者通过此书向当时的中国民众介绍宪政原理和民主常识。<br>虽然已经出版将近百年，仍然是很好的民主政治普及教材。 ||
+|| 宪政与权利 || || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1255 简体PDF] || 2013-04-13 || 此书收录不同作者的14篇论文，介绍了西方成熟民主国家的宪政制度。 ||
 
 === 1.1.2 自由主义 ===
 
@@ -460,7 +461,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 从马克思到凯恩斯 || Ten Great Economists from Marx to Keynes || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼得] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1238 简体PDF (扫描版)] || 2013-04-09 || 作者是知名的政治经济学家，提出了经济周期理论和经济创新理论。<br>此书包含10篇文章，分别介绍10位知名的经济学家及其理论。 ||
 || 以自由看待发展 || Development as Freedom || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1241 简体PDF (扫描版)] || 2013-04-09 || 作者是印度经济学家，剑桥大学三一学院院长，诺贝尔奖获得者。<br>此书的核心观点是：经济发展的本质就是自由的增长。<br>此书从经济、政治、文化等方面阐述这一观点。<br>目录从35页开始。 ||
 || 市场经济<br>——大师们的思考 || || 詹姆斯·多蒂 & 德威特·李 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1237 简体PDF (扫描版)] || 2013-04-09 || 本书的两位作者倾向于古典自由主义。<br>此书摘录了多位知名经济学家关于自由市场的文章，另外也包括两位作者自己写的文章。 ||
-|| 魔鬼经济学<br>——揭示隐藏在表象之下的真实世界 || || 列维特 & 都伯纳 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1242 简体PDF (扫描版)] || 2013-04-09 || 列维特是美国芝加哥大学经济学教授。<br>书中分析了很多常见的社会现象，其结论往往颠覆传统常识。<br>2005年出版后高居全美畅销书排行榜。 ||
+|| 魔鬼经济学<br>——揭示隐藏在表象之下的真实世界 || Freakonomics<br>——A Rogue Economist Explores the Hidden Side of Everything || [https://zh.wikipedia.org/wiki/%E5%8F%B2%E8%92%82%E8%8A%AC%C2%B7%E5%88%97%E7%BB%B4%E7%89%B9 列维特] & 都伯纳 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1242 简体PDF (扫描版)] || 2013-04-09 || 列维特是美国芝加哥大学经济学教授。<br>书中分析了很多常见的社会现象，其结论往往颠覆传统常识。<br>2005年出版后高居全美畅销书排行榜。 ||
 || 充满灵性的经济学 || || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 保罗·萨缪尔森] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1239 简体PDF (扫描版)] || 2013-04-09 || 作者是知名经济学家，凯恩斯学派。<br>此书收集了作者在不同时期的99篇评论性文章，涉及经济的各个方面。 ||
 || 生活中的经济学 || || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1234 简体PDF] || 2013-04-09 || 作者是国内经济学家，曾获米尔顿·弗里德曼自由奖。<br>此书汇总了作者在中国社科院内部刊物上的专栏文章，内容比较通俗。<br>此书从微观经济、宏观经济、经济体制三个方面，介绍了美国的经济和社会生活。 ||
 || 从来就没有救世主 || || [https://zh.wikipedia.org/wiki/%E8%AE%B8%E5%B0%8F%E5%B9%B4 许小年] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1240 简体PDF (扫描版)] || 2013-04-09 || 作者是国内经济学家，美国加州大学经济学博士。<br>此书批判了凯恩斯主义，并分析了08年金融海啸的原因。<br>作者认为：金融危机是政府失灵不是市场失灵。 ||
