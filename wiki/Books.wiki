@@ -96,13 +96,13 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 共产主义实录 || Communism<br>——A History || [https://en.wikipedia.org/wiki/Richard_Pipes Richard Pipes] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!929 简体PDF] || 2012-10-05 || 作者 Richard Pipes 不但是俄国史的专家，而且对世界共产运动有很深的研究。<br>此书详细介绍了世界各国共产主义运动的兴起和失败，分析了共产运动本身的缺陷导致其必然失败的命运。 ||
 || 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 密洛凡·德热拉斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!940 简体PDF (扫描版)] || 2012-10-06 || 作者德热拉斯曾经担任南斯拉夫共产党的高层领导（副总统），之后跟铁托决裂，成为党内异议人士。<br>书名的“新阶级”指的是“党的领导层”在夺权之后，号称消灭了所有的剥削阶级，但自己却成了一个新的统治阶级。 ||
 || 历史决定论的贫困 || The Poverty of Historicism || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1032 简体HTML] || 2012-12-11 || 波普尔是20世纪著名的哲学家，政治上拥护自由主义，提倡“开放社会”。<br>此书有力地批驳了马克思的“历史唯物主义”。 ||
-|| 恐怖主义与共产主义 || Terrorism and Communism || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 卡尔·考茨基] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1249 简体PDF] || 2013-04-11 || 作者是社会民主主义者，恩格斯的好友，《[https://zh.wikipedia.org/wiki/%E8%B5%84%E6%9C%AC%E8%AE%BA 资本论]》第四卷的编者。<br>在对待马克思的理论方面，考茨基跟列宁发生严重分歧。考茨基批评列宁搞独裁专制，列宁批评考茨基是修正主义。<br>通过此书可以了解：共产运动从巴黎公社一直到十月革命，充斥着血腥和杀戮。 ||
+|| 恐怖主义与共产主义 || Terrorism and Communism || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 卡尔·考茨基] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1249 简体PDF] || 2013-04-11 || 作者是社会民主主义者，恩格斯的好友，《[https://zh.wikipedia.org/wiki/%E8%B5%84%E6%9C%AC%E8%AE%BA 资本论]》第四卷的编者。<br>在对待马克思的理论方面，考茨基跟列宁发生严重分歧。<br>考茨基批评列宁搞独裁专制，列宁批评考茨基是修正主义。<br>通过此书可以了解：共产运动从巴黎公社一直到十月革命，充斥着血腥和杀戮。 ||
 
 === 1.1.4 社会主义 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 通往奴役之路 || The Road to Serfdom || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1207 简体PDF] || 2013-03-24 || 作者是英国知名经济学家和政治哲学家，奥地利经济学派最有影响力的成员。<br>他一贯坚持自由资本主义和个人主义、反对社会主义和集体主义。<br>此书阐述了：所有实行中央计划经济的社会，不管采用什么意识形态，最终都会沦为极权主义。<br>希特勒的纳粹主义是如此，斯大林的共产主义亦如此。 ||
-|| 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1208 简体PDF] || 2013-03-24 || 作者是英国知名经济学家和政治哲学家，奥地利经济学派最重要的成员（没有之一）。<br>他一贯坚持自由资本主义和个人主义、反对社会主义和集体主义。<br>此书写于哈耶克学术生涯的最后几年，可以视作其毕生的学术总结。 ||
+|| 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1208 简体PDF] || 2013-03-24 || 作者是英国知名经济学家和政治哲学家，奥地利经济学派最有影响力的成员。<br>他一贯坚持自由资本主义和个人主义、反对社会主义和集体主义。<br>此书写于哈耶克学术生涯的最后几年，可以视作其毕生的学术总结。 ||
 || 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 米塞斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1229 简体PDF (扫描版)] || 2013-03-31 || 作者是知名的经济学家、被誉为“奥地利经济学派的院长”。<br>此书分别从经济学和社会学方方面面，对社会主义进行猛烈批判。<br>[https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克]这样评价米塞斯的这本书：<br>最初的时候我们每个人都觉得他的观点夸张得太过吓人甚至语气上火气太大。但是逐渐地，他还是赢得了我们，当然这花了很长的时间。那时我不得不承认他在结论上是对的，但是要在心里接受他的观点仍然是一件不舒服的事情。<br>全书600多页，目录从61页开始。 ||
 
 === 1.1.5 极权主义 ===
@@ -114,7 +114,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 大棋局<br>——美国的首要地位及其地缘战略 || || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1261 简体PDF] || 2013-04-14 || 作者是知名的国际关系学着，曾担任美国总统的国家安全顾问。<br>书名中的“大棋局”是指欧亚大陆。<br>作者在书中详细分析了欧亚大陆几个主要大国的地位和影响力，并提出美国应采取的对策。 ||
-|| 文明的冲突与世界秩序的重建 || The Clash of Civilizations<br>and the Remaking of World Order || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 亨廷顿] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1219 简体PDF] || 2013-03-31 || 作者是美国保守派政治学家，此书是他的代表作。<br>作者认为：因文明差异导致的冲突是今后国际冲突的主因。 ||
+|| 文明的冲突与世界秩序的重建 || The Clash of Civilizations<br>and the Remaking of World Order || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1219 简体PDF] || 2013-03-31 || 作者是美国保守派政治学家，此书是他的代表作。<br>作者认为：因文明差异导致的冲突是今后国际冲突的主因。<br>此书内容有争议，有认为亨廷顿过于高估文化的影响力。 ||
 
 === 1.1.7 非暴力抗争 ===
 
@@ -127,7 +127,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 第二性 || The Second Sex || [https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%92%99%C2%B7%E6%B3%A2%E5%A8%83 西蒙·波伏娃] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1244 简体PDF (扫描版)] || 2013-04-10 || 作者是法国作家，女权运动的领袖人物，哲学家[https://zh.wikipedia.org/wiki/%E8%AE%93-%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%89%B9 萨特]的伴侣。<br>此书主要阐述女性弱势的事实及原因分析。<br>内容涉及文学、历史、社会学、生物学、医学等多方面，堪称女权运动的“圣经”。 ||
 || 女权辩护<br>——关于政治和道德问题的批评 || A Vindication of the Rights of Woman<br>——with Strictures on Political and Moral Subjects || [https://zh.wikipedia.org/wiki/%E7%8E%9B%E4%B8%BD%C2%B7%E6%B2%83%E6%96%AF%E9%80%9A%E5%85%8B%E6%8B%89%E5%A4%AB%E7%89%B9 玛丽·沃斯通克拉夫特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1245 简体PDF] || 2013-04-10 || 作者是18世纪英国作家，本书是女权运动最早的著作之一。<br>作者在书中强调了女性教育的重要性。 ||
-|| 女性的奥秘 || The Feminine Mystique || [https://zh.wikipedia.org/wiki/%E8%B4%9D%E8%92%82%C2%B7%E5%BC%97%E9%87%8C%E4%B8%B9 贝蒂·弗里丹] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1246 简体PDF (扫描版)] || 2013-04-10 || 作者是美国作家，此书是其代表作。<br>此书主要分析美国妇女普遍存在的心理问题，并探求解决之道。<br>此书对20世纪60-70年代的妇女解放运动有重大影响。 ||
+|| 女性的奥秘 || The Feminine Mystique || [https://zh.wikipedia.org/wiki/%E8%B4%9D%E8%92%82%C2%B7%E5%BC%97%E9%87%8C%E4%B8%B9 贝蒂·弗里丹] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1246 简体PDF (扫描版)] || 2013-04-10 || 作者是美国作家，此书是其代表作。<br>此书主要分析美国妇女普遍存在的心理问题，并探求解决之道。<br>此书对20世纪60-70年代的妇女解放运动有重大影响。<br>PDF版本是某热心网友分享给俺的，特此鸣谢。  ||
 
 
 == 1.2 政治小说 ==
@@ -499,7 +499,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 中国人的性格 || Chinese Characteristics || [https://zh.wikipedia.org/wiki/%E6%98%8E%E6%81%A9%E6%BA%A5 亚瑟·史密斯]<br>(中文名：明恩溥) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!776 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!856 简体TXT] || 2011-02-09<br>2012-03-19 || 此书非常深刻地剖析了中国人的劣根性。<br>鲁迅受此书的影响很大。更多介绍请看[http://program-think.blogspot.com/2011/02/book-review-chinese-characteristics.html 俺的书评] ||
 || 丑陋的中国人 || || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏扬]<br>(原名：郭定生) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!952 简体TXT] || 2012-10-06 || 柏扬是台湾知名作家。<br>《丑陋的中国人》最早是柏扬1984年在美国爱荷华大学的一次演讲。<br>文中深刻批判了中国人的劣根性，柏扬因此获得“台湾鲁迅”之称。<br>书中的经典比喻是“酱缸文化”——任何外来的好东西，进了中国这个大酱缸，都要变质发臭。 ||
-|| 中国比小说更离奇 || || [https://zh.wikipedia.org/wiki/%E9%8D%BE%E7%A5%96%E5%BA%B7 钟祖康] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1159 简体TXT]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1160 简体MOBI] || 2013-02-25 || 作者曾经是香港政治评论人，2003年移居挪威。<br>此书描写了天朝的种种荒诞之处。如果你在天朝待久了，或许习以为常了。<br>在本书的自序中，作者写道：“在人的解放、平等和尊严这些信念底下，甚么爱国主义、爱党主义、民族主义都是可弃之而毫不足惜的。”<br>此书由热心网友分享TXT/MOBI格式，特此鸣谢。 ||
+|| 中国比小说更离奇 || || [https://zh.wikipedia.org/wiki/%E9%8D%BE%E7%A5%96%E5%BA%B7 钟祖康] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1159 简体TXT]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1160 简体MOBI] || 2013-02-25 || 作者曾经是香港政治评论人，2003年移居挪威。<br>此书描写了天朝的种种荒诞之处。如果你在天朝待久了，可能习以为常了。<br>在本书的自序中，作者写道：“在人的解放、平等和尊严这些信念底下，甚么爱国主义、爱党主义、民族主义都是可弃之而毫不足惜的。”<br>此书由热心网友分享TXT/MOBI格式，特此鸣谢。 ||
+|| 来生不做中国人 || || [https://zh.wikipedia.org/wiki/%E9%8D%BE%E7%A5%96%E5%BA%B7 钟祖康] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1258 简体PDF] || 2013-04-14 || 作者曾经是香港政治评论人，2003年移居挪威。<br>此书是作者的政治评论文集，书中对传统文化的弊端（比如：奴性）有深刻批判。<br>PDF版本是某热心网友分享给俺的，特此鸣谢。 ||
 
 === 7.1.2 (其它) ===
 
