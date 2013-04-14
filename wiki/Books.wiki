@@ -77,11 +77,15 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 平民政治的基本原理 || || [https://zh.wikipedia.org/wiki/%E8%8A%AE%E6%81%A9%E6%96%BD 保罗·芮恩施] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1105 简体PDF (扫描版)] || 2013-01-14 || 作者是美国学者、外交官，1913-1919年任美国驻华公使，也是“中国通”。<br>作者通过此书向当时的中国民众介绍宪政原理和民主常识。<br>虽然已经出版将近百年，仍然是很好的民主政治普及教材。 ||
-|| 宪政与权利 || || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1255 简体PDF] || 2013-04-13 || 此书收录不同作者的14篇论文，介绍了西方成熟民主国家的宪政制度。 ||
+|| 宪政与权利 || || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1255 简体PDF] || 2013-04-13 || 此书收录了14篇论文（主要来自欧美学者），介绍了西方成熟民主国家的宪政制度。 ||
 
 === 1.1.2 自由主义 ===
 
+（本章节的“自由主义”主要指“[https://zh.wikipedia.org/wiki/%E5%8F%A4%E5%85%B8%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89 古典自由主义]”和“[https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97%E4%B8%BB%E7%BE%A9 自由意志主义]”）
+
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 论自由 || On Liberty || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·斯图尔特·密尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1256 简体PDF] || 2013-04-14 || 作者是很有影响力的自由主义思想家，生活于19世纪英国。<br>此书是密尔的代表作，奠定了自由主义的根基。 ||
+|| 政府论 || Two Treatises of Government || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B 约翰·洛克] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1257 简体PDF] || 2014-04-14 || 作者是17世纪英国哲学家，英国[https://zh.wikipedia.org/wiki/%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89 经验主义]的代表人物。<br>此书是其代表作，包括两部分：一破一立。<br>第一部分主要是反驳“君权神授”。<br>第二部分阐述洛克自己的理论，包括如下：<br>关于自然状态和自然法；关于政府与民众的契约；<br>政府统治的前提是民众的支持，统治者只是民众委托的代理人；<br>政府实行统治的交换条件（义务）是：维护民众的权益。<br>当统治者滥用权力或危害到民众的利益，就应该推翻政府。 ||
 || 政治自由主义 || Political Liberalism || [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1108 简体HTML] || 2013-01-17 || 约翰·罗尔斯是美国著名的政治哲学家，在自由主义理论方面颇有建树。<br>此书是罗尔斯对他的代表作《正义论》的补充和修正。<br>在罗尔斯的作品中，此书的名气仅次于《正义论》。 ||
 || 自由主义与正义的局限 || Liberalism and the Limits of Justice || [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1075 简体PDF] || 2013-01-01 || 迈克尔·桑德尔是哈佛当红的政治学教授。<br>他主讲的课程《公正》（Justice）成为哈佛最受欢迎的选修课。<br>此书是他的成名作，以批评罗尔斯的《正义论》而闻名 。 ||
 
@@ -442,7 +446,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 4.3.1 迦太基战争 ===
 
-（迦太基战争又称为“布匿战争”，是古罗马与迦太基争夺地中海霸权的长期战争）
+（[https://zh.wikipedia.org/wiki/%E8%BF%A6%E5%A4%AA%E5%9F%BA 迦太基战争]又称为“布匿战争”，是古罗马与迦太基争夺地中海霸权的长期战争）
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 战略之父<br>——汉尼拔的军事生涯 || Father of Strategy<br>——The Military Life of Hannibal || [https://en.wikipedia.org/wiki/Trevor_N._Dupuy 杜普伊] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1124 简体PDF] || 2013-02-05 || 此书着重介绍汉尼拔本人的军事才能，内容相对简略。 ||
