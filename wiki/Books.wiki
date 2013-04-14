@@ -85,14 +85,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 论自由 || On Liberty || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·斯图尔特·密尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1256 简体PDF] || 2013-04-14 || 作者是很有影响力的自由主义思想家，生活于19世纪英国。<br>此书是密尔的代表作，奠定了自由主义的根基。 ||
-|| 政府论 || Two Treatises of Government || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B 约翰·洛克] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1257 简体PDF] || 2014-04-14 || 作者是17世纪英国哲学家，英国[https://zh.wikipedia.org/wiki/%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89 经验主义]的代表人物。<br>此书是其代表作，包括两部分：一破一立。<br>第一部分主要是反驳“君权神授”。<br>第二部分阐述洛克自己的理论，包括如下：<br>关于自然状态和自然法；关于政府与民众的契约；<br>政府统治的前提是民众的支持，统治者只是民众委托的代理人；<br>政府实行统治的交换条件（义务）是：维护民众的权益。<br>当统治者滥用权力或危害到民众的利益，就应该推翻政府。 ||
+|| 政府论 || Two Treatises of Government || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B 约翰·洛克] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1257 简体PDF] || 2013-04-14 || 作者是17世纪英国哲学家，英国[https://zh.wikipedia.org/wiki/%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89 经验主义]的代表人物。<br>此书是其代表作，包括两部分：一破一立。<br>第一部分主要是反驳“君权神授”。<br>第二部分阐述洛克自己的理论，包括如下：<br>关于自然状态和自然法；关于政府与民众的契约；<br>政府统治的前提是民众的支持，统治者只是民众委托的代理人；<br>政府实行统治的交换条件（义务）是：维护民众的权益。<br>当统治者滥用权力或危害到民众的利益，就应该推翻政府。 ||
 || 政治自由主义 || Political Liberalism || [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1108 简体HTML] || 2013-01-17 || 约翰·罗尔斯是美国著名的政治哲学家，在自由主义理论方面颇有建树。<br>此书是罗尔斯对他的代表作《正义论》的补充和修正。<br>在罗尔斯的作品中，此书的名气仅次于《正义论》。 ||
 || 自由主义与正义的局限 || Liberalism and the Limits of Justice || [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1075 简体PDF] || 2013-01-01 || 迈克尔·桑德尔是哈佛当红的政治学教授。<br>他主讲的课程《公正》（Justice）成为哈佛最受欢迎的选修课。<br>此书是他的成名作，以批评罗尔斯的《正义论》而闻名 。 ||
 
 === 1.1.3 共产主义 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
-|| 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and The Death of Communism in the Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!941 简体PDF (扫描版)] || 2012-10-06 || 布热津斯基是知名的国际关系学着，曾担任美国总统的国家安全顾问。<br>作者通过各方面分析，得出结论：“到了21世纪，共产主义将不可逆转地在历史上衰亡”。<br>此书出版于1989年4月，几年后苏联和东欧的共产党政权纷纷崩溃。不得不佩服布热津斯基的预见性。 ||
+|| 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and The Death of Communism in the Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!941 简体PDF (扫描版)] || 2012-10-06 || 作者是知名的国际关系学着，曾担任美国总统的国家安全顾问。<br>作者通过各方面分析，得出结论：“到了21世纪，共产主义将不可逆转地在历史上衰亡”。<br>此书出版于1989年4月，几年后苏联和东欧的共产党政权纷纷崩溃。不得不佩服布热津斯基的预见性。 ||
 || 共产主义实录 || Communism<br>——A History || [https://en.wikipedia.org/wiki/Richard_Pipes Richard Pipes] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!929 简体PDF] || 2012-10-05 || 作者 Richard Pipes 不但是俄国史的专家，而且对世界共产运动有很深的研究。<br>此书详细介绍了世界各国共产主义运动的兴起和失败，分析了共产运动本身的缺陷导致其必然失败的命运。 ||
 || 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 密洛凡·德热拉斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!940 简体PDF (扫描版)] || 2012-10-06 || 作者德热拉斯曾经担任南斯拉夫共产党的高层领导（副总统），之后跟铁托决裂，成为党内异议人士。<br>书名的“新阶级”指的是“党的领导层”在夺权之后，号称消灭了所有的剥削阶级，但自己却成了一个新的统治阶级。 ||
 || 历史决定论的贫困 || The Poverty of Historicism || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1032 简体HTML] || 2012-12-11 || 波普尔是20世纪著名的哲学家，政治上拥护自由主义，提倡“开放社会”。<br>此书有力地批驳了马克思的“历史唯物主义”。 ||
@@ -110,18 +110,25 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 极权主义的起源 || The Origins of Totalitarianism || [https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9 汉娜·阿伦特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!953 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!955 简体CHM] || 2012-10-06<br>2012-10-14 || 汉娜·阿伦特是国际知名的政治理论家，以研究极权主义而闻名于世。此书是她的成名作。<br>看完此书，你对“什么是极权主义”会有更深刻的认识。<br>而且你会发现：虽然“共产主义”和“纳粹主义”表面上迥异，其实本质相通，具有共同起源。<br>顺便说一下，毛太祖统治的天朝，就是典型的极权主义。 ||
 
-=== 1.1.6 非暴力抗争 ===
+=== 1.1.6 外交 国际关系 ===
+
+|| *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
+|| 大棋局<br>——美国的首要地位及其地缘战略 || || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1261 简体PDF] || 2013-04-14 || 作者是知名的国际关系学着，曾担任美国总统的国家安全顾问。<br>书名中的“大棋局”是指欧亚大陆。<br>作者在书中详细分析了欧亚大陆几个主要大国的地位和影响力，并提出美国应采取的对策。 ||
+|| 文明的冲突与世界秩序的重建 || The Clash of Civilizations<br>and the Remaking of World Order || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 亨廷顿] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1219 简体PDF] || 2013-03-31 || 作者是美国保守派政治学家，此书是他的代表作。<br>作者认为：因文明差异导致的冲突是今后国际冲突的主因。 ||
+
+=== 1.1.7 非暴力抗争 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 从独裁到民主<br>——解放运动的概念框架 || From Dictatorship to Democracy || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!908 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!907 英文PDF] || 2012-08-16<br>2012-08-16  || 吉恩·夏普在“非暴力抗争”领域很有影响力。<br>此书号称非暴力抗争的“圣经”，影响很广，已翻译成几十种文字。<br>在俺博客的[http://program-think.blogspot.com/2011/12/revolution-0.html 《谈革命》系列]中，会具体介绍此书的内容。 ||
 || 群众性防卫<br>——一种超军事的武器系统 || Civilian-Based Defense<br>——A Post-Military Weapons System || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1175 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1119 繁體PDF (掃描版)] || 2013-03-16<br>2013-02-02 || 此书是吉恩·夏普又一部知名著作。<br>主要介绍：利用群众性防卫的方式对付内部篡权者和外部侵略者。<br>简体PDF版本是某热心网友分享给俺的，特此鸣谢。 ||
 
-=== 1.1.7 女权运动 ===
+=== 1.1.8 女权运动 ===
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 第二性 || The Second Sex || [https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%92%99%C2%B7%E6%B3%A2%E5%A8%83 西蒙·波伏娃] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1244 简体PDF (扫描版)] || 2013-04-10 || 作者是法国作家，女权运动的领袖人物，哲学家[https://zh.wikipedia.org/wiki/%E8%AE%93-%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%89%B9 萨特]的伴侣。<br>此书主要阐述女性弱势的事实及原因分析。<br>内容涉及文学、历史、社会学、生物学、医学等多方面，堪称女权运动的“圣经”。 ||
 || 女权辩护<br>——关于政治和道德问题的批评 || A Vindication of the Rights of Woman<br>——with Strictures on Political and Moral Subjects || [https://zh.wikipedia.org/wiki/%E7%8E%9B%E4%B8%BD%C2%B7%E6%B2%83%E6%96%AF%E9%80%9A%E5%85%8B%E6%8B%89%E5%A4%AB%E7%89%B9 玛丽·沃斯通克拉夫特] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1245 简体PDF] || 2013-04-10 || 作者是18世纪英国作家，本书是女权运动最早的著作之一。<br>作者在书中强调了女性教育的重要性。 ||
 || 女性的奥秘 || The Feminine Mystique || [https://zh.wikipedia.org/wiki/%E8%B4%9D%E8%92%82%C2%B7%E5%BC%97%E9%87%8C%E4%B8%B9 贝蒂·弗里丹] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1246 简体PDF (扫描版)] || 2013-04-10 || 作者是美国作家，此书是其代表作。<br>此书主要分析美国妇女普遍存在的心理问题，并探求解决之道。<br>此书对20世纪60-70年代的妇女解放运动有重大影响。 ||
+
 
 == 1.2 政治小说 ==
 
@@ -224,6 +231,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 谁是新中国<br>——中国现代史辨 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E7%81%8F%E5%B9%B4 辛灏年]<br>(原名：高尔品) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1062 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1024 简体CHM] || 2012-12-30<br>2012-12-10 || 辛灏年是天朝的作家、持不同政见者。这是他名气最大的一部作品。<br>此书共三部分：“导论 革命与复辟” “上卷 辛亥革命、中华民国与中国国民党” “下卷 共产革命、农民造反与中国共产党”<br>其内容有助于你了解近代史以及国共两党的本质差异。 ||
 || 中國共產革命七十年 || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!959 繁體PDF (掃描版 上冊)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!960 繁體PDF (掃描版 下冊)] || 2012-10-15<br>2012-10-15 || 陈永发是台湾中央研究院的知名学者。<br>此书系统性介绍了中共的发家史。<br>扫描版，字迹有点模糊。 ||
 || 在历史的风陵渡口 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1011 简体PDF] || 2012-12-09 || 高华是党史研究方面的资深学者（已故）。<br>这本书是高华多篇论文的合集，涉及中共历史的多个时期。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
+|| 十年论战<br>——1956-1966中苏关系回忆录 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%B7%E8%A5%BF 吴冷西] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1117 简体PDF (扫描版)] || 2013-02-01 || 吴冷西曾任新华社社长、《人民日报》总编、中宣部副部长等职务。<br>此书详细介绍了中苏关系逐步恶化的过程。<br>俺写的《[http://program-think.blogspot.com/2012/05/three-years-famine-0.html 谈谈三年大饥荒]》系列博文引用过本书的内容，证明“苏联逼债”是误传。 ||
 
 === 1.3.2 政治人物 ===
 
@@ -275,12 +283,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 西藏生與死<br>——雪域的民族主義 || Tibet<br>——Survival in Question || [https://fr.wikipedia.org/wiki/Pierre-Antoine_Donnet Pierre-Antoine Donnet]<br>(董尼德) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1066 繁體PDF (竪排掃描版)] || 2012-12-31 || 董尼德是法国新闻记者，曾长期派驻北京。<br>此书着重写西藏的现状（中共如何高压统治、藏文化如何被破坏...）<br>扫描版，字迹有点模糊。 ||
 || 我的西域，你的东土 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1200 简体PDF] || 2013-03-22 || 作者是大陆知名作家、民族问题学者、环保人士。<br>王力雄因受朝廷迫害被关押。坐牢期间认识了同为政治犯的维族人穆合塔尔。<br>经过跟穆合塔尔的深入交谈，以及出狱后四次游历新疆，作者写出了此书。<br>此书有助于你从维族人的角度看待新疆问题。 ||
 
-=== 1.3.8 外交 ===
-
-|| *中文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
-|| 十年论战<br>——1956-1966中苏关系回忆录 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%B7%E8%A5%BF 吴冷西] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1117 简体PDF (扫描版)] || 2013-02-01 || 吴冷西曾任新华社社长、《人民日报》总编、中宣部副部长等职务。<br>此书详细介绍了中苏关系逐步恶化的过程。<br>俺写的《[http://program-think.blogspot.com/2012/05/three-years-famine-0.html 谈谈三年大饥荒]》系列博文引用过本书的内容，证明“苏联逼债”是误传。 ||
-
-=== 1.3.9 (其它) ===
+=== 1.3.8 (其它) ===
 
 || *书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 未来的自由中国在民间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1015 简体PDF] || 2012-12-09 || 刘晓波的名气挺大，俺就不介绍了。<br>此书汇集了刘晓波对天朝民主化的思考，内容包括政治、经济、文化等领域。<br>从书名可知，他认为应该自下而上推动政治变革，而不能指望朝廷。  ||
@@ -321,6 +324,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 二十世纪最后的革命家<br>——菲德尔·卡斯特罗传 || || [https://zh.wikipedia.org/wiki/%E7%A8%8B%E6%98%A0%E8%99%B9 程映虹] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1217 简体PDF] || 2013-03-30 || 作者是历史学者，美国特拉华州立大学历史系副教授。<br>此书主要讲述古巴共产革命的历史。<br>此书曾引发古巴外交部的强烈抗议，在天朝被中宣部查禁。 ||
 || 哈维尔文集 || || [https://zh.wikipedia.org/wiki/%E7%93%A6%E8%8C%A8%E6%8B%89%E5%A4%AB%C2%B7%E5%93%88%E7%BB%B4%E5%B0%94 哈维尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1198 简体PDF] || 2013-03-22 || 作者是捷克作家、剧作家，领导了捷克斯洛伐克的“[https://zh.wikipedia.org/wiki/%E5%A4%A9%E9%B5%9D%E7%B5%A8%E9%9D%A9%E5%91%BD 天鹅绒革命]”。<br>民主化转型之后，曾担任捷克总统。<br>此书包含了作者若干代表性的文章（比如：无权者的权力）。 ||
+
 
 <hr>
 <hr>
