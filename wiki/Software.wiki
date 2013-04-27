@@ -161,6 +161,7 @@ I2P的安全性和坚挺程度比TＯR更强，换来的代价是速度很慢。
 || 0.9.0 || 2012-05-02 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.0-windows.7z 下载页面] ||
 || 0.9.3 || 2012-10-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.3-windows.7z 下载页面] ||
 || 0.9.4 || 2012-12-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.4-windows.7z 下载页面] ||
+|| 0.9.5 || 2013-04-22 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.5-windows.7z 下载页面] ||
 || (种子包) || 2012-11-15 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-netdb.7z 下载页面] ||
 
 
