@@ -87,6 +87,9 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 7.3.5 || 2012-10-07 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.5-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.5-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.5-restrict.7z 限制版] ||
 || 7.3.6 || 2012-10-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.6-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.6-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.6-restrict.7z 限制版] ||
 || 7.3.7 || 2012-11-19 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.7-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.7-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.7-restrict.7z 限制版] ||
+|| 7.3.8 || 2013-01-15 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.8-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.8-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.8-restrict.7z 限制版] ||
+|| 7.3.9 || 2013-02-08 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.9-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.9-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.9-restrict.7z 限制版] ||
+|| 7.4.0 || 2013-04-16 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.0-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.0-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.0-restrict.7z 限制版] ||
 
 
 以下是针对手机的 自.由.門，目前有Windows Mobile版本和Java版本两种。
@@ -145,6 +148,7 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 12.08 || 2012-12-01 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.08.7z 下载页面] ||
 || 12.09 || 2012-12-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.09.7z 下载页面] ||
 || 12.10 || 2012-12-31 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.10.7z 下载页面] ||
+|| 13.01 || 2013-03-26 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-13.01.7z 下载页面] ||
 
 
 == I2P ==
