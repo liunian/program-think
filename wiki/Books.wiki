@@ -147,7 +147,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 中国改革年代的政治斗争 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!858 简体PDF] || 2012-04-05 || 杨继绳是新华社高级记者，《炎黄春秋》杂志副社长。<br>此书介绍了朝廷高层改革派与保守派的长期内斗，内容真实且客观。 ||
-|| 现代化的陷阱 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1130 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!985 简体HTML] || 2013-02-05<br>2012-11-18 || 何清涟是天朝知名且敢言的经济学家，因受迫害移居美国。<br>此书是她的成名作，其电子版在网上流传很广。<br>书中介绍了经济改革引发的种种问题（包括贫富分化、国有资产流失、圈地运动、等）。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
+|| 现代化的陷阱 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1130 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!985 简体HTML] || 2013-02-05<br>2012-11-18 || 作者是天朝知名且敢言的经济学家，因受迫害移居美国。<br>此书是她的成名作，其电子版在网上流传很广。<br>书中介绍了经济改革引发的种种问题（包括贫富分化、国有资产流失、圈地运动、等）。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 || 中国<br>——奇迹的黄昏 || 袁剑 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!859 简体PDF] || 2012-04-05 || “黄昏”一词暗指天朝经济的繁荣是好景不长。<br>此书的价值在于：深刻揭露了天朝权贵阶层对社会财富的掠夺。 ||
 || 断裂<br>——20世纪90年代以来的中国社会 || 孙立平 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1176 简体PDF] || 2013-03-16 || 作者是清华大学社会学系教授。<br>本书主要分析了80年代到90年代的社会转型以及由此引出的种种问题（比如贫富分化、社会不公）。<br>作者认为：相比80年代，90年代之后的中国已经是一个完全不同的社会。 ||
 || 山坳上的中国<br>——问题、困境、痛苦的选择 || 何博传 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1165 简体PDF (扫描版)] || 2013-03-07 || 作者是中山大学科学哲学系副教授，发表多篇关于中国危机问题的论文。<br>此书1989年出版，曾一度被列为禁书。20多年后再看此书，作者的许多担忧已变成现实。 ||
@@ -162,11 +162,12 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 八九天安门事件大事记 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!885 简体PDF] || 2012-05-25 || 作者吴仁华是六四运动的骨干分子。<br>此书记录了六四期间（4月15日到6月9日）每天发生的重大事情。 ||
 || 人民不會忘記 || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港記者協會] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!863 繁體HTML]<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體在線版] || 2012-04-05 || 此书是香港记者协会出版，汇总了几十名记者的六四报道。 ||
 || 八九民運史 || 陳小雅 || [http://www.64memo.com/b5/4.htm 繁體在線版] || || 虽然此书的名气不大，但是俺在写《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》的过程中，也参考了它的某些内容。 ||
+|| 中国民运反思 || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1291 简体PDF] || 2013-05-01 || 作者是流亡美国的政治异议人士，《北京之春》杂志主编。<br>此书主要分析六十运动失败的原因，最后两章介绍未来如何继续开展民主运动。 ||
 || 天安門的力量<br>——國家-社會關系與1989北京學生運動 || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1048 繁體PDF (掃描版)] || 2012-12-26 || 赵鼎新是美国芝加哥大学社会学系教授。<br>此书以“国家—社会关系”理论来解释整个学运的发展。<br>作者通过该理论来解答：为啥学运各方都曾经寻求过妥协，最后却以流血收场。 ||
-|| 铭记天安门 || [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!884 简体PDF] || 2012-05-25 || 作者Robin Munro是人权组织观察员。<br>六月3日夜间到次日凌晨4点，他在广场周边目睹了党国的血腥镇压。 ||
+|| 铭记天安门 || [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!884 简体PDF] || 2012-05-25 || 作者Robin Munro是人权组织观察员。<br>6月3日夜间到次日凌晨4点，他在广场周边目睹了党国的血腥镇压。 ||
 || 六四日记<br>——广场上的共和国 || [https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7 封从德] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1122 繁體PDF] || 2013-02-02 || 封从德是六四运动中的学生领袖，通缉名单之一。<br>此书详细记录了他参与六四运动的整个过程。<br>俺在写《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》的过程中，也参考了它的某些内容。 ||
 || 黄雀行动 || 江迅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!886 简体PDF] || 2012-05-25 || 六四运动被血腥镇压之后，朝廷鹰犬在大肆搜捕参与民主运动的骨干分子。<br>一些勇敢的香港人组织了秘密渠道，帮助民运人士逃离大陆，代号“黄雀行动”。 ||
-|| 关键时刻<br>——李鹏日记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!864 简体CHM] || 2012-04-05 || 此书从保守派的视角，叙述了六四期间高层的动态。<br>在此书中，李鹏这家伙处处不忘开脱自己。 ||
+|| 关键时刻<br>——李鹏日记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!864 简体CHM] || 2012-04-05 || 此书从保守派的视角，叙述了六四运动期间高层的动态。<br>在此书中，李鹏这家伙处处不忘开脱自己。 ||
 || 驚心動魄的五十六天 || 国家教委<br>思想政治工作司 || [http://www.64memo.com/b5/2.htm 繁體在線版] || || 此书是朝廷官方出版滴，看的时候要 *小心被洗脑* 。<br>这个在线阅读链接，是繁体的“香港注译本”。 ||
 || 1989年北京制止动乱平息反革命暴乱纪事 || 北京市委办公厅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1109 简体PDF (扫描版)] || 2013-01-18 || 此书是朝廷官方出版滴，看的时候要 *小心被洗脑* 。 ||
 
@@ -269,13 +270,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 讨伐中宣部<br>——焦国标文集 || [https://zh.wikipedia.org/wiki/%E7%84%A6%E5%9B%BD%E6%A0%87 焦国标] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1080 简体CHM] || 2013-01-07 || 焦国标是北大新闻学院副教授、作家、政治异议人士。<br>他因为写了《讨伐中宣部》一文而广为人知。并因此被勒令停止教学。<br>此电子书收录了他的多篇文章。 ||
-|| 中国政府如何控制媒体<br>——中国人权研究报告 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1098 简体HTML] || 2013-01-13 || 何清涟是天朝知名且敢言的经济学家，因受迫害移居美国。<br>作者曾有8年的媒体工作经历，熟悉党国控制传媒的种种手法。 ||
+|| 雾锁中国<br>——中国大陆控制媒体策略大揭秘 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1292 简体PDF] || 2013-05-01 || 作者是天朝知名且敢言的经济学家，因受迫害移居美国。<br>此书内容与何清涟的另一本《中国政府如何控制媒体——中国人权研究报告》有重叠。<br>不过这本讲得更详细。 ||
+|| 中国政府如何控制媒体<br>——中国人权研究报告 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1098 简体HTML] || 2013-01-13 || 作者是天朝知名且敢言的经济学家，因受迫害移居美国。<br>作者曾有8年的媒体工作经历，熟悉党国控制传媒的种种手法。 ||
 
 === 1.3.6 教育问题 ===
 
 || *中文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 审视中学语文教育 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1158 简体PDF (扫描版)] || 2013-02-25 || 此书收集了多篇文章，指出天朝官方教育存在的种种弊端。 ||
-|| 我不原谅<br>——一个90后对中国教育的批评和反思 || [https://zh.wikipedia.org/wiki/%E9%92%9F%E9%81%93%E7%84%B6 钟道然] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1231 简体DOC] || 2013-04-04 || 作者是90后北京学生，就读于名气很大的“人大附中”。<br>此书主要批判了天朝的教育制度，作者同时也阐述了自己心目中的理想教育。 ||
+|| 我不原谅<br>——一个90后对中国教育的批评和反思 || [https://zh.wikipedia.org/wiki/%E9%92%9F%E9%81%93%E7%84%B6 钟道然] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1231 简体DOC]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1289 简体PDF (扫描版)] || 2013-04-04<br>2013-05-01 || 作者是90后北京学生，就读于名气很大的“人大附中”。<br>此书主要批判了天朝的教育制度，作者同时也阐述了自己心目中的理想教育。 ||
 
 === 1.3.7 少数民族问题 ===
 
@@ -366,7 +368,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 洗脑术<br>——思想控制的荒唐史 || Brainwash<br>——The Secret History of Mind Control || 多米尼克·斯垂特菲尔德 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1036 简体PDF (扫描版)] || 2012-12-16 || 此书通俗地介绍了“洗脑”技术的发展史。<br>虽然是扫描版，但文字很清晰。 ||
-|| 人的驯化、躲避与反叛 || || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1267 简体PDF (大字版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1180 简体TXT] || 2013-04-20<br>2013-03-17 || 作者是流亡美国的政治异议人士，《北京之春》杂志主编。<br>此书从不同角度介绍了中共的“思想改造”。<br>看完此书你会明白，中共乃是“洗脑手法”之集大成者。 ||
+|| 人的驯化、躲避与反叛 || || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1290 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1267 简体PDF (大字版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1180 简体TXT] || 2013-05-01<br>2013-04-20<br>2013-03-17 || 作者是流亡美国的政治异议人士，《北京之春》杂志主编。<br>此书从不同角度介绍了中共的“思想改造”。<br>看完此书你会明白，中共乃是“洗脑手法”之集大成者。 ||
 || 思想改造和极权主义心理学<br>——中国的洗脑研究 || Thought Reform and the Psychology of Totalism<br>——A Study of Brainwashing in China || [https://en.wikipedia.org/wiki/Robert_Lifton Robert Jay Lifton] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!957 英文MOBI] || 2012-10-14 || 哪位网友能找到中文版，还请不吝告知哦。 ||
 || 洗脑<br>——思维控制的科学 || Brainwashing<br>——The Science of Thought Control || [https://en.wikipedia.org/wiki/Kathleen_Taylor_%28biologist%29 Kathleen Taylor] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!958 英文PDF] || 2012-10-14 || 哪位网友能找到中文版，还请不吝告知哦。 ||
 
