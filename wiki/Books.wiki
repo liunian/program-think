@@ -137,6 +137,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 动物庄园 || Animal Farm || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!755 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!854 简体TXT]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!835 英文PDF] || 2010-09-23<br>2012-03-08<br>2012-01-11 || 此书可算是《1984》的缩略版。<br>如果你嫌《1984》太长，可以先从此书看起。 ||
 || 美丽新世界 || Brave New World || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E6%96%AF%C2%B7%E9%9B%B7%E6%AD%90%E9%82%A3%E5%BE%B7%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E 奥尔德斯·赫胥黎] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!938 简体TXT] || 2012-10-05 || 此书也是“反乌托邦三部曲”之一。<br>喜欢《一九八四》的读者，应该也会喜欢这本书。 ||
 || 盛世<br>——中国2013 || The Fat Years || [https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E4%B8%AD 陈冠中] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1073 简体PDF] || 2013-01-01 || 陈冠中是香港作家，现居北京。<br>本书是一部小说，写于2009年，虚构了2013年的天朝盛世。<br>“反讽”是此书的一大特色——看书名似乎在吹捧天朝的盛世，其实捏...... ||
+|| 裸命 ||  || [https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E4%B8%AD 陈冠中] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1298 简体MOBI] || 2013-01-01 || 陈冠中是香港作家，现居北京。<br>此书是作者在《盛世》之后又一部描述天朝的政治小说（同时也算是情色小说）。<br>此书通过一个藏族青年的视角，展现天朝小人物的生活、命运、精神状态。 ||
 
 
 == 1.3 中国 ==
@@ -232,12 +233,13 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 谁是新中国<br>——中国现代史辨 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E7%81%8F%E5%B9%B4 辛灏年]<br>(原名：高尔品) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1062 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1024 简体CHM] || 2012-12-30<br>2012-12-10 || 辛灏年是天朝的作家、持不同政见者。这是他名气最大的一部作品。<br>此书共三部分：“导论 革命与复辟” “上卷 辛亥革命、中华民国与中国国民党” “下卷 共产革命、农民造反与中国共产党”<br>其内容有助于你了解近代史以及国共两党的本质差异。 ||
 || 中國共產革命七十年 || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!959 繁體PDF (掃描版 上冊)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!960 繁體PDF (掃描版 下冊)] || 2012-10-15<br>2012-10-15 || 陈永发是台湾中央研究院的知名学者。<br>此书系统性介绍了中共的发家史。<br>扫描版，字迹有点模糊。 ||
 || 在历史的风陵渡口 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1011 简体PDF] || 2012-12-09 || 高华是党史研究方面的资深学者（已故）。<br>这本书是高华多篇论文的合集，涉及中共历史的多个时期。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
+|| 中国“左”祸 || 文聿 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1275 简体PDF (扫描版)] || 2013-04-21 || 此书详细介绍了中共党史上的历次激进政治运动，从建党初期一直讲到十年文革。 ||
 || 十年论战<br>——1956-1966中苏关系回忆录 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%B7%E8%A5%BF 吴冷西] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1117 简体PDF (扫描版)] || 2013-02-01 || 吴冷西曾任新华社社长、《人民日报》总编、中宣部副部长等职务。<br>此书详细介绍了中苏关系逐步恶化的过程。<br>俺写的《[http://program-think.blogspot.com/2012/05/three-years-famine-0.html 谈谈三年大饥荒]》系列博文引用过本书的内容，证明“苏联逼债”是误传。 ||
 
 === 1.3.2 政治人物 ===
 
 || *书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
-|| 太子党关系网络 (2.0.8) || 编程随想 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!966 简体PDF] || 2013-03-29 || 这是俺花了好几个不眠之夜，在网上搜集的天朝权贵关系网。<br>为了让大伙儿看起来直观，特地做成可视化的网状图。<br>看了这个关系网，你对天朝的权贵阶层会有更深刻的认识。<br>为与时俱进，本文档会不定期更新。如有重大更新，会在[http://program-think.blogspot.com/ 俺博客中]告知大伙儿。 ||
+|| 太子党关系网络 (2.0.9) || 编程随想 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!966 简体PDF] || 2013-04-11 || 这是俺花了好几个不眠之夜，在网上搜集的天朝权贵关系网。<br>为了让大伙儿看起来直观，特地做成可视化的网状图。<br>看了这个关系网，你对天朝的权贵阶层会有更深刻的认识。<br>为与时俱进，本文档会不定期更新。如有重大更新，会在[http://program-think.blogspot.com/ 俺博客中]告知大伙儿。 ||
 || 红太阳的陨落<br>——千秋功罪毛泽东 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵]<br>(原名：宋科) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!996 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!865 简体DOC] || 2012-12-09<br>2012-04-05 || 此书深刻批判了毛太祖的种种罪恶。<br>因为批判得太彻底了，某毛派网站恼羞成怒，把辛子陵列为“头号汉奸”。 ||
 || 新发现的毛泽东<br>——仆人眼中的伟人 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!866 简体PDF] || 2012-04-05 || 作者王若水长期担任《人民日报》副总编。<br>此书提供了一种新的视角（真理部内部的视角）来看毛太祖。 ||
 || 晚年周恩来 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!937 简体PDF] || 2012-10-05 || 高文谦曾经在中共中央文献研究室工作，并担任周恩来生平研究小组组长。<br>这本书不但权威而且客观，还详细描述了毛周二人的勾心斗角。 ||
