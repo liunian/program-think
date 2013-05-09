@@ -191,7 +191,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 墓碑<br>——中国六十年代大饥荒纪实 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!870 简体PDF] || 2012-04-06 || 杨继绳是新华社高级记者，《炎黄春秋》杂志副社长。<br>此书又是一本大部头纪实，足见杨继绳写纪实题材的功力。 ||
 || 人祸<br>——“大跃进”与大饥荒 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1102 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!871 简体HTML] || 2013-01-13<br>2012-04-06 || 作者是中国当代史研究学者、持不同政见者。<br>书名“人祸”直接就点到了三年大饥荒的要害——根本就没有“天灾”。<br>看完此书，你将更加明白这一点。<br>PDF版本是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
-|| 庐山会议实录 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!934 简体PDF] || 2012-10-05 || 1959年的庐山会议是天朝历史的转折点，为后来的三年大饥荒埋下伏笔。<br>这次会议不光引发了彭德怀倒台，还使得毛太祖更加固执地坚持激进路线。<br>李锐作为会议的参加者，详细介绍了会议的经过。 ||
+|| 大跃进亲历记<br>——毛泽东秘书手记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1304 简体PDF (扫描版 上卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1305 简体PDF (扫描版 下卷)] || 2013-05-08<br>2013-05-08 || 作者曾经是毛太祖的秘书，庐山会议期间和彭德怀一起被打倒。<br>此书分上下卷，都是作者亲身经历。<br>上卷主要讲南宁会议到八大二次会议，下卷则一直讲到庐山会议之前。<br>此书有助于了解毛太祖搞大跃进的那段历史。 ||
+|| 庐山会议实录 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!934 简体PDF] || 2012-10-05 || 作者曾经是毛太祖的秘书，庐山会议期间和彭德怀一起被打倒。<br>1959年的庐山会议是天朝历史的转折点，为后来的三年大饥荒埋下伏笔。<br>这次会议不光引发了彭德怀倒台，还使得毛太祖更加固执地坚持激进路线。<br>李锐作为会议的参加者，详细介绍了会议的经过。 ||
 || 辉煌的幻灭<br>——人民公社警示录 || 康健 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!935 简体CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!948 简体HTML] || 2012-10-05<br>2012-10-06 || 此书主要介绍大跃进时期，农村大搞人民公社，大搞浮夸风。<br>之后发生的三年大饥荒，死亡最惨的省份恰恰是浮夸风最盛的省份。 ||
 || 夹边沟记事 || 杨显惠 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1199 简体PDF (扫描版)] || 2013-03-22 || 本书主要叙述了西北沙漠边缘一个关押“右派”分子的劳改农场。<br>在大饥荒期间，该劳改营里有大量知识分子被活活饿死，留下累累白骨。<br>此书算是《定西孤儿院纪事》的姐妹篇，被誉为中国版的《古拉格群岛》。 ||
 || 定西孤儿院纪事 || 杨显惠 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1166 简体PDF (扫描版)] || 2013-03-08 || 大饥荒期间，甘肃省的定西专区是重灾区。<br>此书根据翔实的史料和当事人的回忆，再现了当时的惨状。<br>此书算是《夹边沟记事》的姐妹篇。 ||
@@ -223,7 +224,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 红太阳是怎样升起的<br>——延安整风运动的来龙去脉 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!995 简体PDF]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!867 简体CHM] || 2012-12-09<br>2012-04-06 || 高华是党史研究方面的资深学者（已故）。<br>“延安整风”是老毛确立党内独裁地位的关键。此书详细介绍了这段历史。 ||
 || 中共壮大之谜<br>——被掩盖的中国抗日战争真相 || 谢幼田 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!984 简体CHM] || 2012-11-17 || 作者是移居海外的历史学者。<br>此书介绍了中共利用日本侵华的机会，表面上口头抗日，背地里壮大自己的实力。<br>有兴趣的话可以再看看俺写的《[http://program-think.blogspot.com/2010/09/sino-japanese-war.html 谈谈真理部对抗战历史的篡改]》 ||
-|| 历史的先声<br>——半个世纪前的庄严承诺 || [https://zh.wikipedia.org/wiki/%E7%AC%91%E8%9C%80 笑蜀]<br>(原名：陈敏) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!949 简体CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!950 简体TXT] || 2012-10-06<br>2012-10-06 || 作者是知名作家，《南方周末》评论员。<br>此书收录了延安时期，中共喉舌《新华日报》的几十篇社论。<br>这些社论对“民主自由”的吹捧，俺看了都觉得肉麻。<br>看完之后，你会发现：中共没掌权时，说的比唱的还好听；一旦掌权，立马翻脸不认人。 ||
+|| 历史的先声<br>——半个世纪前的庄严承诺 || [https://zh.wikipedia.org/wiki/%E7%AC%91%E8%9C%80 笑蜀]<br>(原名：陈敏) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1303 简体PDF (扫描版)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!949 简体CHM]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!950 简体TXT] || 2013-05-08<br>2012-10-06<br>2012-10-06 || 作者是知名作家，《南方周末》评论员。<br>此书收录了延安时期，中共喉舌《新华日报》的几十篇社论。<br>这些社论对“民主自由”的吹捧，俺看了都觉得肉麻。<br>看完之后，你会发现：中共没掌权时，说的比唱的还好听；一旦掌权，立马翻脸不认人。 ||
 || 延安日记 || [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E6%B4%9B%E5%A4%AB 彼得·弗拉基米洛夫] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!931 简体CHM] || 2012-10-05 || 1942年，苏联派弗拉基米洛夫前往延安，担任共产国际驻中共区的联络员兼塔斯社随军记者。<br>由于作者的特殊身份，得以了解延安时期中共高层的内幕。<br>比如毛太祖消极抗日；比如延安根据地种植和销售鸦片，以获得资金来源。 ||
 || 紅太陽下的罌粟花<br>——鴉片貿易與延安模式 || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!932 繁體PDF (掃描版)] || 2012-10-05 || 陈永发是台湾中央研究院的知名学者。<br>通过此书可以更加详细地了解延安根据地的鸦片生意。这是共党在延安时期的一大污点。 ||
 
@@ -293,7 +294,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 === 1.3.8 法制问题 ===
 
 || *中文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
-|| 中国冤案录 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1295 简体PDF (第二卷)] || 2013-05-01 || 作者是中国有名的流亡作家，专门为社会底层呐喊。<br>作者走访了多位被冤枉的小老百姓。<br>通过他们的遭遇，揭露中共政府以司法的名义搞政治迫害。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
+|| 中国冤案录 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1295 简体PDF (第二卷)] || 2013-05-01 || 作者是中国有名的流亡作家，专门为社会底层呐喊。<br>作者走访了多位被冤枉的小老百姓。<br>通过他们的遭遇，揭露中共政府以司法的名义搞政治迫害。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 
 === 1.3.9 (其它) ===
 
