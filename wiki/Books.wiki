@@ -260,6 +260,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 邓小平时代 || Deng Xiaoping and the Transformation of China || [https://zh.wikipedia.org/wiki/%E5%82%85%E9%AB%98%E4%B9%89 傅高义] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1318 繁体PDF (單個PDF)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1262 繁体PDF (多個PDF)] || 2013-05-19<br>2013-04-14 || 作者是美国作家，通晓汉语和日语。<br>此书的大陆版被删除了“六四事件”相关章节。俺上传的香港版无删节。<br>此书对邓小平的评价偏高，引发争议。<br>作者受限于资料来源，未提及邓小平狡诈、贪权的阴暗面。 ||
 || 林彪浮沉录 || The rise and fall of Lin Piao || [https://en.wikipedia.org/wiki/Jaap_van_Ginneken 雅普·冯·吉内肯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1319 简体PDF (扫描版)] || 2013-05-19 || 作者是荷兰学者，主要研究社会主义国家的政治。曾经访问过中国、越南、北朝鲜。<br>此书集中介绍了林彪从1959年（出任国防部长）到1971年（913事件）的经历。<br>此书信息来源，除了天朝的官方报道，还包括海外情报机构披露的资料。 ||
 || 我的回忆 || || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!962 简体PDF] || 2012-10-26 || 应某网友在留言中的要求，俺分享了这本书。<br>张国焘是中共早期元老。此回忆录对了解中共早期历史有参考价值。 ||
+|| 红色家族档案<br>——罗瑞卿女儿的点点记忆 (扫描版) || || 罗点点 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1272 简体PDF (扫描版)] || 2013-04-21 || 此书从太子党的角度，描写中共高层在文革时期的权力斗争。 ||
 
 === 1.3.3 社会阶层和贫富分化 ===
 
@@ -316,6 +317,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 致帝国的悼词<br>——中国大陆的自由状况及前景 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1027 简体PDF] || 2012-12-11 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>PDF版本是某热心网友精心排版并分享给俺的，特此鸣谢。 ||
 || 关于中国的一百个常识 || [https://zh.wikipedia.org/wiki/%E9%99%88%E7%A0%B4%E7%A9%BA 陈破空]<br>(原名：陈劲松) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1310 简体CHM] || 2013-05-13 || 作者是流亡美国的政治异议人士、作家。<br>曾经因参与“八六学潮”和“六四运动”而两度入狱。<br>此书介绍了各种政治、历史、社会方面的常识，也反驳了真理部惯用的谬论。 ||
 || 王怡文集 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%A1 王怡] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1315 简体CHM] || 2013-05-19 || 作者是天朝的青年学者、独立中文笔会理事。曾是“关天茶舍”版主。<br>此书涵盖作者在2007年9月之前发表的各种政论，由百度贴吧的多位网友收集整理。 ||
+|| 血纪 || 孔令平 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1312 简体PDF] || 2013-05-19 || 作者是重庆“右派”作家，此书讲述他遭受历次政治运动的悲惨遭遇。<br>全书分“上中下”三集。上集从中共夺权写到文革，中集写文革，下集写文革后到2009年。 ||
 
 == 1.4 美国 ==
 
