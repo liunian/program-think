@@ -87,6 +87,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 论自由 || On Liberty || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·斯图尔特·密尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1256 简体PDF] || 2013-04-14 || 作者是很有影响力的自由主义思想家，生活于19世纪英国。<br>此书是密尔的代表作，奠定了自由主义的根基。 ||
 || 政府论 || Two Treatises of Government || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B 约翰·洛克] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1257 简体PDF] || 2013-04-14 || 作者是17世纪英国哲学家，英国[https://zh.wikipedia.org/wiki/%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89 经验主义]的代表人物。<br>此书是其代表作，包括两部分：一破一立。<br>第一部分主要是反驳“君权神授”。<br>第二部分阐述洛克自己的理论，包括如下：<br>关于自然状态和自然法；关于政府与民众的契约；<br>政府统治的前提是民众的支持，统治者只是民众委托的代理人；<br>政府实行统治的交换条件（义务）是：维护民众的权益。<br>当统治者滥用权力或危害到民众的利益，就应该推翻政府。 ||
+|| 正义论 || A Theory of Justice || [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1322 简体PDF] || 2013-05-23 || 约翰·罗尔斯是美国著名的政治哲学家，在自由主义理论方面颇有建树。<br>此书是其代表作，汇集他多年的理论成就（包括很有名的“无知之幕”）。<br>此书的内容既有自由主义的色彩，也带有平等主义的色彩。 ||
 || 政治自由主义 || Political Liberalism || [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1108 简体HTML] || 2013-01-17 || 约翰·罗尔斯是美国著名的政治哲学家，在自由主义理论方面颇有建树。<br>此书是罗尔斯对他的代表作《正义论》的补充和修正。<br>在罗尔斯的作品中，此书的名气仅次于《正义论》。 ||
 || 自由主义与正义的局限 || Liberalism and the Limits of Justice || [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1075 简体PDF] || 2013-01-01 || 迈克尔·桑德尔是哈佛当红的政治学教授。<br>他主讲的课程《公正》（Justice）成为哈佛最受欢迎的选修课。<br>此书是他的成名作，以批评罗尔斯的《正义论》而闻名 。 ||
 
@@ -318,6 +319,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 论美国的民主<br>(民主在美国) || Democracy in America || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!946 简体PDF (上卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!947 简体PDF (下卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1308 简体MOBI] || 2012-10-06<br>2012-10-06<br>2013-05-13 || 作者是法国的政治思想家和历史学家。<br>此书是托克维尔的代表作，也是研究美国民主政治体制的经典著作。<br>书中从政治学、社会学、历史学等方面对美国的政体进行阐述。 ||
+|| 民主的细节<br>——美国当代政治观察随笔 || || [https://zh.wikipedia.org/wiki/%E5%88%98%E7%91%9C 刘瑜] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1324 简体TXT] || 2013-05-24 || 作者是哥伦比亚大学政治学博士。<br>此书汇总了作者的若干专栏文章，介绍美国成熟的民主政治制度。<br>内容浅显，通俗易懂。 ||
 
 == 1.5 苏联 ==
 
@@ -345,7 +347,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *作者* || *下载页面* || *上传日期* || *备注* ||
 || 哈维尔文集 || [https://zh.wikipedia.org/wiki/%E7%93%A6%E8%8C%A8%E6%8B%89%E5%A4%AB%C2%B7%E5%93%88%E7%BB%B4%E5%B0%94 哈维尔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1198 简体PDF] || 2013-03-22 || 作者是捷克作家、剧作家，领导了捷克斯洛伐克的“[https://zh.wikipedia.org/wiki/%E5%A4%A9%E9%B5%9D%E7%B5%A8%E9%9D%A9%E5%91%BD 天鹅绒革命]”。<br>民主化转型之后，曾担任捷克总统。<br>此书包含了作者若干代表性的文章（比如：无权者的权力）。 ||
 || 二十世纪最后的革命家<br>——菲德尔·卡斯特罗传 || [https://zh.wikipedia.org/wiki/%E7%A8%8B%E6%98%A0%E8%99%B9 程映虹] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1217 简体PDF] || 2013-03-30 || 作者是历史学者，美国特拉华州立大学历史系副教授。<br>此书主要讲述古巴共产革命的历史。<br>此书曾引发古巴外交部的强烈抗议，在天朝被中宣部查禁。 ||
-|| 波尔布特传 || || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1321 简体PDF] || 2013-05-19 || 波尔布特是[https://zh.wikipedia.org/wiki/%E7%B4%85%E8%89%B2%E9%AB%98%E6%A3%89 红色高棉]的创始人之一，长期担任红色高棉的一把手。<br>在他的统治下，柬埔寨超过四分之一的人口非正常死亡，是二战后仅次于天朝大饥荒的人间惨剧。<br>俺写的[http://program-think.blogspot.com/2012/10/history-of-red-khmers.html 最"纯正"的共产主义政权——红色高棉简史]也参考了此书的部分内容。 ||
+|| 波尔布特传 || || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1321 简体PDF] || 2013-05-19 || 波尔布特是[https://zh.wikipedia.org/wiki/%E7%B4%85%E8%89%B2%E9%AB%98%E6%A3%89 红色高棉]的创始人之一，长期担任红色高棉的一把手。<br>在他的统治下，柬埔寨超过四分之一的人口非正常死亡，是二战后仅次于天朝大饥荒的人间惨剧。<br>俺写的[http://program-think.blogspot.com/2012/10/history-of-red-khmers.html 最"纯正"的共产主义政权——红色高棉简史]也参考了此书的部分内容。<br>作者是天朝官方派驻柬埔寨的联合国观察员，所以此书在谈及红色高棉罪行时，比较暧昧。 ||
 
 <hr>
 <hr>
