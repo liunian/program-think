@@ -172,9 +172,10 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 铭记天安门 || [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!884 简体PDF] || 2012-05-25 || 作者Robin Munro是人权组织观察员。<br>6月3日夜间到次日凌晨4点，他在广场周边目睹了党国的血腥镇压。 ||
 || 六四日记<br>——广场上的共和国 || [https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7 封从德] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1122 繁體PDF] || 2013-02-02 || 封从德是六四运动中的学生领袖，通缉名单之一。<br>此书详细记录了他参与六四运动的整个过程。<br>俺在写《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》的过程中，也参考了它的某些内容。 ||
 || 黄雀行动 || 江迅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!886 简体PDF] || 2012-05-25 || 六四运动被血腥镇压之后，朝廷鹰犬在大肆搜捕参与民主运动的骨干分子。<br>一些勇敢的香港人组织了秘密渠道，帮助民运人士逃离大陆，代号“黄雀行动”。 ||
-|| 关键时刻<br>——李鹏日记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!864 简体CHM] || 2012-04-05 || 此书从保守派的视角，叙述了六四运动期间高层的动态。<br>在此书中，李鹏这家伙处处不忘开脱自己。 ||
+|| 关键时刻<br>——李鹏日记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!864 简体CHM] || 2012-04-05 || 此书从保守派的视角，叙述了六四运动期间高层的动态。<br>在此书中，李鹏这家伙到处为自己开脱。 ||
 || 驚心動魄的五十六天 || 国家教委<br>思想政治工作司 || [http://www.64memo.com/b5/2.htm 繁體在線版] || || 此书是朝廷官方出版滴，看的时候要 *小心被洗脑* 。<br>这个在线阅读链接，是繁体的“香港注译本”。 ||
 || 1989年北京制止动乱平息反革命暴乱纪事 || 北京市委办公厅 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1109 简体PDF (扫描版)] || 2013-01-18 || 此书是朝廷官方出版滴，看的时候要 *小心被洗脑* 。 ||
+|| 陈希同亲述<br>——众口铄金难铄真 || [https://zh.wikipedia.org/wiki/%E5%A7%9A%E7%9B%91%E5%A4%8D 姚监复] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1336 繁體PDF] || 2013-06-10 || 作者是天朝知识分子，曾任国务院发展研究中心某研究室主任。<br>此书是他与[https://zh.wikipedia.org/wiki/%E9%99%88%E5%B8%8C%E5%90%8C 陈希同]八次长谈之后，整理的谈话记录。<br>陈希同企图通过此书，替自己在六四运动的行为辩护。 ||
 
 ==== 1.3.1.3 文革时期 ====
 
