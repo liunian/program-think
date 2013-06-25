@@ -184,7 +184,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 文化大革命的起源 ||  [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔]<br>(中文名：马若德) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1215 简体PDF (扫描版 第1卷)]<br>[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1216 简体PDF (扫描版 第2卷)] || 2013-03-30 || 作者是历史及政治学者、中国问题专家，现为哈佛教授。<br>此书堪称作者的代表作，共三卷。目前只找到头两卷的中文版。<br>此书着重介绍1956-1965年的党史，通过分析党内高层分歧来解答“文革的起源问题”。 ||
 || 毛泽东最后的革命 || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (中文名：马若德)<br>& 沈迈克 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!994 简体PDF] || 2012-12-09 || 这本书2009年才出版，比较新。两位作者都是老外。<br>麦克法夸尔是历史及政治学者、中国问题专家，现为哈佛教授。<br>此书号称是西方学者写出来的，最权威的文革研究著作。<br>书中不但叙述了历史事件，还解释了相关政治人物的动机。 ||
 || 文化大革命十年史 || 高皋 & [https://zh.wikipedia.org/wiki/%E4%B8%A5%E5%AE%B6%E5%85%B6 严家其] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1025 简体PDF (扫描版)] || 2012-12-10 || 两位作者都是中国社会科学院的学者。严家其在六四事件后流亡美国。<br>此书是700多页的大部头，记述了文革期间的所有重大事件。 ||
-|| 红卫兵档案 || 吴过 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!868 简体PDF] || 2012-04-06 || 详细介绍了文革中红卫兵运动的兴衰。 ||
+|| 形形色色的造反<br>——紅衛兵精神素質的形成及演變 || [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1344 繁體PDF (掃描版)] || 2013-06-22 || 作者是中国社科院哲学所研究员。<br>这是一本比较详细的关于红卫兵运动的著作。<br>PDF版本由热心网友分享，特此鸣谢。 ||
+|| 红卫兵档案 || 吴过 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!868 简体PDF] || 2012-04-06 || 此书比较通俗地介绍了文革中红卫兵运动的兴起和衰落。 ||
 || 文革研究 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!869 简体PDF] || 2012-04-06 || 严格来说，这不是一本书，而是几篇文革相关的研究文章的汇总。 ||
 || 遇罗克之遗作与回忆 || 徐晓 & 丁东 & [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1173 简体PDF (扫描版)] || 2013-03-16 || [https://zh.wikipedia.org/wiki/%E9%81%87%E7%BD%97%E5%85%8B 遇罗克]是文革时期的一个小人物。<br>他写了《出身论》批判当时盛行的“血统论”，在国内造成很大影响。<br>1968年被捕，1970年被当作反革命分子处决。<br>此书收集了遇罗克本人的多篇文章以及相关的一些评论文章（包括攻击遇罗克的）。 ||
 || 牛鬼蛇神录<br>——文革囚禁中的精灵 || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯]<br>(原名：杨羲光) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1014 简体PDF] || 2012-12-09 || 杨小凯是天朝知名的经济学家（已故）。<br>文革期间他写了知名的大字报《中国向何处去》，引起轰动并因此被关押多年。<br>此书写的是他的狱中难友。 ||
@@ -212,6 +213,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 十四万言书<br>——致人民日报编辑部信 || [https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭]<br>(原名：彭令昭) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1111 简体PDF] || 2013-02-01 || 林昭是北大才女，曾任北大校刊《未名湖》编辑和《北大诗刊》编辑。1957年“反右”期间被划为右派。<br>1960年在针砭时弊的《星火》杂志上发表长诗《海鸥之歌》和《普鲁米修斯受难之日》，同年10月被逮捕。<br>1962年初保外就医，与黄政共同起草了《中国自由青年战斗同盟》的纲领和章程。<br>当年底再度被捕，1968年被枪决。<br>她在狱中坚持自己的信仰，写了20万字的血书与日记。这本十四万言书是其中之一。 ||
 || 林昭，不再被遗忘 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1110 简体PDF (扫描版)] || 2013-02-01 || 此书是关于[https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭]的纪念文章的合集。<br>PDF版本由热心网友分享，特此鸣谢。 ||
 || 中华民族的自由女神<br>——林昭罹难40年纪念文集 || (多人) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1112 简体PDF] || 2013-02-01 || 此书是关于[https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭]的纪念文章的合集。<br>PDF版本由热心网友分享，特此鸣谢。 ||
+|| 祭坛上的圣女<br>——林昭传 || 赵锐 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1341 简体PDF] || 2013-06-22 || 此书详细介绍了林昭的生平和家庭背景。<br>PDF版本由热心网友分享，特此鸣谢。 ||
 
 ==== 1.3.1.6 “土改”运动 ====
 
@@ -319,8 +321,10 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 火与冰 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1028 简体PDF] || 2012-12-11 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>这是余杰正式出版的第一本书，里面包含了政治及文化方面的随笔。<br>PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
 || 致帝国的悼词<br>——中国大陆的自由状况及前景 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1027 简体PDF] || 2012-12-11 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
 || 关于中国的一百个常识 || [https://zh.wikipedia.org/wiki/%E9%99%88%E7%A0%B4%E7%A9%BA 陈破空]<br>(原名：陈劲松) || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1310 简体CHM] || 2013-05-13 || 作者是流亡美国的政治异议人士、作家。<br>曾经因参与“八六学潮”和“六四运动”而两度入狱。<br>此书介绍了各种政治、历史、社会方面的常识，也反驳了真理部惯用的谬论。 ||
+|| 通往比傻帝国 || [https://zh.wikipedia.org/wiki/%E5%86%89%E4%BA%91%E9%A3%9E 冉云飞] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1342 简体PDF (扫描版)] || 2013-06-22 || 作者是天朝作家，民主活动人士。曾因“涉嫌煽动颠覆国家政权”的罪名被警方刑拘。<br>此书是他的随笔集，主要点评天朝的社会百态。<br>书名中的“比傻”，作者是这样解释的：<br>_谁比谁更聪明，不是聪明本身就能够定夺的，而是因着无上的权力，才能够变得“更聪明”。推尔广之，大臣不可能比皇帝聪明，各级官员随着等级的不同，下级始终比上级更愚蠢一些，直到最愚蠢的底层亦既广大的民众。_<br>PDF版本由热心网友分享，特此鸣谢。 ||
 || 王怡文集 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%A1 王怡] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1315 简体CHM] || 2013-05-19 || 作者是天朝的青年学者、独立中文笔会理事。曾是“关天茶舍”版主。<br>此书涵盖作者在2007年9月之前发表的各种政论，由百度贴吧的多位网友收集整理。<br>CHM版本由热心网友分享，特此鸣谢。 ||
 || 血纪 || 孔令平 || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1312 简体PDF] || 2013-05-19 || 作者是重庆“右派”作家，此书讲述他遭受历次政治运动的悲惨遭遇。<br>全书分“上中下”三集。上集从中共夺权写到文革，中集写文革，下集写文革后到2009年。<br>PDF版本由热心网友分享，特此鸣谢。 ||
+|| 偽民主派賣港實錄 || [https://zh.wikipedia.org/wiki/%E9%BB%83%E6%AF%93%E6%B0%91 黄毓民] || [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1343 繁體PDF] || 2013-06-22 || 作者是香港知名主持人，立法会议员，绰号“丐帮帮主”。<br>曾经参与创建香港反对派政党“社民连”和“人民力量”。<br>PDF版本由热心网友分享，特此鸣谢。 ||
 
 == 1.4 美国 ==
 
