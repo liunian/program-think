@@ -323,6 +323,28 @@ Django 完全支持前面提到的 Jython 运行环境，可以运行在任何 J
 
 又一个重型的 Web 开发框架，名气仅次于 Django。
 
+==== [http://www.tornadoweb.org/ Tornado] ====
+
+这是 FriendFeed 开发的 Web 框架。FriendFeed 被 Facebook 收购之后，该框架被开源。
+
+==== [http://flask.pocoo.org/ Flask] ====
+
+这是一个很轻量级的 Web 框架，但是扩展性很好。
+
+代码示例
+{{{
+# 用 Flask 写 Hello world
+from flask import Flask
+app = Flask(__name__)
+ 
+@app.route("/")
+def hello():
+    return "Hello World!"
+ 
+if __name__ == "__main__":
+    app.run()
+}}}
+
 == 4.4 Web前端 / JS整合 ==
 
 ==== [http://pyjs.org/ Pyjamas / pyjs] ====
