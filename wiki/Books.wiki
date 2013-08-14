@@ -155,7 +155,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 第二性 || The Second Sex || [https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%92%99%C2%B7%E6%B3%A2%E5%A8%83 西蒙·波伏娃] || 简体PDF (扫描版) || 2013-04-10 || 作者是法国作家，女权运动的领袖人物，哲学家[https://zh.wikipedia.org/wiki/%E8%AE%93-%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%89%B9 萨特]的伴侣。<br>此书主要阐述女性弱势的事实及原因分析。<br>内容涉及文学、历史、社会学、生物学、医学等多方面，堪称女权运动的“圣经”。 ||
 || 女权辩护<br>——关于政治和道德问题的批评 || A Vindication of the Rights of Woman<br>——with Strictures on Political and Moral Subjects || [https://zh.wikipedia.org/wiki/%E7%8E%9B%E4%B8%BD%C2%B7%E6%B2%83%E6%96%AF%E9%80%9A%E5%85%8B%E6%8B%89%E5%A4%AB%E7%89%B9 玛丽·沃斯通克拉夫特] || 简体PDF || 2013-04-10 || 作者是18世纪英国作家，本书是女权运动最早的著作之一。<br>作者在书中强调了女性教育的重要性。 ||
 || 女性的奥秘 || The Feminine Mystique || [https://zh.wikipedia.org/wiki/%E8%B4%9D%E8%92%82%C2%B7%E5%BC%97%E9%87%8C%E4%B8%B9 贝蒂·弗里丹] || 简体PDF (扫描版) || 2013-04-10 || 作者是美国作家，此书是其代表作。<br>此书主要分析美国妇女普遍存在的心理问题，并探求解决之道。<br>此书对20世纪60-70年代的妇女解放运动有重大影响。<br>PDF版本由热心网友分享，特此鸣谢。  ||
-
+|| 三个原始部落的性别与气质 || Sex and Temperament in Three Primitive Societies || [https://zh.wikipedia.org/wiki/%E7%91%AA%E6%A0%BC%E9%BA%97%E7%89%B9%C2%B7%E7%B1%B3%E5%BE%B7 玛格丽特·米德] || 简体PDF (扫描版) || 2013-08-13 || 作者是美国知名的人类学家，曾获总统自由勋章。<br>作者考察了新几内亚的三个原始部落，发现地理位置相近的三个部落，在文化方面（尤其是性别方面）有显著差异。<br>作者在此书中提出了“性别文化决定论”的学术观点。 ||
 
 == 1.2 政治小说 ==
 
