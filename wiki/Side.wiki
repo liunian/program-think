@@ -23,7 +23,6 @@
 俺Blog的订阅地址是：
 
 <a href="http://feeds2.feedburner.com/programthink" title="http://feeds2.feedburner.com/programthink"><img src="http://feedburner.google.com/fb/images/pub/feed-icon32x32.png" alt="http://feeds2.feedburner.com/programthink" border="0" /></a>　
-<a href="http://fusion.google.com/add?source=atgs&feedurl=http://feeds2.feedburner.com/programthink" title="订阅到Google"><img src="http://buttons.googlesyndication.com/fusion/add.gif" alt="订阅到Google" border="0" /></a>
 
 通过订阅俺的博客，大伙儿可以定期获取翻墙的最新动态。
 
@@ -36,13 +35,7 @@
 
 此教程通俗易懂，包含了GFW的知识、各种翻墙方式、常用翻墙软件及下载地址。
 
-
-如果无法打开上述链接，请用[http://fusion.google.com/add?source=atgs&feedurl=http://feeds2.feedburner.com/programthink Google Reader订阅]并查看。
-
-切记用 *HTTPS* 的方式访问Google Reader，以规避GFW的敏感词过滤。具体网址是：
-
-<a href="https://www.google.com/reader/"><font color="red">https</font>://www.google.com/reader/</a>
-
+如果无法打开上述链接，可以订阅俺博客，就可以看到博客中的各种翻墙教程。
 
 另外，俺开设了一个具有自动回复功能的邮箱 <font color="red">*help_gfw@yahoo.com*</font>
 
