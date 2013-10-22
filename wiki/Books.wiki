@@ -189,9 +189,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 1.2 政治小说 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!909 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/oSHaVT0M4j/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E5%B0%8F%E8%AF%B4 Dropbox]
-
 （某些政治小说描写的是特定国家，归入对应国家的分类；某些中国的政治小说描写的是特定的历史背景，归入“中共历史”的对应分类）
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!909 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/oSHaVT0M4j/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E5%B0%8F%E8%AF%B4 Dropbox]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 一九八四 || Nineteen Eighty-Four || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] || 简体PDF<br>简体EPUB<br>简体TXT<br>英文EPUB<br>英文PDF || 2010-09-07<br>2013-09-15<br>2012-03-08<br>2013-09-13<br>2012-01-11 || 这本书表面上是科幻小说，实质上是很深刻的政治小说。<br>此书名列“反乌托邦三部曲”之首。在20世纪的政治小说中，此书完全能排进 TOP10<br>书中非常彻底地揭露了共产运动本质，还包括极权政府对民众洗脑的伎俩。<br>*绝对值得一读！* 俺的书评在“[http://program-think.blogspot.com/2009/06/book-review-1984.html 这里]”。<br>英文EPUB版本由热心网友分享，特此鸣谢。 ||
@@ -650,9 +650,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 4.3.1 迦太基战争 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1188 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/M26lFgcUiE/%E5%86%9B%E4%BA%8B/%E5%8F%A4%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%BF%A6%E5%A4%AA%E5%9F%BA%E6%88%98%E4%BA%89 Dropbox]
-
 （[https://zh.wikipedia.org/wiki/%E8%BF%A6%E5%A4%AA%E5%9F%BA 迦太基战争]又称为“布匿战争”，是古罗马与迦太基争夺地中海霸权的长期战争）
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1188 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/M26lFgcUiE/%E5%86%9B%E4%BA%8B/%E5%8F%A4%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%BF%A6%E5%A4%AA%E5%9F%BA%E6%88%98%E4%BA%89 Dropbox]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 战略之父<br>——汉尼拔的军事生涯 || Father of Strategy<br>——The Military Life of Hannibal || [https://en.wikipedia.org/wiki/Trevor_N._Dupuy 杜普伊] || 简体PDF || 2013-02-05 || 此书着重介绍汉尼拔本人的军事才能，内容相对简略。 ||
@@ -725,3 +725,161 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 文殇 || [https://zh.wikipedia.org/zh/%E8%A2%81%E7%BA%A2%E5%86%B0 袁红冰]<br>(原名：袁红兵) || 简体CHM || 2013-06-03 || 作者是持不同政见者、作家。因参与64运动被逮捕。2004年流亡海外。<br>此书是他的自传体小说。 ||
 || 沉沦的圣殿<br>——中国20世纪70年代地下诗歌遗照 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] 主编 || 简体PDF || 2013-01-17 || 编者是流亡作家，专门为社会底层呐喊。<br>这是他主编的文集，讲述70年代的理想主义者和他们所写的地下诗歌。<br>此书1999年刚出版时畅销，但随即被新闻出版总署宣布为“反动书籍”，相关印刷厂被查抄。 ||
 || 《让子弹飞》喻意图文解释精华版 || (不详) || 简体CHM || 2013-02-05 || 此CHM是某网友主动分享，内容是解读姜文的电影《让子弹飞》中的各种政治隐喻。 ||
+
+
+<hr>
+<hr>
+
+
+= 8 IT类 =
+
+（IT领域的发展太快，导致书籍的生命周期变短。所以俺尽量挑选那些生命周期比较长的电子书。）
+
+== 8.1 软件开发 ==
+
+=== 8.1.1 软件工程 ===
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1493 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/pgZb7F9Jwp/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 人月神话 || The Mythical Man-Month || [https://en.wikipedia.org/wiki/Fred_Brooks Frederick Brooks] || 简体EPUB<br>英文CHM || 2013-10-20<br>2013-10-20 || 作者是IT领域的大牛，曾获图灵奖。<br>关于此书，俺的书评在“[http://program-think.blogspot.com/2009/03/book-review-mythical-man-month.html 这里]”。<br>此书最早出版与1975年，网盘上的是20周年纪念版（1995年版）。可见此书历久不衰。 ||
+|| 设计模式<br>——可复用面向对象软件的基础 || Design Patterns<br>——Elements of Reusable OO Software || Gang of Four<br>（模式四人帮） || 简体PDF<br>英文CHM || 2013-10-21<br>2013-10-20 || “设计模式”俺就不用介绍了吧，不了解的同学先看[https://en.wikipedia.org/wiki/Design_Patterns 维基百科]。<br>此书是第一本关于“设计模式”的书，堪称奠基之作。<br>Gang of Four 分别是：Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides ||
+|| 重构<br>——改善既有代码的质量 || Refactoring<br>——Improving the Design of Existing Code || [https://en.wikipedia.org/wiki/Martin_Fowler Martin Fowler] & [https://en.wikipedia.org/wiki/Kent_Beck Kent Beck] 等 || 英文CHM || 2013-10-20 || 此书有多位作者，头两个在软件工程领域名气很大（接触过敏捷开发的同学，应该听说过这俩）。<br>此书与前面那本“设计模式”，号称是软工领域双雄。 ||
+|| 人件 || Peopleware<br>——Productive Projects and Teams || [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco] & [https://en.wikipedia.org/wiki/Tim_Lister Timothy Lister] || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || Tom Demarco是编程界的元老，曾在70年代提出“结构化分析方法”。<br>此书偏重管理方面。书名的意思是：软件开发过程中，不光要注重软件和硬件，还要注重“人件”。<br>非技术出身的软件公司高管，一定要看此书。 ||
+|| 最后期限 || The Deadline<br>——A Novel about Project Management || [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco] || 简体PDF || 2013-10-20 || Tom Demarco是编程界的元老，曾在70年代提出“结构化分析方法”<br>此书很独特——以小说的形式，来介绍项目管理。 ||
+
+=== 8.1.2 编程语言 ===
+
+（本章节放置跟“具体编程语言相关”的编程类电子书）
+
+==== 8.1.2.1 C++ ====
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1512 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ZEsa0K8znw/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C%2B%2B Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| C++程序设计语言 || The C++ Programming Language || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF (special edition) || 2013-10-21 || 作者是C++之父。<br>光凭作者的角色，足以说明此书的份量。<br>在C++社区，此书简称 TCPPPL ||
+|| Effective C++<br>——改善程序与设计的55个具体做法 || Effective C++<br>——55 Specific Ways to Improve Your Programs and Designs || [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文CHM (3rd edition) || 2013-10-21 || 作者是知名的C++写手，出版过好几本畅销的C++读物（包括“ Effective”系列）。<br>此书列举了C++编程中的55个注意事项，可以帮新手避开各种陷阱。 ||
+|| More Effective C++<br>——35个改善编程与设计的有效方法 || More Effective C++<br>——35 New Ways to Improve Your Programs and Designs || [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文PDF || 2013-10-21 || 作者是知名的C++写手，出版过好几本畅销的C++读物（包括“ Effective”系列）。<br>此书是对《Effective C++》的补充，列举了35个注意事项。 ||
+|| C++ 编程规范<br>——101 条规则、准则与最佳实践 || C++ Coding Standards<br>——101 Rules, Guidelines, and Best Practices || [https://en.wikipedia.org/wiki/Herb_Sutter Herb Sutter] &<br>[https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 英文CHM || 2013-10-20 || 两位作者都是C++社区的大牛。<br>Herb Sutter是C++标准委员会主席（光看头衔就知道有多牛了）。<br>Andrei Alexandrescu是C++领域的牛人，另一本名著《Modern C++ Design》的作者。<br>此书不局限于编码规范，还涉及其它几个方面（比如类设计、性能、等） ||
+|| C++标准库<br>——自修教程与参考手册 || C++ Standard Library<br>——A Tutorial and Reference || Nicolai Josuttis || 英文CHM || 2013-10-20 || 作者是C++领域的牛人，另一本名著《C++ Templates——The Complete Guide》的作者。<br>顺便说一下，此书中文版的译者是侯捷（能让侯捷出手翻译，必定是好书） ||
+|| C++ Primer || C++ Primer || [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman] 等 || 英文CHM (4th edition) || 2013-10-20 || 第一作者Lippman是C++标准委员会成员，C++领域的牛人。<br>虽然书名叫“Primer”，不过俺觉得此书更适合“进阶”而不是“入门”。 ||
+|| 深度探索C++对象模型 || Inside the C++ Object Model || [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman] || 英文CHM || 2013-10-20 || 作者是C++标准委员会成员，C++领域的牛人。<br>此书着重介绍底层（编译器层面）的运作机制，适合于进阶。<br>顺便说一下，此书中文版的译者是侯捷（能让侯捷出手翻译，必定是好书） ||
+
+==== 8.1.2.2 Python ====
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1513 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/wAhOnvKLjy/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Python Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 深入Python || Dive into Python || [https://en.wikipedia.org/wiki/Mark_Pilgrim_%28software_developer%29 Mark Pilgrim] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || 这大概是影响力最大的一本Python入门读物。<br>作者把该书以GPL方式发布，大伙儿可以任意复制此书。<br>缺点是出版的时间有点早，那时Python2刚发布没多久。<br>后来作者出了更新的版本《深入 Python3》。 ||
+|| 深入Python3 || Dive into Python3 || [https://en.wikipedia.org/wiki/Mark_Pilgrim_%28software_developer%29 Mark Pilgrim] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || 这是专门针对Python3的入门教程。<br>书中花了不少笔墨来介绍如何从Python2迁移到Python3。 ||
+||  || Learning Python || Mark Lutz || 英文EPUB (5th edition) || 2013-10-21 || 作为入门教程，此书已经出到第5版。<br>该版本是2013年新鲜出炉的，（从版本上）覆盖了Python2.7和Python3.3。 ||
+||  || Python Cookbook || David Beazley || 英文PDF (3rd edition) || 2013-10-21 || 此书的第3版也是2013年新鲜出炉的。<br>此书定位入门之后的“进阶”，面向已经有一定经验的Python程序猿。 ||
+
+==== 8.1.2.2 Java ====
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1514 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/eSL9ZTyGH_/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| Java 编程思想 || Thinking in Java || [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || 作者是知名的IT专栏作家，出版过C++、Java、Python的“Thinking in”系列。<br>不同于很多庸俗的Java入门书仅仅介绍语法，此书还介绍Java更深层面的东西。 ||
+
+=== 8.1.3 算法和数据结构 ===
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1500 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/q6pX8DLhuP/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84 Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 算法导论 || Introduction to Algorithms || Thomas Cormen & Charles Leiserson & Ronald Rivest & Clifford Stein || 英文PDF (2nd edition) || 2013-10-21 || 此书出自MIT，是最经典的算法类教材，被各国的很多大学采用。<br>俺上传的是第2版，目前最新的是第3版。 ||
+|| 编程珠玑 || Programming Pearls || [https://en.wikipedia.org/wiki/Jon_Bentley Jon Bentley] || 英文PDF (2nd edition)<br>简体PDF (第2版 扫描版) || 2013-10-21<br>2013-10-21 || 这又是名气很大的一本算法书，不亚于《算法导论》。<br>书中内容大都来自作者在《Communications of the ACM》杂志上的“Programming Pearls”专栏文章。<br>所以此书在内容组织上跟《算法导论》迥异，各个章节相对独立。 ||
+
+=== 8.1.4 操作系统相关 ===
+
+（本章节放置跟“具体操作系统相关”的编程类电子书）
+
+==== 8.1.4.1 UNIX 和 Linux ====
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1496 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/quNBvv8dj7/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/Unix%20%E5%92%8C%20Linux Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| UNIX编程艺术 || The Art of UNIX Programming || [https://en.wikipedia.org/wiki/Eric_S._Raymond Eric Raymond]<br>(埃里克·雷蒙德) || 简体PDF || 2013-10-20 || 作者是知名黑客，开源运动的旗手。<br>这是他的代表作，书名简称“TAOUP”。<br>此书重点不在“编程”，而是介绍UNIX的哲学、设计思想、理念（俺觉得这些更重要，也更持久）。<br>他的另一个代表作是《五部曲》（俺也上传了）。 ||
+|| UNIX环境高级编程 ||  Advanced Programming in the UNIX Environment || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens](理查德·史蒂文斯) & Stephen Rago || 英文CHM (2nd edition) || 2013-10-21 || 第一作者是UNIX领域和网络领域的大牛，著有多部畅销的技术书籍。<br>此书被誉为“UNIX编程的圣经”。<br>第2版是2005年出的，补充了一些新的技术。<br>今天时间仓促，过几天把中文版也放上来。 ||
+|| || UNIX Systems Programming<br>——Communication, Cocurrency, and Threads || Kay Robbins & Steven Robbins || 英文CHM || 2013-10-21 || 这本主要是讲UNIX环境下的并发编程和进程间通讯。 ||
+
+==== 8.1.4.2 Windows ====
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1498 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/y_ZiHG1wZx/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/Windows Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| Windows核心编程 || Jeffrey Richter || [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] || 英文CHM || 2013-10-21 || 在Win32系统编程中，这可能是影响力最大的一本。<br>当年俺也是看这本书，从Win16编程转型到Win32编程。<br>今天时间仓促，过几天把中文版也放上来。 ||
+
+=== 8.1.5 网络相关 ===
+
+（本章节放置跟“网络相关”的编程类电子书）
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1516 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/MiTR4A7UG-/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3 Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| UNIX网络编程<br>(共两卷) || UNIX Network Programming Volume 1<br>——The Sockets Networking API || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens]<br>(理查德·史蒂文斯) || 英文PDF || 2013-10-20 || 作者是UNIX领域和网络领域的大牛，著有多部畅销的技术书籍。<br>今天时间仓促，先上传卷1。 ||
+|| C++网络编程<br>(共两卷) || C++ Network Programming || [https://en.wikipedia.org/wiki/Douglas_C._Schmidt Douglas Schmidt] || 卷 1 英文CHM<br>卷2 英文CHM || 2013-10-21<br>2013-10-21 || 这两卷主要讲如何用ACE（Adaptive Communication Environment）进行网络编程。<br>ACE是一个很老牌的C++通讯库，既可以用来做主机间的网络通讯，也可以用于本机的IPC。<br>本书的作者也是ACE的主要开发者。 ||
+
+=== 8.1.6 (其它) ===
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1517 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/O6PgU3SkTO/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%28%E5%85%B6%E5%AE%83%29 Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 程序员修炼之道<br>——从小工到专家 || Pragmatic Programmers<br>——From Journeyman to Master || [https://en.wikipedia.org/wiki/Andy_Hunt_%28author%29 Andrew Hunt] & [https://en.wikipedia.org/wiki/Dave_Thomas_%28programmer%29 David Thomas] || 英文PDF<br>简体PDF (扫描版) || 2013-10-21<br>2013-10-21 || 如果一个新手程序员想要成长，强烈建议看此书。<br>此书不限于“编码”范畴，还涉及到其它几个方面。 ||
+|| 代码大全<br>(软件建构之道) || Code Complete || [https://en.wikipedia.org/wiki/Steve_McConnell Steve McConnell] || 英文CHM (2nd edition)<br>简体PDF || 2013-10-20<br>2013-10-20 || 此书号称是“软件开发人员必备工具书”。<br>书中涵盖了编写代码的各种基本功（真的是非常基本）。<br>如果缺乏这些基本功，你就写不出像样的代码。 ||
+
+== 8.2 黑客文化 ==
+
+（考虑到“黑客”已经被严重误解，俺单独放一个目录介绍黑客文化。希望大伙儿搞清楚：“黑客”与“骇客”是有天壤之别的）
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1485 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/NKIzqLB3-f/IT/%E9%BB%91%E5%AE%A2%E6%96%87%E5%8C%96 Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 黑客与画家 || Hackers and Painters || [https://en.wikipedia.org/wiki/Paul_Graham Paul Graham]<br>(保罗·格雷汉姆) || 简体PDF (扫描版)<br>简体EPUB || 2013-04-06<br>2013-10-20 || 作者是知名Lisp黑客，和Robert Morris（另一个牛黑客）共同创办了Viaweb（该公司被 Yahoo 高价收购，成为Yahoo Store）。<br>他成立的风投（Y Combinator）在硅谷很有影响力，资助了大批技术型创业公司。 ||
+|| 五步曲 ||  || [https://en.wikipedia.org/wiki/Eric_S._Raymond Eric Raymond]<br>(埃里克·雷蒙德) || 简体PDF || 2013-10-20 || 作者是知名黑客，开源运动的旗手。<br>这是他的代表作，分别是：《黑客简史》《大教堂与市集》、《如何成为一名黑客》、《开拓智域》、《魔法大锅炉》。<br>他的另一个代表作是《UNIX编程艺术》（俺也上传了）。 ||
+
+== 8.3 信息安全 ==
+
+（俺在博客上写了不少信息安全的扫盲教程，如果不分享几本相关的书，有点说不过去）
+
+=== 8.3.1 社会工程学 ===
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1502 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/VftqeGFNIa/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6 Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 欺骗的艺术 || The Art of Deception<br>——Controlling the Human Element of Security || [https://en.wikipedia.org/wiki/Kevin_Mitnick Kevin Mitnick]<br>(凯文·米特尼克) || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || 作者号称"头号黑帽黑客"，其经历极具传奇色彩，比如15岁就侵入北美防空指挥系统。<br>此书是社会工程学领域最经典的著作（没有之一）。<br>没听说过“社会工程学”的同学，可以看俺博客的扫盲教程（在“[http://program-think.blogspot.com/2009/05/social-engineering-0-overview.html 这里]”） ||
+
+=== 8.3.2 密码学 ===
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1503 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/1yVz9qz4hv/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%AF%86%E7%A0%81%E5%AD%A6 Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 密码学原理与实践 || Cryptography<br>——Theory and Practice || [https://en.wikipedia.org/wiki/Doug_Stinson Douglas Stinson] || 简体PDF (第2版) || 2013-10-21 || 此书是密码学领域的经典教材。<br>第2版稍微有点老，目前最新的是第3版。<br>阅读此书需要一定的数学基础。 ||
+|| 应用密码学<br>——协议、算法与C源程序 || Applied Cryptography<br>——Protocols, Algorithms, and Source Code in C || Bruce Schneier || 英文PDF (2nd edition) || 2013-10-21 || 这本也是经典的密码学著作，还是第4届[https://zh.wikipedia.org/zh/Jolt%E5%A5%96 Jolt大奖]获奖图书。<br>此书附带大量源代码（光压缩包就5兆）<br>阅读此书需要一定的数学基础。 ||
+
+== 8.4 操作系统 ==
+
+=== 8.4.1 UNIX 和 Linux ===
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1528 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/SZtjkgI0e1/IT/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/UNIX%20%E5%92%8C%20Linux Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| UNIX 操作系统设计 ||  The Design of the UNIX Operating System || Maurice Bach || 简体PDF || 2013-10-21 || 作者长期在AT&T公司贝尔实验室（UNIX发源地）工作。<br>此书的内容主要来自作者在80年代讲授的一门课程<br>此书有助于了解UNIX内核的运作机制（进程调度、内存管理、文件系统、等等）。 ||
+|| 深入理解LINUX内核 || Understanding the Linux Kernel || Daniel Bovet & Marco Cesati || 英文PDF (3rd edition) || 2013-10-21 || 此书有助于了解Linux内核的运作机制（进程调度、内存管理、文件系统、等等）。<br>此书的第3版对应Linux内核2.6版本。 ||
+
+== 8.5 网络 ==
+
+== 8.5.1 网络协议 ==
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1504 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/z--sDGv6mi/IT/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| TCP-IP详解<br>(共三卷) || TCP-IP Illustrated || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens]<br>(理查德·史蒂文斯) || 卷1 英文CHM<br>卷1 简体PDF || 2013-10-21<br>2013-10-21 || 作者是UNIX领域和网络领域的大牛，著有多部畅销的技术书籍。<br>关于TCP-IP协议族的书籍中，这三卷大概是影响力最大的。<br>今天时间仓促，过几天把后面两卷也放上来。 ||
+
+== 8.6 IT 公司 ==
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1492 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ELUERyJ1ja/IT/IT%20%E5%85%AC%E5%8F%B8 Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 浪潮之巅 || On The Top of Tides || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_(Google) 吴军] || 简体PDF (前18章，缺4章) || 2013-10-22 || 此书每一章介绍一家名垂IT史的公司，从中可以了解信息产业的发展史及其特色文化。<br>作者貌似在写第2版，还没写完。<br>等第2版完成，俺也上传到网盘。 ||
+|| Borland 传奇 || || 李维 || 简体CHM || 2013-10-22 || 此书介绍了 Borland 的传奇经历，也可以从此书一窥微软的发家史。<br>90后的程序员可能对Borland所知不多。但是俺这个年龄的程序员对Borland可是如雷贯耳。 ||
