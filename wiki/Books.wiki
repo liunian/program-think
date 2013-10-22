@@ -742,10 +742,11 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1493 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/pgZb7F9Jwp/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B Dropbox]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 人月神话 || The Mythical Man-Month || [https://en.wikipedia.org/wiki/Fred_Brooks Frederick Brooks] || 简体EPUB<br>英文CHM || 2013-10-20<br>2013-10-20 || 作者是IT领域的大牛，曾获图灵奖。<br>关于此书，俺的书评在“[http://program-think.blogspot.com/2009/03/book-review-mythical-man-month.html 这里]”。<br>此书最早出版与1975年，网盘上的是20周年纪念版（1995年版）。可见此书历久不衰。 ||
+|| 人月神话 || The Mythical Man-Month || [https://en.wikipedia.org/wiki/Fred_Brooks Frederick Brooks] || 简体EPUB<br>英文CHM || 2013-10-20<br>2013-10-20 || 作者是IT领域的大牛，曾获图灵奖。<br>关于此书，俺的书评在“[http://program-think.blogspot.com/2009/03/book-review-mythical-man-month.html 这里]”。<br>此书最早出版于1975年，网盘上的是20周年纪念版（1995年版）。可见此书历久不衰。 ||
 || 设计模式<br>——可复用面向对象软件的基础 || Design Patterns<br>——Elements of Reusable OO Software || Gang of Four<br>（模式四人帮） || 简体PDF<br>英文CHM || 2013-10-21<br>2013-10-20 || “设计模式”俺就不用介绍了吧，不了解的同学先看[https://en.wikipedia.org/wiki/Design_Patterns 维基百科]。<br>此书是第一本关于“设计模式”的书，堪称奠基之作。<br>Gang of Four 分别是：Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides ||
 || 重构<br>——改善既有代码的质量 || Refactoring<br>——Improving the Design of Existing Code || [https://en.wikipedia.org/wiki/Martin_Fowler Martin Fowler] & [https://en.wikipedia.org/wiki/Kent_Beck Kent Beck] 等 || 英文CHM || 2013-10-20 || 此书有多位作者，头两个在软件工程领域名气很大（接触过敏捷开发的同学，应该听说过这俩）。<br>此书与前面那本“设计模式”，号称是软工领域双雄。 ||
-|| 人件 || Peopleware<br>——Productive Projects and Teams || [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco] & [https://en.wikipedia.org/wiki/Tim_Lister Timothy Lister] || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || Tom Demarco是编程界的元老，曾在70年代提出“结构化分析方法”。<br>此书偏重管理方面。书名的意思是：软件开发过程中，不光要注重软件和硬件，还要注重“人件”。<br>非技术出身的软件公司高管，一定要看此书。 ||
+|| 代码大全<br>(软件建构之道) || Code Complete || [https://en.wikipedia.org/wiki/Steve_McConnell Steve McConnell] || 英文CHM (2nd edition)<br>简体PDF || 2013-10-20<br>2013-10-20 || 此书号称是“软件开发人员必备工具书”。<br>书中涵盖了编写代码的各种基本功（真的是非常基本）。<br>如果缺乏这些基本功，你就写不出像样的代码。 ||
+|| 人件 || Peopleware<br>——Productive Projects and Teams || [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco] & [https://en.wikipedia.org/wiki/Tim_Lister Timothy Lister] || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || Tom Demarco是编程界的元老，曾在70年代提出“结构化分析方法”。<br>此书偏重管理方面。书名想表达的意思是：软件开发过程中，不光要注重软件和硬件，还要注重“人件”。<br>非技术出身的软件公司高管，一定要看此书。 ||
 || 最后期限 || The Deadline<br>——A Novel about Project Management || [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco] || 简体PDF || 2013-10-20 || Tom Demarco是编程界的元老，曾在70年代提出“结构化分析方法”<br>此书很独特——以小说的形式，来介绍项目管理。 ||
 
 === 8.1.2 编程语言 ===
@@ -757,11 +758,11 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1512 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ZEsa0K8znw/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C%2B%2B Dropbox]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| C++程序设计语言 || The C++ Programming Language || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF (special edition) || 2013-10-21 || 作者是C++之父。<br>光凭作者的角色，足以说明此书的份量。<br>在C++社区，此书简称 TCPPPL ||
+|| C++程序设计语言 || The C++ Programming Language || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF (special edition) || 2013-10-21 || 作者是C++之父。光凭作者的角色，足以说明此书的份量。<br>在C++社区，此书简称 TCPPPL ||
 || Effective C++<br>——改善程序与设计的55个具体做法 || Effective C++<br>——55 Specific Ways to Improve Your Programs and Designs || [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文CHM (3rd edition) || 2013-10-21 || 作者是知名的C++写手，出版过好几本畅销的C++读物（包括“ Effective”系列）。<br>此书列举了C++编程中的55个注意事项，可以帮新手避开各种陷阱。 ||
 || More Effective C++<br>——35个改善编程与设计的有效方法 || More Effective C++<br>——35 New Ways to Improve Your Programs and Designs || [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文PDF || 2013-10-21 || 作者是知名的C++写手，出版过好几本畅销的C++读物（包括“ Effective”系列）。<br>此书是对《Effective C++》的补充，列举了35个注意事项。 ||
 || C++ 编程规范<br>——101 条规则、准则与最佳实践 || C++ Coding Standards<br>——101 Rules, Guidelines, and Best Practices || [https://en.wikipedia.org/wiki/Herb_Sutter Herb Sutter] &<br>[https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 英文CHM || 2013-10-20 || 两位作者都是C++社区的大牛。<br>Herb Sutter是C++标准委员会主席（光看头衔就知道有多牛了）。<br>Andrei Alexandrescu是C++领域的牛人，另一本名著《Modern C++ Design》的作者。<br>此书不局限于编码规范，还涉及其它几个方面（比如类设计、性能、等） ||
-|| C++标准库<br>——自修教程与参考手册 || C++ Standard Library<br>——A Tutorial and Reference || Nicolai Josuttis || 英文CHM || 2013-10-20 || 作者是C++领域的牛人，另一本名著《C++ Templates——The Complete Guide》的作者。<br>顺便说一下，此书中文版的译者是侯捷（能让侯捷出手翻译，必定是好书） ||
+|| C++标准库<br>——自修教程与参考手册 || The C++ Standard Library<br>——A Tutorial and Reference || Nicolai Josuttis || 英文CHM || 2013-10-20 || 作者是C++领域的牛人，另一本名著《C++ Templates——The Complete Guide》的作者。<br>顺便说一下，此书中文版的译者是侯捷（能让侯捷出手翻译，必定是好书） ||
 || C++ Primer || C++ Primer || [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman] 等 || 英文CHM (4th edition) || 2013-10-20 || 第一作者Lippman是C++标准委员会成员，C++领域的牛人。<br>虽然书名叫“Primer”，不过俺觉得此书更适合“进阶”而不是“入门”。 ||
 || 深度探索C++对象模型 || Inside the C++ Object Model || [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman] || 英文CHM || 2013-10-20 || 作者是C++标准委员会成员，C++领域的牛人。<br>此书着重介绍底层（编译器层面）的运作机制，适合于进阶。<br>顺便说一下，此书中文版的译者是侯捷（能让侯捷出手翻译，必定是好书） ||
 
@@ -808,7 +809,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1498 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/y_ZiHG1wZx/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/Windows Dropbox]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| Windows核心编程 || Jeffrey Richter || [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] || 英文CHM || 2013-10-21 || 在Win32系统编程中，这可能是影响力最大的一本。<br>当年俺也是看这本书，从Win16编程转型到Win32编程。<br>今天时间仓促，过几天把中文版也放上来。 ||
+|| Windows核心编程 || Programming Applications for Windows || [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] || 英文CHM || 2013-10-21 || 在Win32系统编程中，这可能是影响力最大的一本。<br>当年俺也是看这本书，从Win16编程转型到Win32编程。<br>今天时间仓促，过几天把中文版也放上来。 ||
 
 === 8.1.5 网络相关 ===
 
@@ -826,11 +827,10 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 程序员修炼之道<br>——从小工到专家 || Pragmatic Programmers<br>——From Journeyman to Master || [https://en.wikipedia.org/wiki/Andy_Hunt_%28author%29 Andrew Hunt] & [https://en.wikipedia.org/wiki/Dave_Thomas_%28programmer%29 David Thomas] || 英文PDF<br>简体PDF (扫描版) || 2013-10-21<br>2013-10-21 || 如果一个新手程序员想要成长，强烈建议看此书。<br>此书不限于“编码”范畴，还涉及到其它几个方面。 ||
-|| 代码大全<br>(软件建构之道) || Code Complete || [https://en.wikipedia.org/wiki/Steve_McConnell Steve McConnell] || 英文CHM (2nd edition)<br>简体PDF || 2013-10-20<br>2013-10-20 || 此书号称是“软件开发人员必备工具书”。<br>书中涵盖了编写代码的各种基本功（真的是非常基本）。<br>如果缺乏这些基本功，你就写不出像样的代码。 ||
 
 == 8.2 黑客文化 ==
 
-（考虑到“黑客”已经被严重误解，俺单独放一个目录介绍黑客文化。希望大伙儿搞清楚：“黑客”与“骇客”是有天壤之别的）
+（考虑到“黑客”一词已经被严重误解，俺单独放一个目录介绍黑客文化。希望大伙儿搞清楚：“黑客”与“骇客”是有天壤之别的）
 
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1485 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/NKIzqLB3-f/IT/%E9%BB%91%E5%AE%A2%E6%96%87%E5%8C%96 Dropbox]
 
@@ -865,11 +865,11 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || UNIX 操作系统设计 ||  The Design of the UNIX Operating System || Maurice Bach || 简体PDF || 2013-10-21 || 作者长期在AT&T公司贝尔实验室（UNIX发源地）工作。<br>此书的内容主要来自作者在80年代讲授的一门课程<br>此书有助于了解UNIX内核的运作机制（进程调度、内存管理、文件系统、等等）。 ||
-|| 深入理解LINUX内核 || Understanding the Linux Kernel || Daniel Bovet & Marco Cesati || 英文PDF (3rd edition) || 2013-10-21 || 此书有助于了解Linux内核的运作机制（进程调度、内存管理、文件系统、等等）。<br>此书的第3版对应Linux内核2.6版本。 ||
+|| 深入理解 Linux 内核 || Understanding the Linux Kernel || Daniel Bovet & Marco Cesati || 英文PDF (3rd edition) || 2013-10-21 || 此书有助于了解Linux内核的运作机制（进程调度、内存管理、文件系统、等等）。<br>此书的第3版对应Linux内核2.6版本。 ||
 
 == 8.5 网络 ==
 
-== 8.5.1 网络协议 ==
+=== 8.5.1 网络协议 ===
 
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1504 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/z--sDGv6mi/IT/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE Dropbox]
 
