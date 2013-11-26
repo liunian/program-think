@@ -793,7 +793,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1500 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/q6pX8DLhuP/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84 Dropbox]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 算法导论 || Introduction to Algorithms || Thomas Cormen & Charles Leiserson & Ronald Rivest & Clifford Stein || 英文PDF (3nd edition) || 2013-10-21 || 此书出自MIT，是最经典的算法类教材，被各国的很多大学采用。<br>目前最新的是第3版。俺顺便也上传了此书的“教师手册”。 ||
+|| 算法导论 || Introduction to Algorithms || Thomas Cormen & Charles Leiserson & Ronald Rivest & Clifford Stein || 英文PDF (3nd edition)<br>英文CHM (2nd edition) || 2013-10-21<br>2013-10-30 || 此书出自MIT，是最经典的算法类教材，被各国的很多大学采用。<br>目前最新的是第3版。另外也顺便上传了此书的“教师手册”。 ||
 || 编程珠玑 || Programming Pearls || [https://en.wikipedia.org/wiki/Jon_Bentley Jon Bentley] || 英文PDF (2nd edition)<br>简体PDF (第2版 扫描版) || 2013-10-21<br>2013-10-21 || 这又是名气很大的一本算法书，不亚于《算法导论》。<br>书中内容大都来自作者在《Communications of the ACM》杂志上的“Programming Pearls”专栏文章。<br>所以此书在内容组织上跟《算法导论》迥异，各个章节相对独立。 ||
 
 === 8.1.4 操作系统相关 ===
