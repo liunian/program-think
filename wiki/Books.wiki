@@ -859,8 +859,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1503 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/1yVz9qz4hv/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%AF%86%E7%A0%81%E5%AD%A6 Dropbox]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 密码学原理与实践 || Cryptography<br>——Theory and Practice || [https://en.wikipedia.org/wiki/Doug_Stinson Douglas Stinson] || 简体PDF (第2版) || 2013-10-21 || 此书是密码学领域的经典教材。<br>第2版稍微有点老，目前最新的是第3版。<br>阅读此书需要一定的数学基础。 ||
-|| 应用密码学<br>——协议、算法与C源程序 || Applied Cryptography<br>——Protocols, Algorithms, and Source Code in C || Bruce Schneier || 英文PDF (2nd edition) || 2013-10-21 || 这本也是经典的密码学著作，还是第4届[https://zh.wikipedia.org/zh/Jolt%E5%A5%96 Jolt大奖]获奖图书。<br>此书附带大量源代码（光压缩包就5兆）<br>阅读此书需要一定的数学基础。 ||
+|| 密码学原理与实践 || Cryptography<br>——Theory and Practice || [https://en.wikipedia.org/wiki/Doug_Stinson Douglas Stinson] || 简体PDF (第2版 扫描版)<br>英文CHM || 2013-10-21<br>2013-10-30 || 此书是密码学领域的经典教材。<br>第2版稍微有点老，目前最新的是第3版。<br>阅读此书需要一定的数学基础。 ||
+|| 应用密码学<br>——协议、算法与C源程序 || Applied Cryptography<br>——Protocols, Algorithms, and Source Code in C || Bruce Schneier || 简体PDF (第2版 扫描版)<br>英文PDF (2nd edition) || 2013-11-26<br>2013-10-21 || 这本也是经典的密码学著作，还是第4届[https://zh.wikipedia.org/zh/Jolt%E5%A5%96 Jolt大奖]获奖图书。<br>此书附带大量源代码（光压缩包就5兆）<br>阅读此书需要一定的数学基础。 ||
 
 == 8.4 操作系统 ==
 
