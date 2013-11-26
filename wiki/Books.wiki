@@ -768,7 +768,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || C++ Primer || C++ Primer || [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman] 等 || 英文CHM (4th edition)<br>中文PDF(第3版) || 2013-10-20<br>2013-10-24 || 第一作者Lippman是C++标准委员会成员，C++领域的牛人。<br>虽然书名叫“Primer”，不过俺觉得此书内容覆盖面太广，更适合“进阶”而不是“入门”。 ||
 || C++ 标准库<br>——自修教程与参考手册 || The C++ Standard Library<br>——A Tutorial and Reference || Nicolai Josuttis || 英文CHM || 2013-10-20 || 作者是C++领域的牛人，另一本名著《C++ Templates——The Complete Guide》的作者。<br>此书对想要深入了解STL的同学很有帮助。<br>顺便说一下，此书中文版的译者是侯捷（能让侯捷出手翻译，必定是好书） ||
 || 深度探索C++对象模型 || Inside the C++ Object Model || [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman] || 英文CHM<br>中文PDF (扫描版) || 2013-10-20<br>2013-10-24 || 作者是C++标准委员会成员，C++领域的牛人。<br>此书着重介绍底层（编译器层面）的运作机制，适合于进阶。<br>顺便说一下，此书中文版的译者是侯捷（能让侯捷出手翻译，必定是好书） ||
-|| C++语言的设计和演化 ||  The Design and Evolution of C++ || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 中文PDF (扫描版) || 2013-10-25 || 作者是C++之父。<br>此书侧重解释 C++ 语言为啥会成为这个样子。<br>此书适合已经熟悉 C++ 的读者。 ||
+|| C++ 语言的设计和演化 ||  The Design and Evolution of C++ || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 中文PDF (扫描版) || 2013-10-25 || 作者是C++之父。<br>此书侧重解释 C++ 语言为啥会成为这个样子。<br>此书适合已经熟悉 C++ 的读者。 ||
+|| 大规模 C++ 程序设计 || Large-Scale C++ Software Design || John Lakos || 简体PDF || 2013-10-30 || 此书适合已经熟悉 C++ 的读者。<br>此书的特色之一是：花了相当大的篇幅（书中的第2部分）来介绍物理设计。<br>很多（C/C++）程序员只顾及逻辑设计（比如函数/类/名空间），但是对物理设计很欠缺。 ||
 
 ==== 8.1.2.2 Python ====
 
