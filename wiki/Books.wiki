@@ -592,7 +592,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1148 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/fCkm6lmHnI/%E5%8E%86%E5%8F%B2/%E5%8F%A4%E7%BD%97%E9%A9%AC Dropbox]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 罗马帝国衰亡史 || The History of the Decline and Fall of the Roman Empire || [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E5%90%89%E6%9C%AC 爱德华·吉本] || 简体PDF (上下)<br>简体EPUB<br>简体CHM || 2013-02-07<br>2013-09-14<br>2013-02-07 || 作者是200多年前的英国历史学家。<br>此书堪称是古罗马历史的巨著，共6卷。<br>内容不但丰富，而且严谨。历时200多年，但尚未发现有明显的错误。足见作者考证的功力。<br>由于原书内容太多，此中译本的译者只节选了其中部分内容（约三分之一）。 ||
+|| 罗马帝国衰亡史 || The History of the Decline and Fall of the Roman Empire || [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E5%90%89%E6%9C%AC 爱德华·吉本] || 简体PDF (6卷扫描版)<br>简体EPUB<br>简体CHM<br>简体PDF (上下册 节译) || 2013-11-26<br>2013-09-14<br>2013-02-07<br>2013-02-07 || 作者是200多年前的英国历史学家。<br>此书堪称是古罗马历史的巨著，共6卷。<br>内容不但丰富，而且严谨。历时200多年，但尚未发现有明显的错误。足见作者考证的功力。<br>原书的内容极其丰富。在俺上传的几种格式中，6卷的扫描版PDF应该是最全。其它格式可能不全。 ||
 || 罗马盛衰原因论 || || [https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%BE%B7%E6%96%AF%E9%B8%A0 孟德斯鸠] || 简体PDF || 2013-02-07 || 作者是法国著名的启蒙思想家。<br>此书从政治、文化等多个角度，分析了古罗马兴盛和衰亡的原因。 ||
 
 == 3.4 德国 ==
