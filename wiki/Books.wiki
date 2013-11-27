@@ -35,7 +35,7 @@
 
 <h3>关于流量上限</h3>
 
-Dropbox 网盘对公开的分享链接设置了流量上限（每个帐号每天几个GB ）。一旦达到流量上限，Dropbox 网盘的书就无法下载。
+Dropbox 网盘对公开的分享链接设置了流量上限（每个帐号每天几个GB ）。一旦达到“当日”流量上限，俺的 Dropbox 网盘就无法下载。
 
 可以隔一天再尝试，也可以改道 SkyDrive 网盘（SkyDrive 不限流量）。
 
@@ -715,7 +715,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 来生不做中国人 || || [https://zh.wikipedia.org/wiki/%E9%8D%BE%E7%A5%96%E5%BA%B7 钟祖康] || 简体PDF || 2013-04-14 || 作者曾经是香港政治评论人，2003年移居挪威。<br>此书是作者的政治评论文集，书中对传统文化的弊端（比如：奴性）有深刻批判。<br>PDF版本由热心网友分享，特此鸣谢。 ||
 || 美人赠我蒙汗药 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%9C%94 王朔] || 简体PDF<br>简体EPUB || 2013-03-14<br>2013-09-14 || 作者是当代知名的作家和编剧。名气较大，俺就不多介绍了。<br>书的主要内容是王朔跟匿名者老侠的对话。<br>通过对话点评了天朝当代文化艺术，抨击大众文化的媚俗和某些知识分子的虚伪。<br>据说匿名对话者老侠就是刘晓波。 ||
 
-=== 7.1.2 (其它) ===
+=== 7.1.2 文学家、艺术家 ===
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1587 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ffCgWaTVlD/%E6%96%87%E8%89%BA/%E4%B8%AD%E5%9B%BD/%E6%96%87%E5%AD%A6%E5%AE%B6%E3%80%81%E8%89%BA%E6%9C%AF%E5%AE%B6 Dropbox]
+
+|| *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 胡适口述自传 || [https://zh.wikipedia.org/wiki/%E8%83%A1%E9%81%A9 胡适]<br>[https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐徳刚]译注 || 简体PDF (扫描版) || 2013-11-26 || 作者是近代著名的思想家、文学家、历史学家，新文化运动的旗手，自由主义在中国的先驱。<br>此书的原始素材是胡适在哥伦比亚大学的英文口述录音，然后由唐徳刚翻译为中文并注释。<br>作者在书中对毕生的学术作了总结评价，通过此书有助于了解胡适的思想。 ||
+
+=== 7.1.3 (其它) ===
 
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1265 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/lOEeHrVdXA/%E6%96%87%E8%89%BA/%E4%B8%AD%E5%9B%BD/%28%E5%85%B6%E5%AE%83%29 Dropbox]
 
@@ -761,7 +768,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1512 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ZEsa0K8znw/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C%2B%2B Dropbox]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| C++ 程序设计语言 || The C++ Programming Language || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF (special edition)<br>中文PDF (特别版 扫描版) || 2013-10-21<br>2013-10-29 || 作者是C++之父。光凭这点，足以说明此书的份量。<br>在C++社区，此书简称 TCPPPL ||
+|| C++ 程序设计语言 || The C++ Programming Language || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF (special edition)<br>简体PDF (特别版 扫描版) || 2013-10-21<br>2013-10-29 || 作者是C++之父。光凭这点，足以说明此书的份量。<br>在C++社区，此书简称 TCPPPL ||
 || Effective C++<br>——改善程序与设计的55个具体做法 || Effective C++<br>——55 Specific Ways to Improve Your Programs and Designs || [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文CHM (3rd edition) || 2013-10-21 || 作者是知名的C++写手，出版过好几本畅销的C++读物（包括“ Effective”系列）。<br>此书列举了C++编程中的55个注意事项，可以帮新手避开各种陷阱。 ||
 || More Effective C++<br>——35个改善编程与设计的有效方法 || More Effective C++<br>——35 New Ways to Improve Your Programs and Designs || [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文PDF || 2013-10-21 || 作者是知名的C++写手，出版过好几本畅销的C++读物（包括“ Effective”系列）。<br>此书是对《Effective C++》的补充，列举了35个注意事项。 ||
 || C++ 编程规范<br>——101 条规则、准则与最佳实践 || C++ Coding Standards<br>——101 Rules, Guidelines, and Best Practices || [https://en.wikipedia.org/wiki/Herb_Sutter Herb Sutter] &<br>[https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 英文CHM || 2013-10-20 || 两位作者都是C++社区的大牛。<br>Herb Sutter是C++标准委员会主席（光看头衔就知道有多牛了）。<br>Andrei Alexandrescu是C++领域的牛人，另一本名著《Modern C++ Design》的作者。<br>此书不局限于编码规范，还涉及其它几个方面（比如类设计、性能、等） ||
@@ -769,7 +776,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || C++ 标准库<br>——自修教程与参考手册 || The C++ Standard Library<br>——A Tutorial and Reference || Nicolai Josuttis || 英文CHM || 2013-10-20 || 作者是C++领域的牛人，另一本名著《C++ Templates——The Complete Guide》的作者。<br>此书对想要深入了解STL的同学很有帮助。<br>顺便说一下，此书中文版的译者是侯捷（能让侯捷出手翻译，必定是好书） ||
 || 深度探索C++对象模型 || Inside the C++ Object Model || [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman] || 英文CHM<br>中文PDF (扫描版) || 2013-10-20<br>2013-10-24 || 作者是C++标准委员会成员，C++领域的牛人。<br>此书着重介绍底层（编译器层面）的运作机制，适合于进阶。<br>顺便说一下，此书中文版的译者是侯捷（能让侯捷出手翻译，必定是好书） ||
 || C++ 语言的设计和演化 ||  The Design and Evolution of C++ || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 中文PDF (扫描版) || 2013-10-25 || 作者是C++之父。<br>此书侧重解释 C++ 语言为啥会成为这个样子。<br>此书适合已经熟悉 C++ 的读者。 ||
-|| 大规模 C++ 程序设计 || Large-Scale C++ Software Design || John Lakos || 简体PDF || 2013-10-30 || 此书适合已经熟悉 C++ 的读者。<br>此书的特色之一是：花了相当大的篇幅（书中的第2部分）来介绍物理设计。<br>很多（C/C++）程序员只顾及逻辑设计（比如函数/类/名空间），但是对物理设计很欠缺。 ||
+|| 大规模 C++ 程序设计 || Large-Scale C++ Software Design || John Lakos || 简体PDF (扫描版) || 2013-10-30 || 此书适合已经熟悉 C++ 的读者。<br>此书的特色之一是：花了相当大的篇幅（书中的第2部分）来介绍物理设计。<br>很多（C/C++）程序员只顾及逻辑设计（比如函数/类/名空间），但是对物理设计很欠缺。 ||
 
 ==== 8.1.2.2 Python ====
 
@@ -889,4 +896,4 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 浪潮之巅 || On The Top of Tides || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_(Google) 吴军] || 简体PDF (前18章，缺4章) || 2013-10-22 || 此书每一章介绍一家名垂IT史的公司，从中可以了解信息产业的发展史及其特色文化。<br>作者貌似在写第2版，还没写完。<br>等第2版完成，俺也上传到网盘。 ||
 || Borland 传奇 || || 李维 || 简体CHM || 2013-10-22 || 此书介绍了 Borland 的传奇经历，也可以从此书一窥微软的发家史。<br>90后的程序员可能对Borland所知不多。但是俺这个年龄的程序员对Borland可是如雷贯耳。 ||
-|| DOOM 启世录 || Masters of Doom || David Kushner || 简体CHM || 2013-11-26 || 此书介绍了两个约翰（约翰·罗梅洛 & 约翰·卡马克）打造 ID Software 的传奇。<br>该公司发布的 Doom 和 Quake 堪称游戏史上的里程碑。<br>通过此书也可一窥电子游戏的早期历史。<br>顺便说一下：这个中文书名起得不好，常被误看成“DOOM启示录”。 ||
+|| DOOM 启世录 || Masters of Doom || [https://en.wikipedia.org/wiki/David_Kushner David Kushner] || 简体CHM || 2013-11-26 || 此书介绍了两个约翰（约翰·罗梅洛 & 约翰·卡马克）打造 id Software 的传奇。<br>该公司发布的 Doom 和 Quake 堪称游戏史上的里程碑。<br>通过此书也可一窥电子游戏的早期历史。<br>顺便说一下：这个中文书名起得不好，常被误看成“DOOM启示录”。 ||
