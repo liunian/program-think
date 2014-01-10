@@ -540,6 +540,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1058 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/cmYOFevYsO/%E5%BF%83%E7%90%86%E5%AD%A6/%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 社会性动物 || The Social Animal || [https://en.wikipedia.org/wiki/Elliot_Aronson 埃利奥特·阿伦森] || 简体PDF || 2014-01-09 || 作者是当代最著名的社会心理学家。<br>此书被誉为“美国社会心理学的《圣经》”。<br>书的内容通俗易懂，介绍了“从众”、“偏见”、“自我辩护”、“攻击性”等常见现象。<br>从1972年出第1版，如今出到第9版。 ||
 || 乌合之众<br>——大众心理研究 || The Crowd<br>——A Study of the Popular Mind || [https://en.wikipedia.org/wiki/Gustave_Le_Bon 古斯塔夫·勒庞] || 简体PDF (扫描版) || 2012-12-29 || 作者是法国知名的心理学家、社会学家。<br>他的强项是研究群体心理，这本书是他的代表作。<br>作者在书中提到“群体的无意识行为代替了个人的有意识行为，是目前这个时代的主要特征之一”。书名《乌合之众》指的就是这种群体的无意识行为。<br>此书的理论有助于解释历史上很多知名的政治运动和群众运动。 ||
 || 路西法效应<br>——好人是如何变成恶魔的 || The Lucifer Effect<br>——Understanding How Good People Turn Evil || [https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A 菲利普·津巴多] || 简体EPUB<br>繁體PDF (掃描版) || 2013-09-13<br>2013-02-05 || 路西法效应最早是从[https://zh.wikipedia.org/wiki/%E6%96%AF%E5%9D%A6%E7%A6%8F%E7%9B%91%E7%8B%B1%E5%AE%9E%E9%AA%8C 斯坦福监狱实验]揭示出来的。<br>该效应说的是：一个身心健康的善良的人在特定的情景之下，也会变得如同恶魔一般。 ||
 
