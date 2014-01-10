@@ -756,6 +756,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1642 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/6vfh1tkkSI/%E7%BB%8F%E6%B5%8E/%28%E5%85%B6%E5%AE%83%29 Dropbox]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 世界是平的<br>——21世纪简史 || The World Is Flat<br>——A Brief History of the Twenty-first Century || [https://zh.wikipedia.org/wiki/%E6%B9%AF%E9%A6%AC%E6%96%AF%C2%B7%E4%BD%9B%E9%87%8C%E6%9B%BC 托马斯·弗里德曼] || 简体PDF (大字版) || 2014-01-09 || 作者是美国新闻记者，知名专栏作家。<br>此书的影响力很大，论述了全球化对人类社会的影响。<br>书中第二章直接点出了“抹平世界的十大推动力量”（这也是书名的由来）。 ||
+|| 黑天鹅<br>——如何应对不可知的未来 || The Black Swan || [https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb 塔勒布] || 简体PDF || 2014-01-09 || 书名中的“黑天鹅”指不可预测的、稀缺的、重要事件（比如 911）。<br>作者强调了黑天鹅事件的“不可知性”，告诉你如何适应不可知的未来。<br>俺对书中的“极端斯坦/平均斯坦”理论印象很深。 ||
 || 蓝海战略 || Blue Ocean Strategy || [https://en.wikipedia.org/wiki/W._Chan_Kim W. Chan Kim] || 简体PDF || 2013-12-31 || 作者是密歇根大学商学院教授，欧洲工商管理学院教授。<br>此书号称是阐述“21世纪新经济学”的代表性书籍，具有划时代意义。<br>书中着重对比了“传统恶性竞争”所代表的红海市场与“开创新兴市场”所代表的蓝海市场。 ||
 
 
