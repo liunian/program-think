@@ -940,3 +940,10 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 浪潮之巅 || On The Top of Tides || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_(Google) 吴军] || 简体PDF (前18章，缺4章) || 2013-10-22 || 此书每一章介绍一家名垂IT史的公司，从中可以了解信息产业的发展史及其特色文化。<br>作者貌似在写第2版，还没写完。<br>等第2版完成，俺也上传到网盘。 ||
 || Borland 传奇 || || 李维 || 简体CHM || 2013-10-22 || 此书介绍了 Borland 的传奇经历，也可以从此书一窥微软的发家史。<br>90后的程序员可能对Borland所知不多。但是俺这个年龄的程序员对Borland可是如雷贯耳。 ||
 || DOOM 启世录 || Masters of Doom || [https://en.wikipedia.org/wiki/David_Kushner David Kushner] || 简体CHM || 2013-11-26 || 此书介绍了两个约翰（约翰·罗梅洛 & 约翰·卡马克）打造 [https://en.wikipedia.org/wiki/Id_Software id Software] 的传奇。<br>该公司发布的 Doom 和 Quake 堪称游戏史上的里程碑。<br>通过此书也可一窥电子游戏的早期历史。<br>顺便说一下：这个中文书名起得不好，常被误看成“DOOM启示录”。 ||
+
+== 8.6 (其它) ==
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1634 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/g3GZPge9Os/IT/%28%E5%85%B6%E5%AE%83%29 Dropbox]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 失控<br>——全人类的最终命运和结局 || Out of Control<br>——The New Biology of Machines, Social Systems, and the Economic World || [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E5%87%AF%E5%88%A9 凯文·凯利]<br>(英文名 Kevin Kelly 简称 KK) || 简体EPUB || 2014-01-09 || 作者是IT行业的大牛，具有如下头衔：《全球概览》（乔布斯最爱的杂志）的主编、出版人；《连线》杂志（Wired）的第一任主编；参与发起首届“黑客大会”。<br>此书是他名气最大的一本著作，对很多方面有深入思考，包括：人类社会、生态系统、进化论、人工智能、互联网、等等。<br>此书很难归类，暂且放到“其它”。 ||
