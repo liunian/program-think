@@ -165,7 +165,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 大棋局<br>——美国的首要地位及其地缘战略 || The Grand Chessboard<br>——American Primacy and Its Geostrategic Imperatives || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || 简体PDF || 2013-04-14 || 作者是知名的国际关系学着，曾担任美国总统的国家安全顾问。<br>书名中的“大棋局”是指欧亚大陆。<br>作者在书中详细分析了欧亚大陆几个主要大国的地位和影响力，并提出美国应采取的对策。 ||
+|| 大外交 || Diplomacy || [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体PDF (扫描版) || 2014-02-05 || 作者是美国知名的外交家，长期担任国务卿。<br>此书介绍了最近三百年的世界外交史（从欧洲三十年战争到冷战结束）。<br>书中分析了不同时期各个大国的外交谋略。<br>此书由热心网友推荐，特此鸣谢。 ||
 || 文明的冲突与世界秩序的重建 || The Clash of Civilizations<br>and the Remaking of World Order || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] || 简体PDF || 2013-03-31 || 作者是美国知名的保守派政治学家，此书是他的代表作。<br>作者认为：因文明差异导致的冲突是今后国际冲突的主因。<br>此书内容有争议，某些学者认为亨廷顿过于高估文化的影响力。 ||
+|| 论中国 || On China || [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体EPUB || 2014-02-05 || 作者是美国知名的外交家，长期担任国务卿。<br>此书主要介绍了作者与中共4代领导人打交道的经历。<br>对于某些敏感事件（比如“六四”），中文版有删节。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
 
 === 1.1.7 非暴力抗争 ===
 
