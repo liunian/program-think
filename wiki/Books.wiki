@@ -954,8 +954,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1485 SkyDrive]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/NKIzqLB3-f/IT/%E9%BB%91%E5%AE%A2%E6%96%87%E5%8C%96 Dropbox]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 黑客与画家 || Hackers and Painters || [https://en.wikipedia.org/wiki/Paul_Graham Paul Graham]<br>(保罗·格雷汉姆) || 简体PDF (扫描版)<br>简体EPUB<br>英文PDF || 2013-04-06<br>2013-10-20<br>2013-10-30 || 作者是知名Lisp黑客，和Robert Morris（另一个牛黑客）共同创办了Viaweb（该公司被 Yahoo 高价收购，成为Yahoo Store）。<br>他成立的风投（Y Combinator）在硅谷很有影响力，资助了大批技术型创业公司。 ||
+|| 黑客与画家 || Hackers and Painters || [https://en.wikipedia.org/wiki/Paul_Graham_%28computer_programmer%29 Paul Graham]<br>(保罗·格雷汉姆) || 简体PDF (扫描版)<br>简体EPUB<br>英文PDF || 2013-04-06<br>2013-10-20<br>2013-10-30 || 作者是知名Lisp黑客，和Robert Morris（另一个牛黑客）共同创办了Viaweb（该公司被 Yahoo 高价收购，成为Yahoo Store）。<br>他成立的风投（Y Combinator）在硅谷很有影响力，资助了大批技术型创业公司。 ||
 || 五步曲 ||  || [https://en.wikipedia.org/wiki/Eric_S._Raymond Eric Raymond]<br>(埃里克·雷蒙德) || 简体PDF || 2013-10-20 || 作者是知名黑客，开源运动的旗手。<br>这是他的代表作，分别是：《黑客简史》《大教堂与市集》、《如何成为一名黑客》、《开拓智域》、《魔法大锅炉》。<br>他的另一个代表作是《UNIX编程艺术》（俺也上传了）。 ||
+|| 黑客<br>——计算机革命的英雄 || Hackers<br>——Heroes of the Computer Revolution || [https://en.wikipedia.org/wiki/Steven_Levy Steven Levy] || 简体PDF (扫描版) || 2014-01-28 || 此书介绍了计算机发展史上的重要黑客人物。<br>内容包括三部分：50/60年代在MIT的AI实验室的黑客、70年代在加州的硬件黑客、80年代在PC领域的游戏黑客。 ||
 
 == 8.3 信息安全 ==
 
