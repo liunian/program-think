@@ -984,10 +984,15 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1647 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/IYUWARxCv1/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%AE%89%E5%85%A8%E5%8A%A0%E5%9B%BA Dropbox网盘]
 
-|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| Windows 7 安全指南 || || || 简体PDF (扫描版) || 2014-02-13 || 此书面向普通网友，介绍 Windows 7 的各种安全防护。<br>内容包括：安全更新、防火墙、安全策略、文件访问控制、等等。<br>此书由热心网友推荐，特此鸣谢。 ||
-|| || Securing Debian Manual || || 英文PDF || 2014-02-22 || 这是 Debian 官方的安全手册 ||
-|| || Red Hat Enterprise Linux 6 Security Guide || || 英文PDF || 2014-02-22 || 这是 Red Hat 官方的安全指南 ||
+|| *中文书名* || *英文书名* || *文件类型* || *上传日期* || *备注* ||
+|| Windows 7 安全指南 || || 简体PDF (扫描版) || 2014-02-13 || 此书面向普通网友，介绍 Windows 7 的各种安全防护。<br>内容包括：安全更新、防火墙、安全策略、文件访问控制、等等。<br>此书由热心网友推荐，特此鸣谢。 ||
+|| || Securing Debian Manual || 英文PDF || 2014-02-22 || 这是 Debian 官方的安全手册 ||
+|| || Basic Ubuntu Security Guide, Desktop Edition || [https://wiki.ubuntu.com/BasicSecurity 英文在线版] || 2014-02-22 || 这是 Ubuntu 官方的安全指南（桌面版） ||
+|| || Red Hat Enterprise Linux 6 Security Guide || 英文PDF || 2014-02-22 || 这是 Red Hat 官方的安全指南 ||
+|| || Security Guide<br>——A Guide to Securing Fedora Linux || [https://docs.fedoraproject.org/security-guide/ 英文在线版] || 2014-02-22 || 这是 Fedora 官方的安全指南 ||
+|| || openSUSE Security Guide || [https://activedoc.opensuse.org/book/opensuse-security-guide 英文在线版] || 2014-02-22 || 这是 openSUSE 官方的安全指南 ||
+|| || Security<br>——Recommendations and Best Practices for Hardening an Arch Linux System || [https://wiki.archlinux.org/index.php/security 英文在线版] || 2014-02-22 || 这是 Arch Linux 官方的安全文档 ||
+|| || Gentoo Security Handbook || [https://www.gentoo.org/doc/en/security/security-handbook.xml?style=printable&full=1 英文在线版] || 2014-02-22 || 这是 Gentoo 官方的安全手册 ||
 
 === 8.3.4 入侵 ===
 
