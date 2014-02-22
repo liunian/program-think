@@ -307,7 +307,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1179 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/NZ61VHWvow/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E2%80%9C%E5%9C%9F%E6%94%B9%E2%80%9D%E8%BF%90%E5%8A%A8 Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 最后的地主 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF<br>简体PDF (大字版) || 2013-03-16<br>2013-03-31 || 作者是流亡作家，专门为社会底层呐喊。<br>此书介绍了“土改”时期，地主的悲惨遭遇。<br>当时有大量的地主/富农被滥杀，至今得不到平反。 ||
+|| 最后的地主 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF<br>简体PDF (大字版) || 2013-03-16<br>2013-03-31 || 作者是流亡作家，专门为社会底层呐喊。<br>此书介绍了“土改”时期，地主的悲惨遭遇。<br>当年有大量的地主/富农被滥杀，至今得不到平反。 ||
 || 秧歌 || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E6%84%9B%E7%8E%B2 张爱玲]<br>(原名：张煐) || 2013-08-21 || 简体PDF || 作者是著名女作家，成名于民国时期。<br>此书是反共文学的代表作之一，主要描写“土改”运动时期的农村。<br>（作者曾在1950年夏到苏北农村参加“土改”）<br>PDF版本由热心网友分享，特此鸣谢。 ||
 || 赤地之恋 || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E6%84%9B%E7%8E%B2 张爱玲]<br>(原名：张煐) || 2013-08-21 || 简体PDF || 作者是著名女作家，成名于民国时期。<br>此书类似于《秧歌》，也是描写“土改运动”时期的农村。<br>PDF版本由热心网友分享，特此鸣谢。 ||
 
@@ -316,8 +316,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!978 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/UZaRwvOzV4/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E5%9B%BD%E5%85%B1%E5%86%85%E6%88%98%E6%97%B6%E6%9C%9F Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 战后中共夺取东北始末 || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%A5%8E%E6%9D%BE 杨奎松] || 繁體PDF || 2012-12-11 || 作者是北大历史系教授，中国社会科学院近代史研究所研究员，中央党校《党史研究》编辑。<br>中共能够夺权成功，占领东北是其中的关键。<br>此书介绍了中共拿下东北的经过以及当时美苏之间的博弈。 ||
 || 1949年<br>——中国知识分子的私人记录 (扫描版) || [https://zh.wikipedia.org/wiki/%E5%82%85%E5%9B%BD%E6%B6%8C 傅国涌] || 简体PDF (扫描版) || 2013-03-14 || 作者是自由撰稿人，出版过不少历史类著作。<br>此书收集了1949年前后，14位知名知识分子的日记和书信。<br>通过这些日记和书信，有助于了解那段历史。 ||
+|| 战后中共夺取东北始末 || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%A5%8E%E6%9D%BE 杨奎松] || 繁體PDF || 2012-12-11 || 作者是北大历史系教授，中国社会科学院近代史研究所研究员，中央党校《党史研究》编辑。<br>中共能够夺权成功，占领东北是其中的关键。<br>此书介绍了中共拿下东北的经过以及当时美苏之间的博弈。 ||
 || 大江大海 一九四九 || [https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%87%89%E5%8F%B0 龙应台] || 简体PDF<br>简体EPUB<br>繁體PDF (豎排掃描版) || 2013-01-17<br>2013-09-13<br>2012-11-17 || 应某网友在留言中的要求，俺分享了这本书。<br>这本书主要讲述众多小人物在1949年大陆沦陷时的遭遇。<br>PDF/EPUB版本由热心网友分享，特此鸣谢。 ||
 
 ==== 1.3.1.8 延安和八年抗战时期 ====
@@ -670,7 +670,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 国富论<br>(国民财富的性质和原因) || The Wealth of Nations || [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] || 简体CHM || 2013-04-09 || 亚当·斯密堪称现代经济学之父，此书是他的代表作，也是经济学专业必读著作。<br>国富论强调市场的自我调节，反对政府对经济的管制。<br>此书还率先提出了“看不见的手”这个概念。 ||
 || 经济学 || Economics || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 保罗·萨缪尔森] & [https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%AF%BA%E5%BE%B7%E8%B1%AA%E6%96%AF 威廉·诺德豪斯] || 简体PDF (第18版 扫描版) || 2014-02-13 || 作者是知名经济学家，凯恩斯学派在美国的代表人物。<br>1948年出版，至今已出了19版，译成40种语言。足见其影响力。<br>此书的每个新版本都会修订不少内容，做到了与时俱进。<br>第18版的目录从26页开始。 ||
-|| 经济学原理 || Principles of Economics || [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9B%BC%E6%98%86 格里高利·曼昆] || 简体PDF (第5版 扫描版) || 2013-02-21 || 作者是美国经济学家，29岁成哈佛大学史上最年轻终身教授。<br>单凭后面这一条，足见其牛逼过人。<br>此书的受欢迎程度不亚于萨缪尔森的那本《经济学》。<br>哈佛、耶鲁、斯坦福等名校都用此书做教材。<br>上传的是第5版，为“宏观分册”和“微观分册”。 ||
+|| 经济学原理 || Principles of Economics || [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9B%BC%E6%98%86 格里高利·曼昆] || 简体PDF (第5版 扫描版) || 2013-02-22 || 作者是美国经济学家，29岁成哈佛大学史上最年轻终身教授。<br>单凭后面这一条，足见其牛逼过人。<br>此书的受欢迎程度不亚于萨缪尔森的那本《经济学》。<br>哈佛、耶鲁、斯坦福等名校都用此书做教材。<br>上传的是第5版，为“宏观分册”和“微观分册”。 ||
+|| 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 约翰·梅纳德·凯恩斯] || 简体PDF || 2014-02-22 || 作者是非常著名的英国经济学家，创立了“凯恩斯学派/凯恩斯主义”。<br>此书是其代表作，奠定“宏观经济学”的基础。 ||
 || 个人主义与经济秩序 || Individualism and Economic Order || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || 简体PDF<br>简体EPUB || 2013-04-10<br>2013-09-13 || 作者是英国知名经济学家和政治哲学家，奥地利经济学派最有影响力的成员。<br>他一贯坚持自由市场资本主义和个人主义、反对社会主义和集体主义。<br>此书开篇就详述了什么是“个人主义”以及对“个人主义”种种误解。<br>然后以“个人主义”为出发点，分析了为啥需要基于自由竞争的市场经济。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
 || 市场经济<br>——大师们的思考 || || 詹姆斯·多蒂 & 德威特·李 || 简体PDF (扫描版) || 2013-04-09 || 本书的两位作者倾向于古典自由主义。<br>此书摘录了多位知名经济学家关于自由市场的文章，另外也包括两位作者自己写的文章。 ||
 || 以自由看待发展 || Development as Freedom || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] || 简体PDF (扫描版) || 2013-04-09 || 作者是印度经济学家，剑桥大学三一学院院长，诺贝尔奖获得者。<br>此书的核心观点是：经济发展的本质就是自由的增长。<br>此书从经济、政治、文化等方面阐述这一观点。<br>目录从35页开始。 ||
@@ -930,7 +931,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1498 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/y_ZiHG1wZx/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/Windows Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| Windows核心编程 || Programming Applications for Windows || [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] || 英文CHM || 2013-10-21 || 在Win32系统编程中，这可能是影响力最大的一本。<br>当年俺也是看这本书，从Win16编程转型到Win32编程。<br>今天时间仓促，过几天把中文版也放上来。 ||
+|| Windows 核心编程 || Programming Applications for Windows || [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] || 英文CHM || 2013-10-21 || 在Win32系统编程中，这可能是影响力最大的一本。<br>当年俺也是看这本书，从Win16编程转型到Win32编程。<br>今天时间仓促，过几天把中文版也放上来。 ||
 
 === 8.1.5 网络相关 ===
 
@@ -977,7 +978,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 密码学原理与实践 || Cryptography<br>——Theory and Practice || [https://en.wikipedia.org/wiki/Doug_Stinson Douglas Stinson] || 简体PDF (第2版 扫描版)<br>英文CHM || 2013-10-21<br>2013-10-30 || 此书是密码学领域的经典教材。<br>第2版稍微有点老，目前最新的是第3版。<br>阅读此书需要一定的数学基础。 ||
-|| 应用密码学<br>——协议、算法与C源程序 || Applied Cryptography<br>——Protocols, Algorithms, and Source Code in C || Bruce Schneier || 简体PDF (第2版 扫描版)<br>英文PDF (2nd edition) || 2013-11-26<br>2013-10-21 || 这本也是经典的密码学著作，还是第4届[https://zh.wikipedia.org/zh/Jolt%E5%A5%96 Jolt大奖]获奖图书。<br>此书附带大量源代码（光压缩包就5兆）<br>阅读此书需要一定的数学基础。 ||
+|| 应用密码学<br>——协议、算法与C源程序 || Applied Cryptography<br>——Protocols, Algorithms, and Source Code in C || [https://en.wikipedia.org/wiki/Bruce_Schneier Bruce Schneier] || 简体PDF (第2版 扫描版)<br>英文PDF (2nd edition) || 2013-11-26<br>2013-10-21 || 这本也是经典的密码学著作，还是第4届[https://zh.wikipedia.org/zh/Jolt%E5%A5%96 Jolt大奖]获奖图书。<br>此书附带大量源代码（光压缩包就5兆）<br>阅读此书需要一定的数学基础。 ||
 || 密码编码学与网络安全<br>——原理与实践 || Cryptography and Network Security<br>——Principles and Practice || [https://en.wikipedia.org/wiki/William_Stallings William Stallings] || 简体PDF (第3版 扫描版)<br>英文PDF (第5版) || 2013-11-18<br>2013-11-18 || 此书应读者的要求上传，也是密码学领域的知名著作。<br>此书包括两大方面：其一是密码学，其二是密码学在互联网上的应用。<br>中文PDF是第三版，不够新，且翻译的质量一般。<br>英文的第5版是最新的（2010年出版）。 ||
 
 === 8.3.3 安全加固 ===
@@ -985,7 +986,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1647 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/IYUWARxCv1/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%AE%89%E5%85%A8%E5%8A%A0%E5%9B%BA Dropbox网盘]
 
 || *中文书名* || *英文书名* || *文件类型* || *上传日期* || *备注* ||
-|| Windows 7 安全指南 || || 简体PDF (扫描版) || 2014-02-13 || 此书面向普通网友，介绍 Windows 7 的各种安全防护。<br>内容包括：安全更新、防火墙、安全策略、文件访问控制、等等。<br>此书由热心网友推荐，特此鸣谢。 ||
+|| Windows 7 安全指南 || || 简体PDF (扫描版) || 2014-02-13 || 此书面向普通网友，介绍Windows 7的各种安全防护。<br>内容包括：安全更新、防火墙、安全策略、文件访问控制、等等。<br>此书由热心网友推荐，特此鸣谢。 ||
 || || Securing Debian Manual || 英文PDF || 2014-02-22 || 这是 Debian 官方的安全手册 ||
 || || Basic Ubuntu Security Guide, Desktop Edition || [https://wiki.ubuntu.com/BasicSecurity 英文在线版] || 2014-02-22 || 这是 Ubuntu 官方的安全指南（桌面版） ||
 || || Red Hat Enterprise Linux 6 Security Guide || 英文PDF || 2014-02-22 || 这是 Red Hat 官方的安全指南 ||
