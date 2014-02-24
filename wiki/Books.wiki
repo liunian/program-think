@@ -155,7 +155,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 开放社会及其敌人 || The Open Society and Its Enemies || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体PDF<br>简体EPUB || 2012-12-11<br>2013-09-14 || 波普尔是20世纪著名的哲学家，政治上拥护自由主义，提倡“开放社会”。<br>本书中更多的是介绍“开放社会的敌人”，而不是“开放社会”本身。<br>书中着重批判了 柏拉图、黑格尔、马克思 三人的哲学体系（此三人可说是一脉相承）。<br>波普尔认为他们三人的哲学理论是极权主义思想的根源。 ||
-|| 极权主义的起源 || The Origins of Totalitarianism || [https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9 汉娜·阿伦特] || 简体PDF<br>简体CHM<br>简体MOBI || 2012-10-06<br>2012-10-14<br>2014-02-23 || 汉娜·阿伦特是国际知名的政治理论家，以研究极权主义而闻名于世。此书是她的成名作。<br>看完此书，你对“什么是极权主义”会有更深刻的认识。<br>你会发现：虽然“共产主义”和“纳粹主义”表面上迥异，其实本质相通，具有共同起源。<br>顺便说一下，毛太祖统治的天朝，就是典型的极权主义。<br>MOBI版本由热心网友分享，特此鸣谢。 ||
+|| 极权主义的起源 || The Origins of Totalitarianism || [https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9 汉娜·阿伦特] || 简体PDF<br>简体CHM<br>简体MOBI || 2012-10-06<br>2012-10-14<br>2014-02-23 || 作者是国际知名的政治理论家，以研究极权主义而闻名于世。此书是她的成名作。<br>看完此书，你对“什么是极权主义”会有更深刻的认识。<br>你会发现：虽然“共产主义”和“纳粹主义”表面上迥异，其实本质相通，具有共同起源。<br>顺便说一下，毛太祖统治的天朝，就是典型的极权主义。<br>MOBI版本由热心网友分享，特此鸣谢。 ||
 || 威权统治的转型<br>——关于不确定民主的试探性结论 || || 吉列尔莫·奥唐奈 & [https://en.wikipedia.org/wiki/Philippe_C._Schmitter 菲利普·施密特] || 简体PDF (扫描版) || 2013-08-21 || 两位作者都是美国知名的政治理论学者。<br>此书是4卷本丛书《从威权主义统治转型——民主的前景》的最后一卷，也是“比较政治学”领域的经典著作。<br>此书对威权主义转型的方方面面有深刻的分析，并给出很多可操作性的建议。<br>希望推动天朝政治变革的网友，此书非常值得一看。 ||
 || 新常识<br>——一党专制的性质与后果 || || 张雪忠 || 简体PDF || 2013-10-19 || 作者是华东政法大学硕士导师，曾在微博曝光朝廷的“七不讲”禁令。<br>此书普及了不少基本的政治常识（比如：国家、主权、主权者、执政者、政党、等），<br>也分析天朝的独裁体制（包括：人大制度的虚伪性、党化教育的洗脑性）。 ||
 
@@ -213,7 +213,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 黄祸 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || 简体CHM || 2013-08-21 || 作者是大陆知名作家、民族问题学者、环保人士。<br>此书是政治预言小说，曾入选亚洲周刊20世纪中文小说百强（第41位）<br>书中描写的中国社会危机，至今一直存在，而且加深了。<br>另有热心读者分享王力雄的《十年过后谈黄祸》，也一并上传，跟本书放一起。 ||
 || 盛世<br>——中国2013 || The Fat Years || [https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E4%B8%AD 陈冠中] || 简体PDF || 2013-01-01 || 陈冠中是香港作家，现居北京。<br>本书是一部小说，写于2009年，虚构了2013年的天朝盛世。<br>“反讽”是此书的一大特色——看书名似乎在吹捧天朝的盛世，其实捏...... ||
 || 裸命 ||  || [https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E4%B8%AD 陈冠中] || 简体MOBI || 2013-01-01 || 陈冠中是香港作家，现居北京。<br>此书是作者在《盛世》之后又一部描述天朝的政治小说（同时也算是情色小说）。<br>此书通过一个藏族青年的视角，展现天朝小人物的生活、命运、精神状态。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 云图 || Cloud Atlas || [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E7%B1%B3%E5%88%87%E5%B0%94 大卫·米切尔] || 简体PDF<br>简体EPUB<br>英文PDF || 2014-02-06<br>2014-02-06<br>2014-02-06 || 这是一部比较独特的小说，由6个看似独立但又互相关联的故事构成。<br>书中贯穿了“反抗奴役，追求自由”的主题。 ||
+|| 云图 || Cloud Atlas || [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E7%B1%B3%E5%88%87%E5%B0%94 大卫·米切尔] || 简体PDF<br>简体EPUB<br>英文PDF || 2014-02-06<br>2014-02-06<br>2014-02-06 || 这是一部比较独特的小说，由6个看似独立但又互相关联的故事构成。<br>书中贯穿了“反抗奴役，追求自由”的主题。<br>此书由热心网友推荐，特此鸣谢。 ||
 
 == 1.3 中国 ==
 
@@ -325,12 +325,12 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!930 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Lg9n4u9qUY/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E5%BB%B6%E5%AE%89%E5%92%8C%E5%85%AB%E5%B9%B4%E6%8A%97%E6%88%98%E6%97%B6%E6%9C%9F Dropbox网盘]
 
 || *书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 红太阳是怎样升起的<br>——延安整风运动的来龙去脉 || || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || 简体PDF<br>简体CHM<br>简体EPUB<br>简体MOBI || 2012-12-09<br>2012-04-06<br>2013-11-26<br>2014-02-03 || 高华是党史研究方面的资深学者（已故）。<br>“延安整风”是老毛确立党内独裁地位的关键。此书详细介绍了这段历史。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
+|| 红太阳是怎样升起的<br>——延安整风运动的来龙去脉 || || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || 简体PDF<br>简体CHM<br>简体EPUB<br>简体MOBI || 2012-12-09<br>2012-04-06<br>2013-11-26<br>2014-02-03 || 高华是党史研究方面的资深学者（已故）。<br>“延安整风”是老毛确立党内独裁地位的关键。此书详细介绍了这段历史。<br>EPUB和MOBI版本由热心网友分享，特此鸣谢。 ||
 || 中共壮大之谜<br>——被掩盖的中国抗日战争真相 || || 谢幼田 || 简体CHM || 2012-11-17 || 作者是移居海外的历史学者。<br>此书介绍了中共利用日本侵华的机会，表面上口头抗日，背地里壮大自己的实力。<br>有兴趣的话可以再看看俺写的《[http://program-think.blogspot.com/2010/09/sino-japanese-war.html 谈谈真理部对抗战历史的篡改]》 ||
 || 历史的先声<br>——半个世纪前的庄严承诺 || || [https://zh.wikipedia.org/wiki/%E7%AC%91%E8%9C%80 笑蜀]<br>(原名：陈敏) || 简体PDF (扫描版)<br>简体CHM<br>简体TXT || 2013-05-08<br>2012-10-06<br>2012-10-06 || 作者是知名作家，《南方周末》评论员。<br>此书收录了延安时期，中共喉舌《新华日报》的几十篇社论。<br>这些社论对“民主自由”的吹捧，俺看了都觉得肉麻。<br>看完之后，你会发现：中共没掌权时，说的比唱的还好听；一旦掌权，立马翻脸不认人。 ||
 || 延安日记 || || [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E6%B4%9B%E5%A4%AB 彼得·弗拉基米洛夫] || 简体CHM || 2012-10-05 || 1942年，苏联派弗拉基米洛夫前往延安，担任共产国际驻中共区的联络员兼塔斯社随军记者。<br>由于作者的特殊身份，得以了解延安时期中共高层的内幕。<br>比如毛太祖消极抗日；比如延安根据地种植和销售鸦片，以获得资金来源。 ||
 || 紅太陽下的罌粟花<br>——鴉片貿易與延安模式 || || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || 繁體PDF (掃描版) || 2012-10-05 || 作者是台湾中央研究院的知名学者。<br>通过此书可以更加详细地了解延安根据地的鸦片生意。这是共党在延安时期的一大污点。 ||
-|| 内在的敌人 || The Enemy Within<br>——An Eyewitness Account of the Communist Conquest of China || [https://zh.wikipedia.org/wiki/%E9%9B%B7%E9%9C%87%E8%BF%9C 雷震远] || 简体CHM<br>简体PDF || 2014-02-03<br>2014-02-03 || 作者是比利时神父，在河北安国县传教20年。<br>抗战期间，安国县成为中共“解放区”，作者跟中共方面有很多接触。此书记录了作者的见闻。<br>书名的含义——抗战期间，日本人是外在的敌人，而中共是内在的敌人。 ||
+|| 内在的敌人 || The Enemy Within<br>——An Eyewitness Account of the Communist Conquest of China || [https://zh.wikipedia.org/wiki/%E9%9B%B7%E9%9C%87%E8%BF%9C 雷震远] || 简体CHM<br>简体PDF || 2014-02-03<br>2014-02-03 || 作者是比利时神父，在河北安国县传教20年。<br>抗战期间，安国县成为中共“解放区”，作者跟中共方面有很多接触。此书记录了作者的见闻。<br>书名的含义——抗战期间，日本人是外在的敌人，而中共是内在的敌人。<br>此书由热心网友推荐，特此鸣谢。 ||
 
 ==== 1.3.1.9 (其它) ====
 
@@ -402,7 +402,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 讨伐中宣部<br>——焦国标文集 || [https://zh.wikipedia.org/wiki/%E7%84%A6%E5%9B%BD%E6%A0%87 焦国标] || 简体CHM || 2013-01-07 || 焦国标是北大新闻学院副教授、作家、政治异议人士。<br>他因为写了《讨伐中宣部》一文而广为人知。并因此被勒令停止教学。<br>此电子书收录了他的多篇文章。 ||
-|| 雾锁中国<br>——中国大陆控制媒体策略大揭秘 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || 简体PDF<br>简体MOBI || 2013-05-01<br>2013-05-13 || 作者是天朝知名且敢言的经济学家，因受迫害移居美国。<br>此书内容与何清涟的另一本《中国政府如何控制媒体——中国人权研究报告》有重叠。<br>不过这本讲得更详细。<br>PDF和MOBI版本由热心网友精心排版并分享，特此鸣谢。 ||
+|| 雾锁中国<br>——中国大陆控制媒体策略大揭秘 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || 简体PDF<br>简体MOBI || 2013-05-01<br>2013-05-13 || 作者是天朝知名且敢言的经济学家，因受迫害移居美国。<br>此书内容与何清涟的另一本《中国政府如何控制媒体——中国人权研究报告》有重叠。不过这本讲得更详细。<br>PDF版本由热心网友精心排版并分享，MOBI也是热心网友分享，特此鸣谢。 ||
 || 中国政府如何控制媒体<br>——中国人权研究报告 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || 简体PDF || 2013-01-13 || 作者是天朝知名且敢言的经济学家，因受迫害移居美国。<br>作者曾有8年的媒体工作经历，熟悉党国控制传媒的种种手法。 ||
 
 === 1.3.6 愚民教育 ===
@@ -471,7 +471,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 论美国的民主<br>(民主在美国) || Democracy in America || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || 简体PDF (上下卷)<br>简体MOBI || 2012-10-06<br>2013-05-13 || 作者是法国的政治思想家和历史学家。<br>此书是托克维尔的代表作，也是研究美国民主政治体制的经典著作。<br>书中从政治学、社会学、历史学等方面对美国的政体进行阐述。 ||
 || 民主的细节<br>——美国当代政治观察随笔 || || [https://zh.wikipedia.org/wiki/%E5%88%98%E7%91%9C 刘瑜] || 简体EPUB<br>简体TXT || 2013-09-14<br>2013-05-24 || 作者是哥伦比亚大学政治学博士。<br>此书汇总了作者的若干专栏文章，介绍美国成熟的民主政治制度。<br>内容浅显，通俗易懂。 ||
-|| 美国宪政历程<br>——影响美国的25个司法大案 || || 任东来 等人 || 简体PDF (扫描版)<br>简体MOBI || 2013-11-26<br>2014-02-23 || 此书介绍了从美国建国初期直至21世纪的重要司法案件。<br>由此可以深刻体会美国最高法院在“三权分立”中的关键作用。<br>也可以了解美国是如何逐步完善其民主和法制。<br>另外，此书也有助于了解[https://zh.wikipedia.org/wiki/%E8%8B%B1%E7%BE%8E%E6%99%AE%E9%80%9A%E6%B3%95%E7%B3%BB 英美法系]的特点。<br>MOBI版本由热心网友分享，特此鸣谢。 ||
+|| 美国宪政历程<br>——影响美国的25个司法大案 || || 任东来 等 || 简体PDF (扫描版)<br>简体MOBI || 2013-11-26<br>2014-02-23 || 此书介绍了从美国建国初期直至21世纪的重要司法案件。<br>由此可以深刻体会美国最高法院在“三权分立”中的关键作用。<br>也可以了解美国是如何逐步完善其民主和法制。<br>另外，此书也有助于了解[https://zh.wikipedia.org/wiki/%E8%8B%B1%E7%BE%8E%E6%99%AE%E9%80%9A%E6%B3%95%E7%B3%BB 英美法系]的特点。<br>MOBI版本由热心网友分享，特此鸣谢。 ||
 || 危机<br>——美国国家安全局透视 || || || 简体PDF || 2013-06-18 || 此书从美国国安局（NSA）成立开始说起，介绍了 NSA 的方方面面。<br>看完之后你就明白，NSA 远远比 CIA 和 FBI 牛逼。 ||
 
 == 1.5 苏联 ==
@@ -559,7 +559,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1673 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Tix9pU51p_/%E5%BF%83%E7%90%86%E5%AD%A6/%E6%95%99%E8%82%B2%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 正面管教 || Positive Discipline || [https://en.wikipedia.org/wiki/Jane_Nelsen 简·尼尔森] || 简体PDF || 2014-02-11 || 作者是美国知名心理学家、教育学博士，美国“正面管教协会”的创始人。<br>此书总结了父母与小孩的三种互动模式：<br>严厉（有规矩，没有自由）<br>放纵（无规矩，有自由）<br>正面管教（有规矩，有自由） ||
+|| 正面管教 || Positive Discipline || [https://en.wikipedia.org/wiki/Jane_Nelsen 简·尼尔森] || 简体PDF || 2014-02-11 || 作者是美国知名心理学家、教育学博士，美国“正面管教协会”的创始人。<br>此书总结了父母与小孩的三种互动模式：<br>严厉（有规矩，没有自由）<br>放纵（无规矩，有自由）<br>正面管教（有规矩，有自由）<br> ||
 
 == 2.5 进化心理学 ==
 
@@ -708,7 +708,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 证券分析 || Security Analysis || [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] & [https://en.wikipedia.org/wiki/David_Dodd 戴维·多德] || 简体PDF (扫描版)<br>简体EPUB || 2013-04-29<br>2013-09-13 || 本杰明·格雷厄姆号称“证券分析之父”，价值投资理论的奠基人。<br>他还是[https://zh.wikipedia.org/wiki/%E6%B2%83%E4%BC%A6%C2%B7%E5%B7%B4%E8%8F%B2%E7%89%B9 股神巴菲特]的老师，并对巴菲特的投资理念产生重大影响。<br>此书虽然是1934年初版，至今仍被称为“价值投资领域的圣经”。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 聪明的投资者<br>(投资指南) || The Intelligent Investor || [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] || 简体PDF (扫描版) || 2014-02-20 || 本杰明·格雷厄姆号称“证券分析之父”，价值投资理论的奠基人。<br>他还是[https://zh.wikipedia.org/wiki/%E6%B2%83%E4%BC%A6%C2%B7%E5%B7%B4%E8%8F%B2%E7%89%B9 股神巴菲特]的老师，并对巴菲特的投资理念产生重大影响。<br>此书是《证券分析》的姐妹篇，比《证券分析》更通俗一些，适合门外汉。<br>此书虽然是1934年初版，至今仍未过时。 ||
+|| 聪明的投资者<br>(投资指南) || The Intelligent Investor || [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] || 简体PDF (扫描版) || 2014-02-20 || 本杰明·格雷厄姆号称“证券分析之父”，价值投资理论的奠基人。<br>他还是[https://zh.wikipedia.org/wiki/%E6%B2%83%E4%BC%A6%C2%B7%E5%B7%B4%E8%8F%B2%E7%89%B9 股神巴菲特]的老师，并对巴菲特的投资理念产生重大影响。<br>此书是《证券分析》的姐妹篇，比《证券分析》更通俗一些，适合门外汉。<br>此书虽然是1949年初版，至今仍未过时。 ||
 || 金融炼金术 || The Alchemy of Finance || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E7%B4%A2%E7%BD%97%E6%96%AF 乔治·索罗斯] || 简体PDF<br>简体EPUB || 2013-04-29<br>2013-09-13 || 作者是大名鼎鼎的金融投资大鳄，此书是他的代表作，主要介绍他提出的“反身性理论”。<br>“反身性理论”认为：投资者对市场的认识必定是扭曲的（有缺陷的）；<br>这种扭曲的认识会影响市场，导致市场波动；<br>而市场的波动反过来会强化这种“扭曲”——这就是金融市场的“反身性”。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
 
 == 4.4 博弈论 ==
@@ -815,7 +815,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 中国人的性格 || Chinese Characteristics || [https://zh.wikipedia.org/wiki/%E6%98%8E%E6%81%A9%E6%BA%A5 亚瑟·史密斯]<br>(中文名：明恩溥) || 简体PDF<br>简体EPUB<br>简体TXT || 2011-02-09<br>2013-09-13<br>2012-03-19 || 此书非常深刻地剖析了中国人的劣根性。<br>鲁迅受此书的影响很大。更多介绍请看[http://program-think.blogspot.com/2011/02/book-review-chinese-characteristics.html 俺的书评]<br>EPUB版本由热心网友分享，特此鸣谢。 ||
 || 丑陋的中国人 || || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏杨]<br>(原名：郭定生) || 简体TXT || 2012-10-06 || 作者是台湾知名作家。<br>《丑陋的中国人》最早是他1984年在美国爱荷华大学的一次演讲。<br>文中深刻批判了中国人的劣根性，柏杨因此获得“台湾鲁迅”之称。<br>书中的经典比喻是“酱缸文化”——任何外来的好东西，进了中国这个大酱缸，都要变质发臭。 ||
-|| 吾国与吾民 || My Country and My People || [https://zh.wikipedia.org/wiki/%E6%9E%97%E8%AF%AD%E5%A0%82 林语堂] || 简体MOBI || 2014-02-23 || 作者是民国知名文学家，著有《京华烟云》。<br>此书最先用英文写成，向西方世界介绍中国的文化和民族的特质。<br>出版后在西方引起很大的反响。 ||
+|| 吾国与吾民 || My Country and My People || [https://zh.wikipedia.org/wiki/%E6%9E%97%E8%AF%AD%E5%A0%82 林语堂] || 简体MOBI || 2014-02-23 || 作者是民国知名文学家，著有《京华烟云》。<br>此书最先用英文写成，向西方世界介绍中国的文化和民族的特质。<br>出版后在西方引起很大的反响。<br>MOBI版本由热心网友分享，特此鸣谢。
+ ||
 || 中国比小说更离奇 || || [https://zh.wikipedia.org/wiki/%E9%8D%BE%E7%A5%96%E5%BA%B7 钟祖康] || 简体TXT<br>简体MOBI || 2013-02-25 || 作者曾经是香港政治评论人，2003年移居挪威。<br>此书描写了天朝的种种荒诞之处。如果你在天朝待久了，可能习以为常了。<br>在本书的自序中，作者写道：“在人的解放、平等和尊严这些信念底下，甚么爱国主义、爱党主义、民族主义都是可弃之而毫不足惜的。”<br>TXT/MOBI版本由热心网友分享，特此鸣谢。 ||
 || 来生不做中国人 || || [https://zh.wikipedia.org/wiki/%E9%8D%BE%E7%A5%96%E5%BA%B7 钟祖康] || 简体PDF || 2013-04-14 || 作者曾经是香港政治评论人，2003年移居挪威。<br>此书是作者的政治评论文集，书中对传统文化的弊端（比如：奴性）有深刻批判。<br>PDF版本由热心网友分享，特此鸣谢。 ||
 || 美人赠我蒙汗药 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%9C%94 王朔] || 简体PDF<br>简体EPUB || 2013-03-14<br>2013-09-14 || 作者是当代知名的作家和编剧。名气较大，俺就不多介绍了。<br>书的主要内容是王朔跟匿名者老侠的对话。<br>通过对话点评了天朝当代文化艺术，抨击大众文化的媚俗和某些知识分子的虚伪。<br>据说匿名对话者老侠就是刘晓波。 ||
@@ -990,13 +991,13 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *文件类型* || *上传日期* || *备注* ||
 || Windows 7 安全指南 || || 简体PDF (扫描版) || 2014-02-13 || 此书面向普通网友，介绍Windows 7的各种安全防护。<br>内容包括：安全更新、防火墙、安全策略、文件访问控制、等等。<br>此书由热心网友推荐，特此鸣谢。 ||
-|| || Securing Debian Manual || 英文PDF || 2014-02-22 || 这是 Debian 官方的安全手册 ||
-|| || Basic Ubuntu Security Guide, Desktop Edition || [https://wiki.ubuntu.com/BasicSecurity 英文在线版] || || 这是 Ubuntu 官方的安全指南（桌面版） ||
+|| || Securing Debian Manual || 英文PDF || 2014-02-22 || 这是 Debian 官方的安全手册。 ||
+|| || Basic Ubuntu Security Guide, Desktop Edition || [https://wiki.ubuntu.com/BasicSecurity 英文在线版] || || 这是 Ubuntu 官方的安全指南（桌面版）。 ||
 || || Red Hat Enterprise Linux 6 Security Guide || 英文PDF || 2014-02-22 || 这是 Red Hat 官方的安全指南 ||
-|| || Security Guide<br>——A Guide to Securing Fedora Linux || [https://docs.fedoraproject.org/security-guide/ 英文在线版] || || 这是 Fedora 官方的安全指南 ||
-|| || openSUSE Security Guide || [https://activedoc.opensuse.org/book/opensuse-security-guide 英文在线版] || || 这是 openSUSE 官方的安全指南 ||
-|| || Security<br>——Recommendations and Best Practices for Hardening an Arch Linux System || [https://wiki.archlinux.org/index.php/security 英文在线版] || || 这是 Arch Linux 官方的安全文档 ||
-|| || Gentoo Security Handbook || [https://www.gentoo.org/doc/en/security/security-handbook.xml?style=printable&full=1 英文在线版] || || 这是 Gentoo 官方的安全手册 ||
+|| || Security Guide<br>——A Guide to Securing Fedora Linux || [https://docs.fedoraproject.org/security-guide/ 英文在线版] || || 这是 Fedora 官方的安全指南。 ||
+|| || openSUSE Security Guide || [https://activedoc.opensuse.org/book/opensuse-security-guide 英文在线版] || || 这是 openSUSE 官方的安全指南。 ||
+|| || Security<br>——Recommendations and Best Practices for Hardening an Arch Linux System || [https://wiki.archlinux.org/index.php/security 英文在线版] || || 这是 Arch Linux 官方的安全文档。 ||
+|| || Gentoo Security Handbook || [https://www.gentoo.org/doc/en/security/security-handbook.xml?style=printable&full=1 英文在线版] || || 这是 Gentoo 官方的安全手册。 ||
 
 === 8.3.4 入侵 ===
 
