@@ -129,7 +129,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 论出版自由 || Areopagitica<br>——A Speech for the Liberty of Unlicensed Printing || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF 约翰·弥尔顿] || 简体PDF || 2014-02-03 || 作者是英国文学家、思想家，以《失乐园》而闻名于世。<br>历史上捍卫言论自由的书籍中，此书是最有影响力的（没有之一）。 ||
 || 给你所爱的人以自由 || || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体PDF (大字版) || 2013-10-26<br>2013-11-26 || 作者是国内著名经济学家，提倡自由主义，曾获米尔顿·弗里德曼自由奖。<br>如果光看书名，估计不少人还以为这书是谈感情的。<br>其实此书主要谈人权、普世价值、伦理、公正等基本的政治概念。<br>PDF由热心网友精心排版并分享，特此鸣谢。 ||
 
-=== 1.1.3 共产主义 ===
+=== 1.1.3 资本主义 ===
+
+*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1254 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/LLBMEveWzu/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89 Dropbox网盘]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 新教伦理与资本主义精神 || The Protestant Ethic and the Spirit of Capitalism || [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%8B%E4%BC%AF 马克斯·韦伯] || 简体HTML || 2014-04-14 || 作者是德国政治经济学家和社会学家，现代社会学和公共行政学的主要创始人之一。<br>此书是其代表作，主要分析基督教新教对资本主义发展的重要作用。<br>此书的影响很大，某些观点在学术界有争议。 ||
+
+=== 1.1.4 共产主义 ===
 
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!928 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/1cli3mkIQ3/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89 Dropbox网盘]
 
@@ -140,7 +147,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 历史决定论的贫困 || The Poverty of Historicism || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体HTML || 2012-12-11 || 波普尔是20世纪著名的哲学家，政治上拥护自由主义，提倡“开放社会”。<br>此书有力地批驳了马克思的“历史唯物主义”。<br>波普尔说：_作为一名预言家，马克思失败的原因，完全在于历史主义的贫乏。_ ||
 || 恐怖主义与共产主义 || Terrorism and Communism || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 卡尔·考茨基] || 简体PDF || 2013-04-11 || 作者是社会民主主义者，恩格斯的好友，《[https://zh.wikipedia.org/wiki/%E8%B5%84%E6%9C%AC%E8%AE%BA 资本论]》第四卷的编者。<br>在对待马克思的理论方面，考茨基跟列宁发生严重分歧。<br>考茨基批评列宁搞独裁专制，列宁批评考茨基是修正主义。<br>通过此书可以了解：共产运动从巴黎公社一直到十月革命，充斥着血腥和杀戮。 ||
 
-=== 1.1.4 社会主义 ===
+=== 1.1.5 社会主义 ===
 
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1206 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/yXhdbcxDLt/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89 Dropbox网盘]
 
@@ -149,7 +156,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || 简体PDF<br>简体EPUB || 2013-03-24<br>2013-09-13 || 作者是英国知名经济学家和政治哲学家，奥地利经济学派最有影响力的成员。<br>他一贯坚持自由资本主义和个人主义、反对社会主义和集体主义。<br>此书写于哈耶克学术生涯的最后几年，可以视作其毕生的学术总结。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
 || 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 米塞斯] || 简体PDF (扫描版) || 2013-03-31 || 作者是知名的经济学家、被誉为“奥地利经济学派的院长”。<br>此书分别从经济学和社会学方方面面，对社会主义进行猛烈批判。<br>[https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克]这样评价米塞斯的这本书：<br>_最初的时候我们每个人都觉得他的观点夸张得太过吓人甚至语气上火气太大。但是逐渐地，他还是赢得了我们，当然这花了很长的时间。那时我不得不承认他在结论上是对的，但是要在心里接受他的观点仍然是一件不舒服的事情。_<br>全书600多页，目录从61页开始。<br>PDF版本由热心网友分享，特此鸣谢。 ||
 
-=== 1.1.5 极权主义和威权主义 ===
+=== 1.1.6 极权主义和威权主义 ===
 
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!954 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/7t_-_TC2-w/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89%E5%92%8C%E5%A8%81%E6%9D%83%E4%B8%BB%E4%B9%89 Dropbox网盘]
 
@@ -159,7 +166,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 威权统治的转型<br>——关于不确定民主的试探性结论 || || 吉列尔莫·奥唐奈 & [https://en.wikipedia.org/wiki/Philippe_C._Schmitter 菲利普·施密特] || 简体PDF (扫描版) || 2013-08-21 || 两位作者都是美国知名的政治理论学者。<br>此书是4卷本丛书《从威权主义统治转型——民主的前景》的最后一卷，也是“比较政治学”领域的经典著作。<br>此书对威权主义转型的方方面面有深刻的分析，并给出很多可操作性的建议。<br>希望推动天朝政治变革的网友，此书非常值得一看。 ||
 || 新常识<br>——一党专制的性质与后果 || || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%BF%A0 张雪忠] || 简体PDF<br>简体EPUB || 2013-10-19<br>2014-03-29 || 作者是华东政法大学硕士导师，曾在微博曝光朝廷的“七不讲”禁令。<br>此书普及了不少基本的政治常识（比如：国家、主权、主权者、执政者、政党、等），<br>也分析天朝的独裁体制（包括：人大制度的虚伪性、党化教育的洗脑性）。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
 
-=== 1.1.6 外交和国际关系 ===
+=== 1.1.7 外交和国际关系 ===
 
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1133 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/G29O84I77c/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E5%A4%96%E4%BA%A4%E5%92%8C%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB Dropbox网盘]
 
@@ -169,7 +176,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 文明的冲突与世界秩序的重建 || The Clash of Civilizations<br>and the Remaking of World Order || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] || 简体PDF || 2013-03-31 || 作者是美国知名的保守派政治学家，此书是他的代表作。<br>作者认为：因文明差异导致的冲突是今后国际冲突的主因。<br>此书内容有争议，某些学者认为亨廷顿过于高估文化的影响力。 ||
 || 论中国 || On China || [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体EPUB<br>英文EPUB || 2014-02-05<br>2014-02-05 || 作者是美国知名的外交家，长期担任国务卿。<br>此书主要介绍了作者与中共4代领导人打交道的经历。<br>对于某些敏感事件（比如第15章谈及“六四”），中文版有删节。<br>两个EPUB版本由热心网友分享，特此鸣谢。 ||
 
-=== 1.1.7 非暴力抗争 ===
+=== 1.1.8 非暴力抗争 ===
 
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!906 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/tPC1ABfroc/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%8A%97%E4%BA%89 Dropbox网盘]
 
@@ -178,7 +185,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 群众性防卫<br>——一种超军事的武器系统 || Civilian-Based Defense<br>——A Post-Military Weapons System || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || 简体PDF<br>繁體PDF (掃描版) || 2013-03-16<br>2013-02-02 || 此书是吉恩·夏普又一部知名著作。<br>主要介绍：利用群众性防卫的方式对付内部篡权者和外部侵略者。<br>简体PDF版本由热心网友分享，特此鸣谢。 ||
 || 一种更强大的力量<br>——非暴力抗争一百年 || || 彼得·阿克曼 & 杰克·杜瓦尔 || 简体MOBI (上下) || 2013-05-13 || 此书介绍了最近一百年来的非暴力抗争——从1905年的俄国工运一直聊到共产党阵营的瓦解。<br>此书上下册累计900多页，不习惯看大部头的同学，可以先看俺的博文《[http://program-think.blogspot.com/2012/08/revolution-6.html 回顾"非暴力抗争"的历史]》 ||
 
-=== 1.1.8 女权运动 ===
+=== 1.1.9 女权运动 ===
 
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1247 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/cu67DOJP4p/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8 Dropbox网盘]
 
@@ -189,7 +196,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 女权主义 || || 简·弗里德曼 || 简体PDF (扫描版) || 2014-02-03 || 此书从政治、经济、生理、种族等角度介绍了女权主义的不同流派。<br>PDF版本由热心网友分享，特此鸣谢。 ||
 || 三个原始部落的性别与气质 || Sex and Temperament in Three Primitive Societies || [https://zh.wikipedia.org/wiki/%E7%91%AA%E6%A0%BC%E9%BA%97%E7%89%B9%C2%B7%E7%B1%B3%E5%BE%B7 玛格丽特·米德] || 简体PDF (扫描版) || 2013-08-13 || 作者是美国知名的人类学家，曾获总统自由勋章。<br>作者考察了新几内亚的三个原始部落，发现地理位置相近的三个部落，在文化方面（尤其是性别方面）有显著差异。<br>作者在此书中提出了“性别文化决定论”的学术观点。 ||
 
-=== 1.1.9 (其它) ===
+=== 1.1.10 (其它) ===
 
 *【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1388 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/-lCDK29B0i/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
