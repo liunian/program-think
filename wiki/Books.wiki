@@ -99,18 +99,17 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 这个电子书，会包含本博客站点上的【所有博文】，并且把博文中的【所有图片】都嵌入到电子书中。博文的交叉链接全部转换成【本地链接】。如此一来，你就可以完全实现离线浏览（无需联网）。
 
+为了保持风格的一致性，电子书的界面跟博客的界面基本类似。下面分别是 *CHM* 和 *EPUB* 的界面效果缩略图。
 
-为了保持风格的一致性，电子书的界面跟博客的界面基本类似。下面分别是 CHM 和 EPUB 的界面效果缩略图。
-
-在 Windows 系统直接双击打开 CHM 的效果图
+在 Windows 系统直接双击打开 *CHM格式* 的效果图
 
 [http://lh5.googleusercontent.com/eX16PWG_h4A9OHSD0y45SiuinEZZWl50EN_FWphQMMtmvTc-pvGbvXDnljubstUXsSw6-mYHGlroYMfB8nJdg_wU_XQkzV8Z_pcVJCPdsdY87KnaM-em-DonOlFvOGjIeGAA?nonsense=.png]
 
-用 calibre 打开 EPUB 的效果图
+用 [https://zh.wikipedia.org/wiki/Calibre calibre] 打开 *EPUB格式* 的效果图
 
 [http://lh4.googleusercontent.com/c8A3MNL2zef8I589g1LywTYuBPeW80BCU8hH2x_YsUm60-uy0h19BmR5JUxJmLTLGtaplOk_OOd0ve2jZJfyi1z3eQgaAlJtL7JoNB6p9ESRs2U2Y0RIzPxFIvFjnygJhXex?nonsense=.png]
 
-<font size="4"><b>想下载的同学，请猛击“[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1010 这个链接]”。</b></font>
+<font size="4"><b>想下载的同学，请猛击“[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1010 这个链接]”！</b></font>
 
 在前面的“下载须知”中，俺提到了“Dropbox网盘”对免费帐号的流量限制（每天大约“几GB”）。由于俺博客打包的电子书比较大（100MB左右），为了避免占用 Dropbox 的流量限额，“博客电子书”只放到“微软网盘”。希望大伙儿谅解。
 
@@ -125,7 +124,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.1.1 民主和宪政 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1253 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/i4R5V56euM/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E6%B0%91%E4%B8%BB%E5%92%8C%E5%AE%AA%E6%94%BF Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1253 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/i4R5V56euM/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E6%B0%91%E4%B8%BB%E5%92%8C%E5%AE%AA%E6%94%BF Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 代议制政府 || Considerations on Representative Government || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·斯图尔特·密尔] || 简体PDF || 2013-08-22 || 作者是很有影响力的自由主义思想家，生活于19世纪英国。<br>此书是公认的，关于“议会民主制”的经典著作。<br>不同于某些理论著作，此书谈了很多具体的操作层面细节。 ||
@@ -142,7 +141,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 （本章节的“自由主义”主要指“[https://zh.wikipedia.org/wiki/%E5%8F%A4%E5%85%B8%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89 古典自由主义]”和“[https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97%E4%B8%BB%E7%BE%A9 自由意志主义]”）
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1097 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/t_NTy0-27f/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1097 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/t_NTy0-27f/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 论自由 || On Liberty || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] || 简体PDF<br>简体EPUB || 2013-04-14<br>2013-09-13 || 作者是很有影响力的自由主义思想家，生活于19世纪英国。<br>此书是密尔的代表作，奠定了自由主义的根基。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
@@ -157,14 +156,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.1.3 资本主义 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1254 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/LLBMEveWzu/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1254 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/LLBMEveWzu/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 新教伦理与资本主义精神 || The Protestant Ethic and the Spirit of Capitalism || [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%8B%E4%BC%AF 马克斯·韦伯] || 简体HTML || 2014-04-14 || 作者是德国政治经济学家和社会学家，现代社会学和公共行政学的主要创始人之一。<br>此书是其代表作，主要分析基督教新教对资本主义发展的重要作用。<br>此书的影响很大，某些观点在学术界有争议。 ||
 
 === 1.1.4 共产主义 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!928 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/1cli3mkIQ3/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!928 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/1cli3mkIQ3/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and The Death of Communism in the Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || 简体PDF (扫描版) || 2012-10-06 || 作者是知名的国际关系学着，曾担任美国总统的国家安全顾问。<br>作者通过各方面分析，得出结论：“到了21世纪，共产主义将不可逆转地在历史上衰亡”。<br>此书出版于1989年4月，几年后苏联和东欧的共产党政权纷纷崩溃。不得不佩服布热津斯基的预见性。 ||
@@ -175,7 +174,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.1.5 社会主义 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1206 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/yXhdbcxDLt/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1206 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/yXhdbcxDLt/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 通往奴役之路 || The Road to Serfdom || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || 简体PDF<br>简体EPUB<br>英文PDF || 2013-03-24<br>2013-09-13<br>2013-05-30 || 作者是英国知名经济学家和政治哲学家，奥地利经济学派最有影响力的成员。<br>他一贯坚持自由市场资本主义和个人主义、反对社会主义和集体主义。<br>此书阐述了：所有实行中央计划经济的社会，不管采用什么意识形态，最终都会沦为极权主义。<br>希特勒的纳粹主义是如此，斯大林的共产主义亦如此。<br>哈耶克称：要将这本书献给“所有党派的社会主义者”读一读。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
@@ -184,7 +183,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.1.6 极权主义和威权主义 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!954 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/7t_-_TC2-w/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89%E5%92%8C%E5%A8%81%E6%9D%83%E4%B8%BB%E4%B9%89 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!954 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/7t_-_TC2-w/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89%E5%92%8C%E5%A8%81%E6%9D%83%E4%B8%BB%E4%B9%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 开放社会及其敌人 || The Open Society and Its Enemies || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体PDF<br>简体EPUB || 2012-12-11<br>2013-09-14 || 波普尔是20世纪著名的哲学家，政治上拥护自由主义，提倡“开放社会”。<br>本书中更多的是介绍“开放社会的敌人”，而不是“开放社会”本身。<br>书中着重批判了 柏拉图、黑格尔、马克思 三人的哲学体系（此三人可说是一脉相承）。<br>波普尔认为他们三人的哲学理论是极权主义思想的根源。 ||
@@ -194,7 +193,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.1.7 外交和国际关系 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1133 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/G29O84I77c/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E5%A4%96%E4%BA%A4%E5%92%8C%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1133 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/G29O84I77c/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E5%A4%96%E4%BA%A4%E5%92%8C%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 大棋局<br>——美国的首要地位及其地缘战略 || The Grand Chessboard<br>——American Primacy and Its Geostrategic Imperatives || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || 简体PDF || 2013-04-14 || 作者是知名的国际关系学着，曾担任美国总统的国家安全顾问。<br>书名中的“大棋局”是指欧亚大陆。<br>作者在书中详细分析了欧亚大陆几个主要大国的地位和影响力，并提出美国应采取的对策。 ||
@@ -204,7 +203,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.1.8 非暴力抗争 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!906 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/tPC1ABfroc/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%8A%97%E4%BA%89 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!906 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/tPC1ABfroc/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%8A%97%E4%BA%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 从独裁到民主<br>——解放运动的概念框架 || From Dictatorship to Democracy || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || 简体PDF<br>英文PDF || 2012-08-16<br>2012-08-16  || 吉恩·夏普在“非暴力抗争”领域很有影响力。<br>此书号称非暴力抗争的“圣经”，影响很广，已翻译成几十种文字。<br>在俺博客的[http://program-think.blogspot.com/2011/12/revolution-0.html 《谈革命》系列]中，会具体介绍此书的内容。 ||
@@ -213,7 +212,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.1.9 女权运动 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1247 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/cu67DOJP4p/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1247 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/cu67DOJP4p/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 第二性 || The Second Sex || [https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%92%99%C2%B7%E6%B3%A2%E5%A8%83 西蒙·波伏娃] || 简体PDF (扫描版) || 2013-04-10 || 作者是法国作家，女权运动的领袖人物，哲学家[https://zh.wikipedia.org/wiki/%E8%AE%93-%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%89%B9 萨特]的伴侣。<br>此书主要阐述女性弱势的事实及原因分析。<br>内容涉及文学、历史、社会学、生物学、医学等多方面，堪称女权运动的“圣经”。 ||
@@ -224,7 +223,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.1.10 (其它) ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1388 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/-lCDK29B0i/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1388 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/-lCDK29B0i/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 政治科学 || Political Science || 迈克尔·罗斯金 等 || 简体PDF (第9版 扫描版)<br>简体PDF (第6版 扫描版) || 2014-02-13<br>2014-02-06 || 此书是美国高校的教材，被多个国家的高等院校采用。<br>不同于天朝政治教材只吹捧马列，这套教材讲述了各种意识形态。<br>全书包括5部分：政治基础、政治态度、政治互动、政治制度、政治行为。<br>此书由热心网友推荐，特此鸣谢。 ||
@@ -236,7 +235,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 （某些政治小说描写的是特定国家，归入对应国家的分类；某些中国的政治小说描写的是特定的历史背景，归入“中共历史”的对应分类）
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!909 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/oSHaVT0M4j/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E5%B0%8F%E8%AF%B4 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!909 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/oSHaVT0M4j/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E5%B0%8F%E8%AF%B4 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 一九八四 || Nineteen Eighty-Four || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF (扫描版)<br>简体MOBI<br>英文EPUB<br>英文PDF || 2010-09-07<br>2013-09-15<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2013-09-13<br>2012-01-11 || 这本书表面上是科幻小说，实质上是很深刻的政治小说。<br>此书名列“反乌托邦三部曲”之首。在20世纪的政治小说中，此书完全能排进 TOP10<br>书中非常彻底地揭露了共产运动本质，还包括极权政府对民众洗脑的伎俩。<br>*绝对值得一读！* 俺的书评在“[http://program-think.blogspot.com/2009/06/book-review-1984.html 这里]”。<br>英文EPUB、简体PDF扫描版、简体MOBI由热心网友分享，特此鸣谢。 ||
@@ -255,7 +254,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 ==== 1.3.1.1 改革开放时期 ====
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!926 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/CXkMO_OlVp/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E6%97%B6%E6%9C%9F Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!926 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/CXkMO_OlVp/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E6%97%B6%E6%9C%9F Dropbox网盘]
 
 || *书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 中国改革年代的政治斗争 || || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF<br>简体EPUB || 2012-04-05<br>2013-11-26 || 杨继绳是新华社高级记者，《炎黄春秋》杂志副社长。<br>此书介绍了80年代朝廷高层改革派与保守派的长期内斗，内容真实且客观。 ||
@@ -269,7 +268,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 ==== 1.3.1.2 六四事件 ====
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!883 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/K0lrbRO0qo/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!883 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/K0lrbRO0qo/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6 Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 天安门文件<br>(中国六四真相) || 张良 (化名) || 简体PDF<br>简体CHM || 2013-01-13<br>2012-04-05 || 此书据称是中共某高层人士有意泄露出来的，内容包括很多朝廷高官的会议记录。<br>此书传播很广，影响较大，但部分内容有争议。争议部分，俺会在《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》中指明。<br>PDF版本是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
@@ -291,7 +290,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 ==== 1.3.1.3 文革时期 ====
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!925 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/33fD91f_So/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E6%96%87%E9%9D%A9%E6%97%B6%E6%9C%9F Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!925 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/33fD91f_So/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E6%96%87%E9%9D%A9%E6%97%B6%E6%9C%9F Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 文化大革命<br>——历史真相和集体记忆 || || 宋永毅 || 简体PDF || 2012-10-05 || 这实际上是一本论文集。<br>书中收集了几十位研究学者和亲历者所写的文章。 ||
@@ -314,7 +313,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 ==== 1.3.1.4 “大跃进”和大饥荒时期 ====
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!924 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/_VlzpcPZDL/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E2%80%9C%E5%A4%A7%E8%B7%83%E8%BF%9B%E2%80%9D%E5%92%8C%E5%A4%A7%E9%A5%A5%E8%8D%92%E6%97%B6%E6%9C%9F Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!924 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/_VlzpcPZDL/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E2%80%9C%E5%A4%A7%E8%B7%83%E8%BF%9B%E2%80%9D%E5%92%8C%E5%A4%A7%E9%A5%A5%E8%8D%92%E6%97%B6%E6%9C%9F Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 墓碑<br>——中国六十年代大饥荒纪实 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF<br>繁體PDF || 2012-04-06<br>2013-10-20 || 杨继绳是新华社高级记者，《炎黄春秋》杂志副社长。<br>此书又是一本大部头纪实，足见杨继绳写纪实题材的功力。<br>繁体版本由热心网友分享，特此鸣谢。 ||
@@ -327,7 +326,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 ==== 1.3.1.5 “反右”运动 ====
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!980 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ny5AQDUJDx/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E2%80%9C%E5%8F%8D%E5%8F%B3%E2%80%9D%E8%BF%90%E5%8A%A8 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!980 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ny5AQDUJDx/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E2%80%9C%E5%8F%8D%E5%8F%B3%E2%80%9D%E8%BF%90%E5%8A%A8 Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 阳谋 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || 简体PDF<br>简体CHM || 2013-01-13<br>2012-11-17 || 作者是中国当代史研究学者、持不同政见者。<br>他的著名作品有《人祸》和《阳谋》。<br>PDF版本是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
@@ -340,7 +339,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 ==== 1.3.1.6 “土改”运动 ====
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1179 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/NZ61VHWvow/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E2%80%9C%E5%9C%9F%E6%94%B9%E2%80%9D%E8%BF%90%E5%8A%A8 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1179 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/NZ61VHWvow/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E2%80%9C%E5%9C%9F%E6%94%B9%E2%80%9D%E8%BF%90%E5%8A%A8 Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 最后的地主 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF<br>简体PDF (大字版) || 2013-03-16<br>2013-03-31 || 作者是流亡作家，专门为社会底层呐喊。<br>此书介绍了“土改”时期，地主的悲惨遭遇。<br>当年有大量的地主/富农被滥杀，至今得不到平反。 ||
@@ -349,7 +348,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 ==== 1.3.1.7 国共内战时期 ====
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!978 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/UZaRwvOzV4/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E5%9B%BD%E5%85%B1%E5%86%85%E6%88%98%E6%97%B6%E6%9C%9F Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!978 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/UZaRwvOzV4/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E5%9B%BD%E5%85%B1%E5%86%85%E6%88%98%E6%97%B6%E6%9C%9F Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 1949年<br>——中国知识分子的私人记录 (扫描版) || [https://zh.wikipedia.org/wiki/%E5%82%85%E5%9B%BD%E6%B6%8C 傅国涌] || 简体PDF (扫描版) || 2013-03-14 || 作者是自由撰稿人，出版过不少历史类著作。<br>此书收集了1949年前后，14位知名知识分子的日记和书信。<br>通过这些日记和书信，有助于了解那段历史。 ||
@@ -358,7 +357,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 ==== 1.3.1.8 延安和八年抗战时期 ====
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!930 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Lg9n4u9qUY/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E5%BB%B6%E5%AE%89%E5%92%8C%E5%85%AB%E5%B9%B4%E6%8A%97%E6%88%98%E6%97%B6%E6%9C%9F Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!930 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Lg9n4u9qUY/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E5%BB%B6%E5%AE%89%E5%92%8C%E5%85%AB%E5%B9%B4%E6%8A%97%E6%88%98%E6%97%B6%E6%9C%9F Dropbox网盘]
 
 || *书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 红太阳是怎样升起的<br>——延安整风运动的来龙去脉 || || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || 简体PDF<br>简体CHM<br>简体EPUB<br>简体MOBI || 2012-12-09<br>2012-04-06<br>2013-11-26<br>2014-02-03 || 高华是党史研究方面的资深学者（已故）。<br>“延安整风”是老毛确立党内独裁地位的关键。此书详细介绍了这段历史。<br>EPUB和MOBI版本由热心网友分享，特此鸣谢。 ||
@@ -370,7 +369,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 ==== 1.3.1.9 (其它) ====
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!963 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/d8TOc-hDV2/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!963 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/d8TOc-hDV2/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 谁是新中国<br>——中国现代史辨 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E7%81%8F%E5%B9%B4 辛灏年]<br>(原名：高尔品) || 简体PDF<br>简体CHM || 2012-12-30<br>2012-12-10 || 作者是天朝作家、持不同政见者。这是他名气最大的一部作品。<br>此书共三部分：“导论 革命与复辟” “上卷 辛亥革命、中华民国与中国国民党” “下卷 共产革命、农民造反与中国共产党”<br>其内容有助于你了解近代史以及国共两党的本质差异。 ||
@@ -388,7 +387,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.3.2 政治人物 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!922 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/tFt2Y2X_tW/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!922 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/tFt2Y2X_tW/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9 Dropbox网盘]
 
 || *书名*  || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 太子党关系网络 (2.0.10) || || 编程随想 || 简体PDF || 2013-06-16 || 这是俺花了好几个不眠之夜，在网上搜集的天朝权贵关系网。<br>为了让大伙儿看起来直观，特地做成可视化的网状图。<br>看了这个关系网，你对天朝的权贵阶层会有更深刻的认识。<br>为与时俱进，本文档会不定期更新。如有重大更新，会在[http://program-think.blogspot.com/ 俺博客中]告知大伙儿。 ||
@@ -416,7 +415,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.3.3 社会阶层和贫富分化 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1022 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/tQZQMWxkAF/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E7%A4%BE%E4%BC%9A%E9%98%B6%E5%B1%82%E5%92%8C%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1022 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/tQZQMWxkAF/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E7%A4%BE%E4%BC%9A%E9%98%B6%E5%B1%82%E5%92%8C%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96 Dropbox网盘]
 
 || *书名* || *英文书名* ||  *作者* || *文件类型* || *上传日期* || *备注* ||
 || 中国底层访谈录 || The Corpse Walker || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF (上下 扫描版)<br>简体PDF (上中下 文字版)<br>简体PDF (上中下 大字版) || 2012-12-10<br>2013-03-31<br>2013-03-31 || 作者是流亡作家，专门为社会底层呐喊。<br>此书专写社会底层的民众，让“不见天日的下水道里的中国”浮出地面。<br>朝廷对此书的出版大为震怒，出版社遭严厉整肃。<br>因为此事，廖亦武也获得了“出版社杀手”的绰号。<br>文字版PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
@@ -428,7 +427,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.3.4 腐败问题 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1043 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ymk-JMs-5q/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E8%85%90%E8%B4%A5%E9%97%AE%E9%A2%98 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1043 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ymk-JMs-5q/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E8%85%90%E8%B4%A5%E9%97%AE%E9%A2%98 Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 远华案黑幕 || [https://zh.wikipedia.org/wiki/%E7%9B%9B%E9%9B%AA_%28%E8%87%A7%E9%8C%AB%E7%B4%85%29 盛雪]<br>(原名：臧锡红) || 简体PDF<br>简体TXT || 2013-01-13<br>2013-01-01 || 盛雪是旅居加拿大的作家，并担任自由亚洲电台和德国之声的记者。<br>[https://zh.wikipedia.org/wiki/%E9%81%A0%E8%8F%AF%E6%A1%88 远华案]是天朝历史上震动最大、金额最高的经济案件。牵涉大量的朝廷高官。<br>此书是她的代表作，内容包括大量对赖昌星（远华案男一号）的访谈。<br>由于牵涉太多在职高官（江泽民、贾庆林、等），被朝廷八个部委联合发文查禁。 ||
@@ -437,7 +436,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.3.5 中宣部和言论审查 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1099 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/3osA0l2UxT/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%AE%A3%E9%83%A8%E5%92%8C%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1099 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/3osA0l2UxT/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%AE%A3%E9%83%A8%E5%92%8C%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5 Dropbox网盘]
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 讨伐中宣部<br>——焦国标文集 || [https://zh.wikipedia.org/wiki/%E7%84%A6%E5%9B%BD%E6%A0%87 焦国标] || 简体CHM || 2013-01-07 || 焦国标是北大新闻学院副教授、作家、政治异议人士。<br>他因为写了《讨伐中宣部》一文而广为人知。并因此被勒令停止教学。<br>此电子书收录了他的多篇文章。 ||
@@ -446,7 +445,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.3.6 愚民教育 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1167 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Unv2Oe4Uc9/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E6%84%9A%E6%B0%91%E6%95%99%E8%82%B2 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1167 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Unv2Oe4Uc9/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E6%84%9A%E6%B0%91%E6%95%99%E8%82%B2 Dropbox网盘]
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 审视中学语文教育 || (多人) || 简体PDF (扫描版) || 2013-02-25 || 此书收集了多篇文章，主要批判“语文”教育存在的种种弊端。 ||
@@ -455,7 +454,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.3.7 少数民族问题 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1067 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/H6ZSN8HYWE/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1067 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/H6ZSN8HYWE/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 天葬<br>——西藏的命运 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || 简体PDF<br>简体TXT || 2012-12-31<br>2012-12-31 || 作者是大陆知名作家、民族问题学者、环保人士。<br>作者在书中以大量的亲身经历和实地所见，叙述了西藏的各个方面。<br>此书的内容比较客观，有助于了解西藏的历史和现状。 ||
@@ -468,7 +467,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.3.8 司法黑暗 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1296 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/A1OtKVX15v/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E5%8F%B8%E6%B3%95%E9%BB%91%E6%9A%97 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1296 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/A1OtKVX15v/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E5%8F%B8%E6%B3%95%E9%BB%91%E6%9A%97 Dropbox网盘]
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 中国冤案录 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体MOBI (三卷合集)<br>简体PDF (第2卷) || 2014-02-23<br>2013-05-01 || 作者是流亡作家，专门为社会底层呐喊。<br>作者走访了多位被冤枉的小老百姓。<br>通过他们的遭遇，揭露中共政府以司法的名义搞政治迫害。<br>MOBI和PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
@@ -478,14 +477,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.3.9 环境污染和食品安全 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1618 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/w9uX3K6sDZ/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93%E5%92%8C%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1618 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/w9uX3K6sDZ/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93%E5%92%8C%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8 Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 民以何食为天<br>——中国食品安全现状调查 || [https://zh.wikipedia.org/wiki/%E5%91%A8%E5%8B%8D 周勍] || 简体PDF (扫描版) || 2014-01-09 || 此书介绍了天朝各方面的食品安全问题，令人触目惊心。<br>PDF版本由热心网友分享，特此鸣谢。 ||
 
 === 1.3.10 (其它) ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1033 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/lf9XBY4_Ph/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1033 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/lf9XBY4_Ph/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 王小波全集 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%B3%A2 王小波] || 简体CHM<br>简体EPUB || 2013-08-21<br>2013-09-14 || 王小波的名气很大（不亚于刘晓波），俺就不介绍了。<br>此书是网友整理的“全集”，如果你有更全的版本，请不吝告知。 ||
@@ -507,7 +506,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 1.4 美国 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!945 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/areMozynvE/%E6%94%BF%E6%B2%BB/%E7%BE%8E%E5%9B%BD Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!945 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/areMozynvE/%E6%94%BF%E6%B2%BB/%E7%BE%8E%E5%9B%BD Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 论美国的民主<br>(民主在美国) || Democracy in America || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || 简体PDF (上下卷)<br>简体MOBI || 2012-10-06<br>2013-05-13 || 作者是法国的政治思想家和历史学家。<br>此书是托克维尔的代表作，也是研究美国民主政治体制的经典著作。<br>书中从政治学、社会学、历史学等方面对美国的政体进行阐述。 ||
@@ -517,7 +516,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 1.5 苏联 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1070 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/aoUajG4bUB/%E6%94%BF%E6%B2%BB/%E8%8B%8F%E8%81%94 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1070 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/aoUajG4bUB/%E6%94%BF%E6%B2%BB/%E8%8B%8F%E8%81%94 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 斯大林秘闻<br>——原苏联秘密档案披露 || Stalin<br>——The First In-depth Biography<br>Based on Explosive New Documents<br>from Russia's Secret Archives || [https://en.wikipedia.org/wiki/Edvard_Radzinsky 爱德华·拉津斯基] || 简体PDF<br>简体EPUB || 2013-01-01<br>2013-09-13 || 作者是俄罗斯知名传记作家。此书出版于1996年。<br>书中大量引用了前苏联的解密档案（包括斯大林个人档案、十月革命档案、苏共中央党务档案、等）。<br>本书有助于了解斯大林是如何血腥清洗党内高官，最终独揽大权成为新沙皇。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
@@ -536,7 +535,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 1.6 法国 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!943 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/LOb-po3bs0/%E6%94%BF%E6%B2%BB/%E6%B3%95%E5%9B%BD Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!943 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/LOb-po3bs0/%E6%94%BF%E6%B2%BB/%E6%B3%95%E5%9B%BD Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 旧制度与大革命 || The Old Regime and the French Revolution || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || 简体PDF<br>简体EPUB || 2012-10-06<br>2013-09-14 || 作者是法国的政治思想家和历史学家。<br>此书主要介绍大革命之前的法国社会，并分析了大革命的起因。<br>早在2012年初，就有小道消息称：中央政治局的某些家伙在传阅此书。<br>（18大之后，王岐山在公开场合推荐此书）<br>估计连朝廷高层也觉得天朝正处于革命前夜。 ||
@@ -544,7 +543,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 1.7 北朝鲜 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1149 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/beKjCH7uuQ/%E6%94%BF%E6%B2%BB/%E5%8C%97%E6%9C%9D%E9%B2%9C Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1149 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/beKjCH7uuQ/%E6%94%BF%E6%B2%BB/%E5%8C%97%E6%9C%9D%E9%B2%9C Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 黄长烨回忆录 || || [https://zh.wikipedia.org/wiki/%E9%BB%84%E9%95%BF%E7%83%A8 黄长烨] || 简体PDF || 2013-02-19 || 作者是北朝鲜高官，曾经担任最高人民会议议长，是主体思想方面的理论家。<br>1997年进入北京的南韩大使馆寻求政治避难。<br>通过此书可以了解北朝鲜的高层领导人以及北朝鲜的政治生活。 ||
@@ -553,7 +552,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 1.8 (其它国家) ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1210 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/socCw0hU7v/%E6%94%BF%E6%B2%BB/%28%E5%85%B6%E5%AE%83%E5%9B%BD%E5%AE%B6%29 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1210 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/socCw0hU7v/%E6%94%BF%E6%B2%BB/%28%E5%85%B6%E5%AE%83%E5%9B%BD%E5%AE%B6%29 Dropbox网盘]
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 哈维尔文集 || [https://zh.wikipedia.org/wiki/%E7%93%A6%E8%8C%A8%E6%8B%89%E5%A4%AB%C2%B7%E5%93%88%E7%BB%B4%E5%B0%94 哈维尔] || 简体PDF || 2013-03-22 || 作者是捷克作家、剧作家，领导了捷克斯洛伐克的“[https://zh.wikipedia.org/wiki/%E5%A4%A9%E9%B5%9D%E7%B5%A8%E9%9D%A9%E5%91%BD 天鹅绒革命]”。<br>民主化转型之后，曾担任捷克总统。<br>此书包含了作者若干代表性的文章（比如：无权者的权力）。 ||
@@ -568,7 +567,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 2.1 认知心理学 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1050 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Pk5XaiyyT9/%E5%BF%83%E7%90%86%E5%AD%A6/%E8%AE%A4%E7%9F%A5%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1050 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Pk5XaiyyT9/%E5%BF%83%E7%90%86%E5%AD%A6/%E8%AE%A4%E7%9F%A5%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 学会提问<br>——批判性思维指南 || Asking the Right Questions<br>——A Guide to Critical Thinking || 布朗 & 基利 || 简体PDF (第7版)<br>简体EPUB (第7版)<br>英文PDF (第8版) || 2012-01-20<br>2013-09-13<br>2012-01-20 || 因为批判性思维非常重要，所以这是一本不可多得的好书。<br>更多介绍请看“[http://program-think.blogspot.com/2010/10/book-review-asking-right-questions.html 俺的书评]”。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
@@ -577,7 +576,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 2.2 人格心理学 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1051 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/QMJ7UkLzeM/%E5%BF%83%E7%90%86%E5%AD%A6/%E4%BA%BA%E6%A0%BC%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1051 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/QMJ7UkLzeM/%E5%BF%83%E7%90%86%E5%AD%A6/%E4%BA%BA%E6%A0%BC%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 少有人走的路<br>——心智成熟的旅程 || The Road Less Traveled<br>——A New Psychology of Love,<br>Traditional Values and Spiritual Growth || [https://en.wikipedia.org/wiki/M._Scott_Peck 斯科特·派克] || 简体PDF (扫描版)<br>简体EPUB<br>简体MOBI<br>简体TXT<br>英文PDF || 2012-06-29<br>2013-09-13<br>2014-02-23<br>2012-06-29<br>2013-04-14 || 这是一本不可多得的好书，具体介绍请看“[http://program-think.blogspot.com/2012/06/book-review-road-less-traveled.html 俺的书评]”。<br>EPUB和MOBI版本由热心网友分享，特此鸣谢。 ||
@@ -588,7 +587,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 2.3 社会心理学 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1058 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/cmYOFevYsO/%E5%BF%83%E7%90%86%E5%AD%A6/%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1058 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/cmYOFevYsO/%E5%BF%83%E7%90%86%E5%AD%A6/%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 社会性动物 || The Social Animal || [https://en.wikipedia.org/wiki/Elliot_Aronson 埃利奥特·阿伦森] || 简体PDF<br>简体MOBI || 2014-01-09<br>2014-02-23 || 作者是当代最著名的社会心理学家。<br>此书被誉为“美国社会心理学的《圣经》”。<br>书的内容通俗易懂，介绍了“从众”、“偏见”、“自我辩护”、“攻击性”等常见现象。<br>从1972年出第1版，如今出到第9版。<br>MOBI版本由热心网友分享，特此鸣谢。 ||
@@ -597,7 +596,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 2.4 教育心理学 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1673 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Tix9pU51p_/%E5%BF%83%E7%90%86%E5%AD%A6/%E6%95%99%E8%82%B2%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1673 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Tix9pU51p_/%E5%BF%83%E7%90%86%E5%AD%A6/%E6%95%99%E8%82%B2%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 正面管教 || Positive Discipline || [https://en.wikipedia.org/wiki/Jane_Nelsen 简·尼尔森] || 简体PDF || 2014-02-11 || 作者是美国知名心理学家、教育学博士，美国“正面管教协会”的创始人。<br>此书总结了父母与小孩的三种互动模式：<br>严厉（有规矩，没有自由）<br>放纵（无规矩，有自由）<br>正面管教（有规矩，有自由）<br> ||
@@ -605,14 +604,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 == 2.5 进化心理学 ==
 
 （进化心理学是心理学的一个新的研究方向）
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1230 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/8URShw6kA6/%E5%BF%83%E7%90%86%E5%AD%A6/%E8%BF%9B%E5%8C%96%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1230 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/8URShw6kA6/%E5%BF%83%E7%90%86%E5%AD%A6/%E8%BF%9B%E5%8C%96%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 进化心理学<br>——心理的新科学 || Evolutionary Psychology<br>——The New Science of the Mind || [https://en.wikipedia.org/wiki/David_Buss 大卫·巴斯] || 简体PDF (扫描版) || 2012-12-31 || 作者是得克萨斯大学的心理学教授。<br>此书兼具权威性和可读性。 ||
 
 == 2.6 洗脑 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!956 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ATIiFmfcj_/%E5%BF%83%E7%90%86%E5%AD%A6/%E6%B4%97%E8%84%91 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!956 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ATIiFmfcj_/%E5%BF%83%E7%90%86%E5%AD%A6/%E6%B4%97%E8%84%91 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 洗脑术<br>——思想控制的荒唐史 || Brainwash<br>——The Secret History of Mind Control || 多米尼克·斯垂特菲尔德 || 简体PDF (扫描版) || 2012-12-16 || 此书通俗地介绍了“洗脑”技术的发展史。<br>虽然是扫描版，但文字很清晰。 ||
@@ -622,7 +621,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 2.6 (其它) ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1049 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Iw4bPV995f/%E5%BF%83%E7%90%86%E5%AD%A6/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1049 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Iw4bPV995f/%E5%BF%83%E7%90%86%E5%AD%A6/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 与众不同的心理学<br>——如何正视心理学 || How to Think Straight about Psychology || 基思·斯坦诺维奇 || 简体PDF (第7版 扫描版) || 2012-12-29 || 这是一本很不错的心理学通俗读物。<br>书中澄清了很多关于心理学的误区。<br>此书不光让你更准确地了解心理学，而且有助于提升你的科学素质。 ||
@@ -636,7 +635,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 3.1 世界史 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1145 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/-nuOKtRT0N/%E5%8E%86%E5%8F%B2/%E4%B8%96%E7%95%8C%E5%8F%B2 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1145 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/-nuOKtRT0N/%E5%8E%86%E5%8F%B2/%E4%B8%96%E7%95%8C%E5%8F%B2 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 全球通史<br>——从史前史到21世纪 || A Global History<br>——From Prehistory to the 21st Century || [https://zh.wikipedia.org/wiki/L%C2%B7S%C2%B7%E6%96%AF%E5%A1%94%E5%A4%AB%E9%87%8C%E9%98%BF%E8%AF%BA%E6%96%AF 斯塔夫里阿诺斯] || 简体PDF (上下)<br>简体CHM || 2013-02-27<br>2013-02-07 || 作者是加拿大知名历史学家。<br>此书的知名度很高，至今已出到第7版。<br>此书的特色在于：将整个世界看做一个不可分割的整体，从全球的角度来叙述各个文明的产生和发展。<br>美国许多大学已把此书列为大学基础课程教材。 ||
@@ -647,7 +646,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 3.2.1 古代史 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1632 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/XDfIMwZDjo/%E5%8E%86%E5%8F%B2/%E4%B8%AD%E5%9B%BD/%E5%8F%A4%E4%BB%A3%E5%8F%B2 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1632 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/XDfIMwZDjo/%E5%8E%86%E5%8F%B2/%E4%B8%AD%E5%9B%BD/%E5%8F%A4%E4%BB%A3%E5%8F%B2 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 资治通鉴(全译本) || || 司马光(原著)<br> [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏杨](译) || 简体EPUB || 2013-09-13 || 这本书的名气很大，就不介绍了。<br>这个电子版是柏杨的白话版。 ||
@@ -661,7 +660,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 3.2.2 近代史 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1633 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/OYyQBcgdYS/%E5%8E%86%E5%8F%B2/%E4%B8%AD%E5%9B%BD/%E8%BF%91%E4%BB%A3%E5%8F%B2 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1633 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/OYyQBcgdYS/%E5%8E%86%E5%8F%B2/%E4%B8%AD%E5%9B%BD/%E8%BF%91%E4%BB%A3%E5%8F%B2 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 《炎黄春秋》合订本<br>(1999 - 2010) || || || 简体EPUB<br>(12本) || 2013-09-11 || 《炎黄春秋》1991年创刊，是蛮有影响力的综合性月刊。<br>主要刊登历史类的文章（尤其是中国近现代史）。<br>风格明显倾向政治自由派，以敢言著称，屡被中宣部查禁。能活到今天，实属不易。<br>这12本epub由热心网友分享下载链接，特此鸣谢。 ||
@@ -674,7 +673,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 3.3 古希腊 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1147 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/0kyY_iKR2F/%E5%8E%86%E5%8F%B2/%E5%8F%A4%E5%B8%8C%E8%85%8A Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1147 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/0kyY_iKR2F/%E5%8E%86%E5%8F%B2/%E5%8F%A4%E5%B8%8C%E8%85%8A Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 希腊城邦制度<br>——读希腊史笔记 || || [https://zh.wikipedia.org/wiki/%E9%A1%A7%E5%87%86 顾准] || 简体PDF || 2013-02-07 || 作者是中国当代的思想家，经济学家。<br>虽然作者不是历史学家，但对历史颇有研究颇有心得。<br>此书是顾准阅读希腊史的笔记，顾准逝世后由其弟整理遗稿，之后出版。 ||
@@ -682,7 +681,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 3.4 古罗马 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1148 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/fCkm6lmHnI/%E5%8E%86%E5%8F%B2/%E5%8F%A4%E7%BD%97%E9%A9%AC Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1148 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/fCkm6lmHnI/%E5%8E%86%E5%8F%B2/%E5%8F%A4%E7%BD%97%E9%A9%AC Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 罗马帝国衰亡史 || The History of the Decline and Fall of the Roman Empire || [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E5%90%89%E6%9C%AC 爱德华·吉本] || 简体PDF (6卷扫描版)<br>简体EPUB<br>简体CHM<br>简体PDF (上下册 节译) || 2013-11-26<br>2013-09-14<br>2013-02-07<br>2013-02-07 || 作者是200多年前的英国历史学家。<br>此书堪称是古罗马历史的巨著，共6卷。<br>内容不但丰富，而且严谨。历时200多年，但尚未发现有明显的错误。足见作者考证的功力。<br>原书的内容极其丰富。在俺上传的几种格式中，6卷的扫描版PDF应该是最全。其它格式可能不全。 ||
@@ -690,7 +689,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 3.4 德国 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1152 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/vvUnRECF7d/%E5%8E%86%E5%8F%B2/%E5%BE%B7%E5%9B%BD Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1152 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/vvUnRECF7d/%E5%8E%86%E5%8F%B2/%E5%BE%B7%E5%9B%BD Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 第三帝国的兴亡 || The Rise and Fall of the Third Reich || [https://en.wikipedia.org/wiki/William_L._Shirer 威廉·夏伊勒] || 简体PDF (上中下)<br>简体EPUB || 2013-02-22<br>2013-09-13 || 作者是美国记者，世界现代史学家。<br>此书详细介绍了希特勒的纳粹德国从兴起到崩溃的全过程。<br>作者收集了许多第三帝国的第一手资料，本书是该领域的权威著作。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
@@ -707,7 +706,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 4.1.1 理论 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1639 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/nxrxtTtOF6/%E7%BB%8F%E6%B5%8E/%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E7%90%86%E8%AE%BA Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1639 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/nxrxtTtOF6/%E7%BB%8F%E6%B5%8E/%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E7%90%86%E8%AE%BA Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 国富论<br>(国民财富的性质和原因) || The Wealth of Nations || [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] || 简体CHM || 2013-04-09 || 亚当·斯密堪称现代经济学之父，此书是他的代表作，也是经济学专业必读著作。<br>国富论强调市场的自我调节，反对政府对经济的管制。<br>此书还率先提出了“看不见的手”这个概念。 ||
@@ -720,7 +719,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 4.1.2 评论 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1640 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/BfdRPyIoyQ/%E7%BB%8F%E6%B5%8E/%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E8%AF%84%E8%AE%BA Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1640 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/BfdRPyIoyQ/%E7%BB%8F%E6%B5%8E/%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E8%AF%84%E8%AE%BA Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 资本主义与自由 || Capitalism and Freedom || [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%B0%94%E9%A1%BF%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E6%9B%BC 米尔顿·弗里德曼] || 简体PDF || 2014-02-13 || 作者是美国知名的经济学家，诺贝尔奖得主。主张自由放任的资本主义。<br>此书根据作者的一系列演讲整理而成，在理论界产生震撼性影响。<br>作者论述了：“经济自由”是“政治自由”的基础，<br>为了确保“经济自由”，政府应该尽量减少对经济活动的干预。 ||
@@ -730,7 +729,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 4.1.3 通俗读物 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1641 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/I0KfzxWTPx/%E7%BB%8F%E6%B5%8E/%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E9%80%9A%E4%BF%97%E8%AF%BB%E7%89%A9 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1641 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/I0KfzxWTPx/%E7%BB%8F%E6%B5%8E/%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E9%80%9A%E4%BF%97%E8%AF%BB%E7%89%A9 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 魔鬼经济学<br>——揭示隐藏在表象之下的真实世界 || Freakonomics<br>——A Rogue Economist Explores the Hidden Side of Everything || [https://zh.wikipedia.org/wiki/%E5%8F%B2%E8%92%82%E8%8A%AC%C2%B7%E5%88%97%E7%BB%B4%E7%89%B9 列维特] & 都伯纳 || 简体PDF (扫描版) || 2013-04-09 || 列维特是美国芝加哥大学经济学教授。<br>书中分析了很多常见的社会现象，其结论往往颠覆传统常识。<br>2005年出版后高居全美畅销书排行榜。 ||
@@ -739,14 +738,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 4.2 经济学家 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1637 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/qhj0Xe7f87/%E7%BB%8F%E6%B5%8E/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1637 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/qhj0Xe7f87/%E7%BB%8F%E6%B5%8E/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 从马克思到凯恩斯 || Ten Great Economists from Marx to Keynes || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼得] || 简体PDF (扫描版) || 2013-04-09 || 作者是知名的政治经济学家，提出了经济周期理论和经济创新理论。<br>此书包含10篇文章，分别介绍10位知名的经济学家及其理论。 ||
 
 == 4.3 投资 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1638 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/vs1NwgI4EK/%E7%BB%8F%E6%B5%8E/%E6%8A%95%E8%B5%84 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1638 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/vs1NwgI4EK/%E7%BB%8F%E6%B5%8E/%E6%8A%95%E8%B5%84 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 证券分析 || Security Analysis || [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] & [https://en.wikipedia.org/wiki/David_Dodd 戴维·多德] || 简体PDF (扫描版)<br>简体EPUB || 2013-04-29<br>2013-09-13 || 本杰明·格雷厄姆号称“证券分析之父”，价值投资理论的奠基人。<br>他还是[https://zh.wikipedia.org/wiki/%E6%B2%83%E4%BC%A6%C2%B7%E5%B7%B4%E8%8F%B2%E7%89%B9 股神巴菲特]的老师，并对巴菲特的投资理念产生重大影响。<br>此书虽然是1934年初版，至今仍被称为“价值投资领域的圣经”。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
@@ -757,7 +756,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 （本目录是偏重于经济领域的博弈论）
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1643 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/lUmks7rw0M/%E7%BB%8F%E6%B5%8E/%E5%8D%9A%E5%BC%88%E8%AE%BA Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1643 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/lUmks7rw0M/%E7%BB%8F%E6%B5%8E/%E5%8D%9A%E5%BC%88%E8%AE%BA Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 策略思维<br>——商界、政界及日常生活中的策略竞争 || || 奈尔伯夫 & 迪克西特 || 简体PDF (扫描版) || 2014-01-09 || 此书面向不懂经济学的读者，介绍了基于博弈论的策略思维。<br>书中配有大量的案例，帮你加深理解。 ||
@@ -765,7 +764,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 4.5 (其它) ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1642 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/6vfh1tkkSI/%E7%BB%8F%E6%B5%8E/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1642 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/6vfh1tkkSI/%E7%BB%8F%E6%B5%8E/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 世界是平的<br>——21世纪简史 || The World Is Flat<br>——A Brief History of the Twenty-first Century || [https://zh.wikipedia.org/wiki/%E6%B9%AF%E9%A6%AC%E6%96%AF%C2%B7%E4%BD%9B%E9%87%8C%E6%9B%BC 托马斯·弗里德曼] || 简体PDF (大字版) || 2014-01-09 || 作者是美国新闻记者，知名专栏作家。<br>此书的影响力很大，论述了全球化对人类社会的影响。<br>书中第二章直接点出了“抹平世界的十大推动力量”（这也是书名的由来）。 ||
@@ -781,7 +780,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 5.1 军事理论 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1182 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/gmCL113W89/%E5%86%9B%E4%BA%8B/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1182 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/gmCL113W89/%E5%86%9B%E4%BA%8B/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 战争论 || On War || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E5%85%8B%E5%8A%B3%E5%A1%9E%E7%BB%B4%E8%8C%A8 克劳塞维茨] || 简体PDF (共3卷) || 2013-03-22 || 作者是西方军事理论的鼻祖，此书是其代表作。<br>书中有很多持久不衰的观点，两百多年后依然没过时。<br>比如：战争是政治的延续，进攻是最好的防御 ||
@@ -793,7 +792,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 5.2.1 二战 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1185 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/JXPVTjFPbb/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E4%BA%8C%E6%88%98 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1185 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/JXPVTjFPbb/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E4%BA%8C%E6%88%98 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 第二次世界大战战史大全 || || [https://en.wikipedia.org/wiki/Arnold_J._Toynbee 阿诺德·汤因比] || 简体EPUB<br>简体CHM || 2013-09-13<br>2013-02-05 || 作者是英国著名历史学家，一生著作颇丰。<br>这本书实在太详尽了，完全不辜负书名中的“大全”二字。<br>光凭 纯文字的 chm 文件有10兆，你就能感觉到内容有多丰富了。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
@@ -802,7 +801,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 5.2.2 韩战 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1186 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/12zXa2bB7Y/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E9%9F%A9%E6%88%98 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1186 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/12zXa2bB7Y/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E9%9F%A9%E6%88%98 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 朝鲜战争<br>——李奇微回忆录 || The Korean War || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%BF%AE%C2%B7%E6%9D%8E%E5%A5%87%E5%BE%AE 李奇微] || 简体PDF || 2013-03-17 || 作者是美国名将，接替麦克阿瑟担任联合国军总司令。<br>李奇微在韩战中表现出色，阻止了中国志愿军的攻势，使志愿军遭受重大损失。<br>这本回忆录有助于从美国人的视角了解韩战。 ||
@@ -813,7 +812,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 5.2.3 越战 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1187 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Eal-rc9lMn/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%B6%8A%E6%88%98 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1187 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Eal-rc9lMn/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%B6%8A%E6%88%98 Dropbox网盘]
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 中国秘密大发兵<br>——援越抗美实录 || 王贤根 || 简体PDF (扫描版) || 2013-02-05 || 当初写《[http://program-think.blogspot.com/2012/10/history-of-red-khmers.html 最"纯正"的共产主义政权——红色高棉简史]》参考过此书内容，顺便放上来。<br>扫描版，字迹有点模糊。 ||
@@ -824,7 +823,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 （[https://zh.wikipedia.org/wiki/%E8%BF%A6%E5%A4%AA%E5%9F%BA 迦太基战争]又称为“布匿战争”，是古罗马与迦太基争夺地中海霸权的长期战争）
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1188 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/M26lFgcUiE/%E5%86%9B%E4%BA%8B/%E5%8F%A4%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%BF%A6%E5%A4%AA%E5%9F%BA%E6%88%98%E4%BA%89 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1188 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/M26lFgcUiE/%E5%86%9B%E4%BA%8B/%E5%8F%A4%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%BF%A6%E5%A4%AA%E5%9F%BA%E6%88%98%E4%BA%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 战略之父<br>——汉尼拔的军事生涯 || Father of Strategy<br>——The Military Life of Hannibal || [https://en.wikipedia.org/wiki/Trevor_N._Dupuy 杜普伊] || 简体PDF || 2013-02-05 || 此书着重介绍汉尼拔本人的军事才能，内容相对简略。 ||
@@ -837,7 +836,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 = 6 管理类 =
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!763 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/8M0ijnRLNs/%E7%AE%A1%E7%90%86/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!763 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/8M0ijnRLNs/%E7%AE%A1%E7%90%86/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 你的灯亮着吗？<br>——找到问题的真正所在 || Are Your Lights On<br>——How to Figure Out What the Problem Really Is || 唐纳德·高斯 & [https://en.wikipedia.org/wiki/Gerald_Weinberg 杰拉尔德·温伯格] || 简体PDF<br>简体TXT || 2010-11-02<br>2012-03-08 || 本书的相关介绍请看[http://program-think.blogspot.com/2009/07/book-review-are-your-lights-on.html 俺的书评] ||
@@ -853,7 +852,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 7.1.1 文化 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1264 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/tDU9cuJXdI/%E6%96%87%E8%89%BA/%E4%B8%AD%E5%9B%BD/%E6%96%87%E5%8C%96 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1264 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/tDU9cuJXdI/%E6%96%87%E8%89%BA/%E4%B8%AD%E5%9B%BD/%E6%96%87%E5%8C%96 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 中国人的性格 || Chinese Characteristics || [https://zh.wikipedia.org/wiki/%E6%98%8E%E6%81%A9%E6%BA%A5 亚瑟·史密斯]<br>(中文名：明恩溥) || 简体PDF<br>简体EPUB<br>简体TXT || 2011-02-09<br>2013-09-13<br>2012-03-19 || 此书非常深刻地剖析了中国人的劣根性。<br>鲁迅受此书的影响很大。更多介绍请看[http://program-think.blogspot.com/2011/02/book-review-chinese-characteristics.html 俺的书评]<br>EPUB版本由热心网友分享，特此鸣谢。 ||
@@ -865,14 +864,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 7.1.2 文学家、艺术家 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1587 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ffCgWaTVlD/%E6%96%87%E8%89%BA/%E4%B8%AD%E5%9B%BD/%E6%96%87%E5%AD%A6%E5%AE%B6%E3%80%81%E8%89%BA%E6%9C%AF%E5%AE%B6 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1587 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ffCgWaTVlD/%E6%96%87%E8%89%BA/%E4%B8%AD%E5%9B%BD/%E6%96%87%E5%AD%A6%E5%AE%B6%E3%80%81%E8%89%BA%E6%9C%AF%E5%AE%B6 Dropbox网盘]
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 胡适口述自传 || [https://zh.wikipedia.org/wiki/%E8%83%A1%E9%81%A9 胡适]<br>[https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚]译注 || 简体PDF (扫描版) || 2013-11-26 || 作者是近代著名的思想家、文学家、历史学家，新文化运动的旗手，自由主义在中国的先驱。<br>此书的原始素材是胡适在哥伦比亚大学的英文口述录音，然后由唐徳刚翻译为中文并注释。<br>作者在书中对毕生的学术作了总结评价，通过此书有助于了解胡适的思想。 ||
 
 === 7.1.3 (其它) ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1265 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/lOEeHrVdXA/%E6%96%87%E8%89%BA/%E4%B8%AD%E5%9B%BD/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1265 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/lOEeHrVdXA/%E6%96%87%E8%89%BA/%E4%B8%AD%E5%9B%BD/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 灵山 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E8%A1%8C%E5%81%A5 高行健] || 简体PDF<br>简体EPUB<br>简体CHM || 2013-07-07<br>2013-09-14<br>2013-07-07 || 作者是小说家、剧作家、导演，首位华人诺贝尔文学奖得主。<br>此书是其代表作，应网友的要求上传。 ||
@@ -888,7 +887,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 7.2.1 文化 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1631 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/CjJwvUlhYe/%E6%96%87%E8%89%BA/%E6%97%A5%E6%9C%AC/%E6%96%87%E5%8C%96 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1631 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/CjJwvUlhYe/%E6%96%87%E8%89%BA/%E6%97%A5%E6%9C%AC/%E6%96%87%E5%8C%96 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 菊与刀 || The Chrysanthemum and the Sword || [https://zh.wikipedia.org/wiki/%E9%B2%81%E6%80%9D%C2%B7%E6%9C%AC%E5%B0%BC%E8%BF%AA%E5%85%8B%E7%89%B9 鲁思·本尼迪克特] || 简体PDF || 2014-01-09 || 作者是美国人类学家。<br>二战后期，作者受美国政府委托，写出此书，详细分析日本民族的文化和个性。<br>美国政府根据此书来决定是否应该占领日本，占领之后如何管理。 ||
@@ -906,7 +905,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 8.1.1 软件工程 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1493 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/pgZb7F9Jwp/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1493 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/pgZb7F9Jwp/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 人月神话 || The Mythical Man-Month || [https://en.wikipedia.org/wiki/Fred_Brooks Frederick Brooks] || 简体EPUB<br>英文CHM || 2013-10-20<br>2013-10-20 || 作者是IT领域的大牛，曾获图灵奖。<br>关于此书，俺的书评在“[http://program-think.blogspot.com/2009/03/book-review-mythical-man-month.html 这里]”。<br>此书最早出版于1975年，网盘上的是20周年纪念版（1995年版）。可见此书历久不衰。 ||
@@ -922,7 +921,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 ==== 8.1.2.1 C++ ====
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1512 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ZEsa0K8znw/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C%2B%2B Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1512 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ZEsa0K8znw/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C%2B%2B Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || C++ 程序设计语言 || The C++ Programming Language || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF (special edition)<br>简体PDF (特别版 扫描版) || 2013-10-21<br>2013-10-29 || 作者是C++之父。光凭这点，足以说明此书的份量。<br>在C++社区，此书简称 TCPPPL ||
@@ -937,7 +936,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 ==== 8.1.2.2 Python ====
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1513 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/wAhOnvKLjy/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Python Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1513 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/wAhOnvKLjy/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Python Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 深入 Python || Dive into Python || [https://en.wikipedia.org/wiki/Mark_Pilgrim_%28software_developer%29 Mark Pilgrim] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || 这大概是影响力最大的一本Python入门读物。<br>作者把该书以GPL方式发布，大伙儿可以任意复制此书。<br>缺点是出版的时间有点早，那时Python2刚发布没多久。<br>后来作者出了更新的版本《深入 Python3》。 ||
@@ -947,14 +946,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 ==== 8.1.2.2 Java ====
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1514 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/eSL9ZTyGH_/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1514 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/eSL9ZTyGH_/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || Java 编程思想 || Thinking in Java || [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || 作者是知名的IT专栏作家，出版过C++、Java、Python的“Thinking in”系列。<br>不同于很多庸俗的Java入门书仅仅介绍语法，此书还介绍Java更深层面的东西。 ||
 
 === 8.1.3 算法和数据结构 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1500 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/q6pX8DLhuP/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1500 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/q6pX8DLhuP/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 算法导论 || Introduction to Algorithms || Thomas Cormen & Charles Leiserson & Ronald Rivest & Clifford Stein || 英文PDF (3nd edition)<br>英文CHM (2nd edition) || 2013-10-21<br>2013-10-30 || 此书出自MIT，是最经典的算法类教材，被各国的很多大学采用。<br>目前最新的是第3版。另外也顺便上传了此书的“教师手册”。 ||
@@ -966,7 +965,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 ==== 8.1.4.1 UNIX 和 Linux ====
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1496 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/quNBvv8dj7/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/Unix%20%E5%92%8C%20Linux Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1496 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/quNBvv8dj7/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/Unix%20%E5%92%8C%20Linux Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || UNIX 编程艺术 || The Art of UNIX Programming || [https://en.wikipedia.org/wiki/Eric_S._Raymond Eric Raymond]<br>(埃里克·雷蒙德) || 简体PDF || 2013-10-20 || 作者是知名黑客，开源运动的旗手。<br>这是他的代表作，书名简称“TAOUP”。<br>此书重点不在“编程”，而是介绍UNIX的哲学、设计思想、理念（俺觉得这些更重要，也更持久）。<br>他的另一个代表作是《五部曲》（俺也上传了）。 ||
@@ -975,7 +974,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 ==== 8.1.4.2 Windows ====
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1498 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/y_ZiHG1wZx/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/Windows Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1498 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/y_ZiHG1wZx/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/Windows Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || Windows 核心编程 || Programming Applications for Windows || [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] || 英文CHM || 2013-10-21 || 在Win32系统编程中，这可能是影响力最大的一本。<br>当年俺也是看这本书，从Win16编程转型到Win32编程。<br>今天时间仓促，过几天把中文版也放上来。 ||
@@ -984,7 +983,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 （本章节放置跟“网络相关”的编程类电子书）
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1516 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/MiTR4A7UG-/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1516 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/MiTR4A7UG-/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || UNIX 网络编程<br>(共两卷) || UNIX Network Programming Volume 1<br>——The Sockets Networking API || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens]<br>(理查德·史蒂文斯) || 英文PDF || 2013-10-20 || 作者是UNIX领域和网络领域的大牛，著有多部畅销的技术书籍。<br>今天时间仓促，先上传卷1。 ||
@@ -992,7 +991,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 8.1.6 (其它) ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1517 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/O6PgU3SkTO/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1517 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/O6PgU3SkTO/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 程序员修炼之道<br>——从小工到专家 || Pragmatic Programmers<br>——From Journeyman to Master || [https://en.wikipedia.org/wiki/Andy_Hunt_%28author%29 Andrew Hunt] & [https://en.wikipedia.org/wiki/Dave_Thomas_%28programmer%29 David Thomas] || 英文PDF<br>简体PDF (扫描版) || 2013-10-21<br>2013-10-21 || 如果一个新手程序员想要成长，强烈建议看此书。<br>此书不限于“编码”范畴，还涉及到其它几个方面。 ||
@@ -1001,7 +1000,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 （考虑到“黑客”一词已经被严重误解，俺单独放一个目录介绍黑客文化。希望大伙儿搞清楚：“黑客”与“骇客”是有天壤之别的）
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1485 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/NKIzqLB3-f/IT/%E9%BB%91%E5%AE%A2%E6%96%87%E5%8C%96 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1485 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/NKIzqLB3-f/IT/%E9%BB%91%E5%AE%A2%E6%96%87%E5%8C%96 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 黑客与画家 || Hackers and Painters || [https://en.wikipedia.org/wiki/Paul_Graham_%28computer_programmer%29 Paul Graham]<br>(保罗·格雷汉姆) || 简体PDF (扫描版)<br>简体EPUB<br>简体MOBI<br>英文PDF || 2013-04-06<br>2013-10-20<br>2014-02-23<br>2013-10-30 || 作者是知名Lisp黑客，和Robert Morris（另一个牛黑客）共同创办了Viaweb（该公司被 Yahoo 高价收购，成为Yahoo Store）。<br>他成立的风投（Y Combinator）在硅谷很有影响力，资助了大批技术型创业公司。<br>EPUB和MOBI版本由热心网友分享，特此鸣谢。 ||
@@ -1014,14 +1013,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 8.3.1 社会工程学 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1502 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/VftqeGFNIa/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1502 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/VftqeGFNIa/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 欺骗的艺术 || The Art of Deception<br>——Controlling the Human Element of Security || [https://en.wikipedia.org/wiki/Kevin_Mitnick Kevin Mitnick]<br>(凯文·米特尼克) || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || 作者号称"头号黑帽黑客"，其经历极具传奇色彩，比如15岁就侵入北美防空指挥系统。<br>此书是社会工程学领域最经典的著作（没有之一）。<br>没听说过“社会工程学”的同学，可以看俺博客的扫盲教程（在“[http://program-think.blogspot.com/2009/05/social-engineering-0-overview.html 这里]”） ||
 
 === 8.3.2 密码学 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1503 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/1yVz9qz4hv/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%AF%86%E7%A0%81%E5%AD%A6 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1503 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/1yVz9qz4hv/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%AF%86%E7%A0%81%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 密码学原理与实践 || Cryptography<br>——Theory and Practice || [https://en.wikipedia.org/wiki/Doug_Stinson Douglas Stinson] || 简体PDF (第2版 扫描版)<br>英文CHM || 2013-10-21<br>2013-10-30 || 此书是密码学领域的经典教材。<br>第2版稍微有点老，目前最新的是第3版。<br>阅读此书需要一定的数学基础。 ||
@@ -1030,7 +1029,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 8.3.3 安全加固 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1647 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/IYUWARxCv1/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%AE%89%E5%85%A8%E5%8A%A0%E5%9B%BA Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1647 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/IYUWARxCv1/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%AE%89%E5%85%A8%E5%8A%A0%E5%9B%BA Dropbox网盘]
 
 || *中文书名* || *英文书名* || *文件类型* || *上传日期* || *备注* ||
 || Windows 7 安全指南 || || 简体PDF (扫描版) || 2014-02-13 || 此书面向普通网友，介绍Windows 7的各种安全防护。<br>内容包括：安全更新、防火墙、安全策略、文件访问控制、等等。<br>此书由热心网友推荐，特此鸣谢。 ||
@@ -1044,7 +1043,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 8.3.4 入侵 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1646 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Zes-B0Qewk/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%85%A5%E4%BE%B5 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1646 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Zes-B0Qewk/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%85%A5%E4%BE%B5 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 入侵的艺术 || The Art of Intrusion<br>——The Real Stories Behind the Exploits of Hackers, Intruders & Deceivers || [https://en.wikipedia.org/wiki/Kevin_Mitnick Kevin Mitnick]<br>(凯文·米特尼克) || 简体PDF (扫描版)<br>英文PDF || 2014-02-04<br>2014-01-09 || 作者号称"头号黑帽黑客"，其经历极具传奇色彩，比如15岁就侵入北美防空指挥系统。<br>此书是《欺骗的艺术》的姐妹篇。<br>图谋不轨的同学不要企图从此书中看到直接可用的、现成的攻击方法。<br>此书更多的是让外行人了解信息安全领域中，黑客和骇客的攻击手法。 ||
@@ -1053,7 +1052,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 8.4.1 UNIX 和 Linux ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1528 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/SZtjkgI0e1/IT/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/UNIX%20%E5%92%8C%20Linux Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1528 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/SZtjkgI0e1/IT/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/UNIX%20%E5%92%8C%20Linux Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || UNIX 操作系统设计 ||  The Design of the UNIX Operating System || Maurice Bach || 简体PDF || 2013-10-21 || 作者长期在AT&T公司贝尔实验室（UNIX发源地）工作。<br>此书的内容主要来自作者在80年代讲授的一门课程<br>此书有助于了解UNIX内核的运作机制（进程调度、内存管理、文件系统、等等）。 ||
@@ -1067,14 +1066,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 8.5.1 网络协议 ===
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1504 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/z--sDGv6mi/IT/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1504 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/z--sDGv6mi/IT/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || TCP-IP 详解<br>(共三卷) || TCP-IP Illustrated || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens]<br>(理查德·史蒂文斯) || 卷1 英文CHM<br>卷1 简体PDF<br>卷2 简体PDF<br>卷3 简体PDF || 2013-10-21<br>2013-10-21<br>2013-10-26<br>2013-10-26 || 作者是UNIX领域和网络领域的大牛，著有多部畅销的技术书籍。<br>关于TCP-IP协议族的书籍中，这三卷大概是影响力最大的（没有之一）。 ||
 
 == 8.6 IT 公司 ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1492 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ELUERyJ1ja/IT/IT%20%E5%85%AC%E5%8F%B8 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1492 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ELUERyJ1ja/IT/IT%20%E5%85%AC%E5%8F%B8 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 浪潮之巅 || On The Top of Tides || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_(Google) 吴军] || 简体PDF (前18章)<br>简体MOBI (前16章) || 2013-10-22<br>2014-02-23 || 此书每一章介绍一家名垂IT史的公司，从中可以了解信息产业的发展史及其特色文化。<br>作者貌似在写第2版，还没写完。等完成了，俺也上传到网盘。<br>MOBI版本由热心网友分享，特此鸣谢。 ||
@@ -1083,7 +1082,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 8.6 (其它) ==
 
-*【网盘链接】*  [https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1634 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/g3GZPge9Os/IT/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1634 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/g3GZPge9Os/IT/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 失控<br>——全人类的最终命运和结局 || Out of Control<br>——The New Biology of Machines, Social Systems, and the Economic World || [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E5%87%AF%E5%88%A9 凯文·凯利]<br>(英文名 Kevin Kelly 简称 KK) || 简体EPUB || 2014-01-09 || 作者是IT行业的大牛，具有如下头衔：《全球概览》（乔布斯最爱的杂志）的主编、出版人；《连线》杂志（Wired）的第一任主编；参与发起首届“黑客大会”。<br>此书是他名气最大的一本著作，对很多方面有深入思考，包括：人类社会、生态系统、进化论、人工智能、互联网、等等。<br>此书很难归类，暂且放到“其它”。 ||
