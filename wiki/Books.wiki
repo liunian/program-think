@@ -99,7 +99,18 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 这个电子书，会包含本博客站点上的【所有博文】，并且把博文中的【所有图片】都嵌入到电子书中。博文的交叉链接全部转换成【本地链接】。如此一来，你就可以完全实现离线浏览（无需联网）。
 
-*想下载的同学，请猛击“[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1010 这个链接]”。*
+
+为了保持风格的一致性，电子书的界面跟博客的界面基本类似。下面分别是 CHM 和 EPUB 的界面效果缩略图。
+
+在 Windows 系统直接双击打开 CHM 的效果图
+
+[http://lh5.googleusercontent.com/eX16PWG_h4A9OHSD0y45SiuinEZZWl50EN_FWphQMMtmvTc-pvGbvXDnljubstUXsSw6-mYHGlroYMfB8nJdg_wU_XQkzV8Z_pcVJCPdsdY87KnaM-em-DonOlFvOGjIeGAA?nonsense=.png]
+
+用 calibre 打开 EPUB 的效果图
+
+[http://lh4.googleusercontent.com/c8A3MNL2zef8I589g1LywTYuBPeW80BCU8hH2x_YsUm60-uy0h19BmR5JUxJmLTLGtaplOk_OOd0ve2jZJfyi1z3eQgaAlJtL7JoNB6p9ESRs2U2Y0RIzPxFIvFjnygJhXex?nonsense=.png]
+
+<font size="4"><b>想下载的同学，请猛击“[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1010 这个链接]”。</b></font>
 
 在前面的“下载须知”中，俺提到了“Dropbox网盘”对免费帐号的流量限制（每天大约“几GB”）。由于俺博客打包的电子书比较大（100MB左右），为了避免占用 Dropbox 的流量限额，“博客电子书”只放到“微软网盘”。希望大伙儿谅解。
 
