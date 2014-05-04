@@ -554,6 +554,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1767 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/9sYtaR9vov/%E6%94%BF%E6%B2%BB/%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A Dropbox网盘]
 
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 论小丑<br>——独裁者和艺术家 || On Clowns<br>——The Dictator and the Artist || [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF (扫描版) || 2014-05-04 || 作者是罗马尼亚的犹太人作家，受政治迫害流亡美国。<br>他被评论家誉为“比昆德拉更深刻、更纯粹的东欧作家”。<br>此书是其随笔集，书名《论小丑》是其中一篇随笔。<br>本书主要是揭露罗马尼亚共产党的专制统治。 ||
+|| 黑信封 || The Black Envelope || [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF (扫描版) || 2014-05-04 || 作者是罗马尼亚的犹太人作家，受政治迫害流亡美国。<br>他被评论家誉为“比昆德拉更深刻、更纯粹的东欧作家”。<br>此书是长篇小说。 ||
 
 == 1.10 (其它国家) ==
 
