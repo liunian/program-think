@@ -550,7 +550,16 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 我们最幸福<br>——北韩人民的真实生活<br>(无可羡慕——朝鲜人的普通生活) || Nothing to Envy<br>——Ordinary Lives in North Korea || [https://en.wikipedia.org/wiki/Barbara_Demick 芭芭拉·德米克] || 简体PDF<br>简体EPUB || 2013-02-19<br>2013-09-14 || 作者是美国洛杉矶时报的记者。<br>作者采访了许多北朝鲜的“脱北者”，最终写成此书。<br>通过此书可以了解北朝鲜底层民众的日常生活。 ||
 || 平壤<br>——朝鲜之旅 || PYONGYANG<br>——A Journey In North Korea || 德利斯勒 || 简体PDF (漫画 扫描版) || 2013-03-30 || 作者是加拿大动漫作者。<br>2001年他参与公司的某个动画项目，在朝鲜的外包公司呆了两个月，进行指导。<br>在此期间，他每天都画了自己的见闻，然后编绘成这本漫画书。<br>PDF版本由热心网友分享，特此鸣谢。 ||
 
-== 1.8 (其它国家) ==
+== 1.9 罗马尼亚 ==
+
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1767 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/9sYtaR9vov/%E6%94%BF%E6%B2%BB/%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A Dropbox网盘]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 流氓的归来 || The Hooligan's Return || [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF (扫描版) || 2014-05-04 || 作者是罗马尼亚的犹太人作家，受政治迫害流亡美国。<br>他被评论家誉为“比昆德拉更深刻、更纯粹的东欧作家”。<br>此书的定位是“故事性回忆录”，由若干个小故事构成，讲述其生平。<br>此书获法国出版图书最高奖项“美第奇奖”。 ||
+|| 论小丑<br>——独裁者和艺术家 || On Clowns<br>——The Dictator and the Artist ||  [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF (扫描版) || 2014-05-04 || 作者是罗马尼亚的犹太人作家，受政治迫害流亡美国。<br>他被评论家誉为“比昆德拉更深刻、更纯粹的东欧作家”。<br>此书是其随笔集，书名《论小丑》是其中一篇随笔。<br>本书主要是揭露罗马尼亚共产党的专制统治。 ||
+|| 黑信封 || The Black Envelope ||  [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF (扫描版) || 2014-05-04 || 作者是罗马尼亚的犹太人作家，受政治迫害流亡美国。<br>他被评论家誉为“比昆德拉更深刻、更纯粹的东欧作家”。<br>此书是长篇小说。 ||
+
+== 1.10 (其它国家) ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1210 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/socCw0hU7v/%E6%94%BF%E6%B2%BB/%28%E5%85%B6%E5%AE%83%E5%9B%BD%E5%AE%B6%29 Dropbox网盘]
 
