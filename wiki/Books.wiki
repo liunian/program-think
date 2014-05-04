@@ -27,7 +27,7 @@
 
 这两个网盘都支持批量下载，可以把某个目录的电子书压缩成 zip 格式一起下载。具体操作请仔细看网盘界面。
 
-网盘页面需要依赖 Java Script 脚本，如果你的浏览器禁用了 JavaScript 会导致无法下载。
+网盘的 Web 页面需要依赖 Java Script 脚本，如果你的浏览器禁用了 JavaScript 会导致无法下载。
 
 <h3>关于翻墙</h3>
 
@@ -35,9 +35,9 @@
 
 <h3>关于流量上限</h3>
 
-“Dropbox网盘”对公开的分享链接设置了流量上限（每个帐号每天几个GB）。一旦达到“当日”流量上限，俺的“Dropbox网盘”就无法下载。
+“Dropbox网盘”对公开的分享链接设置了流量上限（每个帐号每天几个GB ）。一旦达到“当日”流量上限，俺的“Dropbox网盘”就无法下载。
 
-你可以隔一天再试，也可以改道“微软网盘”（微软网盘不限流量）。
+你可以隔一天再尝试，也可以改道“微软网盘”（微软网盘不限流量）。
 
 <h3>关于其它问题</h3>
 
@@ -99,7 +99,15 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 这个电子书，会包含本博客站点上的【所有博文】，并且把博文中的【所有图片】都嵌入到电子书中。博文的交叉链接全部转换成【本地链接】。如此一来，你就可以完全实现离线浏览（无需联网）。
 
-为了保持风格的一致性，电子书的界面跟博客的界面基本类似。
+为了保持风格的一致性，电子书的界面跟博客的界面基本类似。下面分别是 *CHM* 和 *EPUB* 的界面效果缩略图。
+
+在 Windows 系统直接双击打开 *CHM格式* 的效果图
+
+[http://lh5.googleusercontent.com/eX16PWG_h4A9OHSD0y45SiuinEZZWl50EN_FWphQMMtmvTc-pvGbvXDnljubstUXsSw6-mYHGlroYMfB8nJdg_wU_XQkzV8Z_pcVJCPdsdY87KnaM-em-DonOlFvOGjIeGAA?nonsense=.png]
+
+用 [https://zh.wikipedia.org/wiki/Calibre calibre] 打开 *EPUB格式* 的效果图
+
+[http://lh4.googleusercontent.com/c8A3MNL2zef8I589g1LywTYuBPeW80BCU8hH2x_YsUm60-uy0h19BmR5JUxJmLTLGtaplOk_OOd0ve2jZJfyi1z3eQgaAlJtL7JoNB6p9ESRs2U2Y0RIzPxFIvFjnygJhXex?nonsense=.png]
 
 <font size="4"><b>想下载的同学，请猛击“[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1010 这个链接]”！</b></font>
 
@@ -542,7 +550,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 我们最幸福<br>——北韩人民的真实生活<br>(无可羡慕——朝鲜人的普通生活) || Nothing to Envy<br>——Ordinary Lives in North Korea || [https://en.wikipedia.org/wiki/Barbara_Demick 芭芭拉·德米克] || 简体PDF<br>简体EPUB || 2013-02-19<br>2013-09-14 || 作者是美国洛杉矶时报的记者。<br>作者采访了许多北朝鲜的“脱北者”，最终写成此书。<br>通过此书可以了解北朝鲜底层民众的日常生活。 ||
 || 平壤<br>——朝鲜之旅 || PYONGYANG<br>——A Journey In North Korea || 德利斯勒 || 简体PDF (漫画 扫描版) || 2013-03-30 || 作者是加拿大动漫作者。<br>2001年他参与公司的某个动画项目，在朝鲜的外包公司呆了两个月，进行指导。<br>在此期间，他每天都画了自己的见闻，然后编绘成这本漫画书。<br>PDF版本由热心网友分享，特此鸣谢。 ||
 
-== 1.9 (其它国家) ==
+== 1.9 罗马尼亚 ==
+
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1767 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/9sYtaR9vov/%E6%94%BF%E6%B2%BB/%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A Dropbox网盘]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 流氓的归来 || The Hooligan's Return || [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF (扫描版) || 2014-05-04 || 作者是罗马尼亚的犹太人作家，受政治迫害流亡美国。<br>他被评论家誉为“比昆德拉更深刻、更纯粹的东欧作家”。<br>此书的定位是“故事性回忆录”，由若干个小故事构成，讲述其生平。<br>此书获法国出版图书最高奖项“美第奇奖”。 ||
+
+== 1.10 (其它国家) ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1210 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/socCw0hU7v/%E6%94%BF%E6%B2%BB/%28%E5%85%B6%E5%AE%83%E5%9B%BD%E5%AE%B6%29 Dropbox网盘]
 
