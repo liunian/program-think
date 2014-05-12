@@ -127,15 +127,15 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1253 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/i4R5V56euM/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E6%B0%91%E4%B8%BB%E5%92%8C%E5%AE%AA%E6%94%BF Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 代议制政府 || Considerations on Representative Government || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·斯图尔特·密尔] || 简体PDF || 2013-08-22 || 作者是很有影响力的自由主义思想家，生活于19世纪英国。<br>此书是公认的，关于"议会民主制"的经典著作。<br>不同于某些理论著作，此书谈了很多具体的操作层面细节。 ||
-|| 第三波<br>——20世纪后期民主化浪潮 || The Third Wave<br>——Democratization in the Late Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] || 简体PDF || 2013-05-30 || 作者是美国知名的保守派政治学家。<br>此书主要介绍了20世纪后期许多国家的政治转型的过程，并分析了发生转型的原因。 ||
-|| 社会契约论<br>(民约论) || The Social Contract || [https://zh.wikipedia.org/wiki/%E8%AE%A9-%E9%9B%85%E5%85%8B%C2%B7%E5%8D%A2%E6%A2%AD 让-雅克·卢梭] || 简体PDF || 2014-01-09 || 作者是法国启蒙思想家，哲学家、政治理论家。<br>此书是作者民主政治思想的集中体现，描述人与社会的关系。<br>书中提到"主权在民"的思想，是现代民主制度的理论基础。 ||
-|| 论法的精神<br>(法意) || The Spirit of the Laws || [https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%BE%B7%E6%96%AF%E9%B8%A0 孟德斯鸠] || 简体PDF || 2014-01-09 || 作者是法国启蒙思想家，政治理论家，西方法学理论奠基人。<br>此书是作者耗费后半生完成的巨著，全面阐述三权分立的立法原则。 ||
-|| 联邦党人文集<br>(美国宪法原理) || The Federalist Papers || [https://zh.wikipedia.org/zh-cn/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF 亚历山大·汉密尔顿] 等人 || 简体PDF (扫描版)<br>简体EPUB || 2013-11-27<br>2014-01-09 || 作者是美国开国元勋，宪法起草者之一，联邦党创始人。<br>美国独立之初，国家未稳，宪政尚未深入人心，反对宪政的大有人在。<br>以汉密尔顿为首的若干人，写了大量文章呼吁民众支持宪政，支持共和。<br>之后在1937年（费城制宪会议150周年）汇编成此书。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 历史的终结及最后之人 || The End of History and the Last Man || [https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%C2%B7%E7%A6%8F%E5%B1%B1 弗朗西斯·福山] || 简体PDF (扫描版)<br>简体EPUB || 2013-01-01<br>2013-09-13 || 作者是美国政府智囊。哈佛大学政治学博士，师从[https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 亨廷顿]。<br>作者首先在1989年发表了一篇文章（历史的终结），引发巨大影响和广泛争议。之后作者把这篇文章扩展为一本书。<br>"历史的终结"指的是意识形态的斗争将逐渐终结，自由民主制度将成为所有国家唯一的政治形态。<br>不同于其它政治理论书籍，此书着重强调了科技进步对民主化的促进作用。 ||
-|| 平民政治的基本原理 || || [https://zh.wikipedia.org/wiki/%E8%8A%AE%E6%81%A9%E6%96%BD 保罗·芮恩施] || 简体PDF (扫描版) || 2013-01-14 || 作者是美国学者、外交官，1913-1919年任美国驻华公使，也是中国通。<br>作者通过此书向当时的中国民众介绍宪政原理和民主常识。<br>虽然已经出版将近百年，仍然是很好的民主政治普及教材。 ||
-|| 宪政与权利 || || (多人) || 简体PDF || 2013-04-13 || 此书收录了14篇论文（主要来自欧美学者），介绍了西方成熟民主国家的宪政制度。 ||
-|| 宪政主义<br>——观念与制度的转捩 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%A1 王怡] || 简体PDF (扫描版) || 2013-05-19 || 作者是天朝的青年学者、独立中文笔会理事。曾是"关天茶舍"版主。<br>此书包括"观念"和"制度"两部分，前者偏重理论介绍，后者点评天朝的政治制度。<br>此PDF的扫描质量较差，字迹有点模糊。哪位网友能找到更好的版本，还请不吝告知哦。 ||
+|| 代议制政府 || Considerations on Representative Government || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] (英) || 简体PDF || 2013-08-22 || [http://goo.gl/0Nc9uY 简介] ||
+|| 第三波<br>——20世纪后期民主化浪潮 || The Third Wave<br>——Democratization in the Late Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] (美) || 简体PDF || 2013-05-30 || [http://goo.gl/nYBwdP 简介] ||
+|| 社会契约论<br>(民约论) || The Social Contract || [https://zh.wikipedia.org/wiki/%E8%AE%A9-%E9%9B%85%E5%85%8B%C2%B7%E5%8D%A2%E6%A2%AD 让-雅克·卢梭] (法) || 简体PDF || 2014-01-09 || [http://goo.gl/2hOv3S 简介] ||
+|| 论法的精神<br>(法意) || The Spirit of the Laws || [https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%BE%B7%E6%96%AF%E9%B8%A0 孟德斯鸠] (法) || 简体PDF || 2014-01-09 || [http://goo.gl/UTjUxP 简介] ||
+|| 联邦党人文集<br>(美国宪法原理) || The Federalist Papers || [https://zh.wikipedia.org/zh-cn/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF 亚历山大·汉密尔顿] (美)<br>等 || 简体PDF (扫描版)<br>简体EPUB || 2013-11-27<br>2014-01-09 || [http://goo.gl/HqJha6 简介] ||
+|| 历史的终结及最后之人 || The End of History and the Last Man || [https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%C2%B7%E7%A6%8F%E5%B1%B1 弗朗西斯·福山] (美) || 简体PDF (扫描版)<br>简体EPUB || 2013-01-01<br>2013-09-13 || [http://goo.gl/0C1A8d 简介] ||
+|| 平民政治的基本原理 || || [https://zh.wikipedia.org/wiki/%E8%8A%AE%E6%81%A9%E6%96%BD 保罗·芮恩施] (美) || 简体PDF (扫描版) || 2013-01-14 || [http://goo.gl/0DbAvr 简介] ||
+|| 宪政与权利 || || (多人) || 简体PDF || 2013-04-13 || [http://goo.gl/kesZbY 简介] ||
+|| 宪政主义<br>——观念与制度的转捩 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%A1 王怡] || 简体PDF (扫描版) || 2013-05-19 || [http://goo.gl/Ysf3eg 简介] ||
 
 === 1.1.2 自由主义 ===
 
@@ -144,92 +144,92 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1097 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/t_NTy0-27f/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 论自由 || On Liberty || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] || 简体PDF<br>简体EPUB || 2013-04-14<br>2013-09-13 || 作者是很有影响力的自由主义思想家，生活于19世纪英国。<br>此书是密尔的代表作，奠定了自由主义的根基。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 政府论 || Two Treatises of Government || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B 约翰·洛克] || 简体PDF<br>简体EPUB || 2013-04-14<br>2013-09-13 || 作者是17世纪英国哲学家，英国[https://zh.wikipedia.org/wiki/%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89 经验主义]的代表人物。<br>此书是其代表作，包括两部分：一破一立。<br>第一部分主要是反驳"君权神授"。<br>第二部分阐述洛克自己的理论，包括如下：<br>关于自然状态和自然法；关于政府与民众的契约；<br>政府统治的前提是民众的支持，统治者只是民众委托的代理人；<br>政府实行统治的交换条件（义务）是：维护民众的权益。<br>当统治者滥用权力或危害到民众的利益，就应该推翻政府。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 自由论<br>(《自由四论》扩充版) || Four Essays on Liberty || [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF (扫描版)<br>英文PDF || 2013-08-22<br>2013-12-15 || 作者是很有影响力的自由主义思想家。<br>此书是《自由四论》的扩充版，包含作者的多篇文章。<br>其中最有影响力的一篇是《两种自由概念》，指出"消极自由"与"积极自由"的显著差异。 ||
-|| 正义论 || A Theory of Justice || [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || 简体PDF (扫描版)<br>简体EPUB || 2013-05-23<br>2013-09-13 || 约翰·罗尔斯是美国著名的政治哲学家，在自由主义理论方面颇有建树。<br>此书是其代表作，汇集他多年的理论成就（包括很有名的"无知之幕"）。<br>此书的内容既有自由主义的色彩，也带有平等主义的色彩。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 政治自由主义 || Political Liberalism || (同上) || 简体HTML || 2013-01-17 || 约翰·罗尔斯是美国著名的政治哲学家，在自由主义理论方面颇有建树。<br>此书是罗尔斯对他的代表作《正义论》的补充和修正。<br>在罗尔斯的作品中，此书的名气仅次于《正义论》。 ||
-|| 无政府、国家与乌托邦 || Anarchy, State, and Utopia || [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E8%AB%BE%E9%BD%8A%E5%85%8B 诺齐克] || 简体PDF (扫描版)<br>英文EPUB || 2013-07-30<br>2014-03-29 || 作者是美国知名哲学家，哈佛大学教授。<br>此书同样是很有影响力的自由主义理论著作，并且此书还专门反驳了罗尔斯的《正义论》。<br>此书应某读者的建议上传，特此鸣谢。 ||
-|| 自由主义与正义的局限 || Liberalism and the Limits of Justice || [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] || 简体PDF || 2013-01-01 || 迈克尔·桑德尔是哈佛当红的政治学教授。<br>他主讲的课程《公正》（Justice）成为哈佛最受欢迎的选修课。<br>此书是他的成名作，以批评罗尔斯的《正义论》而闻名。 ||
-|| 论出版自由 || Areopagitica<br>——A Speech for the Liberty of Unlicensed Printing || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF 约翰·弥尔顿] || 简体PDF || 2014-02-03 || 作者是英国文学家、思想家，以《失乐园》而闻名于世。<br>历史上捍卫言论自由的书籍中，此书是最有影响力的（没有之一）。 ||
-|| 给你所爱的人以自由 || || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体PDF (大字版) || 2013-10-26<br>2013-11-26 || 作者是国内著名经济学家，提倡自由主义，曾获米尔顿·弗里德曼自由奖。<br>如果光看书名，估计不少人还以为这书是谈感情的。<br>其实此书主要谈人权、普世价值、伦理、公正等基本的政治概念。<br>PDF由热心网友精心排版并分享，特此鸣谢。 ||
+|| 论自由 || On Liberty || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] (英) || 简体PDF<br>简体EPUB || 2013-04-14<br>2013-09-13 || [http://goo.gl/dy67tP 简介] ||
+|| 政府论 || Two Treatises of Government || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B 约翰·洛克] (英) || 简体PDF<br>简体EPUB || 2013-04-14<br>2013-09-13 || [http://goo.gl/DRkeoR 简介] ||
+|| 自由论<br>(《自由四论》扩充版) || Four Essays on Liberty || [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] (英) || 简体PDF (扫描版)<br>英文PDF || 2013-08-22<br>2013-12-15 || [http://goo.gl/5ygT7B 简介] ||
+|| 正义论 || A Theory of Justice || [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] (美) || 简体PDF (扫描版)<br>简体EPUB || 2013-05-23<br>2013-09-13 || [http://goo.gl/j5Lzkn 简介] ||
+|| 政治自由主义 || Political Liberalism || (同上) || 简体HTML || 2013-01-17 || [http://goo.gl/B6Y9pe 简介] ||
+|| 无政府、国家与乌托邦 || Anarchy, State, and Utopia || [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E8%AB%BE%E9%BD%8A%E5%85%8B 诺齐克] (美) || 简体PDF (扫描版)<br>英文EPUB || 2013-07-30<br>2014-03-29 || [http://goo.gl/rDAxkr 简介] ||
+|| 自由主义与正义的局限 || Liberalism and the Limits of Justice || [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] (美) || 简体PDF || 2013-01-01 || [http://goo.gl/VnpHRi 简介] ||
+|| 论出版自由 || Areopagitica<br>——A Speech for the Liberty of Unlicensed Printing || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF 约翰·弥尔顿] (英) || 简体PDF || 2014-02-03 || [http://goo.gl/u0t3F5 简介] ||
+|| 给你所爱的人以自由 || || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体PDF (大字版) || 2013-10-26<br>2013-11-26 || [http://goo.gl/xM3ZiF 简介] ||
 
 === 1.1.3 资本主义 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1254 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/LLBMEveWzu/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 新教伦理与资本主义精神 || The Protestant Ethic and the Spirit of Capitalism || [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%8B%E4%BC%AF 马克斯·韦伯] || 简体HTML || 2014-04-14 || 作者是德国政治经济学家和社会学家，现代社会学和公共行政学的主要创始人之一。<br>此书是其代表作，主要分析基督教新教对资本主义发展的重要作用。<br>此书的影响很大，某些观点在学术界有争议。 ||
+|| 新教伦理与资本主义精神 || The Protestant Ethic and the Spirit of Capitalism || [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%8B%E4%BC%AF 马克斯·韦伯] (德) || 简体HTML || 2014-04-14 || [http://goo.gl/60uJ2M 简介] ||
 
 === 1.1.4 共产主义 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!928 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/1cli3mkIQ3/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and The Death of Communism in the Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || 简体PDF (扫描版) || 2012-10-06 || 作者是知名的国际关系学着，曾担任美国总统的国家安全顾问。<br>作者通过各方面分析，得出结论："到了21世纪，共产主义将不可逆转地在历史上衰亡"。<br>此书出版于1989年4月，几年后苏联和东欧的共产党政权纷纷崩溃。不得不佩服布热津斯基的预见性。 ||
-|| 共产主义实录 || Communism<br>——A History || [https://en.wikipedia.org/wiki/Richard_Pipes Richard Pipes] || 简体PDF || 2012-10-05 || 作者 Richard Pipes 不但是俄国史的专家，而且对世界共产运动有很深的研究。<br>此书详细介绍了世界各国共产主义运动的兴起和失败，分析了共产运动本身的缺陷导致其必然失败的命运。 ||
-|| 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 密洛凡·德热拉斯] || 简体PDF (扫描版) || 2012-10-06 || 作者德热拉斯曾经担任南斯拉夫共产党的高层领导（副总统），之后跟铁托决裂，成为党内异议人士。<br>书名的"新阶级"指的是"党的领导层"在夺权之后，号称消灭了所有的剥削阶级，但自己却成了一个新的统治阶级。 ||
-|| 历史决定论的贫困 || The Poverty of Historicism || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体HTML || 2012-12-11 || 波普尔是20世纪著名的哲学家，政治上拥护自由主义，提倡"开放社会"。<br>此书有力地批驳了马克思的"历史唯物主义"。<br>波普尔说：_作为一名预言家，马克思失败的原因，完全在于历史主义的贫乏。_ ||
-|| 恐怖主义与共产主义 || Terrorism and Communism || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 卡尔·考茨基] || 简体PDF || 2013-04-11 || 作者是社会民主主义者，恩格斯的好友，《[https://zh.wikipedia.org/wiki/%E8%B5%84%E6%9C%AC%E8%AE%BA 资本论]》第四卷的编者。<br>在对待马克思的理论方面，考茨基跟列宁发生严重分歧。<br>考茨基批评列宁搞独裁专制，列宁批评考茨基是修正主义。<br>通过此书可以了解：共产运动从巴黎公社一直到十月革命，充斥着血腥和杀戮。 ||
+|| 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and The Death of Communism<br> in the Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] (美) || 简体PDF (扫描版) || 2012-10-06 || [http://goo.gl/y289Uj 简介] ||
+|| 共产主义实录 || Communism<br>——A History || [https://en.wikipedia.org/wiki/Richard_Pipes Richard Pipes] (美) || 简体PDF || 2012-10-05 || [http://goo.gl/N2xJjx 简介] ||
+|| 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 密洛凡·德热拉斯] (南斯拉夫) || 简体PDF (扫描版) || 2012-10-06 || [http://goo.gl/TSwEPN 简介] ||
+|| 历史决定论的贫困 || The Poverty of Historicism || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] (英) || 简体HTML || 2012-12-11 || [http://goo.gl/u3dBNz 简介] ||
+|| 恐怖主义与共产主义 || Terrorism and Communism || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 卡尔·考茨基] (德) || 简体PDF || 2013-04-11 || [http://goo.gl/6wIj7f 简介] ||
 
 === 1.1.5 社会主义 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1206 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/yXhdbcxDLt/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 通往奴役之路 || The Road to Serfdom || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || 简体PDF<br>简体EPUB<br>英文PDF || 2013-03-24<br>2013-09-13<br>2013-05-30 || 作者是英国知名经济学家和政治哲学家，奥地利经济学派最有影响力的成员。<br>他一贯坚持自由市场资本主义和个人主义、反对社会主义和集体主义。<br>此书阐述了：所有实行中央计划经济的社会，不管采用什么意识形态，最终都会沦为极权主义。<br>希特勒的纳粹主义是如此，斯大林的共产主义亦如此。<br>哈耶克称：要将这本书献给"所有党派的社会主义者"读一读。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || (同上) || 简体PDF<br>简体EPUB || 2013-03-24<br>2013-09-13 || 作者是英国知名经济学家和政治哲学家，奥地利经济学派最有影响力的成员。<br>他一贯坚持自由资本主义和个人主义、反对社会主义和集体主义。<br>此书写于哈耶克学术生涯的最后几年，可以视作其毕生的学术总结。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 米塞斯] || 简体PDF (扫描版) || 2013-03-31 || 作者是知名的经济学家、被誉为"奥地利经济学派的院长"。<br>此书分别从经济学和社会学方方面面，对社会主义进行猛烈批判。<br>[https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克]这样评价米塞斯的这本书：<br>_最初的时候我们每个人都觉得他的观点夸张得太过吓人甚至语气上火气太大。但是逐渐地，他还是赢得了我们，当然这花了很长的时间。那时我不得不承认他在结论上是对的，但是要在心里接受他的观点仍然是一件不舒服的事情。_<br>全书600多页，目录从61页开始。<br>PDF版本由热心网友分享，特此鸣谢。 ||
+|| 通往奴役之路 || The Road to Serfdom || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] (英) || 简体PDF<br>简体EPUB<br>英文PDF || 2013-03-24<br>2013-09-13<br>2013-05-30 || [http://goo.gl/MvxH2e 简介] ||
+|| 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || (同上) || 简体PDF<br>简体EPUB || 2013-03-24<br>2013-09-13 || [http://goo.gl/F7ZJ3S 简介] ||
+|| 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 米塞斯] (美) || 简体PDF (扫描版) || 2013-03-31 || [http://goo.gl/t1Jnzn 简介] ||
 
 === 1.1.6 极权主义和威权主义 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!954 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/7t_-_TC2-w/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89%E5%92%8C%E5%A8%81%E6%9D%83%E4%B8%BB%E4%B9%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 开放社会及其敌人 || The Open Society and Its Enemies || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体PDF<br>简体EPUB || 2012-12-11<br>2013-09-14 || 波普尔是20世纪著名的哲学家，政治上拥护自由主义，提倡"开放社会"。<br>本书中更多的是介绍"开放社会的敌人"，而不是"开放社会"本身。<br>书中着重批判了 柏拉图、黑格尔、马克思 三人的哲学体系（此三人可说是一脉相承）。<br>波普尔认为他们三人的哲学理论是极权主义思想的根源。 ||
-|| 极权主义的起源 || The Origins of Totalitarianism || [https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9 汉娜·阿伦特] || 简体PDF<br>简体CHM<br>简体MOBI || 2012-10-06<br>2012-10-14<br>2014-02-23 || 作者是国际知名的政治理论家，以研究极权主义而闻名于世。此书是她的成名作。<br>看完此书，你对"什么是极权主义"会有更深刻的认识。<br>你会发现：虽然共产主义和纳粹主义表面上迥异，其实本质相通，具有共同起源。<br>顺便说一下，毛太祖统治的天朝，就是典型的极权主义。<br>MOBI版本由热心网友分享，特此鸣谢。 ||
-|| 威权统治的转型<br>——关于不确定民主的试探性结论 || || 吉列尔莫·奥唐奈 & [https://en.wikipedia.org/wiki/Philippe_C._Schmitter 菲利普·施密特] || 简体PDF (扫描版) || 2013-08-21 || 两位作者都是美国知名的政治理论学者。<br>此书是4卷本丛书《从威权主义统治转型——民主的前景》的最后一卷，也是"比较政治学"领域的经典著作。<br>此书对威权主义转型的方方面面有深刻的分析，并给出很多可操作性的建议。<br>希望推动天朝政治变革的网友，此书非常值得一看。 ||
-|| 新常识<br>——一党专制的性质与后果 || || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%BF%A0 张雪忠] || 简体PDF<br>简体EPUB || 2013-10-19<br>2014-03-29 || 作者是华东政法大学硕士导师，曾在微博曝光朝廷的"七不讲"禁令。<br>此书普及了不少基本的政治常识（比如：国家、主权、主权者、执政者、政党、等），<br>也分析天朝的独裁体制（包括：人大制度的虚伪性、党化教育的洗脑性）。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
+|| 开放社会及其敌人 || The Open Society and Its Enemies || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] (英) || 简体PDF<br>简体EPUB || 2012-12-11<br>2013-09-14 || [http://goo.gl/MizNyC 简介] ||
+|| 极权主义的起源 || The Origins of Totalitarianism || [https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9 汉娜·阿伦特] (美) || 简体PDF<br>简体CHM<br>简体MOBI || 2012-10-06<br>2012-10-14<br>2014-02-23 || [http://goo.gl/NUhGJg 简介] ||
+|| 威权统治的转型<br>——关于不确定民主的试探性结论 || Transitions from Authoritarian Rule<br>——Tentative Conclusions About Uncertain Democracies || [https://en.wikipedia.org/wiki/Guillermo_O%27Donnell 吉列尔莫·奥唐奈] (阿根廷)<br>[https://en.wikipedia.org/wiki/Philippe_C._Schmitter 菲利普·施密特] (美) || 简体PDF (扫描版) || 2013-08-21 || [http://goo.gl/GtLlHy 简介] ||
+|| 新常识<br>——一党专制的性质与后果 || || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%BF%A0 张雪忠] || 简体PDF<br>简体EPUB || 2013-10-19<br>2014-03-29 || [http://goo.gl/fYtRUx 简介] ||
 
 === 1.1.7 外交和国际关系 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1133 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/G29O84I77c/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E5%A4%96%E4%BA%A4%E5%92%8C%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 大棋局<br>——美国的首要地位及其地缘战略 || The Grand Chessboard<br>——American Primacy and Its Geostrategic Imperatives || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || 简体PDF || 2013-04-14 || 作者是知名的国际关系学着，曾担任美国总统的国家安全顾问。<br>书名中的"大棋局"是指欧亚大陆。<br>作者在书中详细分析了欧亚大陆几个主要大国的地位和影响力，并提出美国应采取的对策。 ||
-|| 大外交 || Diplomacy || [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体PDF (扫描版) || 2014-02-05 || 作者是美国知名的外交家，长期担任国务卿。<br>此书介绍了最近三百年的世界外交史（从欧洲三十年战争到冷战结束）。<br>书中分析了不同时期各个大国的外交谋略。<br>此书由热心网友推荐，特此鸣谢。 ||
-|| 文明的冲突与世界秩序的重建 || The Clash of Civilizations<br>and the Remaking of World Order || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] || 简体PDF || 2013-03-31 || 作者是美国知名的保守派政治学家，此书是他的代表作。<br>作者认为：因文明差异导致的冲突是今后国际冲突的主因。<br>此书内容有争议，某些学者认为亨廷顿过于高估文化的影响力。 ||
-|| 论中国 || On China || [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体EPUB<br>英文EPUB || 2014-02-05<br>2014-02-05 || 作者是美国知名的外交家，长期担任国务卿。<br>此书主要介绍了作者与中共4代领导人打交道的经历。<br>对于某些敏感事件（比如第15章谈及六四），中文版有删节。<br>两个EPUB版本由热心网友分享，特此鸣谢。 ||
+|| 大棋局<br>——美国的首要地位及其地缘战略 || The Grand Chessboard<br>——American Primacy and Its Geostrategic Imperatives || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] (美) || 简体PDF || 2013-04-14 || [http://goo.gl/47UZv3 简介] ||
+|| 文明的冲突与世界秩序的重建 || The Clash of Civilizations<br>and the Remaking of World Order || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] (美) || 简体PDF || 2013-03-31 || [http://goo.gl/yQJOmY 简介] ||
+|| 大外交 || Diplomacy || [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] (美) || 简体PDF (扫描版) || 2014-02-05 || [http://goo.gl/a690l8 简介] ||
+|| 论中国 || On China || (同上) || 简体EPUB<br>英文EPUB || 2014-02-05<br>2014-02-05 || [http://goo.gl/f4AxDA 简介] ||
 
 === 1.1.8 非暴力抗争 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!906 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/tPC1ABfroc/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%8A%97%E4%BA%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 从独裁到民主<br>——解放运动的概念框架 || From Dictatorship to Democracy || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || 简体PDF<br>英文PDF || 2012-08-16<br>2012-08-16  || 吉恩·夏普在"非暴力抗争"领域很有影响力。<br>此书号称非暴力抗争的圣经，影响很广，已翻译成几十种文字。<br>在俺博客的[http://program-think.blogspot.com/2011/12/revolution-0.html 《谈革命》系列]中，会具体介绍此书的内容。 ||
-|| 群众性防卫<br>——一种超军事的武器系统 || Civilian-Based Defense<br>——A Post-Military Weapons System || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || 简体PDF<br>繁體PDF (掃描版) || 2013-03-16<br>2013-02-02 || 此书是吉恩·夏普又一部知名著作。<br>主要介绍：利用群众性防卫的方式对付内部篡权者和外部侵略者。<br>简体PDF版本由热心网友分享，特此鸣谢。 ||
-|| 一种更强大的力量<br>——非暴力抗争一百年 || || 彼得·阿克曼 & 杰克·杜瓦尔 || 简体MOBI (上下) || 2013-05-13 || 此书介绍了最近一百年来的非暴力抗争——从1905年的俄国工运一直聊到共产党阵营的瓦解。<br>此书上下册累计900多页，不习惯看大部头的同学，可以先看俺的博文《[http://program-think.blogspot.com/2012/08/revolution-6.html 回顾"非暴力抗争"的历史]》 ||
+|| 从独裁到民主<br>——解放运动的概念框架 || From Dictatorship to Democracy || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] (美) || 简体PDF<br>英文PDF || 2012-08-16<br>2012-08-16  || [http://goo.gl/CxM7Ds 简介] ||
+|| 群众性防卫<br>——一种超军事的武器系统 || Civilian-Based Defense<br>——A Post-Military Weapons System || (同上) || 简体PDF<br>繁體PDF (掃描版) || 2013-03-16<br>2013-02-02 || [http://goo.gl/15iQKl 简介] ||
+|| 一种更强大的力量<br>——非暴力抗争一百年 || || 彼得·阿克曼<br>杰克·杜瓦尔 || 简体MOBI (上下) || 2013-05-13 || [http://goo.gl/nLJ0Yy 简介] ||
 
 === 1.1.9 女权运动 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1247 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/cu67DOJP4p/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 第二性 || The Second Sex || [https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%92%99%C2%B7%E6%B3%A2%E5%A8%83 西蒙·波伏娃] || 简体PDF (扫描版) || 2013-04-10 || 作者是法国作家，女权运动的领袖人物，哲学家[https://zh.wikipedia.org/wiki/%E8%AE%93-%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%89%B9 萨特]的伴侣。<br>此书主要阐述女性弱势的事实及原因分析。<br>内容涉及文学、历史、社会学、生物学、医学等多方面，堪称女权运动的圣经。 ||
-|| 女权辩护<br>——关于政治和道德问题的批评 || A Vindication of the Rights of Woman<br>——with Strictures on Political and Moral Subjects || [https://zh.wikipedia.org/wiki/%E7%8E%9B%E4%B8%BD%C2%B7%E6%B2%83%E6%96%AF%E9%80%9A%E5%85%8B%E6%8B%89%E5%A4%AB%E7%89%B9 玛丽·沃斯通克拉夫特] || 简体PDF || 2013-04-10 || 作者是18世纪英国作家，本书是女权运动最早的著作之一。<br>作者在书中强调了女性教育的重要性。 ||
-|| 女性的奥秘 || The Feminine Mystique || [https://zh.wikipedia.org/wiki/%E8%B4%9D%E8%92%82%C2%B7%E5%BC%97%E9%87%8C%E4%B8%B9 贝蒂·弗里丹] || 简体PDF (扫描版) || 2013-04-10 || 作者是美国作家，此书是其代表作。<br>此书主要分析美国妇女普遍存在的心理问题，并探求解决之道。<br>此书对20世纪60-70年代的妇女解放运动有重大影响。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 女权主义 || || 简·弗里德曼 || 简体PDF (扫描版) || 2014-02-03 || 此书从政治、经济、生理、种族等角度介绍了女权主义的不同流派。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 三个原始部落的性别与气质 || Sex and Temperament in Three Primitive Societies || [https://zh.wikipedia.org/wiki/%E7%91%AA%E6%A0%BC%E9%BA%97%E7%89%B9%C2%B7%E7%B1%B3%E5%BE%B7 玛格丽特·米德] || 简体PDF (扫描版) || 2013-08-13 || 作者是美国知名的人类学家，曾获总统自由勋章。<br>作者考察了新几内亚的三个原始部落，发现地理位置相近的三个部落，在文化方面（尤其是性别方面）有显著差异。<br>作者在此书中提出了"性别文化决定论"的学术观点。 ||
+|| 第二性 || The Second Sex || [https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%92%99%C2%B7%E6%B3%A2%E5%A8%83 西蒙·波伏娃] (法) || 简体PDF (扫描版) || 2013-04-10 || [http://goo.gl/NbFSo5 简介] ||
+|| 女权辩护<br>——关于政治和道德问题的批评 || A Vindication of the Rights of Woman<br>——with Strictures on Political and Moral Subjects || [https://zh.wikipedia.org/wiki/%E7%8E%9B%E4%B8%BD%C2%B7%E6%B2%83%E6%96%AF%E9%80%9A%E5%85%8B%E6%8B%89%E5%A4%AB%E7%89%B9 玛丽·沃斯通克拉夫特] (英) || 简体PDF || 2013-04-10 || [http://goo.gl/ZvtCFJ 简介] ||
+|| 女性的奥秘 || The Feminine Mystique || [https://zh.wikipedia.org/wiki/%E8%B4%9D%E8%92%82%C2%B7%E5%BC%97%E9%87%8C%E4%B8%B9 贝蒂·弗里丹] || 简体PDF (扫描版) || 2013-04-10 || [http://goo.gl/CahRAx 简介] ||
+|| 女权主义 || || 简·弗里德曼 || 简体PDF (扫描版) || 2014-02-03 || [http://goo.gl/mL4VVC 简介] ||
+|| 三个原始部落的性别与气质 || Sex and Temperament in Three Primitive Societies || [https://zh.wikipedia.org/wiki/%E7%91%AA%E6%A0%BC%E9%BA%97%E7%89%B9%C2%B7%E7%B1%B3%E5%BE%B7 玛格丽特·米德] (美) || 简体PDF (扫描版) || 2013-08-13 || [http://goo.gl/XVViba 简介] ||
 
 === 1.1.10 (其它) ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1388 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/-lCDK29B0i/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 政治科学 || Political Science || 迈克尔·罗斯金 等 || 简体PDF (第9版 扫描版)<br>简体PDF (第6版 扫描版) || 2014-02-13<br>2014-02-06 || 此书是美国高校的教材，被多个国家的高等院校采用。<br>不同于天朝政治教材只吹捧马列，这套教材讲述了各种意识形态。<br>全书包括5部分：政治基础、政治态度、政治互动、政治制度、政治行为。<br>此书由热心网友推荐，特此鸣谢。 ||
-|| 变化社会中的政治秩序 || Political Order in Changing Societies || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] || 简体PDF || 2013-10-30 || 作者是美国知名的保守派政治学家。<br>此书是关于"政治稳定理论"的重要著作，具有重要学术价值。<br>作者认为"政治稳定"取决于两点：政治的参与程度和制度的成熟程度。<br>很多发展中国家社会动荡的根源是：政治参与程度不断提高，但制度的成熟度没有跟上。<br>大伙儿不妨对照一下当今天朝，情况也类似。 ||
-|| 国家为什么失败<br>——权力、富裕与贫困的根源 || Why Nations Fail——<br>The Origins of Power, Prosperity, and Poverty || [https://en.wikipedia.org/wiki/Daron_Acemoglu 戴伦·艾赛默鲁] & 詹姆斯·罗宾森 || 简体TXT<br>繁體PDF (豎排掃描版) || 2014-03-20<br>2014-03-20 || 此书是前两年刚出版的，获得多位诺贝尔奖得主的推荐。<br>书中分析了各国的贫富差距，并总结出原因——两种政治/经济模式——广纳式和榨取式。<br>广纳式的社会更加多元化、更开放、更自由，也更有创新、所以经济也更繁荣。榨取式的社会则相反。<br>榨取式的社会虽然也会出现繁荣，但无法持久，会陷入周期性的政治动荡。<br>书中也分析了天朝到底属于哪种模式。<br>繁体PDF版本由热心网友分享，特此鸣谢。 ||
-|| 君主论<br>(君王论) || The Prince || [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E7%B6%AD%E5%88%A9 马基亚维利] || 简体PDF || 2013-08-22 || 作者是意大利的政治哲学家，文艺复兴时期的重要人物。此书是作者最出名的代表作。<br>此书具有广泛的影响，但是在 政治、宗教、道德 等多个领域引发了强烈的争议。<br>光看《君主论》，容易对作者产生偏见。要全面了解马基亚维利的思想，还需看他的另一本代表作《论李维之罗马史》。 ||
+|| 政治科学 || Political Science || 迈克尔·罗斯金 (美)<br>等 || 简体PDF (第9版 扫描版)<br>简体PDF (第6版 扫描版) || 2014-02-13<br>2014-02-06 || [http://goo.gl/9weVZc 简介] ||
+|| 变化社会中的政治秩序 || Political Order in Changing Societies || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] (美) || 简体PDF || 2013-10-30 || [http://goo.gl/KOdFln 简介] ||
+|| 国家为什么失败<br>——权力、富裕与贫困的根源 || Why Nations Fail——<br>The Origins of Power, Prosperity, and Poverty || [https://en.wikipedia.org/wiki/Daron_Acemoglu 戴伦·艾赛默鲁] (美)<br>詹姆斯·罗宾森 || 简体TXT<br>繁體PDF (豎排掃描版) || 2014-03-20<br>2014-03-20 || [http://goo.gl/nBbZDk 简介] ||
+|| 君主论<br>(君王论) || The Prince || [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E7%B6%AD%E5%88%A9 马基亚维利] (意) || 简体PDF || 2013-08-22 || [http://goo.gl/bdEyl8 简介] ||
 
 == 1.2 政治小说 ==
 
@@ -238,15 +238,15 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!909 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/oSHaVT0M4j/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E5%B0%8F%E8%AF%B4 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 一九八四 || Nineteen Eighty-Four || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF (扫描版)<br>简体MOBI<br>英文EPUB<br>英文PDF || 2010-09-07<br>2013-09-15<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2013-09-13<br>2012-01-11 || 这本书表面上是科幻小说，实质上是很深刻的政治小说。<br>此书名列"反乌托邦三部曲"之首。在20世纪的政治小说中，此书完全能排进 TOP10<br>书中非常彻底地揭露了共产运动本质，还包括极权政府对民众洗脑的伎俩。<br>*绝对值得一读！* 俺的书评在"[http://program-think.blogspot.com/2009/06/book-review-1984.html 这里]"。<br>英文EPUB、简体PDF扫描版、简体MOBI由热心网友分享，特此鸣谢。 ||
-|| 动物庄园 || Animal Farm || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF (扫描版)<br>简体MOBI<br>英文PDF || 2010-09-23<br>2013-09-13<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2012-01-11 || 此书可算是《1984》的缩略版。<br>如果你嫌《1984》太长，可以先从此书看起。<br>简体EPUB、简体PDF扫描版、简体MOBI由热心网友分享，特此鸣谢。 ||
-|| 美丽新世界 || Brave New World || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E6%96%AF%C2%B7%E9%9B%B7%E6%AD%90%E9%82%A3%E5%BE%B7%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E 奥尔德斯·赫胥黎] || 简体EPUB<br>简体TXT || 2013-09-15<br>2012-10-05 || 此书在"反乌托邦三部曲"中，名气第二大。<br>喜欢《一九八四》的读者，应该也会喜欢这本书。 ||
-|| 我们<br>(反乌托邦与自由) || We || [https://en.wikipedia.org/wiki/Yevgeny_Zamyatin 尤金·扎米亚京] || 简体EPUB || 2013-09-15 || 此书虽然在"反乌托邦三部曲"中名气最小，但却是三部曲中最先出版的。<br>《1984》和《美丽新世界》的写作过程都受到此书的影响。 ||
-|| 旋风 || || [https://zh.wikipedia.org/wiki/%E5%A7%9C%E8%B4%B5 姜贵]<br>(原名：王林渡) || 简体PDF || 2013-08-21 || 作者早年加入国民党，49年去台湾。之后成为台湾著名小说家。<br>此书是台湾反共文学的代表作之一，和张爱玲的《秧歌》齐名。[https://zh.wikipedia.org/wiki/%E8%83%A1%E9%81%A9 胡适]和[https://zh.wikipedia.org/wiki/%E8%94%A3%E5%A4%A2%E9%BA%9F 蒋梦麟]对此书的评价很高。<br>书名包含双重含义，其一是小说主人公创建的旋风纵队，其二是作者讽刺共产运动必如旋风般消散，不会持久。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 黄祸 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || 简体CHM || 2013-08-21 || 作者是大陆知名作家、民族问题学者、环保人士。<br>此书是政治预言小说，曾入选亚洲周刊20世纪中文小说百强（第41位）<br>书中描写的中国社会危机，至今一直存在，而且加深了。<br>另有热心读者分享王力雄的《十年过后谈黄祸》，也一并上传，跟本书放一起。 ||
-|| 盛世<br>——中国2013 || The Fat Years || [https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E4%B8%AD 陈冠中] || 简体PDF || 2013-01-01 || 陈冠中是香港作家，现居北京。<br>本书是一部小说，写于2009年，虚构了2013年的天朝盛世。<br>"反讽"是此书的一大特色——看书名似乎在吹捧天朝的盛世，其实捏...... ||
-|| 裸命 ||  || [https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E4%B8%AD 陈冠中] || 简体MOBI || 2013-01-01 || 陈冠中是香港作家，现居北京。<br>此书是作者在《盛世》之后又一部描述天朝的政治小说（同时也算是情色小说）。<br>此书通过一个藏族青年的视角，展现天朝小人物的生活、命运、精神状态。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 云图 || Cloud Atlas || [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E7%B1%B3%E5%88%87%E5%B0%94 大卫·米切尔] || 简体PDF<br>简体EPUB<br>英文PDF || 2014-02-06<br>2014-02-06<br>2014-02-06 || 这是一部比较独特的小说，由6个看似独立但又互相关联的故事构成。<br>书中贯穿了"反抗奴役，追求自由"的主题。<br>此书由热心网友推荐，特此鸣谢。 ||
+|| 一九八四 || Nineteen Eighty-Four || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] (英) || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF (扫描版)<br>简体MOBI<br>英文EPUB<br>英文PDF || 2010-09-07<br>2013-09-15<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2013-09-13<br>2012-01-11 || [http://goo.gl/RPrAiX 简介] ||
+|| 动物庄园 || Animal Farm || (同上) || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF (扫描版)<br>简体MOBI<br>英文PDF || 2010-09-23<br>2013-09-13<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2012-01-11 || [http://goo.gl/dx78pN 简介] ||
+|| 美丽新世界 || Brave New World || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E6%96%AF%C2%B7%E9%9B%B7%E6%AD%90%E9%82%A3%E5%BE%B7%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E 奥尔德斯·赫胥黎] (英) || 简体EPUB<br>简体TXT || 2013-09-15<br>2012-10-05 || [http://goo.gl/NyWXXM 简介] ||
+|| 我们<br>(反乌托邦与自由) || We || [https://en.wikipedia.org/wiki/Yevgeny_Zamyatin 尤金·扎米亚京] (苏) || 简体EPUB || 2013-09-15 || [http://goo.gl/CVkuW0 简介] ||
+|| 旋风 || || [https://zh.wikipedia.org/wiki/%E5%A7%9C%E8%B4%B5 姜贵] (原名：王林渡) || 简体PDF || 2013-08-21 || [http://goo.gl/x4pzYQ 简介] ||
+|| 黄祸 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || 简体CHM || 2013-08-21 || [http://goo.gl/JqdQR5 简介] ||
+|| 盛世<br>——中国2013 || The Fat Years || [https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E4%B8%AD 陈冠中] || 简体PDF || 2013-01-01 || [http://goo.gl/cIJoqj 简介] ||
+|| 裸命 ||  || [https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E4%B8%AD 陈冠中] || 简体MOBI || 2013-01-01 || [http://goo.gl/OzVaQQ 简介] ||
+|| 云图 || Cloud Atlas || [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E7%B1%B3%E5%88%87%E5%B0%94 大卫·米切尔] || 简体PDF<br>简体EPUB<br>英文PDF || 2014-02-06<br>2014-02-06<br>2014-02-06 || [http://goo.gl/3EynT2 简介] ||
 
 == 1.3 中国 ==
 
@@ -257,133 +257,133 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!926 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/CXkMO_OlVp/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E6%97%B6%E6%9C%9F Dropbox网盘]
 
 || *书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 中国改革年代的政治斗争 || || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF<br>简体EPUB || 2012-04-05<br>2013-11-26 || 杨继绳是新华社高级记者，《炎黄春秋》杂志副社长。<br>此书介绍了80年代朝廷高层改革派与保守派的长期内斗，内容真实且客观。 ||
-|| 中国现代化的陷阱 || The Pitfalls of Modernization || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || 简体PDF (修订版)<br>简体MOBI (修订版)<br>简体PDF<br>简体HTML || 2013-12-14<br>2014-02-23<br>2013-02-05<br>2012-11-18 || 作者是天朝知名且敢言的经济学家，因受迫害移居美国。<br>此书是她的成名作，其电子版在网上流传很广。<br>书中介绍了经济改革引发的种种问题（包括贫富分化、国有资产流失、圈地运动、等）。<br>"修订版"根据2006年德国汉堡研究所的德文版翻译成中文。<br>两本PDF版本皆由热心网友精心排版并分享，特此鸣谢。 ||
-|| 中国<br>——奇迹的黄昏 || || 袁剑 || 简体PDF || 2012-04-05 || "黄昏"一词暗指天朝经济的繁荣是好景不长。<br>此书的价值在于：深刻揭露了天朝权贵阶层对社会财富的掠夺。 ||
-|| 断裂<br>——20世纪90年代以来的中国社会 || || [https://zh.wikipedia.org/wiki/%E5%AD%99%E7%AB%8B%E5%B9%B3 孙立平] || 简体PDF || 2013-03-16 || 作者是清华大学社会学系教授，当过习近平的博士导师。<br>本书主要分析了80年代到90年代的社会转型以及由此引出的种种问题（比如贫富分化、社会不公）。<br>作者认为：相比80年代，90年代之后的中国已经是一个完全不同的社会。 ||
-|| 大国沉沦<br>——写给中国的备忘录 || || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 简体PDF || 2013-08-11 || 刘晓波的名气挺大，俺就不介绍了。<br>本书写得比较杂，涉及了当今政坛的许多方面。<br>内容包括：一党独裁、权贵资本主义、维权、六四、民族主义、等。<br>PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
-|| 山坳上的中国<br>——问题、困境、痛苦的选择 || || 何博传 || 简体PDF (扫描版) || 2013-03-07 || 作者是中山大学科学哲学系副教授，发表多篇关于中国危机问题的论文。<br>此书1989年出版，曾一度被列为禁书。20多年后再看此书，作者的许多担忧已变成现实。 ||
-|| 红色资本主义<br>——中国非凡崛起之下的脆弱金融基础 || Red Capitalism<br>——The Fragile Financial Foundation of China's Extraordinary Rise || Carl Walter & Fraser Howie || 英文PDF || 2014-03-29 || 两位美国作者都在天朝待了好多年，而且长期从事金融方面的工作。<br>书中分析了中国式的资本主义存在的种种问题（尤其是金融方面）。<br>此书有助于你更深刻地理解："中国模式本质上就是权贵资本主义"。<br>书中写到：_中国的金融体系和股票、债券以及贷款市场只为国营部门服务，尤其是又红又专的"国家冠军队"。这些企业是中国国营经济的心脏，属于"体制内"。而民营经济，无论其发展多么蓬勃，都属于"体制外"，并且实质上任由体制所摆布。_<br>此书由热心网友推荐，特此鸣谢。 ||
-|| 全球化与中国国家转型 || Globalization and state transformation in China || [https://zh.wikipedia.org/wiki/%E9%83%91%E6%B0%B8%E5%B9%B4 郑永年] || 简体PDF (扫描版) || 2014-01-09 || 作者是新加坡国立大学东亚研究所所长，中国政治、社会问题专家。<br>此书介绍了全球化对中国各方面的影响。<br>作者认为：在重建经济制度方面，中国借鉴西方，已经获得某种成功；但重建政治制度方面，中国拒绝西方经验，企图求助于中国传统来复兴党，至今没有成效。<br>PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
+|| 中国改革年代的政治斗争 || || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF<br>简体EPUB || 2012-04-05<br>2013-11-26 || [http://goo.gl/gtOidj 简介] ||
+|| 中国现代化的陷阱 || The Pitfalls of Modernization || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || 简体PDF (修订版)<br>简体MOBI (修订版)<br>简体PDF<br>简体HTML || 2013-12-14<br>2014-02-23<br>2013-02-05<br>2012-11-18 || [http://goo.gl/76WBYa 简介] ||
+|| 中国<br>——奇迹的黄昏 || || 袁剑 || 简体PDF || 2012-04-05 || [http://goo.gl/UcZEut 简介] ||
+|| 断裂<br>——20世纪90年代以来的中国社会 || || [https://zh.wikipedia.org/wiki/%E5%AD%99%E7%AB%8B%E5%B9%B3 孙立平] || 简体PDF || 2013-03-16 || [http://goo.gl/T1nfI7 简介] ||
+|| 大国沉沦<br>——写给中国的备忘录 || || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 简体PDF || 2013-08-11 || [http://goo.gl/pnhvVp 简介] ||
+|| 山坳上的中国<br>——问题、困境、痛苦的选择 || || 何博传 || 简体PDF (扫描版) || 2013-03-07 || [http://goo.gl/Ab6cPe 简介] ||
+|| 红色资本主义<br>——中国非凡崛起之下的脆弱金融基础 || Red Capitalism<br>——The Fragile Financial Foundation<br> of China's Extraordinary Rise || Carl Walter (美)<br>Fraser Howie (美) || 英文PDF || 2014-03-29 || [http://goo.gl/gYdQjb 简介] ||
+|| 全球化与中国国家转型 || Globalization and state transformation in China || [https://zh.wikipedia.org/wiki/%E9%83%91%E6%B0%B8%E5%B9%B4 郑永年] (新加坡) || 简体PDF (扫描版) || 2014-01-09 || [http://goo.gl/F4nSa2 简介] ||
 
 ==== 1.3.1.2 六四事件 ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!883 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/K0lrbRO0qo/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6 Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 天安门文件<br>(中国六四真相) || 张良 (化名) || 简体PDF<br>简体CHM || 2013-01-13<br>2012-04-05 || 此书据称是中共某高层人士有意泄露出来的，内容包括很多朝廷高官的会议记录。<br>此书传播很广，影响较大，但部分内容有争议。争议部分，俺会在《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》中指明。<br>PDF版本是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
-|| 天安門血腥清場内幕 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || 繁體PDF || 2012-05-25 || 作者吴仁华是六四运动的骨干分子。<br>此书对6月3日晚间到6月4日上午的血腥清场过程，有非常详细的介绍。 ||
-|| "六四"事件民间白皮书 || 纪念六四事件委员会 || 简体PDF || 2012-05-25 || 主要作者之一李进进是六四运动的学生领袖。<br>此书尝试从民间的角度，对整个六四事件作一个全面的分析（包括政治层面和法律层面）。 ||
-|| 八九天安门事件大事记 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || 简体PDF || 2012-05-25 || 作者吴仁华是六四运动的骨干分子。<br>此书记录了六四期间（4月15日到6月9日）每天发生的重大事情。 ||
-|| 人民不會忘記 || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港記者協會] || 繁體HTML<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體在線版] || 2012-04-05 || 此书是香港记者协会出版，汇总了几十名记者的六四报道。 ||
-|| 八九民運史 || 陳小雅 || [http://www.64memo.com/b5/4.htm 繁體在線版] || || 虽然此书的名气不大，但是俺在写《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》的过程中，也参考了它的某些内容。 ||
-|| 中国民运反思 || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 简体PDF || 2013-05-01 || 作者是流亡美国的政治异议人士，《北京之春》杂志主编。<br>此书主要分析六十运动失败的原因，最后两章介绍未来如何继续开展民主运动。<br>PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
-|| 天安門的力量<br>——國家-社會關系與1989北京學生運動 || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || 繁體PDF (掃描版) || 2012-12-26 || 赵鼎新是美国芝加哥大学社会学系教授。<br>此书以"国家—社会关系"理论来解释整个学运的发展。<br>作者通过该理论来解答：为啥学运各方都曾经寻求过妥协，最后却以流血收场。 ||
-|| 铭记天安门 || [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || 简体PDF || 2012-05-25 || 作者Robin Munro是人权组织观察员。<br>6月3日夜间到次日凌晨4点，他在广场周边目睹了党国的血腥镇压。 ||
-|| 六四日记<br>——广场上的共和国 || [https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7 封从德] || 繁體PDF || 2013-02-02 || 封从德是六四运动中的学生领袖，通缉名单之一。<br>此书详细记录了他参与六四运动的整个过程。<br>俺在写《[http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html 回顾六四系列]》的过程中，也参考了它的某些内容。 ||
-|| 王丹回忆录<br>——从六四到流亡 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B8%B9 王丹] || 繁體EPUB<br>繁體DOCX || 2014-03-29<br>2013-11-26 || 作者是六四运动的知名学生领袖，在朝廷的通缉名单排第一。<br>作为当事人之一，此书有助于从学生的视角看待六四时期发生的事件。<br>DOCX格式由王丹同学亲自分享，特此鸣谢。EPUB格式由热心网友分享，特此鸣谢。 ||
-|| 黄雀行动 || 江迅 || 简体PDF || 2012-05-25 || 六四运动被血腥镇压之后，朝廷鹰犬在大肆搜捕参与民主运动的骨干分子。<br>一些勇敢的香港人组织了秘密渠道，帮助民运人士逃离大陆，代号"黄雀行动"。<br>此书详细介绍了"黄雀行动"的经过。 ||
-|| 关键时刻<br>——李鹏日记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] || 简体CHM || 2012-04-05 || 此书从保守派的视角，叙述了六四运动期间高层的动态。<br>在此书中，李鹏这家伙到处为自己开脱。 ||
-|| 驚心動魄的五十六天 || 国家教委<br>思想政治工作司 || [http://www.64memo.com/b5/2.htm 繁體在線版] || || 此书是朝廷官方出版滴，看的时候要 *小心被洗脑* 。<br>这个在线阅读链接，是繁体的"香港注译本"。 ||
-|| 1989年北京制止动乱平息反革命暴乱纪事 || 北京市委办公厅 || 简体PDF (扫描版) || 2013-01-18 || 此书是朝廷官方出版滴，看的时候要 *小心被洗脑* 。 ||
-|| 陈希同亲述<br>——众口铄金难铄真 || [https://zh.wikipedia.org/wiki/%E5%A7%9A%E7%9B%91%E5%A4%8D 姚监复] || 繁體PDF || 2013-06-10 || 作者是天朝知识分子，曾任国务院发展研究中心某研究室主任。<br>此书是他与[https://zh.wikipedia.org/wiki/%E9%99%88%E5%B8%8C%E5%90%8C 陈希同]八次长谈之后，整理的谈话记录。<br>陈希同企图通过此书，替自己在六四运动的行为辩护。 ||
+|| 天安门文件<br>(中国六四真相) || 张良 (化名) || 简体PDF<br>简体CHM || 2013-01-13<br>2012-04-05 || [http://goo.gl/Di7EJs 简介] ||
+|| 天安门血腥清场内幕 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || 繁體PDF || 2012-05-25 || [http://goo.gl/o1C6Yu 简介] ||
+|| 八九天安门事件大事记 || (同上) || 简体PDF || 2012-05-25 || [http://goo.gl/CwzvaE 简介] ||
+|| "六四"事件民间白皮书 || 纪念六四事件委员会 || 简体PDF || 2012-05-25 || [http://goo.gl/YIjUqP 简介] ||
+|| 人民不会忘记 || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港记者协会] || 繁體HTML<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體在線版] || 2012-04-05 || [http://goo.gl/JRbF6x 简介] ||
+|| 八九民运史 || 陈小雅 || [http://www.64memo.com/b5/4.htm 繁體在線版] || || [http://goo.gl/ByF9EQ 简介] ||
+|| 中国民运反思 || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 简体PDF || 2013-05-01 || [http://goo.gl/AChJOl 简介] ||
+|| 天安门的力量<br>——国家-社会关系与1989学生运动 || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || 繁體PDF (掃描版) || 2012-12-26 || [http://goo.gl/WjMqhB 简介] ||
+|| 铭记天安门 || [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || 简体PDF || 2012-05-25 || [http://goo.gl/1KLrs0 简介] ||
+|| 六四日记<br>——广场上的共和国 || [https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7 封从德] || 繁體PDF || 2013-02-02 || [http://goo.gl/r28aEW 简介] ||
+|| 王丹回忆录<br>——从六四到流亡 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B8%B9 王丹] || 繁體EPUB<br>繁體DOCX || 2014-03-29<br>2013-11-26 || [http://goo.gl/a4AAaI 简介] ||
+|| 黄雀行动 || 江迅 || 简体PDF || 2012-05-25 || [http://goo.gl/zFvx8n 简介] ||
+|| 关键时刻<br>——李鹏日记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] || 简体CHM || 2012-04-05 || [http://goo.gl/9itmPN 简介] ||
+|| 惊心动魄的五十六天 || 国家教委思想政治工作司 || [http://www.64memo.com/b5/2.htm 繁體在線版] || || [http://goo.gl/kdFvGe 简介] ||
+|| 1989年北京制止动乱平息反革命暴乱纪事 || 北京市委办公厅 || 简体PDF (扫描版) || 2013-01-18 || [http://goo.gl/yEcC1H 简介] ||
+|| 陈希同亲述<br>——众口铄金难铄真 || [https://zh.wikipedia.org/wiki/%E5%A7%9A%E7%9B%91%E5%A4%8D 姚监复] || 繁體PDF || 2013-06-10 || [http://goo.gl/pAoGRS 简介] ||
 
 ==== 1.3.1.3 文革时期 ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!925 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/33fD91f_So/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E6%96%87%E9%9D%A9%E6%97%B6%E6%9C%9F Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 文化大革命<br>——历史真相和集体记忆 || || 宋永毅 || 简体PDF || 2012-10-05 || 这实际上是一本论文集。<br>书中收集了几十位研究学者和亲历者所写的文章。 ||
-|| 文化大革命的起源 || The Origins of the Cultural Revolution ||  [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔]<br>(中文名：马若德) || 简体PDF (共2卷 扫描版) || 2013-03-30 || 作者是历史及政治学者、中国问题专家，现为哈佛教授。<br>此书堪称作者的代表作，共三卷。俺暂时只找到头两卷的中文版。<br>此书着重介绍1956-1965年的党史，通过分析党内高层分歧来解答"文革的起源问题"。 ||
-|| 毛泽东最后的革命 || Mao's Last Revolution || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (中文名：马若德)<br>& 沈迈克 || 简体PDF || 2012-12-09 || 这本书2009年才出版，比较新。两位作者都是老外。<br>麦克法夸尔是历史及政治学者、中国问题专家，现为哈佛教授。<br>此书号称是西方学者写出来的，最权威的文革研究著作。<br>书中不但叙述了历史事件，还解释了相关政治人物的动机。 ||
-|| 文化大革命十年史 || || 高皋 & [https://zh.wikipedia.org/wiki/%E4%B8%A5%E5%AE%B6%E5%85%B6 严家其] || 简体PDF (扫描版) || 2012-12-10 || 两位作者都是中国社会科学院的学者。严家其在六四事件后流亡美国。<br>此书是700多页的大部头，记述了文革期间的所有重大事件。 ||
-|| 形形色色的造反<br>——紅衛兵精神素質的形成及演變 || || [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || 繁體PDF (掃描版) || 2013-06-22 || 作者是中国社科院哲学所研究员。<br>这是一本比较详细的关于红卫兵运动的著作。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 失落的一代<br>——中国的上山下乡运动(1968-1980) || The Lost Generation<br>——The Rustification of Chinese Youth (1968-1980) || [https://zh.wikipedia.org/wiki/%E6%BD%98%E9%B8%A3%E5%95%B8 潘鸣啸]<br>(法国人) || 简体PDF (扫描版) || 2013-08-11 || 作者是法国的历史学者，主要研究中国当代史。<br>此书详细介绍了文革时期的"上山下乡"。 ||
-|| 红卫兵档案 || || 吴过 || 简体PDF || 2012-04-06 || 此书比较通俗地介绍了文革中红卫兵运动的兴起和衰落。 ||
-|| 文革研究 || || (多人) || 简体PDF || 2012-04-06 || 严格来说，这不是一本书，而是几篇文革相关的研究文章的汇总。 ||
-|| 文化大革命研究资料 || || 国防大学<br>党史党建政工教研室 ||  简体PDF (上中下 扫描版) || 2013-11-30 || 这三本是国防大学内部出版的，收集了文革时期官方的重要文件（讲话、通知、公告、等）。<br>有些是在报刊公开发表的，有些只在党内以文件形式下发。<br>这些资料对于研究文革历史的同学，会有帮助。 ||
-|| 周恩来文革讲话集 || || || 简体TXT || 2014-03-20 || 严格来讲，这不是一本书，而是"文献合集"。<br>其中汇总了周恩来在文革期间的473次公开讲话或内部批示。<br>通过这些文献资料，有助于更清楚地了解周恩来的为人。<br>看完之后你或许会意识到——周恩来并不是想像中的圣人。 ||
-|| 随想录 || || [https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%87%91 巴金]<br>(原名：李尧棠) || 简体PDF (扫描版) || 2014-01-09 || 作者的名气很大，俺就不介绍了。<br>此书共5卷，150篇，写于1979-1986。<br>内容主要是作者对文革经历的回忆和反思。<br>此书的反思和自我批判很深刻，可与卢梭的《忏悔录》相提并论。<br>目录从26页开始。 ||
-|| 遇罗克之遗作与回忆 || || 徐晓 & 丁东 & [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || 简体PDF (扫描版) || 2013-03-16 || [https://zh.wikipedia.org/wiki/%E9%81%87%E7%BD%97%E5%85%8B 遇罗克]是文革时期的一个小人物。<br>他写了《出身论》批判当时盛行的"血统论"，在国内造成很大影响。<br>1968年被捕，1970年被当作反革命分子处决。<br>此书收集了遇罗克本人的多篇文章以及相关的一些评论文章（包括攻击遇罗克的）。 ||
-|| 牛鬼蛇神录<br>——文革囚禁中的精灵 || || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯]<br>(原名：杨羲光) || 简体PDF || 2012-12-09 || 杨小凯是天朝知名的经济学家（已故）。<br>文革期间他写了知名的大字报《中国向何处去》，引起轰动并因此被关押多年。<br>此书写的是他的狱中难友。 ||
-|| 上海生死劫<br>(上海生与死) || Life and Death in Shanghai || [https://zh.wikipedia.org/wiki/%E9%83%91%E5%BF%B5 郑念]<br>(原名：姚念媛) || 简体PDF (扫描版) || 2013-05-30 || 作者是民国外交官之妻，1949年回大陆参与红色中国建设。<br>文革期间遭到迫害，以间谍罪关押六年，独生女被红卫兵殴打致死。<br>此书相当于她的自传，被译为多种文字出版。 ||
-|| 中国的眸子 || || 胡平 || 简体PDF (扫描版) || 2013-03-31 || 作者与知名异议人士[https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平]同名。<br>此书是报告文学，介绍了文革中[https://zh.wikipedia.org/wiki/%E6%9D%8E%E4%B9%9D%E8%8E%B2 李九莲]、钟海源的冤案。<br>她们俩因为反对文革而被迫害致死，其遭遇类似于[https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭]和[https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%BF%97%E6%96%B0 张志新]。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 自由在落日中 || || [https://zh.wikipedia.org/zh/%E8%A2%81%E7%BA%A2%E5%86%B0 袁红冰]<br>(原名：袁红兵) || 简体CHM || 2013-06-22 || 作者是持不同政见者、作家。因参与64运动被逮捕。2004年流亡海外。<br>此书是长篇小说，描写文革期间蒙古族民众反抗中共政权的种族灭绝。<br>CHM版本由热心网友分享，特此鸣谢。 ||
-|| 第二种忠诚 || || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || 简体PDF || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>在此书中，作者写道：雷锋式的人物，党让干啥就干啥，那是第一种忠诚；而敢于向党提意见，那是第二种忠诚。<br>此书以报告文学的形式，介绍了那些敢于向党提意见的小人物以及他们的悲惨命运。<br>PDF版本由热心网友分享，特此鸣谢。 ||
+|| 文化大革命<br>——历史真相和集体记忆 || || 宋永毅(主编) || 简体PDF || 2012-10-05 || [http://goo.gl/fzLkYz 简介] ||
+|| 文化大革命的起源 || The Origins of the Cultural Revolution ||  [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (中文名：马若德) || 简体PDF (共2卷 扫描版) || 2013-03-30 || [http://goo.gl/aLQN06 简介] ||
+|| 毛泽东最后的革命 || Mao's Last Revolution || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (中文名：马若德)<br>沈迈克 || 简体PDF || 2012-12-09 || [http://goo.gl/Ep9BQa 简介] ||
+|| 文化大革命十年史 || || 高皋<br>[https://zh.wikipedia.org/wiki/%E4%B8%A5%E5%AE%B6%E5%85%B6 严家其] || 简体PDF (扫描版) || 2012-12-10 || [http://goo.gl/n252mX 简介] ||
+|| 形形色色的造反<br>——红卫兵精神素质的形成及演变 || || [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || 繁體PDF (掃描版) || 2013-06-22 || [http://goo.gl/191qw9 简介] ||
+|| 失落的一代<br>——中国的上山下乡运动(1968-1980) || The Lost Generation<br>——The Rustification of Chinese Youth<br> (1968-1980) || [https://zh.wikipedia.org/wiki/%E6%BD%98%E9%B8%A3%E5%95%B8 潘鸣啸] (法) || 简体PDF (扫描版) || 2013-08-11 || [http://goo.gl/32nj7B 简介] ||
+|| 文化大革命研究资料 || || 国防大学党史党建政工教研室 ||  简体PDF (上中下 扫描版) || 2013-11-30 || [http://goo.gl/aiVtvP 简介] ||
+|| 文革研究 || || (多人) || 简体PDF || 2012-04-06 || [http://goo.gl/Zksp1c 简介] ||
+|| 红卫兵档案 || || 吴过 || 简体PDF || 2012-04-06 || [http://goo.gl/SAZldd 简介] ||
+|| 周恩来文革讲话集 || || || 简体TXT || 2014-03-20 || [http://goo.gl/UyoK5m 简介] ||
+|| 随想录 || || [https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%87%91 巴金] (原名：李尧棠) || 简体PDF (扫描版) || 2014-01-09 || [http://goo.gl/xfR9IP 简介] ||
+|| 遇罗克之遗作与回忆 || || 徐晓<br>丁东<br>[https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || 简体PDF (扫描版) || 2013-03-16 || [http://goo.gl/H89QfE 简介] ||
+|| 牛鬼蛇神录<br>——文革囚禁中的精灵 || || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF || 2012-12-09 || [http://goo.gl/bbpfG2 简介] ||
+|| 上海生死劫<br>(上海生与死) || Life and Death in Shanghai || [https://zh.wikipedia.org/wiki/%E9%83%91%E5%BF%B5 郑念] (原名：姚念媛) || 简体PDF (扫描版) || 2013-05-30 || [http://goo.gl/4MXXFf 简介] ||
+|| 中国的眸子 || || 胡平 || 简体PDF (扫描版) || 2013-03-31 || [http://goo.gl/1UJJFx 简介] ||
+|| 自由在落日中 || || [https://zh.wikipedia.org/zh/%E8%A2%81%E7%BA%A2%E5%86%B0 袁红冰] (原名：袁红兵) || 简体CHM || 2013-06-22 || [http://goo.gl/7F7R2o 简介] ||
+|| 第二种忠诚 || || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || 简体PDF || 2013-03-09 || [http://goo.gl/lloAYP 简介] ||
 
 ==== 1.3.1.4 "大跃进"和大饥荒时期 ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!924 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/_VlzpcPZDL/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E2%80%9C%E5%A4%A7%E8%B7%83%E8%BF%9B%E2%80%9D%E5%92%8C%E5%A4%A7%E9%A5%A5%E8%8D%92%E6%97%B6%E6%9C%9F Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 墓碑<br>——中国六十年代大饥荒纪实 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF<br>繁體PDF || 2012-04-06<br>2013-10-20 || 杨继绳是新华社高级记者，《炎黄春秋》杂志副社长。<br>此书又是一本大部头纪实，足见杨继绳写纪实题材的功力。<br>繁体版本由热心网友分享，特此鸣谢。 ||
-|| 人祸<br>——"大跃进"与大饥荒 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || 简体PDF<br>简体HTML || 2013-01-13<br>2012-04-06 || 作者是中国当代史研究学者、持不同政见者。<br>书名"人祸"直接就点到了三年大饥荒的要害——根本就没有"天灾"。<br>看完此书，你将更加明白这一点。<br>PDF版本是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
-|| 大跃进亲历记<br>——毛泽东秘书手记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] || 简体PDF (上下卷 扫描版) || 2013-05-08 || 作者曾经是毛太祖的秘书，庐山会议期间和彭德怀一起被打倒。<br>此书分上下卷，都是作者亲身经历。<br>上卷主要讲南宁会议到八大二次会议，下卷则一直讲到庐山会议之前。<br>此书有助于了解毛太祖搞大跃进的那段历史。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 庐山会议实录 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] || 简体PDF || 2012-10-05 || 作者曾经是毛太祖的秘书，庐山会议期间和彭德怀一起被打倒。<br>1959年的庐山会议是天朝历史的转折点，为后来的三年大饥荒埋下伏笔。<br>这次会议不光引发了彭德怀倒台，还使得毛太祖更加固执地坚持激进路线。<br>李锐作为会议的参加者，详细介绍了会议的经过。 ||
-|| 辉煌的幻灭<br>——人民公社警示录 || 康健 || 简体CHM<br>简体HTML || 2012-10-05<br>2012-10-06 || 此书主要介绍大跃进时期，农村大搞人民公社，大搞浮夸风。<br>之后发生的三年大饥荒，死亡最惨的省份恰恰是浮夸风最盛的省份。 ||
-|| 夹边沟记事 || 杨显惠 || 简体PDF (扫描版) || 2013-03-22 || 本书主要叙述了西北沙漠边缘一个关押"右派"分子的劳改农场。<br>在大饥荒期间，该劳改营里有大量知识分子被活活饿死，留下累累白骨。<br>此书算是《定西孤儿院纪事》的姐妹篇，被誉为中国版的《古拉格群岛》。 ||
-|| 定西孤儿院纪事 || 杨显惠 || 简体PDF (扫描版) || 2013-03-08 || 大饥荒期间，甘肃省的定西专区是重灾区。<br>此书根据翔实的史料和当事人的回忆，再现了当时的惨状。<br>此书算是《夹边沟记事》的姐妹篇。 ||
+|| 墓碑<br>——中国六十年代大饥荒纪实 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF<br>繁體PDF || 2012-04-06<br>2013-10-20 || [http://goo.gl/ld3u5Z 简介] ||
+|| 人祸<br>——"大跃进"与大饥荒 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || 简体PDF<br>简体HTML || 2013-01-13<br>2012-04-06 || [http://goo.gl/nOO5QN 简介] ||
+|| 大跃进亲历记<br>——毛泽东秘书手记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] || 简体PDF (上下卷 扫描版) || 2013-05-08 || [http://goo.gl/GVoVyz 简介] ||
+|| 庐山会议实录 || (同上) || 简体PDF || 2012-10-05 || [http://goo.gl/rXwegU 简介] ||
+|| 辉煌的幻灭<br>——人民公社警示录 || 康健 || 简体CHM<br>简体HTML || 2012-10-05<br>2012-10-06 || [http://goo.gl/KSZg4Y 简介] ||
+|| 夹边沟记事 || 杨显惠 || 简体PDF (扫描版) || 2013-03-22 || [http://goo.gl/Oz2QES 简介] ||
+|| 定西孤儿院纪事 || 杨显惠 || 简体PDF (扫描版) || 2013-03-08 || [http://goo.gl/vhdMfC 简介] ||
 
 ==== 1.3.1.5 "反右"运动 ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!980 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ny5AQDUJDx/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E2%80%9C%E5%8F%8D%E5%8F%B3%E2%80%9D%E8%BF%90%E5%8A%A8 Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 阳谋 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || 简体PDF<br>简体CHM || 2013-01-13<br>2012-11-17 || 作者是中国当代史研究学者、持不同政见者。<br>他的著名作品有《人祸》和《阳谋》。<br>PDF版本是俺根据热心网友分享的DOC制作的。增加左侧导航，调了排版格式。 ||
-|| 1957年的夏季<br>——从百家争鸣到两家争鸣 || 朱正 || 简体HTML || 2012-11-17 || 作者不太出名，不过书写得还是很详细——里面列举了很多当事人（尤其是毛太祖）的言论。 ||
-|| 往事并不如烟 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || 简体PDF<br>简体TXT || 2013-02-05<br>2012-12-09 || 作者章诒和是"中国头号大右派"章伯钧的次女。<br>此书描述了史良、储安平、张伯驹、康同璧、聂绀弩、罗隆基、张庚、章伯钧等知名"大右派"的悲剧命运。<br>由于此书内容批评了毛太祖，在2004年大陆出版时，多处内容被删改。之后真理部禁止该书重印。<br>PDF版本是某网友精心排版并分享，该版本标注了被删节的内容，特此鸣谢。 ||
-|| 十四万言书<br>——致人民日报编辑部信 || [https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭]<br>(原名：彭令昭) || 简体PDF || 2013-02-01 || 林昭是北大才女，曾任北大校刊《未名湖》编辑和《北大诗刊》编辑。1957年"反右"期间被划为右派。<br>1960年在针砭时弊的《星火》杂志上发表长诗《海鸥之歌》和《普鲁米修斯受难之日》，同年10月被逮捕。<br>1962年初保外就医，与黄政共同起草了《中国自由青年战斗同盟》的纲领和章程。<br>当年底再度被捕，1968年被枪决。<br>她在狱中坚持自己的信仰，写了20万字的血书与日记。这本十四万言书是其中之一。 ||
-|| 林昭，不再被遗忘 || (多人) || 简体PDF (扫描版) || 2013-02-01 || 此书是关于[https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭]的纪念文章的合集。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 中华民族的自由女神<br>——林昭罹难40年纪念文集 || (多人) || 简体PDF || 2013-02-01 || 此书是关于[https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭]的纪念文章的合集。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 祭坛上的圣女<br>——林昭传 || 赵锐 || 简体PDF || 2013-06-22 || 此书详细介绍了[https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭]的生平和家庭背景。<br>PDF版本由热心网友分享，特此鸣谢。 ||
+|| 阳谋 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || 简体PDF<br>简体CHM || 2013-01-13<br>2012-11-17 || [http://goo.gl/HRurP3 简介] ||
+|| 往事并不如烟 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || 简体PDF<br>简体TXT || 2013-02-05<br>2012-12-09 || [http://goo.gl/vuKNkb 简介] ||
+|| 1957年的夏季<br>——从百家争鸣到两家争鸣 || 朱正 || 简体HTML || 2012-11-17 || [http://goo.gl/DjFmC8 简介] ||
+|| 十四万言书<br>——致人民日报编辑部信 || [https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭] (原名：彭令昭) || 简体PDF || 2013-02-01 || [http://goo.gl/ubOF70 简介] ||
+|| 中华民族的自由女神<br>——林昭罹难40年纪念文集 || (多人) || 简体PDF || 2013-02-01 || [http://goo.gl/AwCbw7 简介] ||
+|| 林昭，不再被遗忘 || (多人) || 简体PDF (扫描版) || 2013-02-01 || [http://goo.gl/TDre5F 简介] ||
+|| 祭坛上的圣女<br>——林昭传 || 赵锐 || 简体PDF || 2013-06-22 || [http://goo.gl/Ea8By7 简介] ||
 
 ==== 1.3.1.6 "土改"运动 ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1179 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/NZ61VHWvow/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E2%80%9C%E5%9C%9F%E6%94%B9%E2%80%9D%E8%BF%90%E5%8A%A8 Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 最后的地主 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF<br>简体PDF (大字版) || 2013-03-16<br>2013-03-31 || 作者是流亡作家，专门为社会底层呐喊。<br>此书介绍了"土改"时期，地主的悲惨遭遇。<br>当年有大量的地主/富农被滥杀，至今得不到平反。 ||
-|| 秧歌 || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E6%84%9B%E7%8E%B2 张爱玲]<br>(原名：张煐) || 简体PDF || 2013-08-21 || 作者是著名女作家，成名于民国时期。<br>此书是反共文学的代表作之一，主要描写"土改"运动时期的农村。<br>（作者曾在1950年夏到苏北农村参加"土改"）<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 赤地之恋 || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E6%84%9B%E7%8E%B2 张爱玲]<br>(原名：张煐) || 简体PDF || 2013-08-21 || 作者是著名女作家，成名于民国时期。<br>此书类似于《秧歌》，也是描写"土改运动"时期的农村。<br>PDF版本由热心网友分享，特此鸣谢。 ||
+|| 最后的地主 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF<br>简体PDF (大字版) || 2013-03-16<br>2013-03-31 || [http://goo.gl/H1FDr3 简介] ||
+|| 秧歌 || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E6%84%9B%E7%8E%B2 张爱玲] (原名：张煐) || 简体PDF || 2013-08-21 || [http://goo.gl/YBTfpb 简介] ||
+|| 赤地之恋 || (同上) || 简体PDF || 2013-08-21 || [http://goo.gl/GTdGa3 简介] ||
 
 ==== 1.3.1.7 国共内战时期 ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!978 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/UZaRwvOzV4/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E5%9B%BD%E5%85%B1%E5%86%85%E6%88%98%E6%97%B6%E6%9C%9F Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 1949年<br>——中国知识分子的私人记录 (扫描版) || [https://zh.wikipedia.org/wiki/%E5%82%85%E5%9B%BD%E6%B6%8C 傅国涌] || 简体PDF (扫描版) || 2013-03-14 || 作者是自由撰稿人，出版过不少历史类著作。<br>此书收集了1949年前后，14位知名知识分子的日记和书信。<br>通过这些日记和书信，有助于了解那段历史。 ||
-|| 战后中共夺取东北始末 || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%A5%8E%E6%9D%BE 杨奎松] || 繁體PDF || 2012-12-11 || 作者是北大历史系教授，中国社会科学院近代史研究所研究员，中央党校《党史研究》编辑。<br>中共能够夺权成功，占领东北是其中的关键。<br>此书介绍了中共拿下东北的经过以及当时美苏之间的博弈。 ||
-|| 大江大海 一九四九 || [https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%87%89%E5%8F%B0 龙应台] || 简体PDF<br>简体EPUB<br>繁體PDF (豎排掃描版) || 2013-01-17<br>2013-09-13<br>2012-11-17 || 应某网友在留言中的要求，俺分享了这本书。<br>这本书主要讲述众多小人物在1949年大陆沦陷时的遭遇。<br>PDF/EPUB版本由热心网友分享，特此鸣谢。 ||
+|| 1949年<br>——中国知识分子的私人记录 (扫描版) || [https://zh.wikipedia.org/wiki/%E5%82%85%E5%9B%BD%E6%B6%8C 傅国涌] || 简体PDF (扫描版) || 2013-03-14 || [http://goo.gl/KqE0ZX 简介] ||
+|| 战后中共夺取东北始末 || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%A5%8E%E6%9D%BE 杨奎松] || 繁體PDF || 2012-12-11 || [http://goo.gl/IRVAvk 简介] ||
+|| 大江大海 一九四九 || [https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%87%89%E5%8F%B0 龙应台] || 简体PDF<br>简体EPUB<br>繁體PDF (豎排掃描版) || 2013-01-17<br>2013-09-13<br>2012-11-17 || [http://goo.gl/Yqcjy0 简介] ||
 
 ==== 1.3.1.8 延安和八年抗战时期 ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!930 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Lg9n4u9qUY/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E5%BB%B6%E5%AE%89%E5%92%8C%E5%85%AB%E5%B9%B4%E6%8A%97%E6%88%98%E6%97%B6%E6%9C%9F Dropbox网盘]
 
 || *书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 红太阳是怎样升起的<br>——延安整风运动的来龙去脉 || || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || 简体PDF<br>简体CHM<br>简体EPUB<br>简体MOBI || 2012-12-09<br>2012-04-06<br>2013-11-26<br>2014-02-03 || 高华是党史研究方面的资深学者（已故）。<br>"延安整风"是老毛确立党内独裁地位的关键。此书详细介绍了这段历史。<br>EPUB和MOBI版本由热心网友分享，特此鸣谢。 ||
-|| 中共壮大之谜<br>——被掩盖的中国抗日战争真相 || || 谢幼田 || 简体CHM || 2012-11-17 || 作者是移居海外的历史学者。<br>此书介绍了中共利用日本侵华的机会，表面上口头抗日，背地里壮大自己的实力。<br>有兴趣的话可以再看看俺写的《[http://program-think.blogspot.com/2010/09/sino-japanese-war.html 谈谈真理部对抗战历史的篡改]》 ||
-|| 历史的先声<br>——半个世纪前的庄严承诺 || || [https://zh.wikipedia.org/wiki/%E7%AC%91%E8%9C%80 笑蜀]<br>(原名：陈敏) || 简体PDF (扫描版)<br>简体CHM<br>简体TXT || 2013-05-08<br>2012-10-06<br>2012-10-06 || 作者是知名作家，《南方周末》评论员。<br>此书收录了延安时期，中共喉舌《新华日报》的几十篇社论。<br>这些社论对"民主自由"的吹捧，俺看了都觉得肉麻。<br>看完之后，你会发现：中共没掌权时，说的比唱的还好听；一旦掌权，立马翻脸不认人。 ||
-|| 延安日记 || || [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E6%B4%9B%E5%A4%AB 彼得·弗拉基米洛夫] || 简体CHM || 2012-10-05 || 1942年，苏联派弗拉基米洛夫前往延安，担任共产国际驻中共区的联络员兼塔斯社随军记者。<br>由于作者的特殊身份，得以了解延安时期中共高层的内幕。<br>比如毛太祖消极抗日；比如延安根据地种植和销售鸦片，以获得资金来源。 ||
-|| 紅太陽下的罌粟花<br>——鴉片貿易與延安模式 || || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || 繁體PDF (掃描版) || 2012-10-05 || 作者是台湾中央研究院的知名学者。<br>通过此书可以更加详细地了解延安根据地的鸦片生意。这是共党在延安时期的一大污点。 ||
-|| 内在的敌人 || The Enemy Within<br>——An Eyewitness Account of the Communist Conquest of China || [https://zh.wikipedia.org/wiki/%E9%9B%B7%E9%9C%87%E8%BF%9C 雷震远] || 简体EPUB<br>简体PDF<br>简体CHM || 2014-03-29<br>2014-02-03<br>2014-02-03 || 作者是比利时神父，在河北安国县传教20年。<br>抗战期间，安国县成为中共"解放区"，作者跟中共方面有很多接触。此书记录了作者的见闻。<br>书名的含义——抗战期间，日本人是外在的敌人，而中共是内在的敌人。<br>此书由热心网友推荐，另一热心网友分享EPUB格式，特此鸣谢。 ||
+|| 红太阳是怎样升起的<br>——延安整风运动的来龙去脉 || || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || 简体PDF<br>简体CHM<br>简体EPUB<br>简体MOBI || 2012-12-09<br>2012-04-06<br>2013-11-26<br>2014-02-03 || [http://goo.gl/v0gy2c 简介] ||
+|| 中共壮大之谜<br>——被掩盖的中国抗日战争真相 || || 谢幼田 || 简体CHM || 2012-11-17 || [http://goo.gl/ddnTnr 简介] ||
+|| 历史的先声<br>——半个世纪前的庄严承诺 || || [https://zh.wikipedia.org/wiki/%E7%AC%91%E8%9C%80 笑蜀] (原名：陈敏) || 简体PDF (扫描版)<br>简体CHM<br>简体TXT || 2013-05-08<br>2012-10-06<br>2012-10-06 || [http://goo.gl/fNaFES 简介] ||
+|| 延安日记 || || [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E6%B4%9B%E5%A4%AB 彼得·弗拉基米洛夫] (苏) || 简体CHM || 2012-10-05 || [http://goo.gl/wS5paS 简介] ||
+|| 红太阳下的罂粟花<br>——鸦片贸易与延安模式 || || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || 繁體PDF (掃描版) || 2012-10-05 || [http://goo.gl/gbMXbj 简介] ||
+|| 内在的敌人 || The Enemy Within<br>——An Eyewitness Account<br> of the Communist Conquest of China || [https://zh.wikipedia.org/wiki/%E9%9B%B7%E9%9C%87%E8%BF%9C 雷震远] (比) || 简体EPUB<br>简体PDF<br>简体CHM || 2014-03-29<br>2014-02-03<br>2014-02-03 || [http://goo.gl/YNK0Hh 简介] ||
 
 ==== 1.3.1.9 (其它) ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!963 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/d8TOc-hDV2/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 谁是新中国<br>——中国现代史辨 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E7%81%8F%E5%B9%B4 辛灏年]<br>(原名：高尔品) || 简体PDF<br>简体CHM || 2012-12-30<br>2012-12-10 || 作者是天朝作家、持不同政见者。这是他名气最大的一部作品。<br>此书共三部分："导论 革命与复辟"、"上卷 辛亥革命、中华民国与中国国民党"、"下卷 共产革命、农民造反与中国共产党"<br>其内容有助于你了解近代史以及国共两党的本质差异。 ||
-|| 中國共產革命七十年 || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || 繁體PDF (掃描版 上下冊) || 2012-10-15 || 作者是台湾中央研究院的知名学者。<br>此书系统性介绍了中共的发家史。<br>PDF是扫描版，字迹有点模糊。 ||
-|| 中国思想运动史 || 李洪林 || 简体PDF (扫描版) || 2013-07-07 || 作者曾任中宣部理论局副局长、中国历史博物馆党史研究室主任、等职务。<br>此书从30年代毛太祖搞"延安整风"，一直讲到80年代邓太宗的"反资产阶级自由化"。<br>中共历次思想运动，说白了就是打压独立思考的知识分子。<br>而压制自由的思想，最终是为洗脑这个目标服务的。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 在历史的风陵渡口 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || 简体PDF || 2012-12-09 || 作者是党史研究方面的资深学者（已故）。<br>这本书是他多篇论文的合集，涉及中共历史的多个时期。<br>PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
-|| 新中国三十年 || [https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体PDF || 2014-01-09 || 作者是民国知名的历史学家，后半生居住美国。<br>此书侧重介绍毛时代的中国（尤其是历次重大政治运动）。<br>书中对毛的帝王心术多有分析。 || 
-|| 我亲历过的政治运动 || (多人) || 简体PDF (扫描版) || 2013-04-21 || 此书的多位作者中，包括中共的前任高官（比如李锐、萧克）。<br>通过这些作者的回忆，可以了解毛太祖当政时期的<br>多次政治运动（包括文革、反右、等）和多起冤案（比如胡风案）。 <br>目录从32页开始。 ||
-|| 20世纪后半叶历史解密 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟](主编) || 简体PDF || 2013-07-07 || 编者是天朝知名且敢言的经济学家，因受迫害移居美国。<br>此书包含多篇论文，介绍中共掌权后不为人知的历史。<br>包括了文革、大饥荒、中苏翻脸、傀儡宪法、等。<br>PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
-|| 中国"左"祸 || 文聿<br>(原名：陆建华) || 简体PDF (扫描版) || 2013-04-21 || 作者曾任中国社会科学院公共政策研究中心副主任，社会学博士。<br>此书的出版让朝廷很不爽，之后朝廷找了个借口，以间谍罪名判处作者20年徒刑。<br>此书详细介绍了中共党史上的历次激进政治运动，从建党初期一直讲到十年文革。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 北大魂<br>——从林昭到八九民运 || 甘粹 || 简体PDF || 2013-08-11 || 作者是[https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭]的男友，两人都被错划为"右派"。甘粹被流放新疆20年，两人经历生离死别。<br>此书主要包括两部分内容：其一是关于"反右运动"的历史和对林昭的纪念；其二是作者亲历"六四"的见闻。 ||
-|| 十年论战<br>——1956-1966中苏关系回忆录 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%B7%E8%A5%BF 吴冷西] || 简体PDF (扫描版) || 2013-02-01 || 作者曾任新华社社长、《人民日报》总编、中宣部副部长等职务。<br>此书详细介绍了中苏关系逐步恶化的过程。<br>俺写的《[http://program-think.blogspot.com/2012/05/three-years-famine-0.html 谈谈三年大饥荒]》系列博文引用过本书的内容，证明"苏联逼债"是误传。 ||
-|| 中共五十年 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%98%8E 王明]<br>(原名：陈绍禹) || 简体PDF (扫描版) || 2013-05-09 || 王明是中共早期元老，"二十八个半布尔什维克"之首。<br>遵义会议之后，被老毛排挤出领导层。<br>此书叙述了他与毛太祖几十年的恩怨。通过此书有助于了解中共早期党史。 ||
-|| 无耻的洋人 || 徐沛 || 简体PDF || 2013-07-28 || 作者是流亡德国的作家，持不同政见者。<br>此书主要揭露中共历史上一些所谓的"外国友人"是如何助纣为虐的。 ||
+|| 谁是新中国<br>——中国现代史辨 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E7%81%8F%E5%B9%B4 辛灏年] (原名：高尔品) || 简体PDF<br>简体CHM || 2012-12-30<br>2012-12-10 || [http://goo.gl/FUevDR 简介] ||
+|| 中国共产革命七十年 || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || 繁體PDF (掃描版 上下冊) || 2012-10-15 || [http://goo.gl/wPSYNg 简介] ||
+|| 中国思想运动史 || 李洪林 || 简体PDF (扫描版) || 2013-07-07 || [http://goo.gl/F5sRNk 简介] ||
+|| 在历史的风陵渡口 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || 简体PDF || 2012-12-09 || [http://goo.gl/sNrkb6 简介] ||
+|| 新中国三十年 || [https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体PDF || 2014-01-09 || [http://goo.gl/e6BeiI 简介] || 
+|| 我亲历过的政治运动 || (多人) || 简体PDF (扫描版) || 2013-04-21 || [http://goo.gl/2qNK5F 简介] ||
+|| 20世纪后半叶历史解密 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] (主编) || 简体PDF || 2013-07-07 || [http://goo.gl/IM6TpU 简介] ||
+|| 中国"左"祸 || 文聿 (原名：陆建华) || 简体PDF (扫描版) || 2013-04-21 || [http://goo.gl/XQ0z2f 简介] ||
+|| 北大魂<br>——从林昭到八九民运 || 甘粹 || 简体PDF || 2013-08-11 || [http://goo.gl/LC0xFF 简介] ||
+|| 十年论战<br>——1956-1966中苏关系回忆录 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%B7%E8%A5%BF 吴冷西] || 简体PDF (扫描版) || 2013-02-01 || [http://goo.gl/Jt90Pm 简介] ||
+|| 中共五十年 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%98%8E 王明] (原名：陈绍禹) || 简体PDF (扫描版) || 2013-05-09 || [http://goo.gl/L0ef4E 简介] ||
+|| 无耻的洋人 || 徐沛 || 简体PDF || 2013-07-28 || [http://goo.gl/FXO236 简介] ||
 
 === 1.3.2 政治人物 ===
 
@@ -391,185 +391,185 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *书名*  || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 太子党关系网络 (2.1.0) || || 编程随想 || 简体PDF || 2014-04-30 || 这是俺花了好几个不眠之夜，在网上搜集的天朝权贵关系网。<br>为了让大伙儿看起来直观，特地做成可视化的网状图。<br>看了这个关系网，你对天朝的权贵阶层会有更深刻的认识。<br>为与时俱进，本文档会不定期更新。如有重大更新，会在[http://program-think.blogspot.com/ 俺博客中]告知大伙儿。 ||
-|| 红太阳的陨落<br>——千秋功罪毛泽东 || || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵]<br>(原名：宋科) || 简体PDF<br>简体DOC || 2012-12-09<br>2012-04-05 || 此书深刻批判了毛太祖的种种罪恶。<br>因为批判得太彻底了，某毛派网站恼羞成怒，把辛子陵列为"头号汉奸"。 ||
-|| 新发现的毛泽东<br>——仆人眼中的伟人 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || 简体PDF || 2012-04-05 || 作者王若水长期担任《人民日报》副总编。<br>此书提供了一种新的视角（真理部内部的视角）来看毛太祖。 ||
-|| 毛泽东时代和后毛泽东时代(1949-2009)<br>——另一种历史书写 || || [https://zh.wikipedia.org/wiki/%E9%8C%A2%E7%90%86%E7%BE%A4 钱理群] || 繁體PDF (共4冊 掃描版) || 2013-05-07<br>2013-05-07<br>2013-05-07<br>2013-05-07 || 作者是北大教授，比较大胆敢言。他的某句经典名言是：<br>_我们的一些大学，包括北京大学，正在培养一些‘精致的利己主义者’。他们高智商、世俗、老到、善于表演、懂得配合、更善于利用体制达到自己的目的。这种人一旦掌握权力，比一般的贪官污吏危害更大！_<br>此书和一般的历史书不同，不光有叙事，而且包括作者的客观分析。<br>对毛太祖本人的分析尤其多，可以帮你看清老毛的虚伪和狡诈。<br>这4个PDF虽然是扫描版，但清晰度很高。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 晚年周恩来 || Zhou Enlai<br>——The Last Perfect Revolutionary || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || 简体PDF<br>简体EPUB || 2012-10-05<br>2013-09-14 || 作者曾经在中共中央文献研究室工作，并担任周恩来生平研究小组组长。<br>此书权威且客观，详细描述了毛周二人在文革中的勾心斗角。<br>看完之后你会意识到，周的形象远不是那么完美。 ||
-|| 中国影帝温家宝 || || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || 简体PDF<br>简体TXT || 2012-10-26<br>2012-12-13 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>此书揭露了温影帝虚伪的一面。余杰因此书而受朝廷迫害，2012年被迫移民美国。<br>在两位热心网友的帮助下，俺找到了此书完整的文字版并制作了此PDF，特此鸣谢。 ||
-|| 河蟹大帝胡锦涛 || || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || 简体PDF (不全) || 2013-03-14 || 余杰是知名的人文及政治题材作家，独立中文笔会副会长。<br>此书堪称是《中国影帝温家宝》的姐妹篇，专门揭露胡锦涛的嘴脸。<br>某热心网友帮俺收集制作了该书，目前只找到前几个章节。<br>如果哪位同学有完整版，还请不吝告知哦。 ||
-|| 胡耀邦與中國政治改革<br>——12位老共產黨人的反思 || || (多人) || 繁體PDF (掃描版) || 2013-02-01 || 本书收录了多篇纪念胡耀邦的文章，这些文章的作者包括多位中共元老。<br>通过这些文章，有助于了解胡耀邦在政治改革方面的贡献。 ||
-|| 胡耀邦下台的背景<br>——人道主义在中国的命运 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || 简体TXT || 2012-12-19 || 作者王若水长期担任《人民日报》副总编。<br>此书重点介绍了80年代中期的"清除思想污染"运动。<br>该运动引发了邓小平对胡耀邦的不满，最终导致了胡耀邦在86学潮后下台。<br>TXT版本由热心网友分享，特此鸣谢。 ||
-|| 十年的路<br>——和胡燿邦相處的日子 || || 吴江 || 简体PDF (掃描版) || 2013-02-02 || 作者曾经是中共高层的理论家，胡耀邦的智囊之一。<br>此书回忆了1977-1987这十年间中共高层之事，皆是作者亲身经历。 ||
-|| 中南海日記<br>——中共兩代王儲的隕落 || || [https://zh.wikipedia.org/wiki/%E5%90%B4%E7%A8%BC%E7%A5%A5 吴稼祥] || 繁體PDF (掃描版) || 2012-12-09 || 作者吴稼祥是中共高层的官员，先后在真理部（中宣部）和大内（中办）任职。<br>此书从作者的角度，以日记的形式，叙述胡耀邦和赵紫阳被邓太上皇废黜的经过。 ||
-|| 改革历程——赵紫阳回忆录<br>(国家的囚徒——赵紫阳的秘密录音) || Prisoner of the State<br>——The Secret Journal of Premier Zhao Ziyang || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3 赵紫阳] || 简体PDF || 2012-04-05 || 作为赵紫阳的回忆录，此书对于了解80年代的朝廷高层，很有价值。<br>《改革历程》是香港版书名，《国家的囚徒》是台湾版书名。 ||
-|| 赵紫阳还说过什么？<br>——杜导正日记 || || [https://zh.wikipedia.org/wiki/%E6%9D%9C%E5%AF%BC%E6%AD%A3 杜导正] || 简体PDF || 2012-05-25 || 作者杜导正是赵紫阳的老部下。<br>赵紫阳被软禁之后，只有极少数人能够跟赵见面，杜导正是其中之一。<br>本书记录了杜导正同赵紫阳之间的多次秘密谈话。 ||
-|| 邓小平时代 || Deng Xiaoping and the Transformation of China || [https://zh.wikipedia.org/wiki/%E5%82%85%E9%AB%98%E4%B9%89 傅高义] || 繁體PDF || 2013-04-14 || 作者是美国作家，通晓汉语和日语。<br>此书的大陆版被删除了"六四事件"相关章节。俺上传的香港版无删节。<br>此书对邓小平的评价偏高，引发争议。<br>作者受限于资料来源，未提及邓小平狡诈、贪权的阴暗面。<br>PDF版本由某热心网友分享，特此鸣谢。 ||
-|| 中国权贵的死亡游戏 || A Death in the Lucky Holiday Hotel<br>——Murder, Money, and an Epic Power Struggle in China || 何频 & 黄闻光 || 繁體PDF || 2014-05-04 || 何频是"明镜出版社"创始人。<br>此书详细介绍了薄熙来倒台的前因后果。<br>书中包括很不少鲜为人知细节，据说是来自党内线人爆料。<br>真实性如何，大伙儿请自行判断。<br>PDF版本由某热心网友分享，特此鸣谢。 ||
-|| 林彪浮沉录 || The rise and fall of Lin Piao || [https://en.wikipedia.org/wiki/Jaap_van_Ginneken 雅普·冯·吉内肯] || 简体PDF (扫描版) || 2013-05-19 || 作者是荷兰学者，主要研究社会主义国家的政治。曾经访问过中国、越南、北朝鲜。<br>此书集中介绍了林彪从1959年（出任国防部长）到1971年（913事件）的经历。<br>此书信息来源，除了天朝的官方报道，还包括海外情报机构披露的资料。 ||
-|| 我的回忆 || || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || 简体PDF || 2012-10-26 || 应某网友在留言中的要求，俺分享了这本书。<br>张国焘是中共早期元老。此回忆录对了解中共早期历史有参考价值。 ||
-|| 毛泽东私人医生回忆录 || The Private Life of Chairman Mao || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BF%97%E7%BB%A5 李志绥] || 简体PDF || 2013-08-01 || 作者从1954年起被任命为毛泽东的私人医生，直到1976年毛去世为止。<br>此书曝光了毛太祖荒淫无度的生活，所以遭到党国的严厉查禁。<br>此书的内容争议较大，相关争议可参考维基百科[https://zh.wikipedia.org/wiki/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E7%A7%81%E4%BA%BA%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BF%86%E5%BD%95 这里] ||
-|| 毛泽东<br>——鲜为人知的故事 || MAO<br>——The Unknown Story || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E6%88%8E 张戎]<br>(原名：张二鸿) || 简体PDF || 2013-08-01 || 作者是英国籍华裔作家，49年之后首位获英国博士学位的大陆公民。<br>此书相当于毛太祖的传记。<br>部分内容争议较大，好几个美国和台湾的研究学者认为某些说法缺乏可靠证据。<br>本书的争议可参考维基百科[https://zh.wikipedia.org/wiki/%E6%AF%9B%E6%BE%A4%E6%9D%B1%EF%BC%9A%E9%AE%AE%E7%82%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E6%95%85%E4%BA%8B 这里]。 ||
-|| 红色家族档案<br>——罗瑞卿女儿的点点记忆 || || 罗点点 || 简体PDF (扫描版) || 2013-04-21 || 作者是罗瑞卿的女儿。<br>通过此书，可以了解某些高层的权力斗争（比如913），以及文革时期的种种荒诞。 ||
-|| 龚楚回忆录 || || 龚楚 || 繁體PDF (豎排掃描版) || 2014-02-04 || 作者是参加过南昌歧义的中共元老，曾任红军总参谋长。<br>对红军内部残酷的肃反感到不满，龚楚于1935年投降国民政府。<br>由于其职务很高，被称为"红军第一叛将"。<br>此书有助于从另一个角度了解中共早期历史（从南昌起义到长征）。 ||
-|| 李作鹏回忆录 || || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E4%BD%9C%E9%B9%8F 李作鹏] || 简体EPUB || 2014-03-29 || 作者是林彪手下的四大金刚之一，文革期间曾任副总参谋长。<br>此书2011年在香港出版，可以作为党史方面的参考资料。<br>作者在书中刻意淡化自己的问题（比如"设立国家主席"一事，他在书中为自己辩护），阅读时要注意。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 邱会作回忆录 || || [https://zh.wikipedia.org/wiki/%E9%82%B1%E4%BC%9A%E4%BD%9C 邱会作] || 简体EPUB || 2014-03-29 || 作者是林彪手下的四大金刚之一，文革期间曾任副总参谋长。<br>此书可以作为党史方面的参考资料。<br>作者在书中刻意淡化自己的问题（比如矢口否认自己参与林彪小集团），阅读时要注意。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
+|| 红太阳的陨落<br>——千秋功罪毛泽东 || || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵] (原名：宋科) || 简体PDF<br>简体DOC || 2012-12-09<br>2012-04-05 || [http://goo.gl/16935P 简介] ||
+|| 毛泽东时代和后毛泽东时代(1949-2009)<br>——另一种历史书写 || || [https://zh.wikipedia.org/wiki/%E9%8C%A2%E7%90%86%E7%BE%A4 钱理群] || 繁體PDF (共4冊 掃描版) || 2013-05-07<br>2013-05-07<br>2013-05-07<br>2013-05-07 || [http://goo.gl/DQ4MOu 简介] ||
+|| 晚年周恩来 || Zhou Enlai<br>——The Last Perfect Revolutionary || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || 简体PDF<br>简体EPUB || 2012-10-05<br>2013-09-14 || [http://goo.gl/hYVSQb 简介] ||
+|| 中国影帝温家宝 || || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || 简体PDF<br>简体TXT || 2012-10-26<br>2012-12-13 || [http://goo.gl/MWXPLI 简介] ||
+|| 河蟹大帝胡锦涛 || || (同上) || 简体PDF (不全) || 2013-03-14 || [http://goo.gl/wkGPyl 简介] ||
+|| 新发现的毛泽东<br>——仆人眼中的伟人 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || 简体PDF || 2012-04-05 || [http://goo.gl/aRzmrj 简介] ||
+|| 改革历程——赵紫阳回忆录<br>(国家的囚徒——赵紫阳的秘密录音) || Prisoner of the State<br>——The Secret Journal of Premier Zhao Ziyang || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3 赵紫阳] || 简体PDF || 2012-04-05 || [http://goo.gl/gUwOX3 简介] ||
+|| 胡耀邦下台的背景<br>——人道主义在中国的命运 || || (同上) || 简体TXT || 2012-12-19 || [http://goo.gl/tvGXi5 简介] ||
+|| 胡耀邦与中国政治改革<br>——12位老共产党人的反思 || || (多人) || 繁體PDF (掃描版) || 2013-02-01 || [http://goo.gl/0zJBVr 简介] ||
+|| 十年的路<br>——和胡耀邦相处的日子 || || 吴江 || 繁體PDF (掃描版) || 2013-02-02 || [http://goo.gl/NDcoC5 简介] ||
+|| 中南海日记<br>——中共两代王储的陨落 || || [https://zh.wikipedia.org/wiki/%E5%90%B4%E7%A8%BC%E7%A5%A5 吴稼祥] || 繁體PDF (掃描版) || 2012-12-09 || [http://goo.gl/71KTDz 简介] ||
+|| 赵紫阳还说过什么？<br>——杜导正日记 || || [https://zh.wikipedia.org/wiki/%E6%9D%9C%E5%AF%BC%E6%AD%A3 杜导正] || 简体PDF || 2012-05-25 || [http://goo.gl/OqE0Ei 简介] ||
+|| 邓小平时代 || Deng Xiaoping and the Transformation of China || [https://zh.wikipedia.org/wiki/%E5%82%85%E9%AB%98%E4%B9%89 傅高义] (美) || 繁體PDF || 2013-04-14 || [http://goo.gl/IccJKZ 简介] ||
+|| 中国权贵的死亡游戏 || A Death in the Lucky Holiday Hotel<br>——Murder, Money, and an Epic Power Struggle in China || 何频 & 黄闻光 || 繁體PDF || 2014-05-04 || [http://goo.gl/oFkatU 简介] ||
+|| 林彪浮沉录 || The rise and fall of Lin Piao || [https://en.wikipedia.org/wiki/Jaap_van_Ginneken 雅普·冯·吉内肯] (荷) || 简体PDF (扫描版) || 2013-05-19 || [http://goo.gl/MiALdn 简介] ||
+|| 我的回忆 || || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || 简体PDF || 2012-10-26 || [http://goo.gl/nM9fKE 简介] ||
+|| 毛泽东私人医生回忆录 || The Private Life of Chairman Mao || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BF%97%E7%BB%A5 李志绥] || 简体PDF || 2013-08-01 || [http://goo.gl/6wMYwq 简介] ||
+|| 毛泽东<br>——鲜为人知的故事 || MAO<br>——The Unknown Story || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E6%88%8E 张戎] (原名：张二鸿) || 简体PDF || 2013-08-01 || [http://goo.gl/GZwddT 简介] ||
+|| 红色家族档案<br>——罗瑞卿女儿的点点记忆 || || 罗点点 || 简体PDF (扫描版) || 2013-04-21 || [http://goo.gl/oHqB5V 简介] ||
+|| 龚楚回忆录 || || [https://zh.wikipedia.org/wiki/%E9%BE%9A%E6%A5%9A 龚楚] || 繁體PDF (豎排掃描版) || 2014-02-04 || [http://goo.gl/PMyhO9 简介] ||
+|| 李作鹏回忆录 || || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E4%BD%9C%E9%B9%8F 李作鹏] || 简体EPUB || 2014-03-29 || [http://goo.gl/D7IVua 简介] ||
+|| 邱会作回忆录 || || [https://zh.wikipedia.org/wiki/%E9%82%B1%E4%BC%9A%E4%BD%9C 邱会作] || 简体EPUB || 2014-03-29 || [http://goo.gl/jkPZ3n 简介] ||
 
 === 1.3.3 社会阶层和贫富分化 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1022 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/tQZQMWxkAF/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E7%A4%BE%E4%BC%9A%E9%98%B6%E5%B1%82%E5%92%8C%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96 Dropbox网盘]
 
 || *书名* || *英文书名* ||  *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 中国底层访谈录 || The Corpse Walker || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF (上下 扫描版)<br>简体PDF (上中下 文字版)<br>简体PDF (上中下 大字版) || 2012-12-10<br>2013-03-31<br>2013-03-31 || 作者是流亡作家，专门为社会底层呐喊。<br>此书专写社会底层的民众，让"不见天日的下水道里的中国"浮出地面。<br>朝廷对此书的出版大为震怒，出版社遭严厉整肃。<br>因为此事，廖亦武也获得了"出版社杀手"的绰号。<br>文字版PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
-|| 中国当代社会各阶层分析 || || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF (扫描版) || 2012-01-14 || 杨继绳是新华社高级记者，《炎黄春秋》杂志副社长。<br>全书共18章。先介绍了导致阶层分化的因素，然后再具体介绍每一个阶层。 ||
-|| 中国社会各阶层分析 || || [https://zh.wikipedia.org/wiki/%E6%A2%81%E6%99%93%E5%A3%B0 梁晓声] || 简体PDF (扫描版) || 2012-12-10 || 梁晓声也算是当代知名作家，其作品多写知青题材。<br>全书共7章：资产阶级、"买办"阶级、中产阶级、知识分子、平民和贫民、农民、黑社会。 ||
-|| 上帝是红色的<br>——中国十字架地下寻访录 || God Is Red<br>——The Secret Story of<br>How Christianity Survived and<br>Flourished in Communist China || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF<br>简体EPUB || 2013-05-01<br>2014-03-29 || 作者是流亡作家，专门为社会底层呐喊。<br>此书包括对十多位基督徒的访谈，由此可以了解中共对宗教信徒的迫害。<br>PDF版本由某热心网友精心排版并分享，特此鸣谢。 ||
-|| 地震疯人院——2008·5·12四川大地震记事 || || (同上) || 简体PDF || 2013-05-02 || 作者是流亡作家，专门为社会底层呐喊。<br>汶川地震之后，作者走遍重灾区，访谈了生活在地震重灾区的底层民众。<br>PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
-|| 中国社会分层的结构与演变 || The Structure and Evolution<br>of Chinese Social Stratification || 李毅 || 简体CHM || 2013-07-28 || 作者是旅美社会学家，此书在美国出版，俺上传的是中译本。<br>CHM版本由热心网友分享，特此鸣谢。 ||
+|| 中国底层访谈录 || The Corpse Walker || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF (上下 扫描版)<br>简体PDF (上中下 文字版)<br>简体PDF (上中下 大字版) || 2012-12-10<br>2013-03-31<br>2013-03-31 || [http://goo.gl/4vM1Aa 简介] ||
+|| 中国当代社会各阶层分析 || || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF (扫描版) || 2012-01-14 || [http://goo.gl/se1iHD 简介] ||
+|| 中国社会各阶层分析 || || [https://zh.wikipedia.org/wiki/%E6%A2%81%E6%99%93%E5%A3%B0 梁晓声] || 简体PDF (扫描版) || 2012-12-10 || [http://goo.gl/Xuhanj 简介] ||
+|| 上帝是红色的<br>——中国十字架地下寻访录 || God Is Red<br>——The Secret Story of<br>How Christianity Survived and<br>Flourished in Communist China || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF<br>简体EPUB || 2013-05-01<br>2014-03-29 || [http://goo.gl/vf6GmS 简介] ||
+|| 地震疯人院——2008·5·12四川大地震记事 || || (同上) || 简体PDF || 2013-05-02 || [http://goo.gl/kBpdW5 简介] ||
+|| 中国社会分层的结构与演变 || The Structure and Evolution<br>of Chinese Social Stratification || 李毅 || 简体CHM || 2013-07-28 || [http://goo.gl/1qUpMO 简介] ||
 
 === 1.3.4 腐败问题 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1043 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ymk-JMs-5q/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E8%85%90%E8%B4%A5%E9%97%AE%E9%A2%98 Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 远华案黑幕 || [https://zh.wikipedia.org/wiki/%E7%9B%9B%E9%9B%AA_%28%E8%87%A7%E9%8C%AB%E7%B4%85%29 盛雪]<br>(原名：臧锡红) || 简体PDF<br>简体TXT || 2013-01-13<br>2013-01-01 || 盛雪是旅居加拿大的作家，并担任自由亚洲电台和德国之声的记者。<br>[https://zh.wikipedia.org/wiki/%E9%81%A0%E8%8F%AF%E6%A1%88 远华案]是天朝历史上震动最大、金额最高的经济案件。牵涉大量的朝廷高官。<br>此书是她的代表作，内容包括大量对赖昌星（远华案男一号）的访谈。<br>由于牵涉太多在职高官（江泽民、贾庆林、等），被朝廷八个部委联合发文查禁。 ||
-|| 编译局言情录<br>——一朝忽觉京梦醒，半世浮沉雨打萍 || 常艳 || 简体PDF || 2012-12-24 || "编译局"全称是"中共中央马克思、恩格斯、列宁、斯大林著作编译局"。<br>女博士常艳作为潜规则的当事人，详细地描述了自己和编译局局长衣俊卿之间的XXX往事。<br>此书近期走红，可惜在墙内遭严厉查禁。衣俊卿的仕途因此书而终结。 ||
-|| 人妖之间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || 简体PDF || 2013-03-09 || 作者曾任中国作协副主席，八六学潮后被邓小平开除党籍。六四事件后流亡美国。<br>此书是文革刚结束时发表的报告文学，揭露了地方官员的重大贪污案。 ||
+|| 远华案黑幕 || [https://zh.wikipedia.org/wiki/%E7%9B%9B%E9%9B%AA_%28%E8%87%A7%E9%8C%AB%E7%B4%85%29 盛雪] (原名：臧锡红) || 简体PDF<br>简体TXT || 2013-01-13<br>2013-01-01 || [http://goo.gl/IkJXuP 简介] ||
+|| 编译局言情录<br>——一朝忽觉京梦醒，半世浮沉雨打萍 || 常艳 || 简体PDF || 2012-12-24 || [http://goo.gl/d9RMnY 简介] ||
+|| 人妖之间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || 简体PDF || 2013-03-09 || [http://goo.gl/KZJ7kU 简介] ||
 
 === 1.3.5 中宣部和言论审查 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1099 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/3osA0l2UxT/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%AE%A3%E9%83%A8%E5%92%8C%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5 Dropbox网盘]
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 讨伐中宣部<br>——焦国标文集 || [https://zh.wikipedia.org/wiki/%E7%84%A6%E5%9B%BD%E6%A0%87 焦国标] || 简体CHM || 2013-01-07 || 焦国标是北大新闻学院副教授、作家、政治异议人士。<br>他因为写了《讨伐中宣部》一文而广为人知。并因此被勒令停止教学。<br>此电子书收录了他的多篇文章。 ||
-|| 雾锁中国<br>——中国大陆控制媒体策略大揭秘 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || 简体PDF<br>简体MOBI || 2013-05-01<br>2013-05-13 || 作者是天朝知名且敢言的经济学家，因受迫害移居美国。<br>此书内容与何清涟的另一本《中国政府如何控制媒体——中国人权研究报告》有重叠。不过这本讲得更详细。<br>PDF版本由热心网友精心排版并分享，MOBI也是热心网友分享，特此鸣谢。 ||
-|| 中国政府如何控制媒体<br>——中国人权研究报告 || (同上) || 简体PDF || 2013-01-13 || 作者是天朝知名且敢言的经济学家，因受迫害移居美国。<br>作者曾有8年的媒体工作经历，熟悉党国控制传媒的种种手法。 ||
+|| 讨伐中宣部<br>——焦国标文集 || [https://zh.wikipedia.org/wiki/%E7%84%A6%E5%9B%BD%E6%A0%87 焦国标] || 简体CHM || 2013-01-07 || [http://goo.gl/f7NaLI 简介] ||
+|| 雾锁中国<br>——中国大陆控制媒体策略大揭秘 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || 简体PDF<br>简体MOBI || 2013-05-01<br>2013-05-13 || [http://goo.gl/x9ybjX 简介] ||
+|| 中国政府如何控制媒体<br>——中国人权研究报告 || (同上) || 简体PDF || 2013-01-13 || [http://goo.gl/AR4y4t 简介] ||
 
 === 1.3.6 愚民教育 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1167 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Unv2Oe4Uc9/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E6%84%9A%E6%B0%91%E6%95%99%E8%82%B2 Dropbox网盘]
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 审视中学语文教育 || (多人) || 简体PDF (扫描版) || 2013-02-25 || 此书收集了多篇文章，主要批判语文教育存在的种种弊端。 ||
-|| 沉疴<br>——中国教育的危机与批判 || [https://zh.wikipedia.org/wiki/%E5%86%89%E4%BA%91%E9%A3%9E 冉云飞] || 简体PDF || 2013-07-07 || 作者是天朝作家，民主活动人士。曾因"涉嫌煽动颠覆国家政权"的罪名被警方刑拘。<br>此书不光批判当前的教育弊端，也批判传统教育的弊端。<br>作者把天朝教育的弊端上升到"危机"的高度，这绝不是耸人听闻。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 我不原谅<br>——一个90后对中国教育的批评和反思 || [https://zh.wikipedia.org/wiki/%E9%92%9F%E9%81%93%E7%84%B6 钟道然] || 简体DOC<br>简体PDF (扫描版) || 2013-04-04<br>2013-05-01 || 作者是90后北京学生，就读于名气很大的"人大附中"。<br>此书主要批判了天朝的教育制度，作者同时也阐述了自己心目中的理想教育。 ||
+|| 审视中学语文教育 || (多人) || 简体PDF (扫描版) || 2013-02-25 || [http://goo.gl/UXXwcP 简介] ||
+|| 沉疴<br>——中国教育的危机与批判 || [https://zh.wikipedia.org/wiki/%E5%86%89%E4%BA%91%E9%A3%9E 冉云飞] || 简体PDF || 2013-07-07 || [http://goo.gl/BvlKcY 简介] ||
+|| 我不原谅<br>——一个90后对中国教育的批评和反思 || [https://zh.wikipedia.org/wiki/%E9%92%9F%E9%81%93%E7%84%B6 钟道然] || 简体DOC<br>简体PDF (扫描版) || 2013-04-04<br>2013-05-01 || [http://goo.gl/yxgb2s 简介] ||
 
 === 1.3.7 少数民族问题 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1067 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/H6ZSN8HYWE/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 天葬<br>——西藏的命运 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || 简体PDF<br>简体TXT || 2012-12-31<br>2012-12-31 || 作者是大陆知名作家、民族问题学者、环保人士。<br>作者在书中以大量的亲身经历和实地所见，叙述了西藏的各个方面。<br>此书的内容比较客观，有助于了解西藏的历史和现状。 ||
-|| 我的西域，你的东土 || || (同上) || 简体PDF || 2013-03-22 || 作者是大陆知名作家、民族问题学者、环保人士。<br>王力雄因受朝廷迫害被关押。坐牢期间认识了同为政治犯的维族人穆合塔尔。<br>经过跟穆合塔尔的深入交谈，以及出狱后四次游历新疆，作者写出了此书。<br>此书有助于你从维族人的角度看待新疆问题。 ||
-|| 1959：拉薩！<br>──達賴喇嘛如何出走 || || 李江琳 || 繁體PDF (掃描版) || 2013-07-26 || 天朝官方一直对1959年的"拉萨事件"语焉不详，很多网友对此事也了解甚少。<br>此书作者查阅大量资料，详细介绍此事的经过。<br>通过此书可以了解"拉萨事件"的发生是由一系列事件（比如1958年的"循化事件"）导致的矛盾集中爆发。 ||
-|| 西藏生與死<br>——雪域的民族主義 || Tibet<br>——Survival in Question || [https://fr.wikipedia.org/wiki/Pierre-Antoine_Donnet Pierre-Antoine Donnet]<br>(董尼德) || 繁體PDF (竪排掃描版) || 2012-12-31 || 董尼德是法国新闻记者，曾长期派驻北京。<br>此书着重写西藏的现状（中共如何高压统治、藏文化如何被破坏...）<br>PDF版本由热心网友分享，特此鸣谢。扫描版的字迹有点模糊。 ||
-|| 流亡中的自在<br>——达赖喇嘛自传 || || [https://zh.wikipedia.org/wiki/%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%96%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B 十四世达赖喇嘛]<br>(原名：丹增嘉措) || 简体EPUB || 2014-03-29 || 由于朝廷长期的污蔑，导致作者的名气很大，俺就不介绍了。<br>作者在自传中介绍了自己的生平，也介绍他经历的政治事件（如1959年拉萨事件）。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 西藏笔记 || || [https://zh.wikipedia.org/wiki/%E5%94%AF%E8%89%B2 唯色] || 简体PDF || 2013-05-19 || 作者是藏族女作家，[https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄]之妻。<br>此书是关于西藏的随笔，有助于了解西藏的文化和藏族人的精神世界。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 东突厥斯坦独立运动<br>——1930年代至1940年代 || || 王柯 || 简体EPUB<br>简体MOBI || 2014-03-28<br>2014-03-28 || 作者是旅日学者，东京大学博士，神户大学教授。<br>作者的主要研究方向是：近现代中国的民族问题和民族主义思想。<br>此书主要介绍了新疆"东突厥独立运动"的起源和发展过程。<br>此书详细地介绍了苏联对疆独分子的大力支持（苏联/俄国才是中国最大的敌人并造成最大的伤害）。<br>EPUB和MOBI版本由热心网友分享，特此鸣谢。 ||
+|| 天葬<br>——西藏的命运 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || 简体PDF<br>简体TXT || 2012-12-31<br>2012-12-31 || [http://goo.gl/uhR26v 简介] ||
+|| 我的西域，你的东土 || || (同上) || 简体PDF || 2013-03-22 || [http://goo.gl/qeOVQZ 简介] ||
+|| 1959：拉萨<br>——达赖喇嘛如何出走 || || 李江琳 || 繁體PDF (掃描版) || 2013-07-26 || [http://goo.gl/Wu6qW5 简介] ||
+|| 西藏生与死<br>——雪域的民族主义 || Tibet<br>——Survival in Question || [https://fr.wikipedia.org/wiki/Pierre-Antoine_Donnet 董尼德] (法) || 繁體PDF (竪排掃描版) || 2012-12-31 || [http://goo.gl/IPc3BE 简介] ||
+|| 流亡中的自在<br>——达赖喇嘛自传 || || [https://zh.wikipedia.org/wiki/%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%96%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B 十四世达赖喇嘛] (原名：丹增嘉措) || 简体EPUB || 2014-03-29 || [http://goo.gl/QASW1w 简介] ||
+|| 西藏笔记 || || [https://zh.wikipedia.org/wiki/%E5%94%AF%E8%89%B2 唯色] || 简体PDF || 2013-05-19 || [http://goo.gl/hdgkRd 简介] ||
+|| 东突厥斯坦独立运动<br>——1930年代至1940年代 || || 王柯 || 简体EPUB<br>简体MOBI || 2014-03-28<br>2014-03-28 || [http://goo.gl/tkmffH 简介] ||
 
 === 1.3.8 司法黑暗 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1296 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/A1OtKVX15v/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E5%8F%B8%E6%B3%95%E9%BB%91%E6%9A%97 Dropbox网盘]
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 中国冤案录 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体MOBI (三卷合集)<br>简体PDF (第2卷) || 2014-02-23<br>2013-05-01 || 作者是流亡作家，专门为社会底层呐喊。<br>作者走访了多位被冤枉的小老百姓。<br>通过他们的遭遇，揭露中共政府以司法的名义搞政治迫害。<br>MOBI和PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
-|| 昨夜雨骤风狂 || [https://zh.wikipedia.org/wiki/%E5%90%B3%E5%BC%98%E9%81%94 吴弘达] || 简体PDF || 2013-05-13 || 作者是流亡美国的政治异议人士。<br>他在50年代末被划为"右派"，1960年被关押劳改营，直至1979年才获释。<br>之后在美国成立了劳改基金会，专门收集劳改营幸存者的事迹和受迫害的证据。<br>此书主要描写作者本人在劳改营的经历，相当于自传。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 大国寡民 || 卢跃刚 || 简体PDF || 2014-02-05 || 作者是《中国青年报》新闻中心副主任，高级记者。<br>此书是报告文学，披露了陕西省咸阳市烽火村的"特大毁容案"。<br>书中揭露了烽火村地头蛇的牛逼之处：<br>案发之后，居然能买通陕西中院干预司法，并让《陕西日报》为其歌功颂德。<br>全国人大和最高法院进行干预，陕西有些人仍阳奉阴违，不肯办案。 ||
-|| 狱后杂谈 || [https://zh.wikipedia.org/wiki/%E6%AC%A7%E9%98%B3%E6%87%BF 欧阳懿] || 简体TXT || 2014-02-22 || 作者是中国民主党的创始人之一。<br>他在2002-2005年被关押，出狱后写了此文。<br>对那些可能被捕的民运人士、异议人士、维权人士，此文有参考价值。<br>TXT版本由热心网友分享，特此鸣谢。 ||
+|| 中国冤案录 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体MOBI (三卷合集)<br>简体PDF (第2卷) || 2014-02-23<br>2013-05-01 || [http://goo.gl/lDkVau 简介] ||
+|| 昨夜雨骤风狂 || [https://zh.wikipedia.org/wiki/%E5%90%B3%E5%BC%98%E9%81%94 吴弘达] || 简体PDF || 2013-05-13 || [http://goo.gl/eOdhG2 简介] ||
+|| 大国寡民 || 卢跃刚 || 简体PDF || 2014-02-05 || [http://goo.gl/gRiWrB 简介] ||
+|| 狱后杂谈 || [https://zh.wikipedia.org/wiki/%E6%AC%A7%E9%98%B3%E6%87%BF 欧阳懿] || 简体TXT || 2014-02-22 || [http://goo.gl/VQYSv9 简介] ||
 
 === 1.3.9 环境污染和食品安全 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1618 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/w9uX3K6sDZ/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93%E5%92%8C%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8 Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 民以何食为天<br>——中国食品安全现状调查 || [https://zh.wikipedia.org/wiki/%E5%91%A8%E5%8B%8D 周勍] || 简体PDF (扫描版) || 2014-01-09 || 此书介绍了天朝各方面的食品安全问题，令人触目惊心。<br>PDF版本由热心网友分享，特此鸣谢。 ||
+|| 民以何食为天<br>——中国食品安全现状调查 || [https://zh.wikipedia.org/wiki/%E5%91%A8%E5%8B%8D 周勍] || 简体PDF (扫描版) || 2014-01-09 || [http://goo.gl/328y19 简介] ||
 
 === 1.3.10 (其它) ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1033 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/lf9XBY4_Ph/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 王小波全集 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%B3%A2 王小波] || 简体CHM<br>简体EPUB || 2013-08-21<br>2013-09-14 || 王小波的名气很大（不亚于刘晓波），俺就不介绍了。<br>此书是网友整理的"全集"，如果你有更全的版本，请不吝告知。 ||
-|| 沉默的大多数<br>(杂文合集) || (同上) || 简体PDF || 2013-10-20 || 王小波的名气很大（不亚于刘晓波），俺就不介绍了。<br>此书是他的杂文合集。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 未来的自由中国在民间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 简体PDF || 2012-12-09 || 刘晓波的名气挺大，俺就不介绍了。<br>此书汇集了刘晓波对天朝民主化的思考，内容包括政治、经济、文化等领域。<br>从书名可知，他认为应该自下而上推动政治变革，而不能指望朝廷。 ||
-|| 单刃毒剑<br>——中国当代民族主义批判 || (同上) || 简体PDF || 2012-12-09 || 刘晓波的名气挺大，俺就不介绍了。<br>此书重点批判民族主义，可算是《大国沉沦》的姐妹篇。 ||
-|| 刘晓波文集 || (同上) || 简体PDF || 2013-06-19 || 刘晓波的名气挺大，俺就不介绍了。<br>此书汇总刘晓波2008年10月之前的文章，目录在书末尾。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 數人頭勝過砍人頭 || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 繁體PDF || 2013-03-16 || 作者是流亡美国的政治异议人士，《北京之春》杂志主编。<br>此书是作者本人的文集，包含了八十几篇政治评论。<br>PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
-|| 犬儒病<br>——当代中国精神危机 || (同上) || 简体PDF || 2013-04-13 || 作者是流亡美国的政治异议人士，《北京之春》杂志主编。<br>这是作者的又一本文集，"犬儒病"是第一篇。 ||
-|| 火与冰 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || 简体PDF || 2012-12-11 || 作者是知名的人文及政治题材作家，独立中文笔会副会长。<br>这是余杰正式出版的第一本书，里面包含了政治及文化方面的随笔。<br>PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
-|| 致帝国的悼词<br>——中国大陆的自由状况及前景 || (同上) || 简体PDF || 2012-12-11 || 作者是知名的人文及政治题材作家，独立中文笔会副会长。<br>PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
-|| 关于中国的一百个常识 || [https://zh.wikipedia.org/wiki/%E9%99%88%E7%A0%B4%E7%A9%BA 陈破空]<br>(原名：陈劲松) || 简体CHM || 2013-05-13 || 作者是流亡美国的政治异议人士、作家。<br>曾经因参与"八六学潮"和"六四运动"而两度入狱。<br>此书介绍了各种政治、历史、社会方面的常识，也反驳了真理部惯用的谬论。 ||
-|| 通往比傻帝国 || [https://zh.wikipedia.org/wiki/%E5%86%89%E4%BA%91%E9%A3%9E 冉云飞] || 简体PDF (扫描版) || 2013-06-22 || 作者是天朝作家，民主活动人士。曾因"涉嫌煽动颠覆国家政权"的罪名被警方刑拘。<br>此书是他的随笔集，主要点评天朝的社会百态。<br>书名中的"比傻"，作者是这样解释的：<br>_谁比谁更聪明，不是聪明本身就能够定夺的，而是因着无上的权力，才能够变得"更聪明"。推尔广之，大臣不可能比皇帝聪明，各级官员随着等级的不同，下级始终比上级更愚蠢一些，直到最愚蠢的底层亦既广大的民众。_<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 不服从的江湖 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%A1 王怡] || 简体PDF (扫描版) || 2013-05-19 || 作者是天朝的青年学者、独立中文笔会理事。曾是"关天茶舍"版主。<br>此书是杂文集，聊的领域很杂，其中不乏对政治素质的普及。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 王怡文集 || (同上) || 简体CHM || 2013-05-19 || 作者是天朝的青年学者、独立中文笔会理事。曾是"关天茶舍"版主。<br>此书涵盖作者在2007年9月之前发表的各种政论，由百度贴吧的多位网友收集整理。<br>CHM版本由热心网友分享，特此鸣谢。 ||
-|| 中国近百年人权思想 || 杜钢建 || 繁體EPUB<br>繁體MOBI || 2014-05-04<br>2014-05-04 || 作者是中国法学家，曾任人民大学法律系副主任，新儒家代表人物之一。<br>此书主要介绍近代几个知名政治人物的人权思想。<br>EPUB和MOBI版本由热心网友分享，特此鸣谢。 ||
-|| 血纪 || 孔令平 || 简体PDF || 2013-05-19 || 作者是重庆"右派"作家，此书讲述他遭受历次政治运动的悲惨遭遇。<br>全书分"上中下"三集。上集从中共夺权写到文革，中集写文革，下集写文革后到2009年。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 偽民主派賣港實錄 || [https://zh.wikipedia.org/wiki/%E9%BB%83%E6%AF%93%E6%B0%91 黄毓民] || 繁體PDF || 2013-06-22 || 作者是香港知名主持人，立法会议员，绰号"丐帮帮主"。<br>曾经参与创建香港反对派政党"社民连"和"人民力量"。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 2014大崩溃 || 胡乔英 || 繁體PDF (扫描版) || 2013-07-28 || 据说此书是今年香港卖的最好的政治类禁书。<br>应多位读者的要求，上传了此书。<br>书中爆料的"中共高层绝密报告"，其真实性如何，俺持保留意见。<br>PDF版本由热心网友分享，特此鸣谢。这个PDF版本是逐页拍照得到的，阅读效果不太好。||
+|| 王小波全集 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%B3%A2 王小波] || 简体CHM<br>简体EPUB || 2013-08-21<br>2013-09-14 || [http://goo.gl/kaUok2 简介] ||
+|| 沉默的大多数<br>(杂文合集) || (同上) || 简体PDF || 2013-10-20 || [http://goo.gl/l1WO3D 简介] ||
+|| 刘晓波文集 || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 简体PDF || 2013-06-19 || [http://goo.gl/GlwrSX 简介] ||
+|| 未来的自由中国在民间 || (同上) || 简体PDF || 2012-12-09 || [http://goo.gl/mM7on2 简介] ||
+|| 单刃毒剑<br>——中国当代民族主义批判 || (同上) || 简体PDF || 2012-12-09 || [http://goo.gl/KyjsCf 简介] ||
+|| 数人头胜过砍人头 || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 繁體PDF || 2013-03-16 || [http://goo.gl/U26byj 简介] ||
+|| 犬儒病<br>——当代中国精神危机 || (同上) || 简体PDF || 2013-04-13 || [http://goo.gl/ouXJJx 简介] ||
+|| 火与冰 || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || 简体PDF || 2012-12-11 || [http://goo.gl/UQf4px 简介] ||
+|| 致帝国的悼词<br>——中国大陆的自由状况及前景 || (同上) || 简体PDF || 2012-12-11 || [http://goo.gl/EkhNMM 简介] ||
+|| 关于中国的一百个常识 || [https://zh.wikipedia.org/wiki/%E9%99%88%E7%A0%B4%E7%A9%BA 陈破空] (原名：陈劲松) || 简体CHM || 2013-05-13 || [http://goo.gl/OWq4Ox 简介] ||
+|| 通往比傻帝国 || [https://zh.wikipedia.org/wiki/%E5%86%89%E4%BA%91%E9%A3%9E 冉云飞] || 简体PDF (扫描版) || 2013-06-22 || [http://goo.gl/Kpl5a7 简介] ||
+|| 王怡文集 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%A1 王怡] || 简体CHM || 2013-05-19 || [http://goo.gl/uWCoS8 简介] ||
+|| 不服从的江湖 || (同上) || 简体PDF (扫描版) || 2013-05-19 || [http://goo.gl/Afi2tt 简介] ||
+|| 中国近百年人权思想 || 杜钢建 || 繁體EPUB<br>繁體MOBI || 2014-05-04<br>2014-05-04 || [http://goo.gl/9IJmJt 简介] ||
+|| 血纪 || 孔令平 || 简体PDF || 2013-05-19 || [http://goo.gl/Tsy2iI 简介] ||
+|| 伪民主派卖港实录 || [https://zh.wikipedia.org/wiki/%E9%BB%83%E6%AF%93%E6%B0%91 黄毓民] || 繁體PDF || 2013-06-22 || [http://goo.gl/ELCzS8 简介] ||
+|| 2014大崩溃 || 胡乔英 || 繁體PDF (扫描版) || 2013-07-28 || [http://goo.gl/k6BThF 简介] ||
 
 == 1.4 美国 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!945 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/areMozynvE/%E6%94%BF%E6%B2%BB/%E7%BE%8E%E5%9B%BD Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 论美国的民主<br>(民主在美国) || Democracy in America || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || 简体PDF (上下卷)<br>简体MOBI || 2012-10-06<br>2013-05-13 || 作者是法国的政治思想家和历史学家。<br>此书是托克维尔的代表作，也是研究美国民主政治体制的经典著作。<br>书中从政治学、社会学、历史学等方面对美国的政体进行阐述。 ||
-|| 民主的细节<br>——美国当代政治观察随笔 || || [https://zh.wikipedia.org/wiki/%E5%88%98%E7%91%9C 刘瑜] || 简体EPUB<br>简体TXT || 2013-09-14<br>2013-05-24 || 作者是哥伦比亚大学政治学博士。<br>此书汇总了作者的若干专栏文章，介绍美国成熟的民主政治制度。<br>内容浅显，通俗易懂。 ||
-|| 美国宪政历程<br>——影响美国的25个司法大案 || || 任东来 等 || 简体PDF (扫描版)<br>简体MOBI || 2013-11-26<br>2014-02-23 || 此书介绍了从美国建国初期直至21世纪的重要司法案件。<br>由此可以深刻体会美国最高法院在"三权分立"中的关键作用。<br>也可以了解美国是如何逐步完善其民主和法制。<br>另外，此书也有助于了解[https://zh.wikipedia.org/wiki/%E8%8B%B1%E7%BE%8E%E6%99%AE%E9%80%9A%E6%B3%95%E7%B3%BB 英美法系]的特点。<br>MOBI版本由热心网友分享，特此鸣谢。 ||
-|| 危机<br>——美国国家安全局透视 || || || 简体PDF || 2013-06-18 || 此书从美国国安局（NSA）成立开始说起，介绍了 NSA 的方方面面。<br>看完之后你就明白，NSA 远远比 CIA 和 FBI 牛逼。 ||
+|| 论美国的民主<br>(民主在美国) || Democracy in America || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] (法) || 简体PDF (上下卷)<br>简体MOBI || 2012-10-06<br>2013-05-13 || [http://goo.gl/DSV1Wh 简介] ||
+|| 民主的细节<br>——美国当代政治观察随笔 || || [https://zh.wikipedia.org/wiki/%E5%88%98%E7%91%9C 刘瑜] || 简体EPUB<br>简体TXT || 2013-09-14<br>2013-05-24 || [http://goo.gl/aq9azA 简介] ||
+|| 美国宪政历程<br>——影响美国的25个司法大案 || || 任东来<br>等 || 简体PDF (扫描版)<br>简体MOBI || 2013-11-26<br>2014-02-23 || [http://goo.gl/o0tvJX 简介] ||
+|| 危机<br>——美国国家安全局透视 || || || 简体PDF || 2013-06-18 || [http://goo.gl/8KdkE1 简介] ||
 
 == 1.5 苏联 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1070 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/aoUajG4bUB/%E6%94%BF%E6%B2%BB/%E8%8B%8F%E8%81%94 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 斯大林秘闻<br>——原苏联秘密档案披露 || Stalin<br>——The First In-depth Biography<br>Based on Explosive New Documents<br>from Russia's Secret Archives || [https://en.wikipedia.org/wiki/Edvard_Radzinsky 爱德华·拉津斯基] || 简体PDF<br>简体EPUB || 2013-01-01<br>2013-09-13 || 作者是俄罗斯知名传记作家。此书出版于1996年。<br>书中大量引用了前苏联的解密档案（包括斯大林个人档案、十月革命档案、苏共中央党务档案、等）。<br>本书有助于了解斯大林是如何血腥清洗党内高官，最终独揽大权成为新沙皇。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 古拉格群岛 || The Gulag Archipelago || [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E7%B4%A2%E5%B0%94%E4%BB%81%E5%B0%BC%E7%90%B4 索尔仁尼琴] || 简体MOBI<br>简体HTML || 2013-04-20<br>2013-02-22 || 作者是苏联时期最著名的持不同政见者，诺贝尔奖获得者。此书是索尔仁尼琴的代表作。<br>作者本人长期被关押在[https://zh.wikipedia.org/wiki/古拉格 古拉格]，且出狱后又采访了几百名相关人员，最终写成此书。<br>书中大量披露了古拉格种种惨无人道的罪行。如今俄罗斯已经把本书的精简版列入中学历史教材。<br>MOBI版本由热心网友分享，特此鸣谢。 ||
-|| 古拉格<br>——一部历史 || Gulag<br>——A History || [https://en.wikipedia.org/wiki/Anne_Applebaum 安妮·阿普尔鲍姆] || 简体PDF (大字版)<br>简体EPUB || 2014-02-12<br>2014-01-09 || 作者是美国《华盛顿邮报》专栏作家，此书荣获普利策奖。<br>书中全方位介绍了古拉格，在该领域的学术著作中堪称"里程碑"。<br>此书与前面那本《古拉格群岛》的差异是：《古拉格群岛》更接近报告文学，而此书是纯学术著作。<br>书末尾附有长达91页的索引注释，可见作者的严谨。 ||
-|| 苏共野史<br>——党治制的由来 || || 阿夫托尔汉诺夫 || 简体PDF (扫描版) || 2014-01-09 || 作者是苏共早期党员，曾担任过苏共中央督导员。遭遇迫害后流亡。<br>此书被欧美视为研究苏共的权威著作之一。<br>书中详细介绍了苏共中央从一大到十七大之间的历史，尤其是高层的活动。<br>此书有助于了解苏共早期的历史以及列宁、斯大林、托洛茨基等领导人不为人知的一面。 ||
-|| 俄国人 || The Russians || [https://en.wikipedia.org/wiki/Hedrick_Smith Hedrick Smith] || 简体PDF (扫描版) || 2014-02-21 || 作者是《纽约时报》记者，70年代担任莫斯科记者站站长。回美国之后写出此书。<br>书中介绍了苏联社会充斥着犬儒主义和拜金主义。所有人都在演戏——大家表面上都高喊马列主义口号，但是从最高领导人到普通百姓，没有人真正信马列主义。<br>此书出版于1976年，当时正值中苏交恶，所以天朝官方立马就出了中译本。<br>因为这个中译本是天朝官方出的，对书中的某些反共内容有删节。 ||
-|| 苏联真相<br>——对101个重要问题的思考 ||  || 陆南泉 等人 || 简体PDF (上中下 扫描版) || 2013-01-01<br>2013-01-01<br>2013-01-01 || 本书作者多人，主要作者陆南泉是中国社科院教授/博导，长期在苏联东欧研究所任研究员。<br>书中列举了关于苏联的101个问题，并一一作答。<br>虽然是大陆出版，但对于苏共的独裁以及最终的崩溃，还是批判得比较深入。<br>这个扫描版很大，但是字迹很清晰。 ||
-|| "真相"与自白<br>——戈尔巴乔夫回忆录 || || [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%93%88%E4%BC%8A%E5%B0%94%C2%B7%E8%B0%A2%E5%B0%94%E7%9B%96%E8%80%B6%E7%BB%B4%E5%A5%87%C2%B7%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A4%AB 戈尔巴乔夫] || 简体EPUB<br>简体MOBI || 2013-10-20<br>2014-02-23 || 戈尔巴乔夫的名气很大，俺就不作介绍了。<br>通过这本回忆录，有助于了解苏共在80年代后期的政治改革，也有助于了解苏联在1991解体的经过。<br>因为作者是当事人，在叙述过程中难免带有主观立场，阅读时要留意这点。<br>MOBI版本由热心网友分享，特此鸣谢。 ||
-|| 苏联解体亲历记 || || 小杰克·F·马特洛克 || 简体PDF (扫描版) || 2013-07-07 || 苏联解体时，作者是美国驻苏联大使（共担任此职务11年）。<br>由于作者的特殊身份，有助于通过此书了解苏共政权崩溃的经过。 ||
-|| 苏联兴亡史 || || 陈之骅 || 简体PDF (扫描版) || 2013-01-01 || 作者是中国社科院世界历史研究所研究员。<br>本书28章、800多页，从十月革命讲到苏联解体，也讲了斯大林搞独裁的不光彩历史。<br>由于作者是天朝背景，某些政治敏感内容语焉不详（比如819政变以及政变失败后苏共被取缔） ||
-|| 苏联大清洗内幕 || || 陈启能 等人 || 简体HTML || 2013-02-22 || 此书由中国社会科学文献出版社在1988年出版，主要揭露斯大林的几次大清洗。<br>本书揭露的冤案，涉及到苏联的党、政、军、科研、文艺等各个方面。 ||
-|| 帝国<br>——俄罗斯五十年 || || [https://zh.wikipedia.org/wiki/%E9%9B%B7%E6%B2%99%E5%BE%B7%C2%B7%E5%8D%A1%E6%99%AE%E9%92%A6%E6%96%AF%E5%9F%BA 卡普钦斯基] || 繁體PDF (豎排掃描版) || 2013-11-26 || 作者是波兰当代最富盛名的记者，此书是作者多次游历苏联后，写出的见闻录。<br>作者通过很多细节上的观察来了解苏联这个封闭且僵化的大帝国。<br>此书有助于了解苏联社会生活的各个方面。<br>（书中的地名采用台湾的译法，阅读时请留意）<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 苏联的心灵<br>——共产主义时代的俄国文化 || || [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF (扫描版) || 2013-08-21 || 作者是很有影响力的自由主义思想家，也是出生于沙俄的犹太人。<br>此书是在伯林逝世之后，由别人汇编了他生前关于苏联的一些文章。<br>通过此书可以体会到苏共对文艺领域的控制和扼杀，以及对普通民众的洗脑。 ||
-|| 东欧大裂变纪实 || || 欧阳东 || 简体PDF (扫描版) || 2013-01-01 || 作者不太有名。<br>此书主要是介绍上世纪80年代末90年代初的苏联/东欧剧变。<br>对那段历史有兴趣的同学可以参考。 ||
+|| 斯大林秘闻<br>——原苏联秘密档案披露 || Stalin<br>——The First In-depth Biography<br>Based on Explosive New Documents<br>from Russia's Secret Archives || [https://en.wikipedia.org/wiki/Edvard_Radzinsky 爱德华·拉津斯基] (俄) || 简体PDF<br>简体EPUB || 2013-01-01<br>2013-09-13 || [http://goo.gl/Gs0ajP 简介] ||
+|| 古拉格群岛 || The Gulag Archipelago || [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E7%B4%A2%E5%B0%94%E4%BB%81%E5%B0%BC%E7%90%B4 索尔仁尼琴] (俄) || 简体MOBI<br>简体HTML || 2013-04-20<br>2013-02-22 || [http://goo.gl/bV5eiP 简介] ||
+|| 古拉格<br>——一部历史 || Gulag<br>——A History || [https://en.wikipedia.org/wiki/Anne_Applebaum 安妮·阿普尔鲍姆] (美) || 简体PDF (大字版)<br>简体EPUB || 2014-02-12<br>2014-01-09 || [http://goo.gl/1SRhYr 简介] ||
+|| 苏共野史<br>——党治制的由来 || || 阿夫托尔汉诺夫 (俄) || 简体PDF (扫描版) || 2014-01-09 || [http://goo.gl/GqC6WP 简介] ||
+|| 俄国人 || The Russians || [https://en.wikipedia.org/wiki/Hedrick_Smith Hedrick Smith] (美) || 简体PDF (扫描版) || 2014-02-21 || [http://goo.gl/Y317px 简介] ||
+|| "真相"与自白<br>——戈尔巴乔夫回忆录 || Memoirs || [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%93%88%E4%BC%8A%E5%B0%94%C2%B7%E8%B0%A2%E5%B0%94%E7%9B%96%E8%80%B6%E7%BB%B4%E5%A5%87%C2%B7%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A4%AB 戈尔巴乔夫] (俄) || 简体EPUB<br>简体MOBI || 2013-10-20<br>2014-02-23 || [http://goo.gl/L3kgTI 简介] ||
+|| 苏联真相<br>——对101个重要问题的思考 ||  || 陆南泉<br>等 || 简体PDF (上中下 扫描版) || 2013-01-01<br>2013-01-01<br>2013-01-01 || [http://goo.gl/0JwL7v 简介] ||
+|| 苏联解体亲历记 || || 小杰克·F·马特洛克 (美) || 简体PDF (扫描版) || 2013-07-07 || [http://goo.gl/IV6I0B 简介] ||
+|| 苏联兴亡史 || || 陈之骅 || 简体PDF (扫描版) || 2013-01-01 || [http://goo.gl/UnV35V 简介] ||
+|| 苏联大清洗内幕 || || 陈启能<br>等 || 简体HTML || 2013-02-22 || [http://goo.gl/AIAXwd 简介] ||
+|| 帝国<br>——俄罗斯五十年 || Imperium || [https://zh.wikipedia.org/wiki/%E9%9B%B7%E6%B2%99%E5%BE%B7%C2%B7%E5%8D%A1%E6%99%AE%E9%92%A6%E6%96%AF%E5%9F%BA 卡普钦斯基] (波) || 繁體PDF (豎排掃描版) || 2013-11-26 || [http://goo.gl/CezZLn 简介] ||
+|| 苏联的心灵<br>——共产主义时代的俄国文化 || The Soviet Mind<br>——Russian Culture under Communism || [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] (英) || 简体PDF (扫描版) || 2013-08-21 || [http://goo.gl/IEoJGX 简介] ||
+|| 东欧大裂变纪实 || || 欧阳东 || 简体PDF (扫描版) || 2013-01-01 || [http://goo.gl/XhAE1U 简介] ||
 
 == 1.6 法国 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!943 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/LOb-po3bs0/%E6%94%BF%E6%B2%BB/%E6%B3%95%E5%9B%BD Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 旧制度与大革命 || The Old Regime and the French Revolution || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || 简体PDF<br>简体EPUB || 2012-10-06<br>2013-09-14 || 作者是法国的政治思想家和历史学家。<br>此书主要介绍大革命之前的法国社会，并分析了大革命的起因。<br>早在2012年初，就有小道消息称：中央政治局的某些家伙在传阅此书。<br>（18大之后，王岐山在公开场合推荐此书）<br>估计连朝廷高层也觉得天朝正处于革命前夜。 ||
-|| 法国大革命的起源 || Origins of the French Revolution || [https://en.wikipedia.org/wiki/William_Doyle_(historian) William Doyle] || 繁體PDF (掃描版) || 2013-11-26 || 不同于前面那本托克维尔的著作，此书是当代历史学者对大革命起源的叙述和分析。<br>书中以时间为主线来叙述，介绍三级会议召开之前，法国社会各阶层的动向。 ||
+|| 旧制度与大革命 || The Old Regime and the French Revolution || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] (法) || 简体PDF<br>简体EPUB || 2012-10-06<br>2013-09-14 || [http://goo.gl/WjGJwy 简介] ||
+|| 法国大革命的起源 || Origins of the French Revolution || [https://en.wikipedia.org/wiki/William_Doyle_(historian) William Doyle] (英) || 繁體PDF (掃描版) || 2013-11-26 || [http://goo.gl/KrILCF 简介] ||
 
 == 1.7 北朝鲜 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1149 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/beKjCH7uuQ/%E6%94%BF%E6%B2%BB/%E5%8C%97%E6%9C%9D%E9%B2%9C Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 黄长烨回忆录 || || [https://zh.wikipedia.org/wiki/%E9%BB%84%E9%95%BF%E7%83%A8 黄长烨] || 简体PDF || 2013-02-19 || 作者是北朝鲜高官，曾经担任最高人民会议议长，是主体思想方面的理论家。<br>1997年进入北京的南韩大使馆寻求政治避难。<br>通过此书可以了解北朝鲜的高层领导人以及北朝鲜的政治生活。 ||
-|| 我们最幸福<br>——北韩人民的真实生活<br>(无可羡慕——朝鲜人的普通生活) || Nothing to Envy<br>——Ordinary Lives in North Korea || [https://en.wikipedia.org/wiki/Barbara_Demick 芭芭拉·德米克] || 简体PDF<br>简体EPUB || 2013-02-19<br>2013-09-14 || 作者是美国洛杉矶时报的记者。<br>作者采访了许多北朝鲜的"脱北者"，最终写成此书。<br>通过此书可以了解北朝鲜底层民众的日常生活。 ||
-|| 平壤水族馆<br>——我在北韩古拉格的十年 || The Aquariums of Pyongyang || [https://zh.wikipedia.org/wiki/%E5%A7%9C%E5%93%B2%E7%85%A5 姜哲焕] & 皮耶·李古乐 || 繁體EPUB || 2014-05-04 || 作者是北朝鲜的"脱北者"，此书根据其亲身经历写成。<br>通过此书可以了解北韩集中营的惨无人道。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 平壤<br>——朝鲜之旅 || PYONGYANG<br>——A Journey In North Korea || 德利斯勒 || 简体PDF (漫画 扫描版) || 2013-03-30 || 作者是加拿大动漫作者。<br>2001年他参与公司的某个动画项目，在朝鲜的外包公司呆了两个月，进行指导。<br>在此期间，他每天都画了自己的见闻，然后编绘成这本漫画书。<br>PDF版本由热心网友分享，特此鸣谢。 ||
+|| 黄长烨回忆录 || Hwang Jang-yop Memoir || [https://zh.wikipedia.org/wiki/%E9%BB%84%E9%95%BF%E7%83%A8 黄长烨] (韩) || 简体PDF || 2013-02-19 || [http://goo.gl/9LXirA 简介] ||
+|| 我们最幸福<br>——北韩人民的真实生活<br>(无可羡慕——朝鲜人的普通生活) || Nothing to Envy<br>——Ordinary Lives in North Korea || [https://en.wikipedia.org/wiki/Barbara_Demick 芭芭拉·德米克] (美) || 简体PDF<br>简体EPUB || 2013-02-19<br>2013-09-14 || [http://goo.gl/5uWF0j 简介] ||
+|| 平壤水族馆<br>——我在北韩古拉格的十年 || The Aquariums of Pyongyang || [https://zh.wikipedia.org/wiki/%E5%A7%9C%E5%93%B2%E7%85%A5 姜哲焕] (韩)<br>皮耶·李古乐 || 繁體EPUB || 2014-05-04 || [http://goo.gl/HnrnfY 简介] ||
+|| 平壤<br>——朝鲜之旅 || Pyongyang<br>——A Journey in North Korea || [https://en.wikipedia.org/wiki/Guy_Delisle Guy Delisle] (加) || 简体PDF (漫画 扫描版) || 2013-03-30 || [http://goo.gl/Gg6g5k 简介] ||
 
 == 1.8 罗马尼亚 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1767 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/9sYtaR9vov/%E6%94%BF%E6%B2%BB/%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 流氓的归来 || The Hooligan's Return || [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF (扫描版) || 2014-05-04 || 作者是罗马尼亚的犹太人作家，受政治迫害流亡美国。<br>他被评论家誉为"比昆德拉更深刻、更纯粹的东欧作家"。<br>此书的定位是"故事性回忆录"，由若干个小故事构成，讲述其生平。<br>此书获法国出版图书最高奖项"美第奇奖"。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 论小丑<br>——独裁者和艺术家 || On Clowns<br>——The Dictator and the Artist || (同上) || 简体PDF (扫描版) || 2014-05-04 || 作者是罗马尼亚的犹太人作家，受政治迫害流亡美国。<br>他被评论家誉为"比昆德拉更深刻、更纯粹的东欧作家"。<br>此书是其随笔集，书名《论小丑》是其中一篇随笔。<br>本书主要是揭露罗马尼亚共产党的专制统治。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 黑信封 || The Black Envelope || (同上) || 简体PDF (扫描版) || 2014-05-04 || 作者是罗马尼亚的犹太人作家，受政治迫害流亡美国。<br>他被评论家誉为"比昆德拉更深刻、更纯粹的东欧作家"。<br>此书是其长篇小说。<br>PDF版本由热心网友分享，特此鸣谢。 ||
+|| 流氓的归来 || The Hooligan's Return || [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] (罗) || 简体PDF (扫描版) || 2014-05-04 || [http://goo.gl/zqrZoP 简介] ||
+|| 论小丑<br>——独裁者和艺术家 || On Clowns<br>——The Dictator and the Artist || (同上) || 简体PDF (扫描版) || 2014-05-04 || [http://goo.gl/XxGNNP 简介] ||
+|| 黑信封 || The Black Envelope || (同上) || 简体PDF (扫描版) || 2014-05-04 || [http://goo.gl/oJ4ZbZ 简介] ||
 
 == 1.9 (其它国家) ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1210 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/socCw0hU7v/%E6%94%BF%E6%B2%BB/%28%E5%85%B6%E5%AE%83%E5%9B%BD%E5%AE%B6%29 Dropbox网盘]
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 哈维尔文集 || [https://zh.wikipedia.org/wiki/%E7%93%A6%E8%8C%A8%E6%8B%89%E5%A4%AB%C2%B7%E5%93%88%E7%BB%B4%E5%B0%94 哈维尔] || 简体PDF || 2013-03-22 || 作者是捷克作家、剧作家，领导了捷克斯洛伐克的"[https://zh.wikipedia.org/wiki/%E5%A4%A9%E9%B5%9D%E7%B5%A8%E9%9D%A9%E5%91%BD 天鹅绒革命]"。<br>民主化转型之后，曾担任捷克总统。<br>此书包含了作者若干代表性的文章（比如：无权者的权力）。 ||
-|| 二十世纪最后的革命家<br>——菲德尔·卡斯特罗传 || [https://zh.wikipedia.org/wiki/%E7%A8%8B%E6%98%A0%E8%99%B9 程映虹] || 简体PDF || 2013-03-30 || 作者是历史学者，美国特拉华州立大学历史系副教授。<br>此书主要讲述古巴共产革命的历史。<br>此书曾引发古巴外交部的强烈抗议，在天朝被中宣部查禁。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 波尔布特传 || || 简体PDF || 2013-05-19 || 波尔布特是[https://zh.wikipedia.org/wiki/%E7%B4%85%E8%89%B2%E9%AB%98%E6%A3%89 红色高棉]的创始人之一，长期担任红色高棉的一把手。<br>在他的统治下，柬埔寨超过四分之一的人口非正常死亡，是二战后仅次于天朝大饥荒的人间惨剧。<br>俺写的《[http://program-think.blogspot.com/2012/10/history-of-red-khmers.html 最"纯正"的共产主义政权——红色高棉简史]》也参考了此书的部分内容。<br>作者是天朝官方派驻柬埔寨的联合国观察员，所以此书在谈及红色高棉罪行时，比较暧昧。 ||
+|| 哈维尔文集 || [https://zh.wikipedia.org/wiki/%E7%93%A6%E8%8C%A8%E6%8B%89%E5%A4%AB%C2%B7%E5%93%88%E7%BB%B4%E5%B0%94 哈维尔] (捷) || 简体PDF || 2013-03-22 || [http://goo.gl/NDN4gi 简介] ||
+|| 二十世纪最后的革命家<br>——菲德尔·卡斯特罗传 || [https://zh.wikipedia.org/wiki/%E7%A8%8B%E6%98%A0%E8%99%B9 程映虹] || 简体PDF || 2013-03-30 || [http://goo.gl/2A7cLl 简介] ||
+|| 波尔布特传 || 王爱飞 || 简体PDF || 2013-05-19 || [http://goo.gl/Tt77Xl 简介] ||
 
 <hr>
 <hr>
@@ -582,36 +582,36 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1050 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Pk5XaiyyT9/%E5%BF%83%E7%90%86%E5%AD%A6/%E8%AE%A4%E7%9F%A5%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 学会提问<br>——批判性思维指南 || Asking the Right Questions<br>——A Guide to Critical Thinking || 布朗 & 基利 || 简体PDF (第7版)<br>简体EPUB (第7版)<br>英文PDF (第8版) || 2012-01-20<br>2013-09-13<br>2012-01-20 || 因为批判性思维非常重要，所以这是一本不可多得的好书。<br>更多介绍请看"[http://program-think.blogspot.com/2010/10/book-review-asking-right-questions.html 俺的书评]"。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 影响力 || Influence<br>——The Psychology of Persuasion || [https://en.wikipedia.org/wiki/Robert_Cialdini 罗伯特·西奥迪尼] || 简体PDF<br>简体PDF (扫描版)<br>简体EPUB<br>简体MOBI<br>英文TXT || 2013-02-25<br>2012-12-29<br>2013-09-13<br>2014-02-23<br>2012-12-29 || 非常实用的一本心理学读物，在全球范围内具有很高知名度。<br>书中介绍了若干个重要的心理学原理。<br>掌握这些原理可以有效地对他人施加影响，还可以避免被别人轻易地忽悠。<br>书中提到的某些心理学原理经常被专制国家（比如中国）用来洗脑。<br>俺之前已经在好几篇博文中提及此书。<br>EPUB和MOBI版本由热心网友分享，特此鸣谢。 ||
-|| 无从选择<br>——为何多即是少 || The Paradox of Choice<br>——Why More Is Less || [https://en.wikipedia.org/wiki/Barry_Schwartz_%28psychologist%29 巴里·施瓦茨] || 简体PDF (扫描版)<br>英文PDF || 2012-12-29<br>2012-12-29 || 如今的信息社会，人们面对日益增多的"选择"。<br>更多的选择有时候反而会给人们带来后悔、郁闷、痛苦等负面影响。<br>此书会告诉你如何避免上述问题，并从心理学层面分析其中的根源。 ||
+|| 学会提问<br>——批判性思维指南 || Asking the Right Questions<br>——A Guide to Critical Thinking || 布朗 (美)<br>基利 (美) || 简体PDF (第7版)<br>简体EPUB (第7版)<br>英文PDF (第8版) || 2012-01-20<br>2013-09-13<br>2012-01-20 || [http://goo.gl/Zf9TGI 简介] ||
+|| 影响力 || Influence<br>——The Psychology of Persuasion || [https://en.wikipedia.org/wiki/Robert_Cialdini 罗伯特·西奥迪尼] (美) || 简体PDF<br>简体PDF (扫描版)<br>简体EPUB<br>简体MOBI<br>英文TXT || 2013-02-25<br>2012-12-29<br>2013-09-13<br>2014-02-23<br>2012-12-29 || [http://goo.gl/txwX4C 简介] ||
+|| 无从选择<br>——为何多即是少 || The Paradox of Choice<br>——Why More Is Less || [https://en.wikipedia.org/wiki/Barry_Schwartz_%28psychologist%29 巴里·施瓦茨] (美) || 简体PDF (扫描版)<br>英文PDF || 2012-12-29<br>2012-12-29 || [http://goo.gl/TNeusY 简介] ||
 
 == 2.2 人格心理学 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1051 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/QMJ7UkLzeM/%E5%BF%83%E7%90%86%E5%AD%A6/%E4%BA%BA%E6%A0%BC%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 少有人走的路<br>——心智成熟的旅程 || The Road Less Traveled<br>——A New Psychology of Love,<br>Traditional Values and Spiritual Growth || [https://en.wikipedia.org/wiki/M._Scott_Peck 斯科特·派克] || 简体PDF (扫描版)<br>简体EPUB<br>简体MOBI<br>简体TXT<br>英文PDF || 2012-06-29<br>2013-09-13<br>2014-02-23<br>2012-06-29<br>2013-04-14 || 这是一本不可多得的好书，具体介绍请看"[http://program-think.blogspot.com/2012/06/book-review-road-less-traveled.html 俺的书评]"。<br>EPUB和MOBI版本由热心网友分享，特此鸣谢。 ||
-|| 动机与人格 || Motivation and Personality || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E6%96%AF%E6%B4%9B 亚伯拉罕·马斯洛] || 简体EPUB<br>简体PDF (扫描版) || 2013-09-13<br>2012-12-29 || 马斯洛是知名的心理学家，他提出的"需求层次理论"闻名于世。<br>马斯洛在本书中介绍了人类动机理论以及不同层次的需求。<br>PDF扫描版，字迹有点模糊。前言较长，目录从33页开始。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 人的潜能和价值<br>——人本主义心理学译文集 || || (多人) || 简体PDF (扫描版) || 2013-02-05 || 此书汇集多位知名心理学家的文章<br>（包括：马斯洛、荣格、阿德勒、罗杰斯、等）。<br>扫描版，字迹有点模糊。目录从22页开始。 ||
-|| 梦的解析<br>(释梦) || The Interpretation of Dreams || [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 弗洛伊德] || 简体PDF<br>英文PDF || 2012-12-29<br>2013-04-14 || 弗洛伊德号称现代心理学之父。本书是他的代表作。<br>书中介绍了潜意识相关的理论，作者认为梦境是"理解潜意识的捷径"。<br>弗洛伊德的心理学理论争议很大，本书也不例外。 ||
-|| 精神分析引论 || A General Introduction to Psychoanalysis || [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 弗洛伊德] || 简体PDF<br>简体EPUB || 2012-12-29<br>2013-04-16 || 弗洛伊德号称现代心理学之父。<br>他创立的"精神分析学"是现代心理学的重要学派，对心理学的后续发展有深远影响。<br>本书号称是"精神分析学派"最重要的经典著作（没有之一）。<br>弗洛伊德的心理学理论争议很大，本书也不例外。 ||
+|| 少有人走的路<br>——心智成熟的旅程 || The Road Less Traveled<br>——A New Psychology of Love,<br>Traditional Values and Spiritual Growth || [https://en.wikipedia.org/wiki/M._Scott_Peck 斯科特·派克] (美) || 简体PDF (扫描版)<br>简体EPUB<br>简体MOBI<br>简体TXT<br>英文PDF || 2012-06-29<br>2013-09-13<br>2014-02-23<br>2012-06-29<br>2013-04-14 || [http://goo.gl/iYuw9f 简介] ||
+|| 动机与人格 || Motivation and Personality || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E6%96%AF%E6%B4%9B 亚伯拉罕·马斯洛] (美) || 简体EPUB<br>简体PDF (扫描版) || 2013-09-13<br>2012-12-29 || [http://goo.gl/8IPqO7 简介] ||
+|| 人的潜能和价值<br>——人本主义心理学译文集 || || (多人) || 简体PDF (扫描版) || 2013-02-05 || [http://goo.gl/8CN0kw 简介] ||
+|| 梦的解析<br>(释梦) || The Interpretation of Dreams || [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 弗洛伊德] (奥) || 简体PDF<br>英文PDF || 2012-12-29<br>2013-04-14 || [http://goo.gl/73PCBo 简介] ||
+|| 精神分析引论 || A General Introduction to Psychoanalysis || (同上) || 简体PDF<br>简体EPUB || 2012-12-29<br>2013-04-16 || [http://goo.gl/bRgaRa 简介] ||
 
 == 2.3 社会心理学 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1058 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/cmYOFevYsO/%E5%BF%83%E7%90%86%E5%AD%A6/%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 社会性动物 || The Social Animal || [https://en.wikipedia.org/wiki/Elliot_Aronson 埃利奥特·阿伦森] || 简体PDF<br>简体MOBI || 2014-01-09<br>2014-02-23 || 作者是当代最著名的社会心理学家。<br>此书被誉为"美国社会心理学的圣经"。<br>书的内容通俗易懂，介绍了"从众、偏见、自我辩护、攻击性"等常见现象。<br>从1972年出第1版，如今出到第9版。<br>MOBI版本由热心网友分享，特此鸣谢。 ||
-|| 乌合之众<br>——大众心理研究 || The Crowd<br>——A Study of the Popular Mind || [https://en.wikipedia.org/wiki/Gustave_Le_Bon 古斯塔夫·勒庞] || 简体PDF (扫描版)<br>简体MOBI || 2012-12-29<br>2014-02-23 || 作者是法国知名的心理学家、社会学家。<br>他的强项是研究群体心理，这本书是他的代表作。<br>作者在书中提到"群体的无意识行为代替了个人的有意识行为，是目前这个时代的主要特征之一"。书名《乌合之众》指的就是这种群体的无意识行为。<br>此书的理论有助于解释历史上很多知名的政治运动和群众运动。<br>MOBI版本由热心网友分享，特此鸣谢。 ||
-|| 路西法效应<br>——好人是如何变成恶魔的 || The Lucifer Effect<br>——Understanding How Good People Turn Evil || [https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A 菲利普·津巴多] || 简体EPUB<br>繁體PDF (掃描版) || 2013-09-13<br>2013-02-05 || 路西法效应最早是从[https://zh.wikipedia.org/wiki/%E6%96%AF%E5%9D%A6%E7%A6%8F%E7%9B%91%E7%8B%B1%E5%AE%9E%E9%AA%8C 斯坦福监狱实验]揭示出来的。<br>该效应说的是：一个身心健康的善良的人在特定的情景之下，也会变得如同恶魔一般。 ||
+|| 社会性动物 || The Social Animal || [https://en.wikipedia.org/wiki/Elliot_Aronson 埃利奥特·阿伦森] (美) || 简体PDF<br>简体MOBI || 2014-01-09<br>2014-02-23 || [http://goo.gl/s4FxAS 简介] ||
+|| 乌合之众<br>——大众心理研究 || The Crowd<br>——A Study of the Popular Mind || [https://en.wikipedia.org/wiki/Gustave_Le_Bon 古斯塔夫·勒庞] (法) || 简体PDF (扫描版)<br>简体MOBI || 2012-12-29<br>2014-02-23 || [http://goo.gl/Glqfol 简介] ||
+|| 路西法效应<br>——好人是如何变成恶魔的 || The Lucifer Effect<br>——Understanding How Good People Turn Evil || [https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A 菲利普·津巴多] (美) || 简体EPUB<br>繁體PDF (掃描版) || 2013-09-13<br>2013-02-05 || [http://goo.gl/zy7q5V 简介] ||
 
 == 2.4 教育心理学 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1673 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Tix9pU51p_/%E5%BF%83%E7%90%86%E5%AD%A6/%E6%95%99%E8%82%B2%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 正面管教 || Positive Discipline || [https://en.wikipedia.org/wiki/Jane_Nelsen 简·尼尔森] || 简体PDF || 2014-02-11 || 作者是美国知名心理学家、教育学博士，美国"正面管教协会"创始人。<br>此书总结了父母与小孩的三种互动模式：<br>严厉（有规矩，没有自由）<br>放纵（无规矩，有自由）<br>正面管教（有规矩，有自由）<br> ||
+|| 正面管教 || Positive Discipline || [https://en.wikipedia.org/wiki/Jane_Nelsen 简·尼尔森] (美) || 简体PDF || 2014-02-11 || [http://goo.gl/q9iJsR 简介] ||
 
 == 2.5 进化心理学 ==
 
@@ -619,24 +619,24 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1230 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/8URShw6kA6/%E5%BF%83%E7%90%86%E5%AD%A6/%E8%BF%9B%E5%8C%96%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 进化心理学<br>——心理的新科学 || Evolutionary Psychology<br>——The New Science of the Mind || [https://en.wikipedia.org/wiki/David_Buss 大卫·巴斯] || 简体PDF (扫描版) || 2012-12-31 || 作者是得克萨斯大学的心理学教授。<br>此书兼具权威性和可读性。 ||
+|| 进化心理学<br>——心理的新科学 || Evolutionary Psychology<br>——The New Science of the Mind || [https://en.wikipedia.org/wiki/David_Buss 大卫·巴斯] (美) || 简体PDF (扫描版) || 2012-12-31 || [http://goo.gl/sKRnYv 简介] ||
 
 == 2.6 洗脑 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!956 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ATIiFmfcj_/%E5%BF%83%E7%90%86%E5%AD%A6/%E6%B4%97%E8%84%91 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 洗脑术<br>——思想控制的荒唐史 || Brainwash<br>——The Secret History of Mind Control || 多米尼克·斯垂特菲尔德 || 简体PDF (扫描版) || 2012-12-16 || 此书通俗地介绍了"洗脑"技术的发展史。<br>虽然是扫描版，但文字很清晰。 ||
-|| 人的驯化、躲避与反叛 || || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 简体PDF<br>简体PDF (大字版)<br>简体TXT || 2013-05-01<br>2013-04-20<br>2013-03-17 || 作者是流亡美国的政治异议人士，《北京之春》杂志主编。<br>此书从不同角度介绍了中共的"思想改造"。<br>看完此书你会明白，中共乃是"洗脑手法"之集大成者。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 思想改造和极权主义心理学<br>——中国的洗脑研究 || Thought Reform and the Psychology of Totalism<br>——A Study of Brainwashing in China || [https://en.wikipedia.org/wiki/Robert_Lifton Robert Jay Lifton] || 英文MOBI || 2012-10-14 || 哪位网友能找到中文版，还请不吝告知哦。 ||
-|| 洗脑<br>——思维控制的科学 || Brainwashing<br>——The Science of Thought Control || [https://en.wikipedia.org/wiki/Kathleen_Taylor_%28biologist%29 Kathleen Taylor] || 英文PDF || 2012-10-14 || 哪位网友能找到中文版，还请不吝告知哦。 ||
+|| 洗脑术<br>——思想控制的荒唐史 || Brainwash<br>——The Secret History of Mind Control || [https://en.wikipedia.org/wiki/Dominic_Streatfeild Dominic Streatfeild] (英) || 简体PDF (扫描版) || 2012-12-16 || [http://goo.gl/IVkRk9 简介] ||
+|| 人的驯化、躲避与反叛 || || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 简体PDF<br>简体PDF (大字版)<br>简体TXT || 2013-05-01<br>2013-04-20<br>2013-03-17 || [http://goo.gl/SUIR2g 简介] ||
+|| 思想改造和极权主义心理学<br>——中国的洗脑研究 || Thought Reform and the Psychology of Totalism<br>——A Study of Brainwashing in China || [https://en.wikipedia.org/wiki/Robert_Lifton Robert Jay Lifton] (美) || 英文MOBI || 2012-10-14 || [http://goo.gl/9oyo6T 简介] ||
+|| 洗脑<br>——思维控制的科学 || Brainwashing<br>——The Science of Thought Control || [https://en.wikipedia.org/wiki/Kathleen_Taylor_%28biologist%29 Kathleen Taylor] (英) || 英文PDF || 2012-10-14 || [http://goo.gl/bOEcne 简介] ||
 
-== 2.6 (其它) ==
+== 2.7 (其它) ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1049 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Iw4bPV995f/%E5%BF%83%E7%90%86%E5%AD%A6/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 与众不同的心理学<br>——如何正视心理学 || How to Think Straight about Psychology || 基思·斯坦诺维奇 || 简体PDF (第7版 扫描版) || 2012-12-29 || 这是一本很不错的心理学通俗读物。<br>书中澄清了很多关于心理学的误区。<br>此书不光让你更准确地了解心理学，而且有助于提升你的科学素质。 ||
+|| 与众不同的心理学<br>——如何正视心理学 || How to Think Straight about Psychology || [https://en.wikipedia.org/wiki/Keith_Stanovich Keith Stanovich] (加) || 简体PDF (第7版 扫描版) || 2012-12-29 || [http://goo.gl/eVfMk7 简介] ||
 
 
 <hr>
@@ -668,7 +668,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 血酬定律<br>——中国历史中的生存游戏 || || (同上) || 简体PDF<br>简体MOBI<br>简体TXT || 2014-01-09<br>2014-02-23<br>2013-08-22 || 作者是知名作家，《炎黄春秋》杂志的主编、副社长。<br>此书可以算是《潜规则》的姐妹篇，不过名气没那么大。<br>MOBI版本由热心网友分享，特此鸣谢。 ||
 || 兴盛与危机<br>——论中国社会超稳定结构 || || [https://zh.wikipedia.org/wiki/%E9%87%91%E8%A7%80%E6%BF%A4 金观涛] & 刘青峰 || 简体PDF || 2013-02-07 || 作者是一对夫妻。金观涛曾经担任知名纪录片《河殇》的顾问。因为六四事件而流亡海外。<br>此书分析了中国"封建社会"（严格来讲，是秦朝到清朝）几千年的朝代更迭，却始终停滞不前的原因。 ||
 || 万历十五年 || 1587, A Year Of No Significance || [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || 简体PDF || 2014-01-08 || 作者是知名历史学家。<br>此书是其成名作，书中的观点很有新意。<br>作者认为，虽然万历十五年没发生啥大事，但却是明朝灭亡的起点。 ||
-|| 明朝那些事 || || [https://zh.wikipedia.org/wiki/%E5%BD%93%E5%B9%B4%E6%98%8E%E6%9C%88 当年明月]<br>(原名：石悦) || 简体EPUB || 2013-09-14 || 作者最先在天涯社区连载此书，一炮走红。<br>此书用通俗的语言，从头到尾详细介绍了明朝的历史。 ||
+|| 明朝那些事 || || [https://zh.wikipedia.org/wiki/%E5%BD%93%E5%B9%B4%E6%98%8E%E6%9C%88 当年明月] (原名：石悦) || 简体EPUB || 2013-09-14 || 作者最先在天涯社区连载此书，一炮走红。<br>此书用通俗的语言，从头到尾详细介绍了明朝的历史。 ||
 
 === 3.2.2 近代史 ===
 
@@ -868,7 +868,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 中国人的性格 || Chinese Characteristics || [https://zh.wikipedia.org/wiki/%E6%98%8E%E6%81%A9%E6%BA%A5 亚瑟·史密斯]<br>(中文名：明恩溥) || 简体PDF<br>简体EPUB<br>简体TXT || 2011-02-09<br>2013-09-13<br>2012-03-19 || 此书非常深刻地剖析了中国人的劣根性。<br>鲁迅受此书的影响很大。更多介绍请看[http://program-think.blogspot.com/2011/02/book-review-chinese-characteristics.html 俺的书评]<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 丑陋的中国人 || || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏杨]<br>(原名：郭定生) || 简体TXT || 2012-10-06 || 作者是台湾知名作家。<br>《丑陋的中国人》最早是他1984年在美国爱荷华大学的一次演讲。<br>文中深刻批判了中国人的劣根性，柏杨因此获得"台湾鲁迅"之称。<br>书中的经典比喻是"酱缸文化"——任何外来的好东西，进了中国这个大酱缸，都要变质发臭。 ||
+|| 丑陋的中国人 || || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏杨] (原名：郭定生) || 简体TXT || 2012-10-06 || 作者是台湾知名作家。<br>《丑陋的中国人》最早是他1984年在美国爱荷华大学的一次演讲。<br>文中深刻批判了中国人的劣根性，柏杨因此获得"台湾鲁迅"之称。<br>书中的经典比喻是"酱缸文化"——任何外来的好东西，进了中国这个大酱缸，都要变质发臭。 ||
 || 吾国与吾民 || My Country and My People || [https://zh.wikipedia.org/wiki/%E6%9E%97%E8%AF%AD%E5%A0%82 林语堂] || 简体MOBI || 2014-02-23 || 作者是民国知名文学家，著有《京华烟云》。<br>此书最先用英文写成，向西方世界介绍中国的文化和民族的特质。<br>出版后在西方引起很大的反响。<br>MOBI版本由热心网友分享，特此鸣谢。 ||
 || 中国比小说更离奇 || || [https://zh.wikipedia.org/wiki/%E9%8D%BE%E7%A5%96%E5%BA%B7 钟祖康] || 简体TXT<br>简体MOBI || 2013-02-25 || 作者曾经是香港政治评论人，2003年移居挪威。<br>此书描写了天朝的种种荒诞之处。如果你在天朝待久了，可能习以为常了。<br>在本书的自序中，作者写道："在人的解放、平等和尊严这些信念底下，甚么爱国主义、爱党主义、民族主义都是可弃之而毫不足惜的。"<br>TXT/MOBI版本由热心网友分享，特此鸣谢。 ||
 || 来生不做中国人 || || [https://zh.wikipedia.org/wiki/%E9%8D%BE%E7%A5%96%E5%BA%B7 钟祖康] || 简体PDF || 2013-04-14 || 作者曾经是香港政治评论人，2003年移居挪威。<br>此书是作者的政治评论文集，书中对传统文化的弊端（比如：奴性）有深刻批判。<br>PDF版本由热心网友分享，特此鸣谢。 ||
@@ -889,9 +889,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 灵山 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E8%A1%8C%E5%81%A5 高行健] || 简体PDF<br>简体EPUB<br>简体CHM || 2013-07-07<br>2013-09-14<br>2013-07-07 || 作者是小说家、剧作家、导演，首位华人诺贝尔文学奖得主。<br>此书是其代表作，应网友的要求上传。 ||
 || 一个人的圣经 || (同上) || 简体PDF<br>简体CHM || 2013-07-07 || 作者是小说家、剧作家、导演，首位华人诺贝尔文学奖得主。<br>此书是其代表作，应网友的要求上传。 ||
 || 寻找家园 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%B0%94%E6%B3%B0 高尔泰] || 简体PDF || 2013-06-03 || 作者是知名画家、作家、57年被打为"右派"，64运动后以"反革命宣传煽动罪"被关押。<br>此书是作者的自传式散文集。2004年在国内出版时被删节。<br>俺分享的电子书是完全版。<br>PDF版本由热心网友精心排版并分享，特此鸣谢。 ||
-|| 尘世·挽歌 || [https://zh.wikipedia.org/wiki/%E9%87%8E%E5%A4%AB 土家野夫]<br>(原名：郑世平) || 简体PDF || 2013-01-07 || 作者是大陆诗人、作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此书是他的散文集。<br>PDF由热心网友精心排版并分享，特此鸣谢。 ||
+|| 尘世·挽歌 || [https://zh.wikipedia.org/wiki/%E9%87%8E%E5%A4%AB 土家野夫] (原名：郑世平) || 简体PDF || 2013-01-07 || 作者是大陆诗人、作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此书是他的散文集。<br>PDF由热心网友精心排版并分享，特此鸣谢。 ||
 || 看不见的江湖 || (同上) || 简体PDF || 2013-06-03 || 作者是大陆诗人、作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此书获独立中文笔会2011年自由写作奖。<br>PDF由热心网友精心排版并分享，特此鸣谢。 ||
-|| 文殇 || [https://zh.wikipedia.org/zh/%E8%A2%81%E7%BA%A2%E5%86%B0 袁红冰]<br>(原名：袁红兵) || 简体CHM || 2013-06-03 || 作者是持不同政见者、作家。因参与64运动被逮捕。2004年流亡海外。<br>此书是他的自传体小说。 ||
+|| 文殇 || [https://zh.wikipedia.org/zh/%E8%A2%81%E7%BA%A2%E5%86%B0 袁红冰] (原名：袁红兵) || 简体CHM || 2013-06-03 || 作者是持不同政见者、作家。因参与64运动被逮捕。2004年流亡海外。<br>此书是他的自传体小说。 ||
 || 沉沦的圣殿<br>——中国20世纪70年代地下诗歌遗照 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武](主编) || 简体PDF (扫描版)<br>简体PDF (不全) || 2013-11-26<br>2013-01-17 || 编者是流亡作家，专门为社会底层呐喊。<br>这是他主编的文集，讲述70年代的理想主义者和他们所写的地下诗歌。<br>此书1999年刚出版时畅销，但随即被新闻出版总署宣布为"反动书籍"，相关印刷厂被查抄。<br>扫描版PDF由热心网友精心排版并分享，特此鸣谢。 ||
 || 《让子弹飞》喻意图文解释精华版 || (不详) || 简体CHM || 2013-02-05 || 此CHM是某网友主动分享，内容是解读姜文的电影《让子弹飞》中的各种政治隐喻。 ||
 
@@ -921,10 +921,10 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 人月神话 || The Mythical Man-Month || [https://en.wikipedia.org/wiki/Fred_Brooks Frederick Brooks] || 简体EPUB<br>英文CHM || 2013-10-20<br>2013-10-20 || 作者是IT领域的大牛，曾获图灵奖。<br>关于此书，俺的书评在"[http://program-think.blogspot.com/2009/03/book-review-mythical-man-month.html 这里]"。<br>此书最早出版于1975年，网盘上的是20周年纪念版（1995年版）。可见此书历久不衰。 ||
-|| 设计模式<br>——可复用面向对象软件的基础 || Design Patterns<br>——Elements of Reusable OO Software || Gang of Four<br>（模式四人帮） || 简体PDF<br>英文CHM || 2013-10-21<br>2013-10-20 || "设计模式"俺就不用介绍了吧，不了解的同学先看[https://en.wikipedia.org/wiki/Design_Patterns 维基百科]。<br>此书是第一本关于"设计模式"的书，堪称奠基之作。<br>Gang of Four 分别是：Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides ||
-|| 重构<br>——改善既有代码的质量 || Refactoring<br>——Improving the Design of Existing Code || [https://en.wikipedia.org/wiki/Martin_Fowler Martin Fowler] & [https://en.wikipedia.org/wiki/Kent_Beck Kent Beck] 等 || 英文CHM || 2013-10-20 || 此书有多位作者，头两个在软件工程领域名气很大（接触过敏捷开发的同学，应该听说过这俩）。<br>此书与前面那本"设计模式"，号称是软工领域双雄。 ||
+|| 设计模式<br>——可复用面向对象软件的基础 || Design Patterns<br>——Elements of Reusable OO Software || Gang of Four (模式四人帮) || 简体PDF<br>英文CHM || 2013-10-21<br>2013-10-20 || "设计模式"俺就不用介绍了吧，不了解的同学先看[https://en.wikipedia.org/wiki/Design_Patterns 维基百科]。<br>此书是第一本关于"设计模式"的书，堪称奠基之作。<br>Gang of Four 分别是：Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides ||
+|| 重构<br>——改善既有代码的质量 || Refactoring<br>——Improving the Design of Existing Code || [https://en.wikipedia.org/wiki/Martin_Fowler Martin Fowler]<br>[https://en.wikipedia.org/wiki/Kent_Beck Kent Beck]<br>等 || 英文CHM || 2013-10-20 || 此书有多位作者，头两个在软件工程领域名气很大（接触过敏捷开发的同学，应该听说过这俩）。<br>此书与前面那本"设计模式"，号称是软工领域双雄。 ||
 || 代码大全<br>(软件建构之道) || Code Complete || [https://en.wikipedia.org/wiki/Steve_McConnell Steve McConnell] || 英文CHM (2nd edition)<br>简体PDF || 2013-10-20<br>2013-10-20 || 此书号称是"软件开发人员必备工具书"。<br>书中涵盖了编写代码的各种基本功（真的是非常基本）。<br>如果缺乏这些基本功，你就写不出像样的代码。 ||
-|| 人件 || Peopleware<br>——Productive Projects and Teams || [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco] & [https://en.wikipedia.org/wiki/Tim_Lister Timothy Lister] || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || Tom Demarco是编程界的元老，曾在70年代提出"结构化分析方法"。<br>此书偏重管理方面。书名想表达的意思是：软件开发过程中，不光要注重软件和硬件，还要注重"人件"。<br>非技术出身的软件公司高管，一定要看此书。 ||
+|| 人件 || Peopleware<br>——Productive Projects and Teams || [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco]<br>[https://en.wikipedia.org/wiki/Tim_Lister Timothy Lister] || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || Tom Demarco是编程界的元老，曾在70年代提出"结构化分析方法"。<br>此书偏重管理方面。书名想表达的意思是：软件开发过程中，不光要注重软件和硬件，还要注重"人件"。<br>非技术出身的软件公司高管，一定要看此书。 ||
 || 最后期限 || The Deadline<br>——A Novel about Project Management || [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco] || 简体PDF || 2013-10-20 || Tom Demarco是编程界的元老，曾在70年代提出"结构化分析方法"<br>此书很独特——以小说的形式，来介绍项目管理。 ||
 
 === 8.1.2 编程语言 ===
@@ -939,8 +939,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || C++ 程序设计语言 || The C++ Programming Language || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF (special edition)<br>简体PDF (特别版 扫描版) || 2013-10-21<br>2013-10-29 || 作者是C++之父。光凭这点，足以说明此书的份量。<br>在C++社区，此书简称 TCPPPL ||
 || Effective C++<br>——改善程序与设计的55个具体做法 || Effective C++<br>——55 Specific Ways to Improve Your Programs and Designs || [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文CHM (3rd edition) || 2013-10-21 || 作者是知名的C++写手，出版过好几本畅销的C++读物（包括"Effective系列"）。<br>此书列举了C++编程中的55个注意事项，可以帮新手避开各种陷阱。 ||
 || More Effective C++<br>——35个改善编程与设计的有效方法 || More Effective C++<br>——35 New Ways to Improve Your Programs and Designs || [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文PDF || 2013-10-21 || 作者是知名的C++写手，出版过好几本畅销的C++读物（包括"Effective系列"）。<br>此书是对《Effective C++》的补充，列举了35个注意事项。 ||
-|| C++ 编程规范<br>——101 条规则、准则与最佳实践 || C++ Coding Standards<br>——101 Rules, Guidelines, and Best Practices || [https://en.wikipedia.org/wiki/Herb_Sutter Herb Sutter] &<br>[https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 英文CHM || 2013-10-20 || 两位作者都是C++社区的大牛。<br>Herb Sutter是C++标准委员会主席（光看头衔就知道有多牛了）。<br>Andrei Alexandrescu是C++领域的牛人，另一本名著《Modern C++ Design》的作者。<br>此书不局限于编码规范，还涉及其它几个方面（比如类设计、性能、等） ||
-|| C++ Primer || C++ Primer || [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman] 等 || 英文CHM (4th edition)<br>中文PDF(第3版) || 2013-10-20<br>2013-10-24 || 第一作者Lippman是C++标准委员会成员，C++领域的牛人。<br>虽然书名叫"Primer"，不过俺觉得此书内容覆盖面太广，更适合进阶而不是入门。 ||
+|| C++ 编程规范<br>——101 条规则、准则与最佳实践 || C++ Coding Standards<br>——101 Rules, Guidelines, and Best Practices || [https://en.wikipedia.org/wiki/Herb_Sutter Herb Sutter]<br>[https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 英文CHM || 2013-10-20 || 两位作者都是C++社区的大牛。<br>Herb Sutter是C++标准委员会主席（光看头衔就知道有多牛了）。<br>Andrei Alexandrescu是C++领域的牛人，另一本名著《Modern C++ Design》的作者。<br>此书不局限于编码规范，还涉及其它几个方面（比如类设计、性能、等） ||
+|| C++ Primer || C++ Primer || [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman]<br>等 || 英文CHM (4th edition)<br>中文PDF (第3版) || 2013-10-20<br>2013-10-24 || 第一作者Lippman是C++标准委员会成员，C++领域的牛人。<br>虽然书名叫"Primer"，不过俺觉得此书内容覆盖面太广，更适合进阶而不是入门。 ||
 || C++ 标准库<br>——自修教程与参考手册 || The C++ Standard Library<br>——A Tutorial and Reference || Nicolai Josuttis || 英文CHM || 2013-10-20 || 作者是C++领域的牛人，另一本名著《C++ Templates——The Complete Guide》的作者。<br>此书对想要深入了解STL的同学很有帮助。<br>顺便说一下，此书中文版的译者是侯捷（能让侯捷出手翻译，必定是好书） ||
 || 深度探索C++对象模型 || Inside the C++ Object Model || [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman] || 英文CHM<br>中文PDF (扫描版) || 2013-10-20<br>2013-10-24 || 作者是C++标准委员会成员，C++领域的牛人。<br>此书着重介绍底层（编译器层面）的运作机制，适合于进阶。<br>顺便说一下，此书中文版的译者是侯捷（能让侯捷出手翻译，必定是好书） ||
 || C++ 语言的设计和演化 ||  The Design and Evolution of C++ || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 中文PDF (扫描版) || 2013-10-25 || 作者是C++之父。<br>此书侧重解释 C++ 语言为啥会成为这个样子。<br>此书适合已经熟悉 C++ 的读者。 ||
@@ -953,7 +953,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 深入 Python || Dive into Python || [https://en.wikipedia.org/wiki/Mark_Pilgrim_%28software_developer%29 Mark Pilgrim] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || 这大概是影响力最大的一本Python入门读物。<br>作者把该书以GPL方式发布，大伙儿可以任意复制此书。<br>缺点是出版的时间有点早，那时Python2刚发布没多久。<br>后来作者出了更新的版本《深入 Python3》。 ||
 || 深入 Python3 || Dive into Python3 || [https://en.wikipedia.org/wiki/Mark_Pilgrim_%28software_developer%29 Mark Pilgrim] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || 这是专门针对Python3的入门教程。<br>书中花了不少笔墨来介绍如何从Python2迁移到Python3。 ||
-||  || Learning Python || Mark Lutz || 英文EPUB (5th edition) || 2013-10-21 || 作为入门教程，此书已经出到第5版。<br>该版本是2013年新鲜出炉的，（从版本上）覆盖了Python2.7和Python3.3。 ||
+||  || Learning Python || Mark Lutz || 英文EPUB (5th edition) || 2013-10-21 || 作为入门教程，此书已经出到第5版。<br>该版本是2013年新鲜出炉的，（从版本上）涵盖了Python2.7和Python3.3。 ||
 ||  || Python Cookbook || David Beazley || 英文PDF (3rd edition) || 2013-10-21 || 此书的第3版也是2013年新鲜出炉的。<br>此书定位入门之后的进阶，面向已经有一定经验的Python程序猿。 ||
 
 ==== 8.1.2.2 Java ====
@@ -961,14 +961,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1514 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/eSL9ZTyGH_/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| Java 编程思想 || Thinking in Java || [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || 作者是知名的IT专栏作家，出版过C++、Java、Python的"Thinking in 系列"。<br>不同于很多庸俗的Java入门书仅仅介绍语法，此书还介绍Java更深层面的东西。 ||
+|| Java 编程思想 || Thinking in Java || [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 英文PDF (4th edition)<br>简体PDF (第4版 扫描版) || 2013-10-21<br>2013-10-21 || 作者是知名的IT专栏作家，出版过C++、Java、Python的"Thinking in 系列"。<br>不同于很多庸俗的Java入门书仅仅介绍语法，此书还介绍Java更深层面的东西。 ||
 
 === 8.1.3 算法和数据结构 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1500 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/q6pX8DLhuP/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 算法导论 || Introduction to Algorithms || Thomas Cormen & Charles Leiserson & Ronald Rivest & Clifford Stein || 英文PDF (3nd edition)<br>英文CHM (2nd edition) || 2013-10-21<br>2013-10-30 || 此书出自MIT，是最经典的算法类教材，被各国的很多大学采用。<br>目前最新的是第3版。另外也顺便上传了此书的"教师手册"。 ||
+|| 算法导论 || Introduction to Algorithms || Thomas Cormen<br>Charles Leiserson<br>Ronald Rivest<br>Clifford Stein || 英文PDF (3nd edition)<br>英文CHM (2nd edition) || 2013-10-21<br>2013-10-30 || 此书出自MIT，是最经典的算法类教材，被各国的很多大学采用。<br>目前最新的是第3版。另外也顺便上传了此书的"教师手册"。 ||
 || 编程珠玑 || Programming Pearls || [https://en.wikipedia.org/wiki/Jon_Bentley Jon Bentley] || 英文PDF (2nd edition)<br>简体PDF (第2版 扫描版) || 2013-10-21<br>2013-10-21 || 这又是名气很大的一本算法书，不亚于《算法导论》。<br>书中内容大都来自作者在《Communications of the ACM》杂志上的"Programming Pearls"专栏文章。<br>所以此书在内容组织上跟《算法导论》迥异，各个章节相对独立。 ||
 
 === 8.1.4 操作系统相关 ===
@@ -980,9 +980,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1496 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/quNBvv8dj7/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/Unix%20%E5%92%8C%20Linux Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| UNIX 编程艺术 || The Art of UNIX Programming || [https://en.wikipedia.org/wiki/Eric_S._Raymond Eric Raymond]<br>(埃里克·雷蒙德) || 简体PDF || 2013-10-20 || 作者是知名黑客，开源运动的旗手。<br>这是他的代表作，书名简称"TAOUP"。<br>此书重点不在"编程"，而是介绍UNIX的哲学、设计思想、理念（俺觉得这些更重要，也更持久）。<br>他的另一个代表作是《五部曲》（俺也上传了）。 ||
-|| UNIX 环境高级编程 ||  Advanced Programming in the UNIX Environment || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens](理查德·史蒂文斯) & Stephen Rago || 英文PDF (3nd edition)<br>英文CHM (2nd edition) || 2013-11-14<br>2013-10-21 || 第一作者是UNIX领域和网络领域的大牛，著有多部畅销的技术书籍。<br>此书被誉为"UNIX编程的圣经"。<br>第2版是2005年出的，补充了一些新的技术，第3版是2013年新鲜出炉的。 ||
-|| || UNIX Systems Programming<br>——Communication, Cocurrency, and Threads || Kay Robbins & Steven Robbins || 英文CHM || 2013-10-21 || 这本主要是讲UNIX环境下的并发编程和进程间通讯。 ||
+|| UNIX 编程艺术 || The Art of UNIX Programming || [https://en.wikipedia.org/wiki/Eric_S._Raymond Eric Raymond] (埃里克·雷蒙德) || 简体PDF || 2013-10-20 || 作者是知名黑客，开源运动的旗手。<br>这是他的代表作，书名简称"TAOUP"。<br>此书重点不在"编程"，而是介绍UNIX的哲学、设计思想、理念（俺觉得这些更重要，也更持久）。<br>他的另一个代表作是《五部曲》（俺也上传了）。 ||
+|| UNIX 环境高级编程 ||  Advanced Programming in the UNIX Environment || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] (理查德·史蒂文斯)<br>Stephen Rago || 英文PDF (3nd edition)<br>英文CHM (2nd edition) || 2013-11-14<br>2013-10-21 || 第一作者是UNIX领域和网络领域的大牛，著有多部畅销的技术书籍。<br>此书被誉为"UNIX编程的圣经"。<br>第2版是2005年出的，补充了一些新的技术，第3版是2013年新鲜出炉的。 ||
+|| || UNIX Systems Programming<br>——Communication, Cocurrency, and Threads || Kay Robbins<br>Steven Robbins || 英文CHM || 2013-10-21 || 这本主要是讲UNIX环境下的并发编程和进程间通讯。 ||
 
 ==== 8.1.4.2 Windows ====
 
@@ -998,7 +998,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1516 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/MiTR4A7UG-/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| UNIX 网络编程<br>(共两卷) || UNIX Network Programming Volume 1<br>——The Sockets Networking API || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens]<br>(理查德·史蒂文斯) || 英文PDF || 2013-10-20 || 作者是UNIX领域和网络领域的大牛，著有多部畅销的技术书籍。<br>今天时间仓促，先上传卷1。 ||
+|| UNIX 网络编程<br>(共两卷) || UNIX Network Programming Volume 1<br>——The Sockets Networking API || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] (理查德·史蒂文斯) || 英文PDF || 2013-10-20 || 作者是UNIX领域和网络领域的大牛，著有多部畅销的技术书籍。<br>今天时间仓促，先上传卷1。 ||
 || C++ 网络编程<br>(共两卷) || C++ Network Programming || [https://en.wikipedia.org/wiki/Douglas_C._Schmidt Douglas Schmidt] || 卷 1 英文CHM<br>卷2 英文CHM || 2013-10-21<br>2013-10-21 || 这两卷主要讲如何用ACE（Adaptive Communication Environment）进行网络编程。<br>ACE是一个很老牌的C++通讯库，既可以用来做主机间的网络通讯，也可以用于本机的IPC。<br>本书的作者也是ACE的主要开发者。 ||
 
 === 8.1.6 (其它) ===
@@ -1006,7 +1006,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1517 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/O6PgU3SkTO/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 程序员修炼之道<br>——从小工到专家 || Pragmatic Programmers<br>——From Journeyman to Master || [https://en.wikipedia.org/wiki/Andy_Hunt_%28author%29 Andrew Hunt] & [https://en.wikipedia.org/wiki/Dave_Thomas_%28programmer%29 David Thomas] || 英文PDF<br>简体PDF (扫描版) || 2013-10-21<br>2013-10-21 || 如果一个新手程序员想要成长，强烈建议看此书。<br>此书不限于"编码"范畴，还涉及到其它几个方面。 ||
+|| 程序员修炼之道<br>——从小工到专家 || Pragmatic Programmers<br>——From Journeyman to Master || [https://en.wikipedia.org/wiki/Andy_Hunt_%28author%29 Andrew Hunt]<br>[https://en.wikipedia.org/wiki/Dave_Thomas_%28programmer%29 David Thomas] || 英文PDF<br>简体PDF (扫描版) || 2013-10-21<br>2013-10-21 || 如果一个新手程序员想要成长，强烈建议看此书。<br>此书不限于"编码"范畴，还涉及到其它几个方面。 ||
 
 == 8.2 黑客文化 ==
 
@@ -1015,8 +1015,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1485 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/NKIzqLB3-f/IT/%E9%BB%91%E5%AE%A2%E6%96%87%E5%8C%96 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 黑客与画家 || Hackers and Painters || [https://en.wikipedia.org/wiki/Paul_Graham_%28computer_programmer%29 Paul Graham]<br>(保罗·格雷汉姆) || 简体PDF (扫描版)<br>简体EPUB<br>简体MOBI<br>英文PDF || 2013-04-06<br>2013-10-20<br>2014-02-23<br>2013-10-30 || 作者是知名Lisp黑客，和Robert Morris（另一个牛黑客）共同创办了Viaweb（该公司被 Yahoo 高价收购，成为Yahoo Store）。<br>他成立的风投（Y Combinator）在硅谷很有影响力，资助了大批技术型创业公司。<br>EPUB和MOBI版本由热心网友分享，特此鸣谢。 ||
-|| 五步曲 ||  || [https://en.wikipedia.org/wiki/Eric_S._Raymond Eric Raymond]<br>(埃里克·雷蒙德) || 简体PDF || 2013-10-20 || 作者是知名黑客，开源运动的旗手。<br>这是他的代表作，分别是：《黑客简史》《大教堂与市集》、《如何成为一名黑客》、《开拓智域》、《魔法大锅炉》。<br>他的另一个代表作是《UNIX编程艺术》（俺也上传了）。 ||
+|| 五步曲 ||  || [https://en.wikipedia.org/wiki/Eric_S._Raymond Eric Raymond] (埃里克·雷蒙德) || 简体PDF || 2013-10-20 || 作者是知名黑客，开源运动的旗手。<br>这是他的代表作，分别是：《黑客简史》《大教堂与市集》、《如何成为一名黑客》、《开拓智域》、《魔法大锅炉》。<br>他的另一个代表作是《UNIX编程艺术》（俺也上传了）。 ||
+|| 黑客与画家 || Hackers and Painters || [https://en.wikipedia.org/wiki/Paul_Graham_%28computer_programmer%29 Paul Graham] (保罗·格雷汉姆) || 简体PDF (扫描版)<br>简体EPUB<br>简体MOBI<br>英文PDF || 2013-04-06<br>2013-10-20<br>2014-02-23<br>2013-10-30 || 作者是知名Lisp黑客，和Robert Morris（另一个牛黑客）共同创办了Viaweb（该公司被 Yahoo 高价收购，成为Yahoo Store）。<br>他成立的风投（Y Combinator）在硅谷很有影响力，资助了大批技术型创业公司。<br>EPUB和MOBI版本由热心网友分享，特此鸣谢。 ||
 || 黑客<br>——计算机革命的英雄 || Hackers<br>——Heroes of the Computer Revolution || [https://en.wikipedia.org/wiki/Steven_Levy Steven Levy] || 简体PDF (扫描版) || 2014-01-28 || 此书介绍了计算机发展史上的重要黑客人物。<br>内容包括三部分：50/60年代在MIT的AI实验室的黑客、70年代在加州的硬件黑客、80年代在PC领域的游戏黑客。 ||
 
 == 8.3 信息安全 ==
@@ -1028,7 +1028,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1502 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/VftqeGFNIa/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 欺骗的艺术 || The Art of Deception<br>——Controlling the Human Element of Security || [https://en.wikipedia.org/wiki/Kevin_Mitnick Kevin Mitnick]<br>(凯文·米特尼克) || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || 作者号称"头号黑帽黑客"，其经历极具传奇色彩，比如15岁就侵入北美防空指挥系统。<br>此书是社会工程学领域最经典的著作（没有之一）。<br>没听说过"社会工程学"的同学，可以看[http://program-think.blogspot.com/2009/05/social-engineering-0-overview.html 俺博客的扫盲教程] ||
+|| 欺骗的艺术 || The Art of Deception<br>——Controlling the Human Element of Security || [https://en.wikipedia.org/wiki/Kevin_Mitnick Kevin Mitnick] (凯文·米特尼克) || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || 作者号称"头号黑帽黑客"，其经历极具传奇色彩，比如15岁就侵入北美防空指挥系统。<br>此书是社会工程学领域最经典的著作（没有之一）。<br>没听说过"社会工程学"的同学，可以看[http://program-think.blogspot.com/2009/05/social-engineering-0-overview.html 俺博客的扫盲教程] ||
 
 === 8.3.2 密码学 ===
 
@@ -1058,7 +1058,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1646 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Zes-B0Qewk/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%85%A5%E4%BE%B5 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 入侵的艺术 || The Art of Intrusion<br>——The Real Stories Behind the Exploits of Hackers, Intruders & Deceivers || [https://en.wikipedia.org/wiki/Kevin_Mitnick Kevin Mitnick]<br>(凯文·米特尼克) || 简体PDF (扫描版)<br>英文PDF || 2014-02-04<br>2014-01-09 || 作者号称"头号黑帽黑客"，其经历极具传奇色彩，比如15岁就侵入北美防空指挥系统。<br>此书是《欺骗的艺术》的姐妹篇。<br>图谋不轨的同学不要企图从此书中看到直接可用的、现成的攻击方法。<br>此书更多的是让外行人了解信息安全领域中，黑客和骇客的攻击手法。 ||
+|| 入侵的艺术 || The Art of Intrusion<br>——The Real Stories Behind the Exploits of Hackers, Intruders & Deceivers || [https://en.wikipedia.org/wiki/Kevin_Mitnick Kevin Mitnick] (凯文·米特尼克) || 简体PDF (扫描版)<br>英文PDF || 2014-02-04<br>2014-01-09 || 作者号称"头号黑帽黑客"，其经历极具传奇色彩，比如15岁就侵入北美防空指挥系统。<br>此书是《欺骗的艺术》的姐妹篇。<br>图谋不轨的同学不要企图从此书中看到直接可用的、现成的攻击方法。<br>此书更多的是让外行人了解信息安全领域中，黑客和骇客的攻击手法。 ||
 
 == 8.4 操作系统 ==
 
@@ -1068,7 +1068,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || UNIX 操作系统设计 ||  The Design of the UNIX Operating System || Maurice Bach || 简体PDF || 2013-10-21 || 作者长期在AT&T公司贝尔实验室（UNIX发源地）工作。<br>此书的内容主要来自作者在80年代讲授的一门课程<br>此书有助于了解UNIX内核的运作机制（进程调度、内存管理、文件系统、等等）。 ||
-|| 深入理解 Linux 内核 || Understanding the Linux Kernel || Daniel Bovet & Marco Cesati || 英文PDF (3rd edition)<br>英文CHM (3rd edition) || 2013-12-06<br>2013-10-21 || 此书有助于了解Linux内核的运作机制（进程调度、内存管理、文件系统、等等）。<br>此书的第3版对应Linux内核2.6版本。 ||
+|| 深入理解 Linux 内核 || Understanding the Linux Kernel || Daniel Bovet<br>Marco Cesati || 英文PDF (3rd edition)<br>英文CHM (3rd edition) || 2013-12-06<br>2013-10-21 || 此书有助于了解Linux内核的运作机制（进程调度、内存管理、文件系统、等等）。<br>此书的第3版对应Linux内核2.6版本。 ||
 || Linux 与 UNIX Shell 编程指南 || Linux and UNIX Shell Programming || David Tansley || 简体PDF (扫描版) || 2013-12-06 || 这本书可以作为命令行界面的入门。<br>虽然书名中有"编程"二字，可不要给这两字吓住喽。 ||
 || 鸟哥的 Linux 私房菜 || || 鸟哥 || 简体PDF || 2013-12-06 || [http://linux.vbird.org/ 鸟哥的Linux私房菜] 是一个蛮有名的 Linux 站点，适合初学者。<br>此书汇总了他网站的内容，电子书是2009年制作。<br>如有更新的版本，俺会再上传。 ||
 || Linux 从入门到精通 || || || 简体PDF (扫描版) || 2013-12-06 || 这本书是1999年出版，有点老。<br>不过 Linux 的很多基本操作长年不变，所以本书还是有参考价值。 ||
@@ -1081,7 +1081,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1504 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/z--sDGv6mi/IT/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| TCP-IP 详解<br>(共三卷) || TCP-IP Illustrated || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens]<br>(理查德·史蒂文斯) || 卷1 英文CHM<br>卷1 简体PDF<br>卷2 简体PDF<br>卷3 简体PDF || 2013-10-21<br>2013-10-21<br>2013-10-26<br>2013-10-26 || 作者是UNIX领域和网络领域的大牛，著有多部畅销的技术书籍。<br>关于TCP-IP协议族的书籍中，这三卷大概是影响力最大的（没有之一）。 ||
+|| TCP-IP 详解<br>(共三卷) || TCP-IP Illustrated || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] (理查德·史蒂文斯) || 卷1 英文CHM<br>卷1 简体PDF<br>卷2 简体PDF<br>卷3 简体PDF || 2013-10-21<br>2013-10-21<br>2013-10-26<br>2013-10-26 || 作者是UNIX领域和网络领域的大牛，著有多部畅销的技术书籍。<br>关于TCP-IP协议族的书籍中，这三卷大概是影响力最大的（没有之一）。 ||
 
 == 8.6 IT 公司 ==
 
@@ -1092,9 +1092,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || Borland 传奇 || || 李维 || 简体CHM || 2013-10-22 || 此书介绍了 Borland 的传奇经历，也可以从此书一窥微软的发家史。<br>90后的程序员可能对Borland所知不多。但是俺这个年龄的程序员对Borland可是如雷贯耳。 ||
 || DOOM 启世录 || Masters of Doom || [https://en.wikipedia.org/wiki/David_Kushner David Kushner] || 简体CHM || 2013-11-26 || 此书介绍了两个约翰（约翰·罗梅洛 & 约翰·卡马克）打造 [https://en.wikipedia.org/wiki/Id_Software id Software] 的传奇。<br>该公司发布的 Doom 和 Quake 堪称游戏史上的里程碑。<br>通过此书也可一窥电子游戏的早期历史。<br>顺便说一下：这个中文书名起得不好，常被误看成"启示录"。 ||
 
-== 8.6 (其它) ==
+== 8.7 (其它) ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1634 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/g3GZPge9Os/IT/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 失控<br>——全人类的最终命运和结局 || Out of Control<br>——The New Biology of Machines, Social Systems, and the Economic World || [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E5%87%AF%E5%88%A9 凯文·凯利]<br>(英文名 Kevin Kelly 简称 KK) || 简体EPUB || 2014-01-09 || 作者是IT行业的大牛，具有如下头衔：《全球概览》（乔布斯最爱的杂志）的主编、出版人；《连线》杂志（Wired）的第一任主编；参与发起首届"黑客大会"。<br>此书是他名气最大的一本著作，对很多方面有深入思考，包括：人类社会、生态系统、进化论、人工智能、互联网、等等。<br>此书很难归类，暂且放到"其它"。 ||
+|| 失控<br>——全人类的最终命运和结局 || Out of Control<br>——The New Biology of Machines, Social Systems, and the Economic World || [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E5%87%AF%E5%88%A9 凯文·凯利] (Kevin Kelly / KK) || 简体EPUB || 2014-01-09 || 作者是IT行业的大牛，具有如下头衔：《全球概览》（乔布斯最爱的杂志）的主编、出版人；《连线》杂志（Wired）的第一任主编；参与发起首届"黑客大会"。<br>此书是他名气最大的一本著作，对很多方面有深入思考，包括：人类社会、生态系统、进化论、人工智能、互联网、等等。<br>此书很难归类，暂且放到"其它"。 ||
