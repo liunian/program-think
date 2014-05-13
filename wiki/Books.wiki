@@ -981,7 +981,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || UNIX 编程艺术 || The Art of UNIX Programming || [https://en.wikipedia.org/wiki/Eric_S._Raymond Eric Raymond] (埃里克·雷蒙德) || 简体PDF || 2013-10-20 || 作者是知名黑客，开源运动的旗手。<br>这是他的代表作，书名简称"TAOUP"。<br>此书重点不在"编程"，而是介绍UNIX的哲学、设计思想、理念（俺觉得这些更重要，也更持久）。<br>他的另一个代表作是《五部曲》（俺也上传了）。 ||
-|| UNIX 环境高级编程 ||  Advanced Programming in the UNIX Environment || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] (理查德·史蒂文斯)<br>Stephen Rago || 英文PDF (3nd edition)<br>英文CHM (2nd edition) || 2013-11-14<br>2013-10-21 || 第一作者是UNIX领域和网络领域的大牛，著有多部畅销的技术书籍。<br>此书被誉为"UNIX编程的圣经"。<br>第2版是2005年出的，补充了一些新的技术，第3版是2013年新鲜出炉的。 ||
+|| UNIX 环境高级编程 ||  Advanced Programming in the UNIX Environment || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] (理查德·史蒂文斯)<br>Stephen Rago || 简体PDF (第2版 扫描版)<br>英文PDF (3nd edition)<br>英文CHM (2nd edition) || 2014-05-13<br>2013-11-14<br>2013-10-21 || 第一作者是UNIX领域和网络领域的大牛，著有多部畅销的技术书籍。<br>此书被誉为"UNIX编程的圣经"。<br>第2版是2005年出的，补充了一些新的技术，第3版是2013年新鲜出炉的。 ||
 || || UNIX Systems Programming<br>——Communication, Cocurrency, and Threads || Kay Robbins<br>Steven Robbins || 英文CHM || 2013-10-21 || 这本主要是讲UNIX环境下的并发编程和进程间通讯。 ||
 
 ==== 8.1.4.2 Windows ====
@@ -989,7 +989,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1498 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/y_ZiHG1wZx/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/Windows Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| Windows 核心编程 || Programming Applications for Windows || [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] || 英文CHM || 2013-10-21 || 在Win32系统编程中，这可能是影响力最大的一本。<br>当年俺也是看这本书，从Win16编程转型到Win32编程。<br>今天时间仓促，过几天把中文版也放上来。 ||
+|| Windows 核心编程 || Programming Applications for Windows || [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] || 简体PDF<br>英文CHM || 2014-05-13 <br>2013-10-21 || 在Win32系统编程中，这可能是影响力最大的一本。<br>当年俺也是看这本书，从Win16编程转型到Win32编程。<br>俺顺便上传了附书的源代码。 ||
 
 === 8.1.5 网络相关 ===
 
