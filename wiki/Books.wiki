@@ -650,9 +650,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1145 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/-nuOKtRT0N/%E5%8E%86%E5%8F%B2/%E4%B8%96%E7%95%8C%E5%8F%B2 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 全球通史<br>——从史前史到21世纪 || A Global History<br>——From Prehistory to the 21st Century || [https://zh.wikipedia.org/wiki/L%C2%B7S%C2%B7%E6%96%AF%E5%A1%94%E5%A4%AB%E9%87%8C%E9%98%BF%E8%AF%BA%E6%96%AF 斯塔夫里阿诺斯] || 简体PDF (上下)<br>简体CHM || 2013-02-27<br>2013-02-07 || 作者是加拿大知名历史学家。<br>此书的知名度很高，至今已出到第7版。<br>此书的特色在于：将整个世界看做一个不可分割的整体，从全球的角度来叙述各个文明的产生和发展。<br>美国许多大学已把此书列为大学基础课程教材。 ||
-|| 枪炮、病菌与钢铁<br>——人类社会的命运 || Guns, Germs, and Steel<br>——The Fates of Human Societies || [https://zh.wikipedia.org/wiki/%E8%B3%88%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99 贾雷德·戴蒙德] || 简体PDF (大字版)<br>简体EPUB<br>简体CHM<br>英文PDF || 2013-04-20<br>2013-09-13<br>2013-02-05<br>2013-02-05 || 作者是美国生物学家、生物地理学家。此书是他的代表作。<br>此书用通俗的笔法讲述了人类发展史。<br>书中分析了：为啥只有欧亚大陆的文明一直延续下来，为啥最终是欧洲殖民者征服了全球？<br>不是因为人种的差异，而是因为地理因素的差异。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 崩溃<br>——社会如何选择成败兴亡 || Collapse<br>——How Societise Choose to Fail or Succeed || [https://zh.wikipedia.org/wiki/%E8%B3%88%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99 贾雷德·戴蒙德] || 简体PDF (大字版) || 2013-04-20 || 作者是美国生物学家、生物地理学家。此书是他的代表作。<br>此书用通俗的笔法讲述了人类发展史 。<br>此书是作者继《枪炮、病菌与钢铁》之后的又一本人类史的著作。<br>书中介绍了若干走向灭亡的古文明（玛雅、维京、等），并分析了其社会崩溃的原因。 ||
+|| 全球通史<br>——从史前史到21世纪 || A Global History<br>——From Prehistory to the 21st Century || [https://zh.wikipedia.org/wiki/L%C2%B7S%C2%B7%E6%96%AF%E5%A1%94%E5%A4%AB%E9%87%8C%E9%98%BF%E8%AF%BA%E6%96%AF 斯塔夫里阿诺斯] (加) || 简体PDF (上下)<br>简体CHM || 2013-02-27<br>2013-02-07 || [http://goo.gl/UR35JR 简介] ||
+|| 枪炮、病菌与钢铁<br>——人类社会的命运 || Guns, Germs, and Steel<br>——The Fates of Human Societies || [https://zh.wikipedia.org/wiki/%E8%B3%88%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99 贾雷德·戴蒙德] (美) || 简体PDF (大字版)<br>简体EPUB<br>简体CHM<br>英文PDF || 2013-04-20<br>2013-09-13<br>2013-02-05<br>2013-02-05 || [http://goo.gl/3JWj0V 简介] ||
+|| 崩溃<br>——社会如何选择成败兴亡 || Collapse<br>——How Societise Choose to Fail or Succeed || (同上) || 简体PDF (大字版) || 2013-04-20 || [http://goo.gl/qkwb3T 简介] ||
 
 == 3.2 中国 ==
 
@@ -661,51 +661,51 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1632 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/XDfIMwZDjo/%E5%8E%86%E5%8F%B2/%E4%B8%AD%E5%9B%BD/%E5%8F%A4%E4%BB%A3%E5%8F%B2 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 资治通鉴(全译本) || || 司马光(原著)<br> [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏杨](译) || 简体EPUB || 2013-09-13 || 这本书的名气很大，就不介绍了。<br>这个电子版是柏杨的白话版。 ||
-|| 中国历代政治得失 || || [https://zh.wikipedia.org/wiki/%E9%8C%A2%E7%A9%86 钱穆] || 简体EPUB<br>简体TXT || 2013-09-14<br>2013-08-22 || 作者是知名历史学家，中华民国中央研究院院士。<br>此书是作者的演讲合集，时间上包括"汉唐宋明清"等朝代。<br>内容上包括："政府的组织、职权、监察、赋税、兵役"等方面。 ||
-|| 中国大历史 || China<br>——A Macro History || [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || 简体PDF || 2013-02-05 || 作者是知名历史学家。<br>黄仁宇强调大历史观（macro-history），抛开历史人物的善恶，抛开意识形态，从技术角度分析历史走向。<br>此书特别能反映作者的大历史观。 ||
-|| 潜规则<br>——中国历史中的真实游戏 || || [https://zh.wikipedia.org/wiki/%E5%90%B4%E6%80%9D 吴思] || 简体PDF<br>简体EPUB<br>简体CHM<br>简体MOBI || 2013-02-27<br>2013-09-13<br>2013-02-07<br>2014-02-23 || 作者是知名作家，《炎黄春秋》杂志的主编、副社长。<br>此书是他的代表作。如今广为流传的"潜规则"一词，就是出自此书。<br>作者总结出了中国古代政坛/官场的种种隐形规律。<br>EPUB和MOBI版本由热心网友分享，特此鸣谢。 ||
-|| 血酬定律<br>——中国历史中的生存游戏 || || (同上) || 简体PDF<br>简体MOBI<br>简体TXT || 2014-01-09<br>2014-02-23<br>2013-08-22 || 作者是知名作家，《炎黄春秋》杂志的主编、副社长。<br>此书可以算是《潜规则》的姐妹篇，不过名气没那么大。<br>MOBI版本由热心网友分享，特此鸣谢。 ||
-|| 兴盛与危机<br>——论中国社会超稳定结构 || || [https://zh.wikipedia.org/wiki/%E9%87%91%E8%A7%80%E6%BF%A4 金观涛] & 刘青峰 || 简体PDF || 2013-02-07 || 作者是一对夫妻。金观涛曾经担任知名纪录片《河殇》的顾问。因为六四事件而流亡海外。<br>此书分析了中国"封建社会"（严格来讲，是秦朝到清朝）几千年的朝代更迭，却始终停滞不前的原因。 ||
-|| 万历十五年 || 1587, A Year Of No Significance || [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || 简体PDF || 2014-01-08 || 作者是知名历史学家。<br>此书是其成名作，书中的观点很有新意。<br>作者认为，虽然万历十五年没发生啥大事，但却是明朝灭亡的起点。 ||
-|| 明朝那些事 || || [https://zh.wikipedia.org/wiki/%E5%BD%93%E5%B9%B4%E6%98%8E%E6%9C%88 当年明月] (原名：石悦) || 简体EPUB || 2013-09-14 || 作者最先在天涯社区连载此书，一炮走红。<br>此书用通俗的语言，从头到尾详细介绍了明朝的历史。 ||
+|| 资治通鉴(全译本) || || 司马光 (原著)<br> [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏杨] (译) || 简体EPUB || 2013-09-13 || [http://goo.gl/sL17g2 简介] ||
+|| 中国历代政治得失 || || [https://zh.wikipedia.org/wiki/%E9%8C%A2%E7%A9%86 钱穆] || 简体EPUB<br>简体TXT || 2013-09-14<br>2013-08-22 || [http://goo.gl/2bGJwQ 简介] ||
+|| 中国大历史 || China<br>——A Macro History || [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || 简体PDF || 2013-02-05 || [http://goo.gl/Qvb8GI 简介] ||
+|| 万历十五年 || 1587, A Year Of No Significance || (同上) || 简体PDF || 2014-01-08 || [http://goo.gl/0FwwXP 简介] ||
+|| 潜规则<br>——中国历史中的真实游戏 || || [https://zh.wikipedia.org/wiki/%E5%90%B4%E6%80%9D 吴思] || 简体PDF<br>简体EPUB<br>简体CHM<br>简体MOBI || 2013-02-27<br>2013-09-13<br>2013-02-07<br>2014-02-23 || [http://goo.gl/8Nefb4 简介] ||
+|| 血酬定律<br>——中国历史中的生存游戏 || || (同上) || 简体PDF<br>简体MOBI<br>简体TXT || 2014-01-09<br>2014-02-23<br>2013-08-22 || [http://goo.gl/h99ssK 简介] ||
+|| 兴盛与危机<br>——论中国社会超稳定结构 || || [https://zh.wikipedia.org/wiki/%E9%87%91%E8%A7%80%E6%BF%A4 金观涛]<br>刘青峰 || 简体PDF || 2013-02-07 || [http://goo.gl/yGdztz 简介] ||
+|| 明朝那些事 || || [https://zh.wikipedia.org/wiki/%E5%BD%93%E5%B9%B4%E6%98%8E%E6%9C%88 当年明月] (原名：石悦) || 简体EPUB || 2013-09-14 || [http://goo.gl/j76XAZ 简介] ||
 
 === 3.2.2 近代史 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1633 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/OYyQBcgdYS/%E5%8E%86%E5%8F%B2/%E4%B8%AD%E5%9B%BD/%E8%BF%91%E4%BB%A3%E5%8F%B2 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 《炎黄春秋》合订本<br>(1999 - 2010) || || || 简体EPUB<br>(12本) || 2013-09-11 || 《炎黄春秋》1991年创刊，是蛮有影响力的综合性月刊。<br>主要刊登历史类的文章（尤其是中国近现代史）。<br>风格明显倾向政治自由派，以敢言著称，屡被中宣部查禁。能活到今天，实属不易。<br>这12本epub由热心网友分享下载链接，特此鸣谢。 ||
-|| 中国近代史大纲 || Outline of Modern Chinese History || [https://zh.wikipedia.org/wiki/%E8%94%A3%E5%BB%B7%E9%BB%BB 蒋廷黻] || 简体PDF || 2014-01-09 || 作者是民国时期历史学家，曾任清华大学历史系主任、文学院院长等职。<br>此书写于1938年。篇幅不长，但学术界评价很高——<br>号称"开创了中国近代史研究的主流框架"。 ||
-|| 中国近代史 || The Rise of Modern China || [https://zh.wikipedia.org/wiki/%E5%BE%90%E4%B8%AD%E7%B4%84 徐中约] || 简体PDF (上下)<br>简体EPUB || 2013-03-22<br>2013-03-22<br>2013-09-13 || 作者是美国加州大学历史系教授。<br>此书是美国大学研究中国问题的常用教科书。<br>由于政治原因，在中国出版的是删减本。<br>PDF/EPUB皆由热心网友分享，特此鸣谢。 ||
-|| 重说中国近代史 || || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E9%B3%B4_%28%E5%AD%B8%E8%80%85%29 张鸣] || 简体EPUB || 2013-09-14 || 作者是人民大学政治系教授，在新浪微博上很有名。<br>此书算是普及性读物，从太平天国讲到北洋政府，澄清了近代史的一些误解。 ||
-|| 民国人物过眼录 || || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%A5%8E%E6%9D%BE 杨奎松] || 简体PDF (扫描版) || 2014-02-21 || 作者是北大历史系教授，中国社会科学院近代史研究所研究员，中央党校《党史研究》编辑。<br>此书收录的文章，形式比较杂，既有学术论文、现场讲座，也有一些随笔。<br>内容比较通俗，涉及中共早期党史、抗战史、共产国际在华活动，等。 ||
-|| 重返五四现场<br>——1919，一个国家的青春记忆 || || 叶曙明 || 简体PDF (扫描版) || 2013-05-01 || [https://zh.wikipedia.org/wiki/%E4%BA%94%E5%9B%9B%E8%BF%90%E5%8A%A8 五四运动]是中国近代史的一个关键点。<br>此书有助于了解五四运动前后的历史细节。 ||
-|| 曠世風雷一夢痕<br>──九十年人生經歷見證 || || 王思誠 || 繁體PDF (竪排掃描版) || 2013-07-07 || 作者长期在国民党中统任要职，49年撤往台湾。<br>此书提供了国民党官员的视角，来看待民国历史。<br>PDF版本由热心网友分享，特此鸣谢。 ||
+|| 《炎黄春秋》合订本<br>(1999 - 2010) || || || 简体EPUB<br>(12本) || 2013-09-11 || [http://goo.gl/2zuK7n 简介] ||
+|| 中国近代史大纲 || Outline of Modern Chinese History || [https://zh.wikipedia.org/wiki/%E8%94%A3%E5%BB%B7%E9%BB%BB 蒋廷黻] || 简体PDF || 2014-01-09 || [http://goo.gl/OvUf4l 简介] ||
+|| 中国近代史 || The Rise of Modern China || [https://zh.wikipedia.org/wiki/%E5%BE%90%E4%B8%AD%E7%B4%84 徐中约] || 简体PDF (上下)<br>简体EPUB || 2013-03-22<br>2013-03-22<br>2013-09-13 || [http://goo.gl/EjC0P1 简介] ||
+|| 重说中国近代史 || || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E9%B3%B4_%28%E5%AD%B8%E8%80%85%29 张鸣] || 简体EPUB || 2013-09-14 || [http://goo.gl/fTZnyN 简介] ||
+|| 民国人物过眼录 || || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%A5%8E%E6%9D%BE 杨奎松] || 简体PDF (扫描版) || 2014-02-21 || [http://goo.gl/PWSxql 简介] ||
+|| 重返五四现场<br>——1919，一个国家的青春记忆 || || 叶曙明 || 简体PDF (扫描版) || 2013-05-01 || [http://goo.gl/iMeCdW 简介] ||
+|| 旷世风雷一梦痕<br>——九十年人生经历见证 || || 王思诚 || 繁體PDF (竪排掃描版) || 2013-07-07 || [http://goo.gl/OOS8jr 简介] ||
 
 == 3.3 古希腊 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1147 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/0kyY_iKR2F/%E5%8E%86%E5%8F%B2/%E5%8F%A4%E5%B8%8C%E8%85%8A Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 希腊城邦制度<br>——读希腊史笔记 || || [https://zh.wikipedia.org/wiki/%E9%A1%A7%E5%87%86 顾准] || 简体PDF || 2013-02-07 || 作者是中国当代的思想家，经济学家。<br>虽然作者不是历史学家，但对历史颇有研究颇有心得。<br>此书是顾准阅读希腊史的笔记，顾准逝世后由其弟整理遗稿，之后出版。 ||
-|| 亚历山大远征记 || Anabasis Alexandri || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] || 简体PDF || 2013-02-07 || 作者是古希腊历史学家。<br>此书详细记述了亚历山大大帝十年东征的经过。<br>亚历山大东征开创了"[https://zh.wikipedia.org/wiki/%E5%B8%8C%E8%87%98%E5%8C%96%E6%99%82%E4%BB%A3 希腊化时代]"，对人类历史具有深远影响。 ||
+|| 希腊城邦制度<br>——读希腊史笔记 || || [https://zh.wikipedia.org/wiki/%E9%A1%A7%E5%87%86 顾准] || 简体PDF || 2013-02-07 || [http://goo.gl/7UnfRU 简介] ||
+|| 亚历山大远征记 || Anabasis Alexandri || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] (古罗马) || 简体PDF || 2013-02-07 || [http://goo.gl/Kv4Ltu 简介] ||
 
 == 3.4 古罗马 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1148 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/fCkm6lmHnI/%E5%8E%86%E5%8F%B2/%E5%8F%A4%E7%BD%97%E9%A9%AC Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 罗马帝国衰亡史 || The History of the Decline and Fall of the Roman Empire || [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E5%90%89%E6%9C%AC 爱德华·吉本] || 简体PDF (6卷扫描版)<br>简体EPUB<br>简体CHM<br>简体PDF (上下册 节译) || 2013-11-26<br>2013-09-14<br>2013-02-07<br>2013-02-07 || 作者是200多年前的英国历史学家。<br>此书堪称是古罗马历史的巨著，共6卷。<br>内容不但丰富，而且严谨。历时200多年，但尚未发现有明显的错误。足见作者考证的功力。<br>原书的内容极其丰富。在俺上传的几种格式中，6卷的扫描版PDF应该是最全。其它格式可能不全。 ||
-|| 罗马盛衰原因论 ||  || [https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%BE%B7%E6%96%AF%E9%B8%A0 孟德斯鸠] || 简体PDF || 2013-02-07 || 作者是法国启蒙思想家，政治理论家，西方法学理论奠基人。<br>此书从政治、文化等多个角度，分析了古罗马兴盛和衰亡的原因。 ||
+|| 罗马帝国衰亡史 || The History of the Decline and Fall of the Roman Empire || [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E5%90%89%E6%9C%AC 爱德华·吉本] (英) || 简体PDF (6卷 扫描版)<br>简体EPUB<br>简体CHM<br>简体PDF (上下册 节译) || 2013-11-26<br>2013-09-14<br>2013-02-07<br>2013-02-07 || [http://goo.gl/wr5fTG 简介] ||
+|| 罗马盛衰原因论 || Considerations on the Causes<br> of the Grandeur and Decadence of the Romans || [https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%BE%B7%E6%96%AF%E9%B8%A0 孟德斯鸠] (法) || 简体PDF || 2013-02-07 || [http://goo.gl/ADBZVX 简介] ||
 
 == 3.4 德国 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1152 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/vvUnRECF7d/%E5%8E%86%E5%8F%B2/%E5%BE%B7%E5%9B%BD Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 第三帝国的兴亡 || The Rise and Fall of the Third Reich || [https://en.wikipedia.org/wiki/William_L._Shirer 威廉·夏伊勒] || 简体PDF (上中下)<br>简体EPUB || 2013-02-22<br>2013-09-13 || 作者是美国记者，世界现代史学家。<br>此书详细介绍了希特勒的纳粹德国从兴起到崩溃的全过程。<br>作者收集了许多第三帝国的第一手资料，本书是该领域的权威著作。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 希特勒的民族帝国<br>——劫掠、种族战争和纳粹主义 || || 格茨·阿利 || 简体PDF (扫描版) || 2013-08-21 || 此书着重从内政方面分析纳粹帝国。<br>包括纳粹如何赢得民众的广泛支持、如何解决经济和社会问题、等等。<br>PDF版本由热心网友分享，特此鸣谢。 ||
+|| 第三帝国的兴亡 || The Rise and Fall of the Third Reich || [https://en.wikipedia.org/wiki/William_L._Shirer 威廉·夏伊勒] (美) || 简体PDF (上中下)<br>简体EPUB || 2013-02-22<br>2013-09-13 || [http://goo.gl/nziQjN 简介] ||
+|| 希特勒的民族帝国<br>——劫掠、种族战争和纳粹主义 || Hitler's Beneficiaries<br>——Plunder, Racial War, and the Nazi Welfare State || [https://en.wikipedia.org/wiki/G%C3%B6tz_Aly 格茨·阿利] (德) || 简体PDF (扫描版) || 2013-08-21 || [http://goo.gl/4H11p9 简介] ||
 
 
 <hr>
@@ -721,48 +721,48 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1639 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/nxrxtTtOF6/%E7%BB%8F%E6%B5%8E/%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E7%90%86%E8%AE%BA Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 国富论<br>(国民财富的性质和原因) || The Wealth of Nations || [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] || 简体CHM || 2013-04-09 || 亚当·斯密堪称现代经济学之父，此书是他的代表作，也是经济学专业必读著作。<br>国富论强调市场的自我调节，反对政府对经济的管制。<br>此书还率先提出了"看不见的手"这个概念。 ||
-|| 经济学 || Economics || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 保罗·萨缪尔森] & [https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%AF%BA%E5%BE%B7%E8%B1%AA%E6%96%AF 威廉·诺德豪斯] || 简体PDF (第18版 扫描版) || 2014-02-13 || 作者是知名经济学家，凯恩斯学派在美国的代表人物。<br>1948年出版，至今已出了19版，译成40种语言。足见其影响力。<br>此书的每个新版本都会修订不少内容，做到了与时俱进。<br>第18版的目录从26页开始。 ||
-|| 经济学原理 || Principles of Economics || [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9B%BC%E6%98%86 格里高利·曼昆] || 简体PDF (第5版 扫描版) || 2013-02-22 || 作者是美国经济学家，29岁成哈佛大学史上最年轻终身教授。<br>单凭后面这一条，足见其牛逼过人。<br>此书的受欢迎程度不亚于萨缪尔森的那本《经济学》。<br>哈佛、耶鲁、斯坦福等名校都用此书做教材。<br>上传的是第5版，分"宏观分册"和"微观分册"。 ||
-|| 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 约翰·梅纳德·凯恩斯] || 简体PDF || 2014-02-22 || 作者是非常著名的英国经济学家，创立了"凯恩斯学派/凯恩斯主义"。<br>此书是其代表作，奠定"宏观经济学"的基础。 ||
-|| 个人主义与经济秩序 || Individualism and Economic Order || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || 简体PDF<br>简体EPUB || 2013-04-10<br>2013-09-13 || 作者是英国知名经济学家和政治哲学家，奥地利经济学派最有影响力的成员。<br>他一贯坚持自由市场资本主义和个人主义、反对社会主义和集体主义。<br>此书开篇就详述了什么是"个人主义"以及对"个人主义"种种误解。<br>然后以"个人主义"为出发点，分析了为啥需要基于自由竞争的市场经济。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 市场经济<br>——大师们的思考 || || 詹姆斯·多蒂 & 德威特·李 || 简体PDF (扫描版) || 2013-04-09 || 本书的两位作者倾向于古典自由主义。<br>此书摘录了多位知名经济学家关于自由市场的文章，另外也包括两位作者自己写的文章。 ||
-|| 以自由看待发展 || Development as Freedom || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] || 简体PDF (扫描版) || 2013-04-09 || 作者是印度经济学家，剑桥大学三一学院院长，诺贝尔奖获得者。<br>此书的核心观点是：经济发展的本质就是自由的增长。<br>此书从经济、政治、文化等方面阐述这一观点。<br>目录从35页开始。 ||
+|| 国富论<br>(国民财富的性质和原因) || The Wealth of Nations || [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] (英) || 简体CHM || 2013-04-09 || [http://goo.gl/UKlCBO 简介] ||
+|| 经济学 || Economics || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 保罗·萨缪尔森] (美)<br>[https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%AF%BA%E5%BE%B7%E8%B1%AA%E6%96%AF 威廉·诺德豪斯] (美) || 简体PDF (第18版 扫描版) || 2014-02-13 || [http://goo.gl/2ry1in 简介] ||
+|| 经济学原理 || Principles of Economics || [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9B%BC%E6%98%86 格里高利·曼昆] (美) || 简体PDF (第5版 扫描版) || 2013-02-22 || [http://goo.gl/KlA6cc 简介] ||
+|| 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 约翰·梅纳德·凯恩斯] (美) || 简体PDF || 2014-02-22 || [http://goo.gl/ejlYr5 简介] ||
+|| 个人主义与经济秩序 || Individualism and Economic Order || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] (英) || 简体PDF<br>简体EPUB || 2013-04-10<br>2013-09-13 || [http://goo.gl/8GoZrW 简介] ||
+|| 市场经济<br>——大师们的思考 || The Market Economy<br>——A Reader || 詹姆斯·多蒂 (美)<br>德威特·李 (美) || 简体PDF (扫描版) || 2013-04-09 || [http://goo.gl/54AN6y 简介] ||
+|| 以自由看待发展 || Development as Freedom || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] || 简体PDF (扫描版) || 2013-04-09 || [http://goo.gl/zloecR 简介] ||
 
 === 4.1.2 评论 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1640 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/BfdRPyIoyQ/%E7%BB%8F%E6%B5%8E/%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E8%AF%84%E8%AE%BA Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 资本主义与自由 || Capitalism and Freedom || [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%B0%94%E9%A1%BF%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E6%9B%BC 米尔顿·弗里德曼] || 简体PDF || 2014-02-13 || 作者是美国知名的经济学家，诺贝尔奖得主。主张自由放任的资本主义。<br>此书根据作者的一系列演讲整理而成，在理论界产生震撼性影响。<br>作者论述了："经济自由"是"政治自由"的基础，<br>为了确保"经济自由"，政府应该尽量减少对经济活动的干预。 ||
-|| 自由选择<br>(选择的自由) || Free to Choose<br>——A personal statement || [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%B0%94%E9%A1%BF%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E6%9B%BC 米尔顿·弗里德曼] || 简体PDF<br>简体EPUB<br>英文PDF || 2013-03-24<br>2013-09-13<br>2013-04-09 || 作者是美国知名的经济学家，诺贝尔奖得主。主张自由放任的资本主义。<br>此书用通俗的笔法，对常见的社会问题（医疗、教育、通胀、等）进行分析。<br>通过这些问题的分析，阐明了作者对经济"自由放任"的主张。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 充满灵性的经济学 || || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 保罗·萨缪尔森] || 简体PDF (扫描版) || 2013-04-09 || 作者是知名经济学家，凯恩斯学派在美国的代表人物。<br>此书收集了作者在不同时期的99篇评论性文章，涉及经济的各个方面。 ||
-|| 从来就没有救世主 || || [https://zh.wikipedia.org/wiki/%E8%AE%B8%E5%B0%8F%E5%B9%B4 许小年] || 简体PDF (扫描版) || 2013-04-09 || 作者是国内经济学家，美国加州大学经济学博士。<br>此书批判了凯恩斯主义，并分析了08年金融海啸的原因。<br>作者认为：金融危机是政府失灵不是市场失灵。 ||
+|| 资本主义与自由 || Capitalism and Freedom || [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%B0%94%E9%A1%BF%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E6%9B%BC 米尔顿·弗里德曼] (美) || 简体PDF || 2014-02-13 || [http://goo.gl/wmfmJE 简介] ||
+|| 自由选择<br>(选择的自由) || Free to Choose<br>——A personal statement || (同上) || 简体PDF<br>简体EPUB<br>英文PDF || 2013-03-24<br>2013-09-13<br>2013-04-09 || [http://goo.gl/TEymaB 简介] ||
+|| 充满灵性的经济学 || Economics from the Heart<br>——A Samuelson Sampler || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 保罗·萨缪尔森] (美) || 简体PDF (扫描版) || 2013-04-09 || [http://goo.gl/mY3e9r 简介] ||
+|| 从来就没有救世主 || || [https://zh.wikipedia.org/wiki/%E8%AE%B8%E5%B0%8F%E5%B9%B4 许小年] || 简体PDF (扫描版) || 2013-04-09 || [http://goo.gl/R7lzaQ 简介] ||
 
 === 4.1.3 通俗读物 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1641 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/I0KfzxWTPx/%E7%BB%8F%E6%B5%8E/%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E9%80%9A%E4%BF%97%E8%AF%BB%E7%89%A9 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 魔鬼经济学<br>——揭示隐藏在表象之下的真实世界 || Freakonomics<br>——A Rogue Economist Explores the Hidden Side of Everything || [https://zh.wikipedia.org/wiki/%E5%8F%B2%E8%92%82%E8%8A%AC%C2%B7%E5%88%97%E7%BB%B4%E7%89%B9 列维特] & 都伯纳 || 简体PDF (扫描版) || 2013-04-09 || 列维特是美国芝加哥大学经济学教授。<br>书中分析了很多常见的社会现象，其结论往往颠覆传统常识。<br>2005年出版后高居全美畅销书排行榜。 ||
-|| 经济为什么会崩溃<br>——鱼、美元与经济学的故事 || How an Economy Grows and Why It Crashes || [https://en.wikipedia.org/wiki/Peter_Schiff 彼得·希夫] & 安德鲁·希夫 || 简体PDF (扫描版) || 2014-03-31 || 作者是兄弟俩，出生于经济学世家。哥哥写过另一本畅销书《美元大崩溃》，弟弟安德鲁是金融方面的学者。<br>此书最大的特色是：非常通俗易懂。适合对经济学一窍不通的网友。<br>PDF版本由热心网友分享，特此鸣谢。 ||
-|| 生活中的经济学 || || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体EPUB || 2013-04-09<br>2013-09-13 || 作者是国内著名经济学家，提倡自由主义，曾获米尔顿·弗里德曼自由奖。<br>此书汇总了作者在中国社科院内部刊物上的专栏文章，内容比较通俗。<br>此书从微观经济、宏观经济、经济体制三个方面，介绍了美国的经济和社会生活。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
+|| 魔鬼经济学<br>——揭示隐藏在表象之下的真实世界 || Freakonomics<br>——A Rogue Economist Explores<br> the Hidden Side of Everything || [https://zh.wikipedia.org/wiki/%E5%8F%B2%E8%92%82%E8%8A%AC%C2%B7%E5%88%97%E7%BB%B4%E7%89%B9 列维特] (美)<br>都伯纳 (美) || 简体PDF (扫描版) || 2013-04-09 || [http://goo.gl/miPjUX 简介] ||
+|| 经济为什么会崩溃<br>——鱼、美元与经济学的故事 || How an Economy Grows and Why It Crashes || [https://en.wikipedia.org/wiki/Peter_Schiff 彼得·希夫] (美)<br>安德鲁·希夫 (美) || 简体PDF (扫描版) || 2014-03-31 || [http://goo.gl/vJHfcd 简介] ||
+|| 生活中的经济学 || || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体EPUB || 2013-04-09<br>2013-09-13 || [http://goo.gl/oA9syq 简介] ||
 
 == 4.2 经济学家 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1637 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/qhj0Xe7f87/%E7%BB%8F%E6%B5%8E/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 从马克思到凯恩斯 || Ten Great Economists from Marx to Keynes || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼得] || 简体PDF (扫描版) || 2013-04-09 || 作者是知名的政治经济学家，提出了经济周期理论和经济创新理论。<br>此书包含10篇文章，分别介绍10位知名的经济学家及其理论。 ||
+|| 从马克思到凯恩斯 || Ten Great Economists from Marx to Keynes || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼得] (奥) || 简体PDF (扫描版) || 2013-04-09 || [http://goo.gl/e86jjl 简介] ||
 
 == 4.3 投资 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1638 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/vs1NwgI4EK/%E7%BB%8F%E6%B5%8E/%E6%8A%95%E8%B5%84 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 证券分析 || Security Analysis || [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] & [https://en.wikipedia.org/wiki/David_Dodd 戴维·多德] || 简体PDF (扫描版)<br>简体EPUB || 2013-04-29<br>2013-09-13 || 本杰明·格雷厄姆号称"证券分析之父"，价值投资理论的奠基人。<br>他还是股神巴菲特的老师，并对巴菲特的投资理念产生重大影响。<br>此书虽然是1934年初版，至今仍被称为"价值投资领域的圣经"。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 聪明的投资者<br>(投资指南) || The Intelligent Investor || [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] || 简体PDF (扫描版) || 2014-02-20 || 本杰明·格雷厄姆号称"证券分析之父"，价值投资理论的奠基人。<br>他还是[https://zh.wikipedia.org/wiki/%E6%B2%83%E4%BC%A6%C2%B7%E5%B7%B4%E8%8F%B2%E7%89%B9 股神巴菲特]的老师，并对巴菲特的投资理念产生重大影响。<br>此书是《证券分析》的姐妹篇，比《证券分析》更通俗一些，适合门外汉。<br>此书虽然是1949年初版，至今仍未过时。 ||
-|| 金融炼金术 || The Alchemy of Finance || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E7%B4%A2%E7%BD%97%E6%96%AF 乔治·索罗斯] || 简体PDF<br>简体EPUB || 2013-04-29<br>2013-09-13 || 作者是大名鼎鼎的金融投资大鳄，此书是他的代表作，主要介绍他提出的"反身性理论"。<br>"反身性理论"认为：投资者对市场的认识必定是扭曲的（有缺陷的）；<br>这种扭曲的认识会影响市场，导致市场波动；<br>而市场的波动反过来会强化这种"扭曲"——这就是金融市场的"反身性"。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
+|| 证券分析 || Security Analysis || [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] (美)<br>[https://en.wikipedia.org/wiki/David_Dodd 戴维·多德] (美) || 简体PDF (扫描版)<br>简体EPUB || 2013-04-29<br>2013-09-13 || [http://goo.gl/IG7E0l 简介] ||
+|| 聪明的投资者<br>(投资指南) || The Intelligent Investor || [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] (美) || 简体PDF (扫描版) || 2014-02-20 || [http://goo.gl/OzKVTp 简介] ||
+|| 金融炼金术 || The Alchemy of Finance || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E7%B4%A2%E7%BD%97%E6%96%AF 乔治·索罗斯] (美) || 简体PDF<br>简体EPUB || 2013-04-29<br>2013-09-13 || [http://goo.gl/SIW1dT 简介] ||
 
 == 4.4 博弈论 ==
 
@@ -771,17 +771,17 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1643 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/lUmks7rw0M/%E7%BB%8F%E6%B5%8E/%E5%8D%9A%E5%BC%88%E8%AE%BA Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 策略思维<br>——商界、政界及日常生活中的策略竞争 || || 奈尔伯夫 & 迪克西特 || 简体PDF (扫描版) || 2014-01-09 || 此书面向不懂经济学的读者，介绍了基于博弈论的策略思维。<br>书中配有大量的案例，帮你加深理解。 ||
-|| 石头、剪刀、布<br>——趣味博弈论 || Rock, Paper, Scissors<br>——Game Theory in Everyday Life || 兰·费雪 || 简体PDF (扫描版) || 2014-04-06 || 此书也是博弈论的通俗读物，介绍了日常生活中的博弈场景。<br>书中介绍了：纳什均衡、最大最小化策略、各种互动困境、合作策略、等等。 ||
+|| 策略思维<br>——商界、政界及日常生活中的策略竞争 || Thinking Strategically<br>——The Competitive Edge<br> in Business, Politics, and Everyday Life || [https://en.wikipedia.org/wiki/Barry_Nalebuff Barry Nalebuff] (美)<br>[https://en.wikipedia.org/wiki/Avinash_Dixit Avinash Dixit] (美) || 简体PDF (扫描版) || 2014-01-09 || [http://goo.gl/63DJIm 简介] ||
+|| 石头、剪刀、布<br>——趣味博弈论 || Rock, Paper, Scissors<br>——Game Theory in Everyday Life || Len Fisher (英) || 简体PDF (扫描版) || 2014-04-06 || [http://goo.gl/IesRNM 简介] ||
 
 == 4.5 (其它) ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1642 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/6vfh1tkkSI/%E7%BB%8F%E6%B5%8E/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 世界是平的<br>——21世纪简史 || The World Is Flat<br>——A Brief History of the Twenty-first Century || [https://zh.wikipedia.org/wiki/%E6%B9%AF%E9%A6%AC%E6%96%AF%C2%B7%E4%BD%9B%E9%87%8C%E6%9B%BC 托马斯·弗里德曼] || 简体PDF (大字版) || 2014-01-09 || 作者是美国新闻记者，知名专栏作家。<br>此书的影响力很大，论述了全球化对人类社会的影响。<br>书中第二章直接点出了"抹平世界的十大推动力量"——书名由此而来。 ||
-|| 黑天鹅<br>——如何应对不可知的未来 || The Black Swan || [https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb 塔勒布] || 简体PDF || 2014-01-09 || 书名中的"黑天鹅"指不可预测的、稀缺的、重要事件（比如 911）。<br>作者强调了黑天鹅事件的"不可知性"，告诉你如何适应不可知的未来。<br>俺对书中的"极端斯坦/平均斯坦"理论印象很深。 ||
-|| 蓝海战略 || Blue Ocean Strategy || [https://en.wikipedia.org/wiki/W._Chan_Kim W. Chan Kim] || 简体PDF || 2013-12-31 || 作者是密歇根大学商学院教授，欧洲工商管理学院教授。<br>此书号称是阐述"21世纪新经济学"的代表性书籍，具有划时代意义。<br>书中着重对比了"传统恶性竞争"所代表的红海市场与"开创新兴市场"所代表的蓝海市场。<br>在《[http://program-think.blogspot.com/2014/01/misunderstanding-about-making-money.html 为啥急功近利反而赚不到钱——给拜金主义者的忠告]》一文中，俺也提到了"蓝海/红海"概念对个人的应用。 ||
+|| 世界是平的<br>——21世纪简史 || The World Is Flat<br>——A Brief History of the Twenty-first Century || [https://zh.wikipedia.org/wiki/%E6%B9%AF%E9%A6%AC%E6%96%AF%C2%B7%E4%BD%9B%E9%87%8C%E6%9B%BC 托马斯·弗里德曼] (美) || 简体PDF (大字版) || 2014-01-09 || [http://goo.gl/Kxnnhz 简介] ||
+|| 黑天鹅<br>——如何应对不可知的未来 || The Black Swan<br>——The Impact of the Highly Improbable || [https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb 塔勒布] (黎巴嫩) || 简体PDF || 2014-01-09 || [http://goo.gl/YlS5on 简介] ||
+|| 蓝海战略 || Blue Ocean Strategy || [https://en.wikipedia.org/wiki/W._Chan_Kim W. Chan Kim] (韩) || 简体PDF || 2013-12-31 || [http://goo.gl/C1M0eS 简介] ||
 
 
 <hr>
