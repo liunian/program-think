@@ -961,7 +961,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1514 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/eSL9ZTyGH_/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| Java 编程思想 || Thinking in Java || [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 英文PDF (4th edition)<br>简体PDF (第4版 扫描版) || 2013-10-21<br>2013-10-21 || 作者是知名的IT专栏作家，出版过C++、Java、Python的"Thinking in 系列"。<br>不同于很多庸俗的Java入门书仅仅介绍语法，此书还介绍Java更深层面的东西。 ||
+|| Java 编程思想 || Thinking in Java || [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 英文PDF (4th edition)<br>简体PDF (第4版 扫描版) || 2013-10-21<br>2014-05-18 || 作者是知名的IT专栏作家，出版过C++、Java、Python的"Thinking in 系列"。<br>不同于很多庸俗的Java入门书仅仅介绍语法，此书还介绍Java更深层面的东西。 ||
 
 === 8.1.3 算法和数据结构 ===
 
@@ -1069,7 +1069,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || UNIX 操作系统设计 ||  The Design of the UNIX Operating System || Maurice Bach || 简体PDF || 2013-10-21 || 作者长期在AT&T公司贝尔实验室（UNIX发源地）工作。<br>此书的内容主要来自作者在80年代讲授的一门课程<br>此书有助于了解UNIX内核的运作机制（进程调度、内存管理、文件系统、等等）。 ||
 || 深入理解 Linux 内核 || Understanding the Linux Kernel || Daniel Bovet<br>Marco Cesati || 英文PDF (3rd edition)<br>英文CHM (3rd edition) || 2013-12-06<br>2013-10-21 || 此书有助于了解Linux内核的运作机制（进程调度、内存管理、文件系统、等等）。<br>此书的第3版对应Linux内核2.6版本。 ||
-|| Linux 与 UNIX Shell 编程指南 || Linux and UNIX Shell Programming || David Tansley || 简体PDF (扫描版) || 2013-12-06 || 这本书可以作为命令行界面的入门。<br>虽然书名中有"编程"二字，可不要给这两字吓住喽。 ||
+|| Shell 脚本学习指南 || Classic Shell Scripting || Arnold Robbins<br>Nelson Beebe || 简体PDF (扫描版) || 2014-05-18 || 这本是很有名的 O'Reilly 出版的。可以作为 Linux/UNIX 系统中 Shell 脚本的入门。 ||
+|| Linux 与 UNIX Shell 编程指南 || Linux and UNIX Shell Programming || David Tansley || 简体PDF (扫描版) || 2013-12-06 || 这本书可以作为命令行界面的入门。<br>全书4个部分，前面3个部分都是讲比较基础的知识。第4部分才是讲 Shell 编程。 ||
 || 鸟哥的 Linux 私房菜 || || 鸟哥 || 简体PDF || 2013-12-06 || [http://linux.vbird.org/ 鸟哥的Linux私房菜] 是一个蛮有名的 Linux 站点，适合初学者。<br>此书汇总了他网站的内容，电子书是2009年制作。<br>如有更新的版本，俺会再上传。 ||
 || Linux 从入门到精通 || || || 简体PDF (扫描版) || 2013-12-06 || 这本书是1999年出版，有点老。<br>不过 Linux 的很多基本操作长年不变，所以本书还是有参考价值。 ||
 || Ubuntu 桌面培训 || || || 简体PDF || 2013-12-06 || 此书是关于 Ubuntu 发行版的入门教程（仅限于桌面环境）<br>PDF版本由热心网友分享，特此鸣谢。 ||
