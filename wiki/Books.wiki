@@ -177,7 +177,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1206 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/yXhdbcxDLt/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 通往奴役之路 || The Road to Serfdom || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] (英) || 简体PDF<br>简体EPUB<br>英文PDF || 2013-03-24<br>2013-09-13<br>2013-05-30 || [http://goo.gl/MvxH2e 简介] ||
+|| 通往奴役之路 || The Road to Serfdom || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] (英) || 简体PDF (台版)<br>简体PDF<br>简体EPUB<br>英文PDF || 2014-05-18<br>2013-03-24<br>2013-09-13<br>2013-05-30 || [http://goo.gl/MvxH2e 简介] ||
 || 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || (同上) || 简体PDF<br>简体EPUB || 2013-03-24<br>2013-09-13 || [http://goo.gl/F7ZJ3S 简介] ||
 || 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 米塞斯] (美) || 简体PDF (扫描版) || 2013-03-31 || [http://goo.gl/t1Jnzn 简介] ||
 
@@ -294,11 +294,11 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 文化大革命<br>——历史真相和集体记忆 || || 宋永毅(主编) || 简体PDF || 2012-10-05 || [http://goo.gl/fzLkYz 简介] ||
-|| 文化大革命的起源 || The Origins of the Cultural Revolution ||  [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (中文名：马若德) || 简体PDF (共2卷 扫描版) || 2013-03-30 || [http://goo.gl/aLQN06 简介] ||
-|| 毛泽东最后的革命 || Mao's Last Revolution || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (中文名：马若德)<br>沈迈克 || 简体PDF || 2012-12-09 || [http://goo.gl/Ep9BQa 简介] ||
+|| 文化大革命的起源 || The Origins of the Cultural Revolution ||  [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (英 中文名：马若德) || 简体PDF (共2卷 扫描版) || 2013-03-30 || [http://goo.gl/aLQN06 简介] ||
+|| 毛泽东最后的革命 || Mao's Last Revolution || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (英 中文名：马若德)<br>Michael Schoenhals (瑞典 中文名：沈迈克) || 简体PDF || 2012-12-09 || [http://goo.gl/Ep9BQa 简介] ||
 || 文化大革命十年史 || || 高皋<br>[https://zh.wikipedia.org/wiki/%E4%B8%A5%E5%AE%B6%E5%85%B6 严家其] || 简体PDF (扫描版) || 2012-12-10 || [http://goo.gl/n252mX 简介] ||
 || 形形色色的造反<br>——红卫兵精神素质的形成及演变 || || [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || 繁體PDF (掃描版) || 2013-06-22 || [http://goo.gl/191qw9 简介] ||
-|| 失落的一代<br>——中国的上山下乡运动(1968-1980) || The Lost Generation<br>——The Rustification of Chinese Youth<br> (1968-1980) || [https://zh.wikipedia.org/wiki/%E6%BD%98%E9%B8%A3%E5%95%B8 潘鸣啸] (法) || 简体PDF (扫描版) || 2013-08-11 || [http://goo.gl/32nj7B 简介] ||
+|| 失落的一代<br>——中国的上山下乡运动(1968-1980) || The Lost Generation<br>——The Rustification of Chinese Youth<br> (1968-1980) || [https://zh.wikipedia.org/wiki/%E6%BD%98%E9%B8%A3%E5%95%B8 潘鸣啸] (法) || 简体PDF (扫描版)<br>简体EPUB || 2013-08-11<br>2014-05-18 || [http://goo.gl/32nj7B 简介] ||
 || 文化大革命研究资料 || || 国防大学党史党建政工教研室 ||  简体PDF (上中下 扫描版) || 2013-11-30 || [http://goo.gl/aiVtvP 简介] ||
 || 文革研究 || || (多人) || 简体PDF || 2012-04-06 || [http://goo.gl/Zksp1c 简介] ||
 || 红卫兵档案 || || 吴过 || 简体PDF || 2012-04-06 || [http://goo.gl/SAZldd 简介] ||
