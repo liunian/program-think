@@ -293,7 +293,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!925 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/33fD91f_So/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E6%96%87%E9%9D%A9%E6%97%B6%E6%9C%9F Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 文化大革命<br>——历史真相和集体记忆 || || 宋永毅(主编) || 简体PDF || 2012-10-05 || [http://goo.gl/fzLkYz 简介] ||
+|| 文化大革命<br>——历史真相和集体记忆 || || 宋永毅 (主编) || 简体PDF || 2012-10-05 || [http://goo.gl/fzLkYz 简介] ||
 || 文化大革命的起源 || The Origins of the Cultural Revolution ||  [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (英 中文名：马若德) || 简体PDF (共2卷 扫描版) || 2013-03-30 || [http://goo.gl/aLQN06 简介] ||
 || 毛泽东最后的革命 || Mao's Last Revolution || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (英 中文名：马若德)<br>Michael Schoenhals (瑞典 中文名：沈迈克) || 简体PDF || 2012-12-09 || [http://goo.gl/Ep9BQa 简介] ||
 || 文化大革命十年史 || || 高皋<br>[https://zh.wikipedia.org/wiki/%E4%B8%A5%E5%AE%B6%E5%85%B6 严家其] || 简体PDF (扫描版) || 2012-12-10 || [http://goo.gl/n252mX 简介] ||
@@ -795,10 +795,10 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1182 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/gmCL113W89/%E5%86%9B%E4%BA%8B/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 战争论 || On War || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E5%85%8B%E5%8A%B3%E5%A1%9E%E7%BB%B4%E8%8C%A8 克劳塞维茨] || 简体PDF (共3卷) || 2013-03-22 || 作者是西方军事理论的鼻祖，此书是其代表作。<br>书中有很多持久不衰的观点，两百多年后依然没过时。<br>比如：战争是政治的延续，进攻是最好的防御 ||
-|| 战略论<br>——间接路线 || Strategy<br>——the indirect approach || [https://en.wikipedia.org/wiki/B._H._Liddell_Hart 李德·哈特] || 简体PDF || 2013-02-05 || 作者是著名军事理论家、战略学家。<br>这本书也是最能体现作者战略思想的一本，堪称代表作。<br>作者凭借此书获得"军事理论教皇"的美誉，其地位足以跟克劳塞维茨相提并论。 ||
-|| 海权论 || || [https://zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E8%B3%BD%E8%80%B6%C2%B7%E9%A6%AC%E6%BC%A2 马汉] || 简体PDF || 2013-03-22 || 作者是美国很有影响力的军事理论家，他特别强调制海权的重要性。<br>此书汇集了作者的4本著作：《[https://zh.wikipedia.org/wiki/%E6%B5%B7%E6%9D%83%E5%AF%B9%E5%8E%86%E5%8F%B2%E7%9A%84%E5%BD%B1%E5%93%8D1660-1783 海权对历史的影响]》、《欧洲的冲突》、《亚洲的问题》、《美国的利益》<br>第一本尤其出名，是目前为止关于海上战略最有影响力的著作。 ||
-|| 制空权 || The Command of the Air || [https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%88%A9%E6%AD%90%C2%B7%E6%9D%9C%E9%BB%91 杜黑] || 简体PDF || 2013-08-21 || 作者是意大利将军、军事理论家。<br>此书发表于一战刚结束不久，书中强调了空军和制空权在未来战争的重要性。<br>在世界军事理论界，此书跟马汉的《海权论》齐名。 ||
+|| 战争论 || On War || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E5%85%8B%E5%8A%B3%E5%A1%9E%E7%BB%B4%E8%8C%A8 克劳塞维茨] (普鲁士) || 简体PDF (共3卷) || 2013-03-22 || [http://goo.gl/DnZuMt 简介] ||
+|| 战略论<br>——间接路线 || Strategy<br>——the indirect approach || [https://en.wikipedia.org/wiki/B._H._Liddell_Hart 李德·哈特] (英) || 简体PDF || 2013-02-05 || [http://goo.gl/2goc9K 简介] ||
+|| 海权论 || The Influence of Sea Power upon History || [https://zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E8%B3%BD%E8%80%B6%C2%B7%E9%A6%AC%E6%BC%A2 马汉] (美) || 简体PDF || 2013-03-22 || [http://goo.gl/VGCfri 简介] ||
+|| 制空权 || The Command of the Air || [https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%88%A9%E6%AD%90%C2%B7%E6%9D%9C%E9%BB%91 杜黑] (意) || 简体PDF || 2013-08-21 || [http://goo.gl/kSZzVx 简介] ||
 
 == 5.2 现代军事史 ==
 
@@ -807,27 +807,27 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1185 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/JXPVTjFPbb/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E4%BA%8C%E6%88%98 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 第二次世界大战战史大全 || || [https://en.wikipedia.org/wiki/Arnold_J._Toynbee 阿诺德·汤因比] || 简体EPUB<br>简体CHM || 2013-09-13<br>2013-02-05 || 作者是英国著名历史学家，一生著作颇丰。<br>这本书实在太详尽了，完全不辜负书名中的"大全"二字。<br>光凭 纯文字的 chm 文件有10兆，你就能感觉到内容有多丰富了。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 第二次世界大战回忆录 || The Second World War || [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] || 简体EPUB<br>简体HTML || 2013-09-14<br>2013-03-22 || 作者是二战时的英国首相。<br>此书写于二战刚结束不久，共6卷，300万字。<br>其内容对于了解二战时期盟军高层的运作，很有帮助。<br>本书与法国首相戴高乐的《战争回忆录》并称为姐妹作。 ||
-|| 第二次世界大战的决定性战役 || || 汉斯·雅各布森(主编) || 简体CHM || 2013-08-22 || 此书包括了二战的10个关键性战役的详细介绍（含作战图）。 ||
+|| 第二次世界大战战史大全 || || [https://en.wikipedia.org/wiki/Arnold_J._Toynbee 阿诺德·汤因比] (英) || 简体EPUB<br>简体CHM || 2013-09-13<br>2013-02-05 || [http://goo.gl/kQ28TD 简介] (英) ||
+|| 第二次世界大战回忆录 || The Second World War || [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] (英) || 简体EPUB<br>简体HTML || 2013-09-14<br>2013-03-22 || [http://goo.gl/tIQUpS 简介] ||
+|| 第二次世界大战的决定性战役 || Decisive Battles of World War II<br>——The German View || Hans Jacobsen (美) || 简体CHM || 2013-08-22 || [http://goo.gl/GLomWp 简介] ||
 
 === 5.2.2 韩战 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1186 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/12zXa2bB7Y/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E9%9F%A9%E6%88%98 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 朝鲜战争<br>——李奇微回忆录 || The Korean War || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%BF%AE%C2%B7%E6%9D%8E%E5%A5%87%E5%BE%AE 李奇微] || 简体PDF || 2013-03-17 || 作者是美国名将，接替麦克阿瑟担任联合国军总司令。<br>李奇微在韩战中表现出色，阻止了中国志愿军的攻势，使志愿军遭受重大损失。<br>这本回忆录有助于从美国人的视角了解韩战。 ||
-|| 朝鮮戰爭揭秘 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || 繁體PDF (豎排掃描版) || 2013-02-02 || 作者是历史学者，对中苏关系和冷战史有深入研究，并且是研究韩战的权威学者。<br>此书介绍了韩战中一些 不太为人所知的内幕。 ||
-|| 朝鲜战争<br>——俄国档案馆的解密文件 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华](整理) || 简体PDF || 2013-07-30 || 这个PDF有699页，翻译自俄国档案馆解密文件，内容包含大量绝密电报，主要是苏联、中国、北朝鲜高层之间的往来电文。<br>通过此书内容，有助于了解斯大林、毛泽东、金日成这三个独裁者是如何策划朝鲜战争的。<br>俺的博文《[http://program-think.blogspot.com/2013/08/korean-war.html 谈谈真理部对朝鲜战争的忽悠]》引用了此书部分电报的内容。 ||
-|| 毛泽东、斯大林与朝鲜战争 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || 简体PDF<br>简体EPUB || 2013-07-30<br>2013-09-13 || 作者是历史学者，对中苏关系和冷战史有深入研究，并且是研究韩战的权威学者。<br>此书侧重介绍了朝鲜战争各方（美、中、苏）的高层决策。<br>EPUB版本由热心网友分享，特此鸣谢。 ||
-|| 远东朝鲜战争 || || 王树增 || 简体PDF || 2013-07-30 || 作者是中国比较有名的军旅作家。<br>国内出版的朝鲜战争书籍中，这是相对客观的一本——作者没有避讳志愿军的某些失败。<br>缺点是：本书的文字，感情色彩太浓，理性分析不足。 ||
+|| 朝鲜战争<br>——李奇微回忆录 || The Korean War || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%BF%AE%C2%B7%E6%9D%8E%E5%A5%87%E5%BE%AE 李奇微] || 简体PDF || 2013-03-17 || [http://goo.gl/BC0RnI 简介] ||
+|| 朝鲜战争揭秘 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || 繁體PDF (豎排掃描版) || 2013-02-02 || [http://goo.gl/50cAFa 简介] ||
+|| 朝鲜战争<br>——俄国档案馆的解密文件 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华](整理) || 简体PDF || 2013-07-30 || [http://goo.gl/nAfC3K 简介] ||
+|| 毛泽东、斯大林与朝鲜战争 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || 简体PDF<br>简体EPUB || 2013-07-30<br>2013-09-13 || [http://goo.gl/1kmcDa 简介] ||
+|| 远东朝鲜战争 || || 王树增 || 简体PDF || 2013-07-30 || [http://goo.gl/oB1Wsg 简介] ||
 
 === 5.2.3 越战 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1187 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Eal-rc9lMn/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%B6%8A%E6%88%98 Dropbox网盘]
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 中国秘密大发兵<br>——援越抗美实录 || 王贤根 || 简体PDF (扫描版) || 2013-02-05 || 当初写《[http://program-think.blogspot.com/2012/10/history-of-red-khmers.html 最"纯正"的共产主义政权——红色高棉简史]》参考过此书内容，顺便放上来。<br>扫描版，字迹有点模糊。 ||
+|| 中国秘密大发兵<br>——援越抗美实录 || 王贤根 || 简体PDF (扫描版) || 2013-02-05 || [http://goo.gl/kEw3fE 简介] ||
 
 == 5.3 古代军事史 ==
 
@@ -838,8 +838,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1188 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/M26lFgcUiE/%E5%86%9B%E4%BA%8B/%E5%8F%A4%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%BF%A6%E5%A4%AA%E5%9F%BA%E6%88%98%E4%BA%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 战略之父<br>——汉尼拔的军事生涯 || Father of Strategy<br>——The Military Life of Hannibal || [https://en.wikipedia.org/wiki/Trevor_N._Dupuy 杜普伊] || 简体PDF || 2013-02-05 || 此书着重介绍汉尼拔本人的军事才能，内容相对简略。 ||
-|| 汉尼拔战争 || || 王乃新 || 简体PDF (扫描版) || 2013-02-05 || 第二次布匿战争又称为"汉尼拔战争"——因为大部分时间是汉尼拔唱主角。<br>此书的内容比前面一本要详尽。 ||
+|| 战略之父<br>——汉尼拔的军事生涯 || Father of Strategy<br>——The Military Life of Hannibal || [https://en.wikipedia.org/wiki/Trevor_N._Dupuy Trevor Dupuy] (美) || 简体PDF || 2013-02-05 || [http://goo.gl/u7Xv3C 简介] ||
+|| 汉尼拔战争 || || 王乃新 || 简体PDF (扫描版) || 2013-02-05 || [http://goo.gl/hrEYVr 简介] ||
 
 
 <hr>
@@ -851,7 +851,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!763 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/8M0ijnRLNs/%E7%AE%A1%E7%90%86/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 你的灯亮着吗？<br>——找到问题的真正所在 || Are Your Lights On<br>——How to Figure Out What the Problem Really Is || 唐纳德·高斯 & [https://en.wikipedia.org/wiki/Gerald_Weinberg 杰拉尔德·温伯格] || 简体PDF<br>简体TXT || 2010-11-02<br>2012-03-08 || 本书的相关介绍请看[http://program-think.blogspot.com/2009/07/book-review-are-your-lights-on.html 俺的书评] ||
+|| 你的灯亮着吗？<br>——找到问题的真正所在 || Are Your Lights On<br>——How to Figure Out What the Problem Really Is || 唐纳德·高斯 (美)<br>[https://en.wikipedia.org/wiki/Gerald_Weinberg 杰拉尔德·温伯格] (美) || 简体PDF<br>简体TXT || 2010-11-02<br>2012-03-08 || [http://goo.gl/aozlMf 简介] ||
 
 
 <hr>
@@ -892,7 +892,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 尘世·挽歌 || [https://zh.wikipedia.org/wiki/%E9%87%8E%E5%A4%AB 土家野夫] (原名：郑世平) || 简体PDF || 2013-01-07 || 作者是大陆诗人、作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此书是他的散文集。<br>PDF由热心网友精心排版并分享，特此鸣谢。 ||
 || 看不见的江湖 || (同上) || 简体PDF || 2013-06-03 || 作者是大陆诗人、作家，作品以散文诗歌为主。<br>他因为帮助六四学生领袖出境，被自己的好友告发，判刑6年。<br>此书获独立中文笔会2011年自由写作奖。<br>PDF由热心网友精心排版并分享，特此鸣谢。 ||
 || 文殇 || [https://zh.wikipedia.org/zh/%E8%A2%81%E7%BA%A2%E5%86%B0 袁红冰] (原名：袁红兵) || 简体CHM || 2013-06-03 || 作者是持不同政见者、作家。因参与64运动被逮捕。2004年流亡海外。<br>此书是他的自传体小说。 ||
-|| 沉沦的圣殿<br>——中国20世纪70年代地下诗歌遗照 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武](主编) || 简体PDF (扫描版)<br>简体PDF (不全) || 2013-11-26<br>2013-01-17 || 编者是流亡作家，专门为社会底层呐喊。<br>这是他主编的文集，讲述70年代的理想主义者和他们所写的地下诗歌。<br>此书1999年刚出版时畅销，但随即被新闻出版总署宣布为"反动书籍"，相关印刷厂被查抄。<br>扫描版PDF由热心网友精心排版并分享，特此鸣谢。 ||
+|| 沉沦的圣殿<br>——中国20世纪70年代地下诗歌遗照 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] (主编) || 简体PDF (扫描版)<br>简体PDF (不全) || 2013-11-26<br>2013-01-17 || 编者是流亡作家，专门为社会底层呐喊。<br>这是他主编的文集，讲述70年代的理想主义者和他们所写的地下诗歌。<br>此书1999年刚出版时畅销，但随即被新闻出版总署宣布为"反动书籍"，相关印刷厂被查抄。<br>扫描版PDF由热心网友精心排版并分享，特此鸣谢。 ||
 || 《让子弹飞》喻意图文解释精华版 || (不详) || 简体CHM || 2013-02-05 || 此CHM是某网友主动分享，内容是解读姜文的电影《让子弹飞》中的各种政治隐喻。 ||
 
 == 7.2 日本 ==
