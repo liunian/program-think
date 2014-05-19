@@ -18,7 +18,7 @@
 
 == 世.界.通 ==
 
-官方网站的域名是ＧＦW的敏感词，请翻墙并通过[http://bit.ly/Bfv5m]跳转。
+官方网站的域名是 ＧＦW 的敏感词，请翻墙并通过[http://bit.ly/Bfv5m]跳转。
 
 绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
 
@@ -36,7 +36,7 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 
 == 自.由.門 ==
 
-官方网站（动.态.網）的域名是ＧＦW敏感词，请翻墙并通过[http://bit.ly/5qGII]跳转。
+官方网站（动.态.網）的域名是 ＧＦW 敏感词，请翻墙并通过[http://bit.ly/5qGII]跳转。
 
 绿色软件，无需安装，无需管理员权限，压缩包内仅有单个可执行文件，且带有数字签名。
 
@@ -90,9 +90,11 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 7.3.8 || 2013-01-15 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.8-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.8-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.8-restrict.7z 限制版] ||
 || 7.3.9 || 2013-02-08 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.9-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.9-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.3.9-restrict.7z 限制版] ||
 || 7.4.0 || 2013-04-16 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.0-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.0-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.0-restrict.7z 限制版] ||
+|| 7.4.1 || 2013-11-07 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.1-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.1-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.1-restrict.7z 限制版] ||
+|| 7.4.2 || 2013-11-08 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.2-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.2-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.2-restrict.7z 限制版] ||
 
 
-以下是针对手机的 自.由.門，目前有Windows Mobile版本和Java版本两种。
+以下是针对手机的 自.由.門，目前有“Windows Mobile版本”和“Java版本”两种。
 
 || *版本* || *发布日期* || *下载页面* ||
 || 1.0 || 2010-06-30 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-1.0-wm.7z WM版] ||
@@ -104,7 +106,7 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 
 == 無.界 ==
 
-官方网站的域名是ＧＦW敏感词，请翻墙并通过[http://bit.ly/w6Jhfm]跳转。
+官方网站的域名是 ＧＦW 敏感词，请翻墙并通过[http://bit.ly/w6Jhfm]跳转。
 
 绿色软件，无需安装，无需管理员权限，压缩包内仅有单个可执行文件，且带有数字签名。
 
@@ -149,13 +151,16 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 || 12.09 || 2012-12-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.09.7z 下载页面] ||
 || 12.10 || 2012-12-31 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-12.10.7z 下载页面] ||
 || 13.01 || 2013-03-26 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-13.01.7z 下载页面] ||
+|| 13.02 || 2013-10-31 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-13.02.7z 下载页面] ||
+|| 13.03 || 2013-11-16 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-13.03.7z 下载页面] ||
+|| 13.04 || 2013-12-21 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-13.04.7z 下载页面] ||
 
 
 == I2P ==
 
-I2P是非常类似于TＯR的翻墙工具（TＯR叫洋葱路由，而I2P是大蒜路由）。它俩的主要用途是“隐匿身份”，翻墙只是顺带的附加用途。
+I2P 是非常类似于 TＯR 的翻墙工具（TＯR 叫洋葱路由，而 I2P 是大蒜路由）。它俩的主要用途是“隐匿身份”，翻墙只是顺带的附加用途。
 
-I2P的安全性和坚挺程度比TＯR更强，换来的代价是速度很慢。所以I2P主要是用来作为备用翻墙工具。当你常用的工具失效时，就可以拿它来救急。
+I2P 的安全性和坚挺程度比 TＯR 更强，换来的代价是速度很慢。所以 I2P 主要是用来作为备用翻墙工具。当你常用的工具失效时，就可以拿它来救急。
 
 官方网站是[http://www.i2p2.de/]，必须翻墙才能访问。
 
@@ -171,7 +176,7 @@ I2P的安全性和坚挺程度比TＯR更强，换来的代价是速度很慢。
 
 == 赛风 ==
 
-老牌的赛风2提供的是网页代理。从赛风3开始，推出了客户端软件，同时支持VPN模式和基于SSH的代理模式。
+老牌的赛风2提供的是网页代理。从赛风3开始，推出了客户端软件，同时支持“VPN模式”和“SSH模式”。
 
 官方的下载页面是[http://www.psiphon3.com/]。
 
@@ -197,7 +202,7 @@ I2P的安全性和坚挺程度比TＯR更强，换来的代价是速度很慢。
 
 == Hotspot Shield ==
 
-老牌且知名的VPN软件，官方网站是[http://www.hotspotshield.com/]，可能要翻墙才能访问。
+老牌且知名的 VPN 软件，官方网站是[http://www.hotspotshield.com/]，可能要翻墙才能访问。
 
 压缩包中是安装程序，带有数字签名。
 
