@@ -229,7 +229,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 政治科学 || Political Science || 迈克尔·罗斯金 (美)<br>等 || 简体PDF (第9版 扫描版)<br>简体PDF (第6版 扫描版) || 2014-02-13<br>2014-02-06 || [http://goo.gl/9weVZc 简介] ||
 || 变化社会中的政治秩序 || Political Order in Changing Societies || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] (美) || 简体PDF || 2013-10-30 || [http://goo.gl/KOdFln 简介] ||
-|| 国家为什么失败<br>——权力、富裕与贫困的根源 || Why Nations Fail<br>——The Origins of Power, Prosperity, and Poverty || [https://en.wikipedia.org/wiki/Daron_Acemoglu Daron Acemoglu] (美)<br>James Robinson || 简体TXT<br>繁體PDF (豎排掃描版) || 2014-03-20<br>2014-03-20 || [http://goo.gl/nBbZDk 简介] ||
+|| 国家为什么失败<br>——权力、富裕与贫困的根源 || Why Nations Fail<br>——The Origins of Power, Prosperity, and Poverty || [https://en.wikipedia.org/wiki/Daron_Acemoglu Daron Acemoglu] (美)<br>James Robinson (美) || 简体TXT<br>繁體PDF (豎排掃描版) || 2014-03-20<br>2014-03-20 || [http://goo.gl/nBbZDk 简介] ||
 || 君主论<br>(君王论) || The Prince || [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E7%B6%AD%E5%88%A9 马基亚维利] (意) || 简体PDF || 2013-08-22 || [http://goo.gl/bdEyl8 简介] ||
 
 == 1.2 政治小说 ==
@@ -243,11 +243,12 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 动物庄园 || Animal Farm || (同上) || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF (扫描版)<br>简体MOBI<br>英文PDF || 2010-09-23<br>2013-09-13<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2012-01-11 || [http://goo.gl/dx78pN 简介] ||
 || 美丽新世界 || Brave New World || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E6%96%AF%C2%B7%E9%9B%B7%E6%AD%90%E9%82%A3%E5%BE%B7%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E 奥尔德斯·赫胥黎] (英) || 简体EPUB<br>简体TXT || 2013-09-15<br>2012-10-05 || [http://goo.gl/NyWXXM 简介] ||
 || 我们<br>(反乌托邦与自由) || We || [https://en.wikipedia.org/wiki/Yevgeny_Zamyatin 尤金·扎米亚京] (苏) || 简体EPUB || 2013-09-15 || [http://goo.gl/CVkuW0 简介] ||
-|| 旋风 || || [https://zh.wikipedia.org/wiki/%E5%A7%9C%E8%B4%B5 姜贵] (原名：王林渡) || 简体PDF || 2013-08-21 || [http://goo.gl/x4pzYQ 简介] ||
 || 黄祸 || Yellow Peril || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || 简体CHM || 2013-08-21 || [http://goo.gl/JqdQR5 简介] ||
+|| 旋风 || || [https://zh.wikipedia.org/wiki/%E5%A7%9C%E8%B4%B5 姜贵] (原名：王林渡) || 简体PDF || 2013-08-21 || [http://goo.gl/x4pzYQ 简介] ||
+|| 云图 || Cloud Atlas || [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E7%B1%B3%E5%88%87%E5%B0%94 大卫·米切尔] || 简体PDF<br>简体EPUB<br>英文PDF || 2014-02-06<br>2014-02-06<br>2014-02-06 || [http://goo.gl/3EynT2 简介] ||
 || 盛世<br>——中国2013 || The Fat Years || [https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E4%B8%AD 陈冠中] || 简体PDF || 2013-01-01 || [http://goo.gl/cIJoqj 简介] ||
 || 裸命 ||  || [https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E4%B8%AD 陈冠中] || 简体MOBI || 2013-01-01 || [http://goo.gl/OzVaQQ 简介] ||
-|| 云图 || Cloud Atlas || [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E7%B1%B3%E5%88%87%E5%B0%94 大卫·米切尔] || 简体PDF<br>简体EPUB<br>英文PDF || 2014-02-06<br>2014-02-06<br>2014-02-06 || [http://goo.gl/3EynT2 简介] ||
+|| 中国地图<br>——一幅中国人的精神地图 || || 汪建辉 || 简体PDF || 2014-05-23 || [http://goo.gl/b5NdHY 简介] ||
 
 == 1.3 中国 ==
 
@@ -408,7 +409,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 中南海日记<br>——中共两代王储的陨落 || || [https://zh.wikipedia.org/wiki/%E5%90%B4%E7%A8%BC%E7%A5%A5 吴稼祥] || 繁體PDF (掃描版) || 2012-12-09 || [http://goo.gl/71KTDz 简介] ||
 || 赵紫阳还说过什么？<br>——杜导正日记 || || [https://zh.wikipedia.org/wiki/%E6%9D%9C%E5%AF%BC%E6%AD%A3 杜导正] || 简体PDF || 2012-05-25 || [http://goo.gl/OqE0Ei 简介] ||
 || 邓小平时代 || Deng Xiaoping and the Transformation of China || [https://zh.wikipedia.org/wiki/%E5%82%85%E9%AB%98%E4%B9%89 傅高义] (美) || 繁體PDF || 2013-04-14 || [http://goo.gl/IccJKZ 简介] ||
-|| 中国权贵的死亡游戏 || A Death in the Lucky Holiday Hotel<br>——Murder, Money, and an Epic Power Struggle in China || 何频 & 黄闻光 || 繁體PDF || 2014-05-04 || [http://goo.gl/oFkatU 简介] ||
+|| 中国权贵的死亡游戏 || A Death in the Lucky Holiday Hotel<br>——Murder, Money, and an Epic Power Struggle in China || 何频<br>黄闻光 || 繁體PDF || 2014-05-04 || [http://goo.gl/oFkatU 简介] ||
 || 林彪浮沉录 || The rise and fall of Lin Piao || [https://en.wikipedia.org/wiki/Jaap_van_Ginneken 雅普·冯·吉内肯] (荷) || 简体PDF (扫描版) || 2013-05-19 || [http://goo.gl/MiALdn 简介] ||
 || 我的回忆 || || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || 简体PDF || 2012-10-26 || [http://goo.gl/nM9fKE 简介] ||
 || 毛泽东私人医生回忆录 || The Private Life of Chairman Mao || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BF%97%E7%BB%A5 李志绥] || 简体PDF || 2013-08-01 || [http://goo.gl/6wMYwq 简介] ||
@@ -770,6 +771,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 证券分析 || Security Analysis || [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] (美)<br>[https://en.wikipedia.org/wiki/David_Dodd 戴维·多德] (美) || 简体PDF (扫描版)<br>简体EPUB || 2013-04-29<br>2013-09-13 || [http://goo.gl/IG7E0l 简介] ||
 || 聪明的投资者<br>(投资指南) || The Intelligent Investor || [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] (美) || 简体PDF (扫描版) || 2014-02-20 || [http://goo.gl/OzKVTp 简介] ||
+|| 非理性繁荣 || Irrational Exuberance || [https://en.wikipedia.org/wiki/Robert_J._Shiller Robert Shiller] (美) || 简体PDF (扫描版) || 2014-05-23 || [http://goo.gl/nLY9hO 简介] ||
 || 金融炼金术 || The Alchemy of Finance || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E7%B4%A2%E7%BD%97%E6%96%AF 乔治·索罗斯] (美) || 简体PDF<br>简体EPUB || 2013-04-29<br>2013-09-13 || [http://goo.gl/SIW1dT 简介] ||
 
 == 4.4 博弈论 ==
