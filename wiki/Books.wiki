@@ -116,6 +116,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 <hr>
 <hr>
+<hr>
 
 
 = 1 政治类 =
@@ -139,9 +140,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 1.1.2 自由主义 ===
 
-（本章节的"自由主义"主要指"[https://zh.wikipedia.org/wiki/%E5%8F%A4%E5%85%B8%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89 古典自由主义]"和"[https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97%E4%B8%BB%E7%BE%A9 自由意志主义]"）
-
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1097 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/t_NTy0-27f/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89 Dropbox网盘]
+
+（本类别的"自由主义"主要指"[https://zh.wikipedia.org/wiki/%E5%8F%A4%E5%85%B8%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89 古典自由主义]"和"[https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97%E4%B8%BB%E7%BE%A9 自由意志主义]"）
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 论自由 || On Liberty || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] (英) || 简体PDF<br>简体EPUB || 2013-04-14<br>2013-09-13 || [http://goo.gl/dy67tP 简介] ||
@@ -228,14 +229,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 政治科学 || Political Science || 迈克尔·罗斯金 (美)<br>等 || 简体PDF (第9版 扫描版)<br>简体PDF (第6版 扫描版) || 2014-02-13<br>2014-02-06 || [http://goo.gl/9weVZc 简介] ||
 || 变化社会中的政治秩序 || Political Order in Changing Societies || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] (美) || 简体PDF || 2013-10-30 || [http://goo.gl/KOdFln 简介] ||
-|| 国家为什么失败<br>——权力、富裕与贫困的根源 || Why Nations Fail——<br>The Origins of Power, Prosperity, and Poverty || [https://en.wikipedia.org/wiki/Daron_Acemoglu Daron Acemoglu] (美)<br>James Robinson || 简体TXT<br>繁體PDF (豎排掃描版) || 2014-03-20<br>2014-03-20 || [http://goo.gl/nBbZDk 简介] ||
+|| 国家为什么失败<br>——权力、富裕与贫困的根源 || Why Nations Fail<br>——The Origins of Power, Prosperity, and Poverty || [https://en.wikipedia.org/wiki/Daron_Acemoglu Daron Acemoglu] (美)<br>James Robinson || 简体TXT<br>繁體PDF (豎排掃描版) || 2014-03-20<br>2014-03-20 || [http://goo.gl/nBbZDk 简介] ||
 || 君主论<br>(君王论) || The Prince || [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E7%B6%AD%E5%88%A9 马基亚维利] (意) || 简体PDF || 2013-08-22 || [http://goo.gl/bdEyl8 简介] ||
 
 == 1.2 政治小说 ==
 
-（某些政治小说描写的是特定国家，归入对应国家的分类；某些中国的政治小说描写的是特定的历史背景，归入"中共历史"的对应分类）
-
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!909 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/oSHaVT0M4j/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E5%B0%8F%E8%AF%B4 Dropbox网盘]
+
+（某些政治小说描写的是特定国家，归入对应国家的分类；某些中国的政治小说描写的是特定的历史背景，归入"中共历史"的对应分类）
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 一九八四 || Nineteen Eighty-Four || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] (英) || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF (扫描版)<br>简体MOBI<br>英文EPUB<br>英文PDF || 2010-09-07<br>2013-09-15<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2013-09-13<br>2012-01-11 || [http://goo.gl/RPrAiX 简介] ||
@@ -256,12 +257,12 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!926 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/CXkMO_OlVp/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E6%97%B6%E6%9C%9F Dropbox网盘]
 
-|| *书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 中国改革年代的政治斗争 || || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF<br>简体EPUB || 2012-04-05<br>2013-11-26 || [http://goo.gl/gtOidj 简介] ||
 || 中国现代化的陷阱 || The Pitfalls of Modernization || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || 简体PDF (修订版)<br>简体MOBI (修订版)<br>简体PDF<br>简体HTML || 2013-12-14<br>2014-02-23<br>2013-02-05<br>2012-11-18 || [http://goo.gl/76WBYa 简介] ||
 || 中国<br>——奇迹的黄昏 || || 袁剑 || 简体PDF || 2012-04-05 || [http://goo.gl/UcZEut 简介] ||
-|| 断裂<br>——20世纪90年代以来的中国社会 || || [https://zh.wikipedia.org/wiki/%E5%AD%99%E7%AB%8B%E5%B9%B3 孙立平] || 简体PDF || 2013-03-16 || [http://goo.gl/T1nfI7 简介] ||
 || 大国沉沦<br>——写给中国的备忘录 || || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 简体PDF || 2013-08-11 || [http://goo.gl/pnhvVp 简介] ||
+|| 断裂<br>——20世纪90年代以来的中国社会 || || [https://zh.wikipedia.org/wiki/%E5%AD%99%E7%AB%8B%E5%B9%B3 孙立平] || 简体PDF || 2013-03-16 || [http://goo.gl/T1nfI7 简介] ||
 || 山坳上的中国<br>——问题、困境、痛苦的选择 || || 何博传 || 简体PDF (扫描版) || 2013-03-07 || [http://goo.gl/Ab6cPe 简介] ||
 || 红色资本主义<br>——中国非凡崛起之下的脆弱金融基础 || Red Capitalism<br>——The Fragile Financial Foundation<br> of China's Extraordinary Rise || Carl Walter (美)<br>Fraser Howie (美) || 英文PDF || 2014-03-29 || [http://goo.gl/gYdQjb 简介] ||
 || 全球化与中国国家转型 || Globalization and state transformation in China || [https://zh.wikipedia.org/wiki/%E9%83%91%E6%B0%B8%E5%B9%B4 郑永年] (新加坡) || 简体PDF (扫描版) || 2014-01-09 || [http://goo.gl/F4nSa2 简介] ||
@@ -275,16 +276,19 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 天安门血腥清场内幕 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || 繁體PDF || 2012-05-25 || [http://goo.gl/o1C6Yu 简介] ||
 || 八九天安门事件大事记 || (同上) || 简体PDF || 2012-05-25 || [http://goo.gl/CwzvaE 简介] ||
 || "六四"事件民间白皮书 || 纪念六四事件委员会 || 简体PDF || 2012-05-25 || [http://goo.gl/YIjUqP 简介] ||
-|| 人民不会忘记 || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港记者协会] || 繁體HTML<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體在線版] || 2012-04-05 || [http://goo.gl/JRbF6x 简介] ||
-|| 八九民运史 || 陈小雅 || [http://www.64memo.com/b5/4.htm 繁體在線版] || || [http://goo.gl/ByF9EQ 简介] ||
-|| 中国民运反思 || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 简体PDF || 2013-05-01 || [http://goo.gl/AChJOl 简介] ||
+|| 人民不会忘记 || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港记者协会] || 繁體HTML<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體在線版] || 2012-04-05<br>N/A || [http://goo.gl/JRbF6x 简介] ||
+|| 八九民运史 || 陈小雅 || 繁体PDF<br>[http://www.64memo.com/b5/4.htm 繁體在線版] || 2014-05-23<br>N/A || [http://goo.gl/ByF9EQ 简介] ||
+|| 广场活碑<br>——一个香港女记者眼中的六四血光 || 蔡淑芳 || 简体PDF || 2014-05-23 || [http://goo.gl/gnhdCX 简介] ||
+|| 中国民运反思 || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 简体PDF<br>简体TXT || 2013-05-01<br>2014-05-23 || [http://goo.gl/AChJOl 简介] ||
 || 天安门的力量<br>——国家-社会关系与1989学生运动 || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || 繁體PDF (掃描版) || 2012-12-26 || [http://goo.gl/WjMqhB 简介] ||
 || 铭记天安门 || [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || 简体PDF || 2012-05-25 || [http://goo.gl/1KLrs0 简介] ||
-|| 六四日记<br>——广场上的共和国 || [https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7 封从德] || 繁體PDF || 2013-02-02 || [http://goo.gl/r28aEW 简介] ||
+|| 末日幸存者的独白<br>——关于我和“六四” || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 繁體PDF (掃描版) || 2014-05-23 || [http://goo.gl/48wdvi 简介] ||
+|| 六四日记<br>——广场上的共和国 || [https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7 封从德] || 繁體PDF (掃描版) || 2013-02-02 || [http://goo.gl/r28aEW 简介] ||
 || 王丹回忆录<br>——从六四到流亡 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B8%B9 王丹] || 繁體EPUB<br>繁體DOCX || 2014-03-29<br>2013-11-26 || [http://goo.gl/a4AAaI 简介] ||
 || 黄雀行动 || 江迅 || 简体PDF || 2012-05-25 || [http://goo.gl/zFvx8n 简介] ||
+|| 六四诗集 || (多人) || 简体PDF || 2014-05-23 || [http://goo.gl/upYNcr 简介] ||
 || 关键时刻<br>——李鹏日记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] || 简体CHM || 2012-04-05 || [http://goo.gl/9itmPN 简介] ||
-|| 惊心动魄的五十六天 || 国家教委思想政治工作司 || [http://www.64memo.com/b5/2.htm 繁體在線版] || || [http://goo.gl/kdFvGe 简介] ||
+|| 惊心动魄的五十六天 || 国家教委思想政治工作司 || [http://www.64memo.com/b5/2.htm 繁體在線版] || N/A || [http://goo.gl/kdFvGe 简介] ||
 || 1989年北京制止动乱平息反革命暴乱纪事 || 北京市委办公厅 || 简体PDF (扫描版) || 2013-01-18 || [http://goo.gl/yEcC1H 简介] ||
 || 陈希同亲述<br>——众口铄金难铄真 || [https://zh.wikipedia.org/wiki/%E5%A7%9A%E7%9B%91%E5%A4%8D 姚监复] || 繁體PDF || 2013-06-10 || [http://goo.gl/pAoGRS 简介] ||
 
@@ -341,10 +345,10 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1179 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/NZ61VHWvow/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E2%80%9C%E5%9C%9F%E6%94%B9%E2%80%9D%E8%BF%90%E5%8A%A8 Dropbox网盘]
 
-|| *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 最后的地主 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF<br>简体PDF (大字版) || 2013-03-16<br>2013-03-31 || [http://goo.gl/H1FDr3 简介] ||
-|| 秧歌 || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E6%84%9B%E7%8E%B2 张爱玲] (原名：张煐) || 简体PDF || 2013-08-21 || [http://goo.gl/YBTfpb 简介] ||
-|| 赤地之恋 || (同上) || 简体PDF || 2013-08-21 || [http://goo.gl/GTdGa3 简介] ||
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 最后的地主 || The Last of China's Landlords || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF<br>简体PDF (大字版) || 2013-03-16<br>2013-03-31 || [http://goo.gl/H1FDr3 简介] ||
+|| 秧歌 || The Rice Sprout Song || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E6%84%9B%E7%8E%B2 张爱玲] (原名：张煐) || 简体PDF || 2013-08-21 || [http://goo.gl/YBTfpb 简介] ||
+|| 赤地之恋 || Naked Earth || (同上) || 简体PDF || 2013-08-21 || [http://goo.gl/GTdGa3 简介] ||
 
 ==== 1.3.1.7 国共内战时期 ====
 
@@ -359,7 +363,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!930 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Lg9n4u9qUY/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E5%BB%B6%E5%AE%89%E5%92%8C%E5%85%AB%E5%B9%B4%E6%8A%97%E6%88%98%E6%97%B6%E6%9C%9F Dropbox网盘]
 
-|| *书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 红太阳是怎样升起的<br>——延安整风运动的来龙去脉 || || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || 简体PDF<br>简体CHM<br>简体EPUB<br>简体MOBI || 2012-12-09<br>2012-04-06<br>2013-11-26<br>2014-02-03 || [http://goo.gl/v0gy2c 简介] ||
 || 中共壮大之谜<br>——被掩盖的中国抗日战争真相 || || 谢幼田 || 简体CHM || 2012-11-17 || [http://goo.gl/ddnTnr 简介] ||
 || 历史的先声<br>——半个世纪前的庄严承诺 || || [https://zh.wikipedia.org/wiki/%E7%AC%91%E8%9C%80 笑蜀] (原名：陈敏) || 简体PDF (扫描版)<br>简体CHM<br>简体TXT || 2013-05-08<br>2012-10-06<br>2012-10-06 || [http://goo.gl/fNaFES 简介] ||
@@ -376,7 +380,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 中国共产革命七十年 || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || 繁體PDF (掃描版 上下冊) || 2012-10-15 || [http://goo.gl/wPSYNg 简介] ||
 || 中国思想运动史 || 李洪林 || 简体PDF (扫描版) || 2013-07-07 || [http://goo.gl/F5sRNk 简介] ||
 || 在历史的风陵渡口 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || 简体PDF || 2012-12-09 || [http://goo.gl/sNrkb6 简介] ||
-|| 新中国三十年 || [https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体PDF || 2014-01-09 || [http://goo.gl/e6BeiI 简介] || 
+|| 新中国三十年 || [https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体PDF || 2014-01-09 || [http://goo.gl/e6BeiI 简介] ||
 || 我亲历过的政治运动 || (多人) || 简体PDF (扫描版) || 2013-04-21 || [http://goo.gl/2qNK5F 简介] ||
 || 20世纪后半叶历史解密 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] (主编) || 简体PDF || 2013-07-07 || [http://goo.gl/IM6TpU 简介] ||
 || 中国"左"祸 || 文聿 (原名：陆建华) || 简体PDF (扫描版) || 2013-04-21 || [http://goo.gl/XQ0z2f 简介] ||
@@ -389,8 +393,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!922 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/tFt2Y2X_tW/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9 Dropbox网盘]
 
-|| *书名*  || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 太子党关系网络 (2.1.0) || || 编程随想 || 简体PDF || 2014-04-30 || 这是俺花了好几个不眠之夜，在网上搜集的天朝权贵关系网。<br>为了让大伙儿看起来直观，特地做成可视化的网状图。<br>看了这个关系网，你对天朝的权贵阶层会有更深刻的认识。<br>为与时俱进，本文档会不定期更新。如有重大更新，会在[http://program-think.blogspot.com/ 俺博客中]告知大伙儿。 ||
+|| *中文书名*  || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 太子党关系网络 (2.1.0) || || 编程随想 || 简体PDF || 2014-04-30 || 详细的网状图，<br>涵盖大量家族，<br>详情请看[http://program-think.blogspot.com/2013/03/princelings.html 这里]。 ||
 || 红太阳的陨落<br>——千秋功罪毛泽东 || || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵] (原名：宋科) || 简体PDF<br>简体DOC || 2012-12-09<br>2012-04-05 || [http://goo.gl/16935P 简介] ||
 || 毛泽东时代和后毛泽东时代(1949-2009)<br>——另一种历史书写 || || [https://zh.wikipedia.org/wiki/%E9%8C%A2%E7%90%86%E7%BE%A4 钱理群] || 繁體PDF (共4冊 掃描版) || 2013-05-07<br>2013-05-07<br>2013-05-07<br>2013-05-07 || [http://goo.gl/DQ4MOu 简介] ||
 || 晚年周恩来 || Zhou Enlai<br>——The Last Perfect Revolutionary || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || 简体PDF<br>简体EPUB || 2012-10-05<br>2013-09-14 || [http://goo.gl/hYVSQb 简介] ||
@@ -418,13 +422,13 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1022 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/tQZQMWxkAF/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E7%A4%BE%E4%BC%9A%E9%98%B6%E5%B1%82%E5%92%8C%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96 Dropbox网盘]
 
-|| *书名* || *英文书名* ||  *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 中国底层访谈录 || The Corpse Walker || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF (上下 扫描版)<br>简体PDF (上中下 文字版)<br>简体PDF (上中下 大字版) || 2012-12-10<br>2013-03-31<br>2013-03-31 || [http://goo.gl/4vM1Aa 简介] ||
+|| *中文书名* || *英文书名* ||  *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 中国底层访谈录 || Interviews with the Lower Strata of Chinese Society || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF (上下 扫描版)<br>简体PDF (上中下 文字版)<br>简体PDF (上中下 大字版) || 2012-12-10<br>2013-03-31<br>2013-03-31 || [http://goo.gl/4vM1Aa 简介] ||
 || 中国当代社会各阶层分析 || || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF (扫描版) || 2012-01-14 || [http://goo.gl/se1iHD 简介] ||
 || 中国社会各阶层分析 || || [https://zh.wikipedia.org/wiki/%E6%A2%81%E6%99%93%E5%A3%B0 梁晓声] || 简体PDF (扫描版) || 2012-12-10 || [http://goo.gl/Xuhanj 简介] ||
 || 上帝是红色的<br>——中国十字架地下寻访录 || God Is Red<br>——The Secret Story of<br>How Christianity Survived and<br>Flourished in Communist China || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF<br>简体EPUB || 2013-05-01<br>2014-03-29 || [http://goo.gl/vf6GmS 简介] ||
-|| 地震疯人院——2008·5·12四川大地震记事 || || (同上) || 简体PDF || 2013-05-02 || [http://goo.gl/kBpdW5 简介] ||
-|| 中国社会分层的结构与演变 || The Structure and Evolution<br>of Chinese Social Stratification || 李毅 || 简体CHM || 2013-07-28 || [http://goo.gl/1qUpMO 简介] ||
+|| 地震疯人院——2008·5·12四川大地震记事 || Earthquake Insane Asylum || (同上) || 简体PDF || 2013-05-02 || [http://goo.gl/kBpdW5 简介] ||
+|| 中国社会分层的结构与演变 || The Structure and Evolution<br> of Chinese Social Stratification || 李毅 || 简体CHM || 2013-07-28 || [http://goo.gl/1qUpMO 简介] ||
 
 === 1.3.4 腐败问题 ===
 
@@ -470,11 +474,11 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1296 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/A1OtKVX15v/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E5%8F%B8%E6%B3%95%E9%BB%91%E6%9A%97 Dropbox网盘]
 
-|| *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 中国冤案录 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体MOBI (三卷合集)<br>简体PDF (第2卷) || 2014-02-23<br>2013-05-01 || [http://goo.gl/lDkVau 简介] ||
-|| 昨夜雨骤风狂 || [https://zh.wikipedia.org/wiki/%E5%90%B3%E5%BC%98%E9%81%94 吴弘达] || 简体PDF || 2013-05-13 || [http://goo.gl/eOdhG2 简介] ||
-|| 大国寡民 || 卢跃刚 || 简体PDF || 2014-02-05 || [http://goo.gl/gRiWrB 简介] ||
-|| 狱后杂谈 || [https://zh.wikipedia.org/wiki/%E6%AC%A7%E9%98%B3%E6%87%BF 欧阳懿] || 简体TXT || 2014-02-22 || [http://goo.gl/VQYSv9 简介] ||
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 中国冤案录 || China's Unjust Court Cases || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体MOBI (三卷合集)<br>简体PDF (第2卷) || 2014-02-23<br>2013-05-01 || [http://goo.gl/lDkVau 简介] ||
+|| 昨夜雨骤风狂 || || [https://zh.wikipedia.org/wiki/%E5%90%B3%E5%BC%98%E9%81%94 吴弘达] || 简体PDF || 2013-05-13 || [http://goo.gl/eOdhG2 简介] ||
+|| 大国寡民 || || 卢跃刚 || 简体PDF || 2014-02-05 || [http://goo.gl/gRiWrB 简介] ||
+|| 狱后杂谈 || || [https://zh.wikipedia.org/wiki/%E6%AC%A7%E9%98%B3%E6%87%BF 欧阳懿] || 简体TXT || 2014-02-22 || [http://goo.gl/VQYSv9 简介] ||
 
 === 1.3.9 环境污染和食品安全 ===
 
@@ -615,8 +619,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 2.5 进化心理学 ==
 
-（进化心理学是心理学的一个新的研究方向）
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1230 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/8URShw6kA6/%E5%BF%83%E7%90%86%E5%AD%A6/%E8%BF%9B%E5%8C%96%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
+
+（"进化心理学"是心理学的一个新的研究方向）
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 进化心理学<br>——心理的新科学 || Evolutionary Psychology<br>——The New Science of the Mind || [https://en.wikipedia.org/wiki/David_Buss 大卫·巴斯] (美) || 简体PDF (扫描版) || 2012-12-31 || [http://goo.gl/sKRnYv 简介] ||
@@ -724,10 +729,10 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 国富论<br>(国民财富的性质和原因) || The Wealth of Nations || [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] (英) || 简体CHM || 2013-04-09 || [http://goo.gl/UKlCBO 简介] ||
 || 经济学 || Economics || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 保罗·萨缪尔森] (美)<br>[https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%AF%BA%E5%BE%B7%E8%B1%AA%E6%96%AF 威廉·诺德豪斯] (美) || 简体PDF (第18版 扫描版) || 2014-02-13 || [http://goo.gl/2ry1in 简介] ||
 || 经济学原理 || Principles of Economics || [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9B%BC%E6%98%86 格里高利·曼昆] (美) || 简体PDF (第5版 扫描版) || 2013-02-22 || [http://goo.gl/KlA6cc 简介] ||
-|| 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 约翰·梅纳德·凯恩斯] (美) || 简体PDF || 2014-02-22 || [http://goo.gl/ejlYr5 简介] ||
+|| 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 凯恩斯] (美) || 简体PDF || 2014-02-22 || [http://goo.gl/ejlYr5 简介] ||
 || 个人主义与经济秩序 || Individualism and Economic Order || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] (英) || 简体PDF<br>简体EPUB || 2013-04-10<br>2013-09-13 || [http://goo.gl/8GoZrW 简介] ||
 || 市场经济<br>——大师们的思考 || The Market Economy<br>——A Reader || 詹姆斯·多蒂 (美)<br>德威特·李 (美) || 简体PDF (扫描版) || 2013-04-09 || [http://goo.gl/54AN6y 简介] ||
-|| 以自由看待发展 || Development as Freedom || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] || 简体PDF (扫描版) || 2013-04-09 || [http://goo.gl/zloecR 简介] ||
+|| 以自由看待发展 || Development as Freedom || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] (印度) || 简体PDF (扫描版) || 2013-04-09 || [http://goo.gl/zloecR 简介] ||
 
 === 4.1.2 评论 ===
 
@@ -766,9 +771,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 4.4 博弈论 ==
 
-（本目录是偏重于经济领域的博弈论）
-
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1643 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/lUmks7rw0M/%E7%BB%8F%E6%B5%8E/%E5%8D%9A%E5%BC%88%E8%AE%BA Dropbox网盘]
+
+（本类别是偏重于经济领域的博弈论）
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 策略思维<br>——商界、政界及日常生活中的策略竞争 || Thinking Strategically<br>——The Competitive Edge<br> in Business, Politics, and Everyday Life || [https://en.wikipedia.org/wiki/Barry_Nalebuff Barry Nalebuff] (美)<br>[https://en.wikipedia.org/wiki/Avinash_Dixit Avinash Dixit] (美) || 简体PDF (扫描版) || 2014-01-09 || [http://goo.gl/63DJIm 简介] ||
@@ -816,9 +821,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1186 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/12zXa2bB7Y/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E9%9F%A9%E6%88%98 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 朝鲜战争<br>——李奇微回忆录 || The Korean War || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%BF%AE%C2%B7%E6%9D%8E%E5%A5%87%E5%BE%AE 李奇微] || 简体PDF || 2013-03-17 || [http://goo.gl/BC0RnI 简介] ||
+|| 朝鲜战争<br>——李奇微回忆录 || The Korean War || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%BF%AE%C2%B7%E6%9D%8E%E5%A5%87%E5%BE%AE 李奇微] (美) || 简体PDF || 2013-03-17 || [http://goo.gl/BC0RnI 简介] ||
 || 朝鲜战争揭秘 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || 繁體PDF (豎排掃描版) || 2013-02-02 || [http://goo.gl/50cAFa 简介] ||
-|| 朝鲜战争<br>——俄国档案馆的解密文件 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华](整理) || 简体PDF || 2013-07-30 || [http://goo.gl/nAfC3K 简介] ||
+|| 朝鲜战争<br>——俄国档案馆的解密文件 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] (整理) || 简体PDF || 2013-07-30 || [http://goo.gl/nAfC3K 简介] ||
 || 毛泽东、斯大林与朝鲜战争 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || 简体PDF<br>简体EPUB || 2013-07-30<br>2013-09-13 || [http://goo.gl/1kmcDa 简介] ||
 || 远东朝鲜战争 || || 王树增 || 简体PDF || 2013-07-30 || [http://goo.gl/oB1Wsg 简介] ||
 
@@ -833,9 +838,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 5.3.1 迦太基战争 ===
 
-（[https://zh.wikipedia.org/wiki/%E8%BF%A6%E5%A4%AA%E5%9F%BA 迦太基战争]又称为"布匿战争"，是古罗马与迦太基争夺地中海霸权的长期战争）
-
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1188 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/M26lFgcUiE/%E5%86%9B%E4%BA%8B/%E5%8F%A4%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%BF%A6%E5%A4%AA%E5%9F%BA%E6%88%98%E4%BA%89 Dropbox网盘]
+
+（[https://zh.wikipedia.org/wiki/%E8%BF%A6%E5%A4%AA%E5%9F%BA 迦太基战争]又称"布匿战争"，是古罗马与迦太基争夺地中海霸权的长期战争）
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 战略之父<br>——汉尼拔的军事生涯 || Father of Strategy<br>——The Military Life of Hannibal || [https://en.wikipedia.org/wiki/Trevor_N._Dupuy Trevor Dupuy] (美) || 简体PDF || 2013-02-05 || [http://goo.gl/u7Xv3C 简介] ||
@@ -922,21 +927,21 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 人月神话 || The Mythical Man-Month || [https://en.wikipedia.org/wiki/Fred_Brooks Frederick Brooks] || 简体EPUB<br>英文CHM || 2013-10-20<br>2013-10-20 || [http://goo.gl/r8Zn03 简介] ||
 || 设计模式<br>——可复用面向对象软件的基础 || Design Patterns<br>——Elements of Reusable OO Software || Gang of Four (模式四人帮) || 简体PDF<br>英文CHM || 2013-10-21<br>2013-10-20 || [http://goo.gl/1kJGJk 简介] ||
-|| 重构<br>——改善既有代码的质量 || Refactoring<br>——Improving the Design of Existing Code || [https://en.wikipedia.org/wiki/Martin_Fowler Martin Fowler]<br>[https://en.wikipedia.org/wiki/Kent_Beck Kent Beck]<br>等 || 英文CHM || 2013-10-20 || [http://goo.gl/neJnOY 简介] ||
+|| 重构<br>——改善既有代码的质量 || Refactoring<br>——Improving the Design of Existing Code || [https://en.wikipedia.org/wiki/Martin_Fowler Martin Fowler]<br>[https://en.wikipedia.org/wiki/Kent_Beck Kent Beck]<br>John Brant<br>William Opdyke<br>Don Roberts || 英文CHM || 2013-10-20 || [http://goo.gl/neJnOY 简介] ||
 || 代码大全<br>(软件建构之道) || Code Complete || [https://en.wikipedia.org/wiki/Steve_McConnell Steve McConnell] || 英文CHM (2nd edition)<br>简体PDF || 2013-10-20<br>2013-10-20 || [http://goo.gl/eAYVDW 简介] ||
 || 人件 || Peopleware<br>——Productive Projects and Teams || [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco]<br>[https://en.wikipedia.org/wiki/Tim_Lister Timothy Lister] || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || [http://goo.gl/g66CXb 简介] ||
 || 最后期限 || The Deadline<br>——A Novel about Project Management || [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco] || 简体PDF || 2013-10-20 || [http://goo.gl/WEAwML 简介] ||
 
 === 8.1.2 编程语言 ===
 
-（本章节放置"具体编程语言相关"的编程类电子书）
+（本类别放置"具体编程语言相关"的编程类电子书）
 
 ==== 8.1.2.1 C++ ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1512 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ZEsa0K8znw/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C%2B%2B Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| C++ 程序设计语言 || The C++ Programming Language || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF (special edition)<br>简体PDF (特别版 扫描版) || 2013-10-21<br>2013-10-29 || [http://goo.gl/3R591j 简介] ||
+|| C++ 程序设计语言 || The C++ Programming Language<br>(TCPPPL) || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF (special edition)<br>简体PDF (特别版 扫描版) || 2013-10-21<br>2013-10-29 || [http://goo.gl/3R591j 简介] ||
 || Effective C++<br>——改善程序与设计的55个具体做法 || Effective C++<br>——55 Specific Ways to Improve Your Programs and Designs || [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文CHM (3rd edition) || 2013-10-21 || [http://goo.gl/z0x2kQ 简介] ||
 || More Effective C++<br>——35个改善编程与设计的有效方法 || More Effective C++<br>——35 New Ways to Improve Your Programs and Designs || [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文PDF || 2013-10-21 || [http://goo.gl/bl7Wwa 简介] ||
 || C++ 编程规范<br>——101 条规则、准则与最佳实践 || C++ Coding Standards<br>——101 Rules, Guidelines, and Best Practices || [https://en.wikipedia.org/wiki/Herb_Sutter Herb Sutter]<br>[https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 英文CHM || 2013-10-20 || [http://goo.gl/kd8UyN 简介] ||
@@ -953,8 +958,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 深入 Python || Dive into Python || [https://en.wikipedia.org/wiki/Mark_Pilgrim_%28software_developer%29 Mark Pilgrim] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || [http://goo.gl/XUWhRU 简介] ||
 || 深入 Python3 || Dive into Python3 || [https://en.wikipedia.org/wiki/Mark_Pilgrim_%28software_developer%29 Mark Pilgrim] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || [http://goo.gl/u031oo 简介] ||
-||  || Learning Python || Mark Lutz || 英文EPUB (5th edition) || 2013-10-21 || [http://goo.gl/gnA4C9 简介] ||
-||  || Python Cookbook || David Beazley || 英文PDF (3rd edition) || 2013-10-21 || [http://goo.gl/Z3HZ4D 简介] ||
+|| Learning Python || Learning Python || Mark Lutz || 英文EPUB (5th edition) || 2013-10-21 || [http://goo.gl/gnA4C9 简介] ||
+|| Python Cookbook || Python Cookbook || David Beazley || 英文PDF (3rd edition) || 2013-10-21 || [http://goo.gl/Z3HZ4D 简介] ||
 
 ==== 8.1.2.2 Java ====
 
@@ -973,15 +978,15 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 === 8.1.4 操作系统相关 ===
 
-（本章节放置"具体操作系统相关"的编程类电子书）
+（本类别放置"具体操作系统相关"的编程类电子书）
 
 ==== 8.1.4.1 UNIX 和 Linux ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1496 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/quNBvv8dj7/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/Unix%20%E5%92%8C%20Linux Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| UNIX 编程艺术 || The Art of UNIX Programming || [https://en.wikipedia.org/wiki/Eric_S._Raymond Eric Raymond] (埃里克·雷蒙德) || 简体PDF || 2013-10-20 || [http://goo.gl/ztgZsZ 简介] ||
-|| UNIX 环境高级编程 ||  Advanced Programming in the UNIX Environment || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] / [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯] (美)<br>Stephen Rago || 简体PDF (第2版 扫描版)<br>英文PDF (3nd edition)<br>英文CHM (2nd edition) || 2014-05-13<br>2013-11-14<br>2013-10-21 || [http://goo.gl/IOMr5t 简介] ||
+|| UNIX 编程艺术 || The Art of UNIX Programming<br>(TAOUP) || [https://en.wikipedia.org/wiki/Eric_S._Raymond Eric Raymond] / [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9B%B7%E8%92%99 埃里克·雷蒙德] (美) || 简体PDF || 2013-10-20 || [http://goo.gl/ztgZsZ 简介] ||
+|| UNIX 环境高级编程 ||  Advanced Programming in the UNIX Environment<br>(APUE) || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] / [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯] (美)<br>Stephen Rago || 简体PDF (第2版 扫描版)<br>英文PDF (3nd edition)<br>英文CHM (2nd edition) || 2014-05-13<br>2013-11-14<br>2013-10-21 || [http://goo.gl/IOMr5t 简介] ||
 || UNIX 系统编程 || UNIX Systems Programming<br>——Communication, Cocurrency, and Threads || Kay Robbins<br>Steven Robbins || 英文CHM || 2013-10-21 || [http://goo.gl/PoSWKs 简介] ||
 
 ==== 8.1.4.2 Windows ====
@@ -989,17 +994,17 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1498 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/y_ZiHG1wZx/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/Windows Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| Windows 核心编程 || Programming Applications for Windows || [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] (美) || 简体PDF<br>英文CHM || 2014-05-13 <br>2013-10-21 || [http://goo.gl/4XSsJu 简介] ||
+|| Windows 核心编程 || Programming Applications for Windows || [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] (美) || 简体PDF<br>英文CHM || 2014-05-13<br>2013-10-21 || [http://goo.gl/4XSsJu 简介] ||
 
 === 8.1.5 网络相关 ===
 
-（本章节放置"网络相关"的编程类电子书）
-
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1516 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/MiTR4A7UG-/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3 Dropbox网盘]
 
+（本类别放置"网络相关"的编程类电子书）
+
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| UNIX 网络编程<br>(共两卷) || UNIX Network Programming Volume 1<br>——The Sockets Networking API || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] / [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯] (美) || 英文PDF || 2013-10-20 || [http://goo.gl/k53hlo 简介] ||
-|| C++ 网络编程<br>(共两卷) || C++ Network Programming || [https://en.wikipedia.org/wiki/Douglas_C._Schmidt Douglas Schmidt] || 卷 1 英文CHM<br>卷2 英文CHM || 2013-10-21<br>2013-10-21 || [http://goo.gl/pnMQzA 简介] ||
+|| UNIX 网络编程<br>(共两卷) || UNIX Network Programming || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] / [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯] (美) || 卷1 英文PDF (3rd edition) || 2013-10-20 || [http://goo.gl/k53hlo 简介] ||
+|| C++ 网络编程<br>(共两卷) || C++ Network Programming || [https://en.wikipedia.org/wiki/Douglas_C._Schmidt Douglas Schmidt] (美) || 卷1 英文CHM<br>卷2 英文CHM || 2013-10-21<br>2013-10-21 || [http://goo.gl/pnMQzA 简介] ||
 
 === 8.1.6 (其它) ===
 
@@ -1010,12 +1015,12 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 == 8.2 黑客文化 ==
 
-（考虑到"黑客"一词已经被严重误解，俺单独放一个目录介绍黑客文化。希望大伙儿搞清楚："黑客/Hacker"与"骇客/Cracker"是有天壤之别的）
-
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1485 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/NKIzqLB3-f/IT/%E9%BB%91%E5%AE%A2%E6%96%87%E5%8C%96 Dropbox网盘]
 
+（考虑到"黑客"一词已经被严重误解，俺单独放一个目录介绍黑客文化。希望大伙儿搞清楚："黑客/Hacker"与"骇客/Cracker"是有天壤之别的）
+
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 黑客五步曲 ||  || [https://en.wikipedia.org/wiki/Eric_S._Raymond Eric Raymond] / [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9B%B7%E8%92%99 埃里克·雷蒙德] (美) || 简体PDF || 2013-10-20 || [http://goo.gl/9YJW2H 简介] ||
+|| 黑客五步曲 || || [https://en.wikipedia.org/wiki/Eric_S._Raymond Eric Raymond] / [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9B%B7%E8%92%99 埃里克·雷蒙德] (美) || 简体PDF || 2013-10-20 || [http://goo.gl/9YJW2H 简介] ||
 || 黑客与画家 || Hackers and Painters || [https://en.wikipedia.org/wiki/Paul_Graham_%28computer_programmer%29 Paul Graham] / [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] (美) || 简体PDF (扫描版)<br>简体EPUB<br>简体MOBI<br>英文PDF || 2013-04-06<br>2013-10-20<br>2014-02-23<br>2013-10-30 || [http://goo.gl/872FgJ 简介] ||
 || 黑客<br>——计算机革命的英雄 || Hackers<br>——Heroes of the Computer Revolution || [https://en.wikipedia.org/wiki/Steven_Levy Steven Levy] (美) || 简体PDF (扫描版) || 2014-01-28 || [http://goo.gl/7qCAmT 简介] ||
 
@@ -1028,7 +1033,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1502 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/VftqeGFNIa/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 欺骗的艺术 || The Art of Deception<br>——Controlling the Human Element of Security || [https://en.wikipedia.org/wiki/Kevin_Mitnick Kevin Mitnick] [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E7%B1%B3%E7%89%B9%E5%B0%BC%E5%85%8B 凯文·米特尼克] (美) || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || [http://goo.gl/hhjZR4 简介] ||
+|| 欺骗的艺术 || The Art of Deception<br>——Controlling the Human Element of Security || [https://en.wikipedia.org/wiki/Kevin_Mitnick Kevin Mitnick] / [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E7%B1%B3%E7%89%B9%E5%B0%BC%E5%85%8B 凯文·米特尼克] (美) || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || [http://goo.gl/hhjZR4 简介] ||
 
 === 8.3.2 密码学 ===
 
@@ -1047,18 +1052,18 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || Windows 7 安全指南 || || 简体PDF (扫描版) || 2014-02-13 || [http://goo.gl/gsIatq 简介] ||
 || || Securing Debian Manual || 英文PDF || 2014-02-22 || [http://goo.gl/uXrbjE 简介] ||
 || || Red Hat Enterprise Linux 6 Security Guide || 英文PDF || 2014-02-22 || [http://goo.gl/1ibfxw 简介] ||
-|| || Basic Ubuntu Security Guide, Desktop Edition || [https://wiki.ubuntu.com/BasicSecurity 英文在线版] || || 这是 Ubuntu 官方的安全指南（桌面版）。 ||
-|| || Security Guide<br>——A Guide to Securing Fedora Linux || [https://docs.fedoraproject.org/security-guide/ 英文在线版] || || 这是 Fedora 官方的安全指南。 ||
-|| || openSUSE Security Guide || [https://activedoc.opensuse.org/book/opensuse-security-guide 英文在线版] || || 这是 openSUSE 官方的安全指南。 ||
-|| || Security<br>——Recommendations and Best Practices for Hardening an Arch Linux System || [https://wiki.archlinux.org/index.php/security 英文在线版] || || 这是 Arch Linux 官方的安全文档。 ||
-|| || Gentoo Security Handbook || [https://www.gentoo.org/doc/en/security/security-handbook.xml?style=printable&full=1 英文在线版] || || 这是 Gentoo 官方的安全手册。 ||
+|| || Basic Ubuntu Security Guide, Desktop Edition || [https://wiki.ubuntu.com/BasicSecurity 英文在线版] || N/A || Ubuntu 官方的安全指南(桌面版)。 ||
+|| || Security Guide<br>——A Guide to Securing Fedora Linux || [https://docs.fedoraproject.org/security-guide/ 英文在线版] || N/A || Fedora 官方的安全指南。 ||
+|| || openSUSE Security Guide || [https://activedoc.opensuse.org/book/opensuse-security-guide 英文在线版] || N/A || openSUSE 官方的安全指南。 ||
+|| || Security<br>——Recommendations and Best Practices for Hardening an Arch Linux System || [https://wiki.archlinux.org/index.php/security 英文在线版] || N/A || Arch Linux 官方的安全文档。 ||
+|| || Gentoo Security Handbook || [https://www.gentoo.org/doc/en/security/security-handbook.xml?style=printable&full=1 英文在线版] || N/A || Gentoo 官方的安全手册。 ||
 
 === 8.3.4 入侵 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1646 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Zes-B0Qewk/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%85%A5%E4%BE%B5 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 入侵的艺术 || The Art of Intrusion<br>——The Real Stories Behind the Exploits of Hackers, Intruders & Deceivers || [https://en.wikipedia.org/wiki/Kevin_Mitnick Kevin Mitnick] / [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E7%B1%B3%E7%89%B9%E5%B0%BC%E5%85%8B 凯文·米特尼克] (美) || 简体PDF (扫描版)<br>英文PDF || 2014-02-04<br>2014-01-09 || [http://goo.gl/Wxokd7 简介] ||
+|| 入侵的艺术 || The Art of Intrusion<br>——The Real Stories Behind the Exploits<br> of Hackers, Intruders & Deceivers || [https://en.wikipedia.org/wiki/Kevin_Mitnick Kevin Mitnick] / [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E7%B1%B3%E7%89%B9%E5%B0%BC%E5%85%8B 凯文·米特尼克] (美) || 简体PDF (扫描版)<br>英文PDF || 2014-02-04<br>2014-01-09 || [http://goo.gl/Wxokd7 简介] ||
 
 == 8.4 操作系统 ==
 
