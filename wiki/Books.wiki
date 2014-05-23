@@ -516,6 +516,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 论美国的民主<br>(民主在美国) || Democracy in America || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] (法) || 简体PDF (上下卷)<br>简体MOBI || 2012-10-06<br>2013-05-13 || [http://goo.gl/DSV1Wh 简介] ||
+|| 常识 || Common Sense || [https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E6%BD%98%E6%81%A9 托马斯·潘恩] (美) || 简体EPUB || 2014-05-23 || [http://goo.gl/MMHhY0 简介] ||
 || 民主的细节<br>——美国当代政治观察随笔 || || [https://zh.wikipedia.org/wiki/%E5%88%98%E7%91%9C 刘瑜] || 简体EPUB<br>简体TXT || 2013-09-14<br>2013-05-24 || [http://goo.gl/aq9azA 简介] ||
 || 美国宪政历程<br>——影响美国的25个司法大案 || || 任东来<br>等 || 简体PDF (扫描版)<br>简体MOBI || 2013-11-26<br>2014-02-23 || [http://goo.gl/o0tvJX 简介] ||
 || 危机<br>——美国国家安全局透视 || || || 简体PDF || 2013-06-18 || [http://goo.gl/8KdkE1 简介] ||
@@ -683,8 +684,10 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 《炎黄春秋》合订本<br>(1999 - 2010) || || || 简体EPUB<br>(12本) || 2013-09-11 || [http://goo.gl/2zuK7n 简介] ||
 || 中国近代史大纲 || Outline of Modern Chinese History || [https://zh.wikipedia.org/wiki/%E8%94%A3%E5%BB%B7%E9%BB%BB 蒋廷黻] || 简体PDF || 2014-01-09 || [http://goo.gl/OvUf4l 简介] ||
 || 中国近代史 || The Rise of Modern China || [https://zh.wikipedia.org/wiki/%E5%BE%90%E4%B8%AD%E7%B4%84 徐中约] || 简体PDF (上下)<br>简体EPUB || 2013-03-22<br>2013-03-22<br>2013-09-13 || [http://goo.gl/EjC0P1 简介] ||
+|| 停滞的帝国<br>——两个世界的撞击 || The Immobile Empire || [https://en.wikipedia.org/wiki/Alain_Peyrefitte Alain Peyrefitte] (法) || 简体PDF (扫描版) || 2014-05-23 || [http://goo.gl/aBXcos 简介] ||
 || 重说中国近代史 || || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E9%B3%B4_%28%E5%AD%B8%E8%80%85%29 张鸣] || 简体EPUB || 2013-09-14 || [http://goo.gl/fTZnyN 简介] ||
 || 民国人物过眼录 || || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%A5%8E%E6%9D%BE 杨奎松] || 简体PDF (扫描版) || 2014-02-21 || [http://goo.gl/PWSxql 简介] ||
+|| 叫魂<br>——1768年中国妖术大恐慌 || Soulstealers<br>——The Chinese Sorcery Scare of 1768 || [https://en.wikipedia.org/wiki/Philip_A._Kuhn Philip Kuhn] (美 中文名：[https://zh.wikipedia.org/wiki/%E5%AD%94%E9%A3%9E%E5%8A%9B 孔飞力]) || 简体PDF (扫描版) || 2014-05-23 || [http://goo.gl/0CLu5f 简介] ||
 || 重返五四现场<br>——1919，一个国家的青春记忆 || || 叶曙明 || 简体PDF (扫描版) || 2013-05-01 || [http://goo.gl/iMeCdW 简介] ||
 || 旷世风雷一梦痕<br>——九十年人生经历见证 || || 王思诚 || 繁體PDF (竪排掃描版) || 2013-07-07 || [http://goo.gl/OOS8jr 简介] ||
 
