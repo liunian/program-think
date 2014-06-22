@@ -155,6 +155,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 政治自由主义 || Political Liberalism || (同上) || 简体HTML || 2013-01-17 || [http://goo.gl/B6Y9pe 简介] ||
 || 无政府、国家与乌托邦 || Anarchy, State, and Utopia || [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E8%AB%BE%E9%BD%8A%E5%85%8B 诺齐克] (美) || 简体PDF(扫描版)<br>英文EPUB || 2013-07-30<br>2014-03-29 || [http://goo.gl/rDAxkr 简介] ||
 || 古代人的自由与现代人的自由 || The Liberty of the Ancients Compared with that of the Moderns || [https://en.wikipedia.org/wiki/Benjamin_Constant Benjamin Constant] / 贡斯当 (法) || 简体PDF(扫描版) || 2014-06-22 || [http://goo.gl/TK9odN 简介] ||
+|| 利维坦 || Leviathan || [https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E9%9C%8D%E5%B8%83%E6%96%AF 霍布斯] (英) || 简体PDF || 2014-06-22 || [http://goo.gl/ifQiP4 简介] ||
 || 自由主义与正义的局限 || Liberalism and the Limits of Justice || [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] (美) || 简体PDF || 2013-01-01 || [http://goo.gl/VnpHRi 简介] ||
 || 论出版自由 || Areopagitica<br>——A Speech for the Liberty of Unlicensed Printing || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF 弥尔顿] (英) || 简体PDF || 2014-02-03 || [http://goo.gl/u0t3F5 简介] ||
 || 给你所爱的人以自由 || || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体PDF(大字版) || 2013-10-26<br>2013-11-26 || [http://goo.gl/xM3ZiF 简介] ||
@@ -312,7 +313,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 文革研究 || || (多人) || 简体PDF || 2012-04-06 || [http://goo.gl/Zksp1c 简介] ||
 || 红卫兵档案 || || 吴过 || 简体PDF || 2012-04-06 || [http://goo.gl/SAZldd 简介] ||
 || 周恩来文革讲话集 || || || 简体TXT || 2014-03-20 || [http://goo.gl/UyoK5m 简介] ||
-|| 随想录 || || [https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%87%91 巴金] (原名：李尧棠) || 简体PDF(扫描版) || 2014-01-09 || [http://goo.gl/xfR9IP 简介] ||
+|| 随想录 || || [https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%87%91 巴金] (原名：李尧棠) || 简体PDF(扫描版)<br>繁體MOBI || 2014-01-09<br>2014-06-22 || [http://goo.gl/xfR9IP 简介] ||
 || 遇罗克之遗作与回忆 || || 徐晓<br>丁东<br>[https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || 简体PDF(扫描版) || 2013-03-16 || [http://goo.gl/H89QfE 简介] ||
 || 牛鬼蛇神录<br>——文革囚禁中的精灵 || || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF || 2012-12-09 || [http://goo.gl/bbpfG2 简介] ||
 || 上海生死劫<br>(上海生与死) || Life and Death in Shanghai || [https://zh.wikipedia.org/wiki/%E9%83%91%E5%BF%B5 郑念] (原名：姚念媛) || 简体PDF(扫描版) || 2013-05-30 || [http://goo.gl/4MXXFf 简介] ||
