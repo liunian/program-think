@@ -322,7 +322,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!924 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/_VlzpcPZDL/%E6%94%BF%E6%B2%BB/%E4%B8%AD%E5%9B%BD/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/%E2%80%9C%E5%A4%A7%E8%B7%83%E8%BF%9B%E2%80%9D%E5%92%8C%E5%A4%A7%E9%A5%A5%E8%8D%92%E6%97%B6%E6%9C%9F Dropbox网盘]
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 墓碑<br>——中国六十年代大饥荒纪实 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF<br>繁體PDF || 2012-04-06<br>2013-10-20 || [http://goo.gl/ld3u5Z 简介] ||
+|| 墓碑<br>——中国六十年代大饥荒纪实 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF<br>繁體PDF<br>简体EPUB || 2012-04-06<br>2013-10-20<br>2014-06-21 || [http://goo.gl/ld3u5Z 简介] ||
 || 人祸<br>——"大跃进"与大饥荒 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || 简体PDF<br>简体HTML || 2013-01-13<br>2012-04-06 || [http://goo.gl/nOO5QN 简介] ||
 || 大跃进亲历记<br>——毛泽东秘书手记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] (原名：李厚生) || 简体PDF(上下卷 扫描版) || 2013-05-08 || [http://goo.gl/GVoVyz 简介] ||
 || 庐山会议实录 || (同上) || 简体PDF || 2012-10-05 || [http://goo.gl/rXwegU 简介] ||
@@ -368,7 +368,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 红太阳是怎样升起的<br>——延安整风运动的来龙去脉 || || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || 简体PDF<br>简体CHM<br>简体EPUB<br>简体MOBI || 2012-12-09<br>2012-04-06<br>2013-11-26<br>2014-02-03 || [http://goo.gl/v0gy2c 简介] ||
 || 中共壮大之谜<br>——被掩盖的中国抗日战争真相 || || 谢幼田 || 简体CHM || 2012-11-17 || [http://goo.gl/ddnTnr 简介] ||
-|| 历史的先声<br>——半个世纪前的庄严承诺 || || [https://zh.wikipedia.org/wiki/%E7%AC%91%E8%9C%80 笑蜀] (原名：陈敏) || 简体PDF(扫描版)<br>简体CHM<br>简体TXT || 2013-05-08<br>2012-10-06<br>2012-10-06 || [http://goo.gl/fNaFES 简介] ||
+|| 历史的先声<br>——半个世纪前的庄严承诺 || || [https://zh.wikipedia.org/wiki/%E7%AC%91%E8%9C%80 笑蜀] (原名：陈敏) || 简体PDF(扫描版)<br>简体PDF<br>简体CHM<br>简体TXT || 2013-05-08<br>2014-06-21<br>2012-10-06<br>2012-10-06 || [http://goo.gl/fNaFES 简介] ||
 || 延安日记 || || [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E6%B4%9B%E5%A4%AB 彼得·弗拉基米洛夫] (苏) || 简体CHM || 2012-10-05 || [http://goo.gl/wS5paS 简介] ||
 || 红太阳下的罂粟花<br>——鸦片贸易与延安模式 || || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || 繁體PDF(掃描版) || 2012-10-05 || [http://goo.gl/gbMXbj 简介] ||
 || 内在的敌人 || The Enemy Within<br>——An Eyewitness Account<br> of the Communist Conquest of China || [https://zh.wikipedia.org/wiki/%E9%9B%B7%E9%9C%87%E8%BF%9C 雷震远] (比) || 简体EPUB<br>简体PDF<br>简体CHM || 2014-03-29<br>2014-02-03<br>2014-02-03 || [http://goo.gl/YNK0Hh 简介] ||
@@ -799,9 +799,21 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 <hr>
 
 
-= 5 军事类 =
+= 5 管理类 =
 
-== 5.1 军事理论 ==
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!763 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/8M0ijnRLNs/%E7%AE%A1%E7%90%86/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 你的灯亮着吗？<br>——找到问题的真正所在 || Are Your Lights On<br>——How to Figure Out What the Problem Really Is || 唐纳德·高斯 (美)<br>[https://en.wikipedia.org/wiki/Gerald_Weinberg 杰拉尔德·温伯格] (美) || 简体PDF<br>简体TXT || 2010-11-02<br>2012-03-08 || [http://goo.gl/aozlMf 简介] ||
+
+
+<hr>
+<hr>
+
+
+= 6 军事类 =
+
+== 6.1 军事理论 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1182 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/gmCL113W89/%E5%86%9B%E4%BA%8B/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA Dropbox网盘]
 
@@ -811,9 +823,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 海权论 || The Influence of Sea Power upon History || [https://zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E8%B3%BD%E8%80%B6%C2%B7%E9%A6%AC%E6%BC%A2 马汉] (美) || 简体PDF || 2013-03-22 || [http://goo.gl/VGCfri 简介] ||
 || 制空权 || The Command of the Air || [https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%88%A9%E6%AD%90%C2%B7%E6%9D%9C%E9%BB%91 杜黑] (意) || 简体PDF || 2013-08-21 || [http://goo.gl/kSZzVx 简介] ||
 
-== 5.2 现代军事史 ==
+== 6.2 现代军事史 ==
 
-=== 5.2.1 二战 ===
+=== 6.2.1 二战 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1185 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/JXPVTjFPbb/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E4%BA%8C%E6%88%98 Dropbox网盘]
 
@@ -822,7 +834,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 第二次世界大战回忆录 || The Second World War || [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] (英) || 简体EPUB<br>简体HTML || 2013-09-14<br>2013-03-22 || [http://goo.gl/tIQUpS 简介] ||
 || 第二次世界大战的决定性战役 || Decisive Battles of World War II<br>——The German View || Hans Jacobsen (美) || 简体CHM || 2013-08-22 || [http://goo.gl/GLomWp 简介] ||
 
-=== 5.2.2 韩战 ===
+=== 6.2.2 韩战 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1186 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/12zXa2bB7Y/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E9%9F%A9%E6%88%98 Dropbox网盘]
 
@@ -833,16 +845,16 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 毛泽东、斯大林与朝鲜战争 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || 简体PDF<br>简体EPUB || 2013-07-30<br>2013-09-13 || [http://goo.gl/1kmcDa 简介] ||
 || 远东朝鲜战争 || || 王树增 || 简体PDF || 2013-07-30 || [http://goo.gl/oB1Wsg 简介] ||
 
-=== 5.2.3 越战 ===
+=== 6.2.3 越战 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1187 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Eal-rc9lMn/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%B6%8A%E6%88%98 Dropbox网盘]
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 中国秘密大发兵<br>——援越抗美实录 || 王贤根 || 简体PDF(扫描版) || 2013-02-05 || [http://goo.gl/kEw3fE 简介] ||
 
-== 5.3 古代军事史 ==
+== 6.3 古代军事史 ==
 
-=== 5.3.1 迦太基战争 ===
+=== 6.3.1 迦太基战争 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1188 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/M26lFgcUiE/%E5%86%9B%E4%BA%8B/%E5%8F%A4%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%BF%A6%E5%A4%AA%E5%9F%BA%E6%88%98%E4%BA%89 Dropbox网盘]
 
@@ -851,18 +863,6 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 战略之父<br>——汉尼拔的军事生涯 || Father of Strategy<br>——The Military Life of Hannibal || [https://en.wikipedia.org/wiki/Trevor_N._Dupuy Trevor Dupuy] (美) || 简体PDF || 2013-02-05 || [http://goo.gl/u7Xv3C 简介] ||
 || 汉尼拔战争 || || 王乃新 || 简体PDF(扫描版) || 2013-02-05 || [http://goo.gl/hrEYVr 简介] ||
-
-
-<hr>
-<hr>
-
-
-= 6 管理类 =
-
-*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!763 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/8M0ijnRLNs/%E7%AE%A1%E7%90%86/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
-
-|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 你的灯亮着吗？<br>——找到问题的真正所在 || Are Your Lights On<br>——How to Figure Out What the Problem Really Is || 唐纳德·高斯 (美)<br>[https://en.wikipedia.org/wiki/Gerald_Weinberg 杰拉尔德·温伯格] (美) || 简体PDF<br>简体TXT || 2010-11-02<br>2012-03-08 || [http://goo.gl/aozlMf 简介] ||
 
 
 <hr>
@@ -983,7 +983,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1832 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/AACQlsOxkUflJTsZIAG52N09a/%E5%93%B2%E5%AD%A6/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 查拉图斯特拉如是说 || Thus Spoke Zarathustra || [https://en.wikipedia.org/wiki/Friedrich_Nietzsche Nietzsche] / [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%B0%BC%E9%87%87 尼采] || 简体PDF || 2014-06-20 || [http://goo.gl/lQSm0q 简介] ||
+|| 查拉图斯特拉如是说 || Thus Spoke Zarathustra || [https://en.wikipedia.org/wiki/Friedrich_Nietzsche Nietzsche] / [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%B0%BC%E9%87%87 尼采] (德) || 简体PDF || 2014-06-20 || [http://goo.gl/lQSm0q 简介] ||
 
 
 <hr>
