@@ -128,12 +128,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1253 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/i4R5V56euM/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E6%B0%91%E4%B8%BB%E5%92%8C%E5%AE%AA%E6%94%BF Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 代议制政府 || Considerations on Representative Government || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] (英) || 简体PDF || 2013-08-22 || [http://goo.gl/0Nc9uY 简介] ||
-|| 第三波<br>——20世纪后期民主化浪潮 || The Third Wave<br>——Democratization in the Late Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] (美) || 简体PDF || 2013-05-30 || [http://goo.gl/nYBwdP 简介] ||
+|| 论民主 || On Democracy || [https://en.wikipedia.org/wiki/Robert_A._Dahl Robert Dahl] / [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%C2%B7%E9%81%93%E7%88%BE 罗伯特·道尔] (美) || 简体PDF(扫描版) || 2014-06-22 || [http://goo.gl/7e8E09 简介] ||
+|| 代议制政府 || Considerations on Representative Government || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 密尔] (英) || 简体PDF || 2013-08-22 || [http://goo.gl/0Nc9uY 简介] ||
+|| 第三波<br>——20世纪后期民主化浪潮 || The Third Wave<br>——Democratization in the Late Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 亨廷顿] (美) || 简体PDF || 2013-05-30 || [http://goo.gl/nYBwdP 简介] ||
 || 社会契约论<br>(民约论) || The Social Contract || [https://zh.wikipedia.org/wiki/%E8%AE%A9-%E9%9B%85%E5%85%8B%C2%B7%E5%8D%A2%E6%A2%AD 让-雅克·卢梭] (法) || 简体PDF || 2014-01-09 || [http://goo.gl/2hOv3S 简介] ||
 || 论法的精神<br>(法意) || The Spirit of the Laws || [https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%BE%B7%E6%96%AF%E9%B8%A0 孟德斯鸠] (法) || 简体PDF || 2014-01-09 || [http://goo.gl/UTjUxP 简介] ||
 || 联邦党人文集<br>(美国宪法原理) || The Federalist Papers || [https://zh.wikipedia.org/zh-cn/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF 亚历山大·汉密尔顿] (美)<br>[https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%BA%A6%E8%BF%AA%E9%80%8A 詹姆斯·麦迪逊] (美)<br>[https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%9D%B0%E4%BC%8A 约翰·杰伊] (美) || 简体PDF(扫描版)<br>简体EPUB || 2013-11-27<br>2014-01-09 || [http://goo.gl/HqJha6 简介] ||
 || 历史的终结及最后之人 || The End of History and the Last Man || [https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%C2%B7%E7%A6%8F%E5%B1%B1 福山] (美) || 简体PDF(扫描版)<br>简体EPUB || 2013-01-01<br>2013-09-13 || [http://goo.gl/0C1A8d 简介] ||
+|| 民主的历程<br>——公元前508年-1999年 || Democracy<br>——The unfinished journey 508 BC - 1993 AD || [https://en.wikipedia.org/wiki/John_Dunn_%28political_theorist%29 John Dunn] / 约翰·邓恩 (主编) || 简体PDF(扫描版) || 2014-06-22 || [http://goo.gl/G7OYA2 简介] ||
 || 平民政治的基本原理 || The Fundamental Principles of Government || [https://zh.wikipedia.org/wiki/%E8%8A%AE%E6%81%A9%E6%96%BD 保罗·芮恩施] (美) || 简体PDF(扫描版) || 2013-01-14 || [http://goo.gl/0DbAvr 简介] ||
 || 宪政与权利 || || (多人) || 简体PDF || 2013-04-13 || [http://goo.gl/kesZbY 简介] ||
 || 宪政主义<br>——观念与制度的转捩 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%A1 王怡] || 简体PDF(扫描版) || 2013-05-19 || [http://goo.gl/Ysf3eg 简介] ||
@@ -145,15 +147,16 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 (本类别的"自由主义"主要指"[https://zh.wikipedia.org/wiki/%E5%8F%A4%E5%85%B8%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89 古典自由主义]"和"[https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97%E4%B8%BB%E7%BE%A9 自由意志主义]")
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 论自由 || On Liberty || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] (英) || 简体PDF<br>简体EPUB || 2013-04-14<br>2013-09-13 || [http://goo.gl/dy67tP 简介] ||
-|| 政府论 || Two Treatises of Government || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B 约翰·洛克] (英) || 简体PDF<br>简体EPUB || 2013-04-14<br>2013-09-13 || [http://goo.gl/DRkeoR 简介] ||
+|| 论自由 || On Liberty || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 密尔] (英) || 简体PDF<br>简体EPUB || 2013-04-14<br>2013-09-13 || [http://goo.gl/dy67tP 简介] ||
+|| 政府论 || Two Treatises of Government || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B 洛克] (英) || 简体PDF<br>简体EPUB || 2013-04-14<br>2013-09-13 || [http://goo.gl/DRkeoR 简介] ||
 || 自由论<br>(《自由四论》扩充版) || Four Essays on Liberty || [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] (英) || 简体PDF(扫描版)<br>英文PDF || 2013-08-22<br>2013-12-15 || [http://goo.gl/5ygT7B 简介] ||
 || 自由及其背叛<br>——人类自由的六个敌人 || Freedom and Its Betrayal<br>——Six Enemies of Human Liberty || (同上) || 简体PDF(扫描版) ||2014-05-23 || [http://goo.gl/dxl0EP 简介] ||
-|| 正义论 || A Theory of Justice || [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] (美) || 简体PDF(扫描版)<br>简体EPUB || 2013-05-23<br>2013-09-13 || [http://goo.gl/j5Lzkn 简介] ||
+|| 正义论 || A Theory of Justice || [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 罗尔斯] (美) || 简体PDF(扫描版)<br>简体EPUB || 2013-05-23<br>2013-09-13 || [http://goo.gl/j5Lzkn 简介] ||
 || 政治自由主义 || Political Liberalism || (同上) || 简体HTML || 2013-01-17 || [http://goo.gl/B6Y9pe 简介] ||
 || 无政府、国家与乌托邦 || Anarchy, State, and Utopia || [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E8%AB%BE%E9%BD%8A%E5%85%8B 诺齐克] (美) || 简体PDF(扫描版)<br>英文EPUB || 2013-07-30<br>2014-03-29 || [http://goo.gl/rDAxkr 简介] ||
+|| 古代人的自由与现代人的自由 || The Liberty of the Ancients Compared with that of the Moderns || [https://en.wikipedia.org/wiki/Benjamin_Constant Benjamin Constant] / 贡斯当 (法) || 简体PDF(扫描版) || 2014-06-22 || [http://goo.gl/TK9odN 简介] ||
 || 自由主义与正义的局限 || Liberalism and the Limits of Justice || [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] (美) || 简体PDF || 2013-01-01 || [http://goo.gl/VnpHRi 简介] ||
-|| 论出版自由 || Areopagitica<br>——A Speech for the Liberty of Unlicensed Printing || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF 约翰·弥尔顿] (英) || 简体PDF || 2014-02-03 || [http://goo.gl/u0t3F5 简介] ||
+|| 论出版自由 || Areopagitica<br>——A Speech for the Liberty of Unlicensed Printing || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF 弥尔顿] (英) || 简体PDF || 2014-02-03 || [http://goo.gl/u0t3F5 简介] ||
 || 给你所爱的人以自由 || || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体PDF(大字版) || 2013-10-26<br>2013-11-26 || [http://goo.gl/xM3ZiF 简介] ||
 
 === 1.1.3 资本主义 ===
@@ -170,9 +173,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and The Death of Communism<br> in the Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] (美) || 简体PDF(扫描版) || 2012-10-06 || [http://goo.gl/y289Uj 简介] ||
 || 共产主义实录 || Communism<br>——A History || [https://en.wikipedia.org/wiki/Richard_Pipes Richard Pipes] (美) || 简体PDF || 2012-10-05 || [http://goo.gl/N2xJjx 简介] ||
-|| 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 密洛凡·德热拉斯] (南斯拉夫) || 简体PDF(扫描版) || 2012-10-06 || [http://goo.gl/TSwEPN 简介] ||
+|| 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 德热拉斯] (南斯拉夫) || 简体PDF(扫描版) || 2012-10-06 || [http://goo.gl/TSwEPN 简介] ||
 || 历史决定论的贫困 || The Poverty of Historicism || [https://en.wikipedia.org/wiki/Karl_Popper Popper] / [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 波普尔] (英) || 简体HTML || 2012-12-11 || [http://goo.gl/u3dBNz 简介] ||
-|| 恐怖主义与共产主义 || Terrorism and Communism || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 卡尔·考茨基] (德) || 简体PDF || 2013-04-11 || [http://goo.gl/6wIj7f 简介] ||
+|| 恐怖主义与共产主义 || Terrorism and Communism || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 考茨基] (德) || 简体PDF || 2013-04-11 || [http://goo.gl/6wIj7f 简介] ||
 
 === 1.1.5 社会主义 ===
 
@@ -199,8 +202,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 大棋局<br>——美国的首要地位及其地缘战略 || The Grand Chessboard<br>——American Primacy and Its Geostrategic Imperatives || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] (美) || 简体PDF || 2013-04-14 || [http://goo.gl/47UZv3 简介] ||
-|| 文明的冲突与世界秩序的重建 || The Clash of Civilizations<br>and the Remaking of World Order || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] (美) || 简体PDF || 2013-03-31 || [http://goo.gl/yQJOmY 简介] ||
-|| 大外交 || Diplomacy || [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] (美) || 简体PDF(扫描版) || 2014-02-05 || [http://goo.gl/a690l8 简介] ||
+|| 文明的冲突与世界秩序的重建 || The Clash of Civilizations<br>and the Remaking of World Order || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 亨廷顿] (美) || 简体PDF || 2013-03-31 || [http://goo.gl/yQJOmY 简介] ||
+|| 大外交 || Diplomacy || [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 基辛格] (美) || 简体PDF(扫描版) || 2014-02-05 || [http://goo.gl/a690l8 简介] ||
 || 论中国 || On China || (同上) || 简体EPUB<br>英文EPUB || 2014-02-05<br>2014-02-05 || [http://goo.gl/f4AxDA 简介] ||
 
 === 1.1.8 非暴力抗争 ===
@@ -229,7 +232,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 政治科学 || Political Science || 迈克尔·罗斯金 (美)<br>等 || 简体PDF(第9版 扫描版)<br>简体PDF(第6版 扫描版) || 2014-02-13<br>2014-02-06 || [http://goo.gl/9weVZc 简介] ||
-|| 变化社会中的政治秩序 || Political Order in Changing Societies || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] (美) || 简体PDF || 2013-10-30 || [http://goo.gl/KOdFln 简介] ||
+|| 变化社会中的政治秩序 || Political Order in Changing Societies || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 亨廷顿] (美) || 简体PDF || 2013-10-30 || [http://goo.gl/KOdFln 简介] ||
 || 国家为什么失败<br>——权力、富裕与贫困的根源 || Why Nations Fail<br>——The Origins of Power, Prosperity, and Poverty || [https://en.wikipedia.org/wiki/Daron_Acemoglu Daron Acemoglu] (美)<br>James Robinson (美) || 简体TXT<br>繁體PDF(豎排掃描版) || 2014-03-20<br>2014-03-20 || [http://goo.gl/nBbZDk 简介] ||
 || 君主论<br>(君王论) || The Prince || [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E7%B6%AD%E5%88%A9 马基亚维利] (意) || 简体PDF || 2013-08-22 || [http://goo.gl/bdEyl8 简介] ||
 
@@ -240,10 +243,10 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 (某些政治小说描写的是特定国家，归入对应国家的分类；某些中国的政治小说描写的是特定的历史背景，归入"中共历史"的对应分类)
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 一九八四 || Nineteen Eighty-Four || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] (英) || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF(扫描版)<br>简体MOBI<br>英文EPUB<br>英文PDF || 2010-09-07<br>2013-09-15<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2013-09-13<br>2012-01-11 || [http://goo.gl/RPrAiX 简介] ||
+|| 一九八四 || Nineteen Eighty-Four || [https://en.wikipedia.org/wiki/George_Orwell Orwell] / [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 奥威尔] (英) || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF(扫描版)<br>简体MOBI<br>英文EPUB<br>英文PDF || 2010-09-07<br>2013-09-15<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2013-09-13<br>2012-01-11 || [http://goo.gl/RPrAiX 简介] ||
 || 动物庄园 || Animal Farm || (同上) || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF(扫描版)<br>简体MOBI<br>英文PDF || 2010-09-23<br>2013-09-13<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2012-01-11 || [http://goo.gl/dx78pN 简介] ||
-|| 美丽新世界 || Brave New World || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E6%96%AF%C2%B7%E9%9B%B7%E6%AD%90%E9%82%A3%E5%BE%B7%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E 奥尔德斯·赫胥黎] (英) || 简体EPUB<br>简体TXT || 2013-09-15<br>2012-10-05 || [http://goo.gl/NyWXXM 简介] ||
-|| 我们<br>(反乌托邦与自由) || We || [https://en.wikipedia.org/wiki/Yevgeny_Zamyatin 尤金·扎米亚京] (苏) || 简体EPUB || 2013-09-15 || [http://goo.gl/CVkuW0 简介] ||
+|| 美丽新世界 || Brave New World || [https://en.wikipedia.org/wiki/Aldous_Huxley Huxley] / [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E6%96%AF%C2%B7%E9%9B%B7%E6%AD%90%E9%82%A3%E5%BE%B7%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E 赫胥黎] (英) || 简体EPUB<br>简体TXT || 2013-09-15<br>2012-10-05 || [http://goo.gl/NyWXXM 简介] ||
+|| 我们<br>(反乌托邦与自由) || We || [https://en.wikipedia.org/wiki/Yevgeny_Zamyatin 扎米亚京] (苏) || 简体EPUB || 2013-09-15 || [http://goo.gl/CVkuW0 简介] ||
 || 黄祸 || Yellow Peril || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || 简体CHM || 2013-08-21 || [http://goo.gl/JqdQR5 简介] ||
 || 旋风 || || [https://zh.wikipedia.org/wiki/%E5%A7%9C%E8%B4%B5 姜贵] (原名：王林渡) || 简体PDF || 2013-08-21 || [http://goo.gl/x4pzYQ 简介] ||
 || 云图 || Cloud Atlas || [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E7%B1%B3%E5%88%87%E5%B0%94 大卫·米切尔] || 简体PDF<br>简体EPUB<br>英文PDF || 2014-02-06<br>2014-02-06<br>2014-02-06 || [http://goo.gl/3EynT2 简介] ||
@@ -558,6 +561,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 黄长烨回忆录 || Hwang Jang-yop Memoir || [https://zh.wikipedia.org/wiki/%E9%BB%84%E9%95%BF%E7%83%A8 黄长烨] (韩) || 简体PDF || 2013-02-19 || [http://goo.gl/9LXirA 简介] ||
 || 我们最幸福<br>——北韩人民的真实生活<br>(无可羡慕——朝鲜人的普通生活) || Nothing to Envy<br>——Ordinary Lives in North Korea || [https://en.wikipedia.org/wiki/Barbara_Demick Barbara Demick] (美) || 简体PDF<br>简体EPUB || 2013-02-19<br>2013-09-14 || [http://goo.gl/5uWF0j 简介] ||
 || 平壤水族馆<br>——我在北韩古拉格的十年 || The Aquariums of Pyongyang || [https://zh.wikipedia.org/wiki/%E5%A7%9C%E5%93%B2%E7%85%A5 姜哲焕] (韩)<br>[https://en.wikipedia.org/wiki/Pierre_Rigoulot Pierre Rigoulot] (法) || 繁體EPUB || 2014-05-04 || [http://goo.gl/HnrnfY 简介] ||
+|| 这就是天堂！<br>——我的北韩童年 || This is Paradise!<br>——My North Korean Childhood || Hyok Kang / 姜赫 (韩)<br>Philippe Grangereau || 繁體EPUB || 2014-06-22 || [http://goo.gl/GK0zHu 简介] ||
 || 平壤<br>——朝鲜之旅 || Pyongyang<br>——A Journey in North Korea || [https://en.wikipedia.org/wiki/Guy_Delisle Guy Delisle] (加) || 简体PDF(漫画 扫描版) || 2013-03-30 || [http://goo.gl/Gg6g5k 简介] ||
 
 == 1.8 罗马尼亚 ==
@@ -704,7 +708,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 [http://goo.gl/K2gzfW 简介]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* ||
-|| 秦汉史 || The Cambridge History of China || [https://zh.wikipedia.org/wiki/%E8%B4%B9%E6%AD%A3%E6%B8%85 费正清] 等 || 简体PDF(扫描版) || 2014-06-22 ||
+|| 秦汉史 || The Cambridge History of China || [https://zh.wikipedia.org/wiki/%E8%B4%B9%E6%AD%A3%E6%B8%85 费正清] 崔瑞德 主编 || 简体PDF(扫描版) || 2014-06-22 ||
 || 隋唐史 || (同上) || (同上) || 简体PDF(扫描版) || 2014-06-22 ||
 || 辽西夏金元史 || (同上) || (同上) || 简体PDF(扫描版) || 2014-06-22 ||
 || 明代史 || (同上) || (同上) || 简体PDF(扫描版) || 2014-06-22 ||
