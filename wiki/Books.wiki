@@ -131,7 +131,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 论民主 || On Democracy || [https://en.wikipedia.org/wiki/Robert_A._Dahl Robert Dahl] / [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%C2%B7%E9%81%93%E7%88%BE 罗伯特·道尔] (美) || 简体PDF(扫描版) || 2014-06-22 || [http://goo.gl/7e8E09 简介] ||
 || 代议制政府 || Considerations on Representative Government || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 密尔] (英) || 简体PDF || 2013-08-22 || [http://goo.gl/0Nc9uY 简介] ||
 || 第三波<br>——20世纪后期民主化浪潮 || The Third Wave<br>——Democratization in the Late Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 亨廷顿] (美) || 简体PDF || 2013-05-30 || [http://goo.gl/nYBwdP 简介] ||
-|| 社会契约论<br>(民约论) || The Social Contract || [https://zh.wikipedia.org/wiki/%E8%AE%A9-%E9%9B%85%E5%85%8B%C2%B7%E5%8D%A2%E6%A2%AD 让-雅克·卢梭] (法) || 简体PDF || 2014-01-09 || [http://goo.gl/2hOv3S 简介] ||
+|| 社会契约论<br>(民约论) || The Social Contract || [https://zh.wikipedia.org/wiki/%E8%AE%A9-%E9%9B%85%E5%85%8B%C2%B7%E5%8D%A2%E6%A2%AD 卢梭] (法) || 简体PDF || 2014-01-09 || [http://goo.gl/2hOv3S 简介] ||
 || 论法的精神<br>(法意) || The Spirit of the Laws || [https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%BE%B7%E6%96%AF%E9%B8%A0 孟德斯鸠] (法) || 简体PDF || 2014-01-09 || [http://goo.gl/UTjUxP 简介] ||
 || 联邦党人文集<br>(美国宪法原理) || The Federalist Papers || [https://zh.wikipedia.org/zh-cn/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF 亚历山大·汉密尔顿] (美)<br>[https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%BA%A6%E8%BF%AA%E9%80%8A 詹姆斯·麦迪逊] (美)<br>[https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%9D%B0%E4%BC%8A 约翰·杰伊] (美) || 简体PDF(扫描版)<br>简体EPUB || 2013-11-27<br>2014-01-09 || [http://goo.gl/HqJha6 简介] ||
 || 历史的终结及最后之人 || The End of History and the Last Man || [https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%C2%B7%E7%A6%8F%E5%B1%B1 福山] (美) || 简体PDF(扫描版)<br>简体EPUB || 2013-01-01<br>2013-09-13 || [http://goo.gl/0C1A8d 简介] ||
@@ -565,7 +565,16 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 这就是天堂！<br>——我的北韩童年 || This is Paradise!<br>——My North Korean Childhood || Hyok Kang / 姜赫 (韩)<br>Philippe Grangereau || 繁體EPUB || 2014-06-22 || [http://goo.gl/GK0zHu 简介] ||
 || 平壤<br>——朝鲜之旅 || Pyongyang<br>——A Journey in North Korea || [https://en.wikipedia.org/wiki/Guy_Delisle Guy Delisle] (加) || 简体PDF(漫画 扫描版) || 2013-03-30 || [http://goo.gl/Gg6g5k 简介] ||
 
-== 1.8 罗马尼亚 ==
+== 1.8 捷克斯洛伐克 ==
+
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1929 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/AADCN9lkSt8FUxu09etAxznxa/%E6%94%BF%E6%B2%BB/%E6%8D%B7%E5%85%8B%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B Dropbox网盘]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 哈维尔文集 || || [https://zh.wikipedia.org/wiki/%E7%93%A6%E8%8C%A8%E6%8B%89%E5%A4%AB%C2%B7%E5%93%88%E7%BB%B4%E5%B0%94 哈维尔] (捷克) || 简体PDF || 2013-03-22 || [http://goo.gl/NDN4gi 简介] ||
+|| 杜布切克回忆录 || || [https://zh.wikipedia.org/zh/%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%A4%A7%C2%B7%E6%9D%9C%E5%B8%83%E5%88%87%E5%85%8B 杜布切克] (捷克) || 简体PDF(扫描版) || 2014-07-12 || [http://goo.gl/IhePjX 简介] ||
+|| 严寒来自克里姆林宫 || Frost comes from Kremlin || [https://zh.wikipedia.org/zh-cn/%E5%85%B9%E5%BE%B7%E6%B6%85%E5%85%8B%C2%B7%E5%A7%86%E6%9E%97%E7%BA%B3%E6%97%A5 姆林纳日] (捷克) || 简体PDF(扫描版) || 2014-07-12 || [http://goo.gl/13iWcg 简介] ||
+
+== 1.9 罗马尼亚 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1767 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/9sYtaR9vov/%E6%94%BF%E6%B2%BB/%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A Dropbox网盘]
 
@@ -574,12 +583,11 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 论小丑<br>——独裁者和艺术家 || On Clowns<br>——The Dictator and the Artist || (同上) || 简体PDF(扫描版) || 2014-05-04 || [http://goo.gl/XxGNNP 简介] ||
 || 黑信封 || The Black Envelope || (同上) || 简体PDF(扫描版) || 2014-05-04 || [http://goo.gl/oJ4ZbZ 简介] ||
 
-== 1.9 (其它国家) ==
+== 1.10 (其它国家) ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1210 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/socCw0hU7v/%E6%94%BF%E6%B2%BB/%28%E5%85%B6%E5%AE%83%E5%9B%BD%E5%AE%B6%29 Dropbox网盘]
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 哈维尔文集 || [https://zh.wikipedia.org/wiki/%E7%93%A6%E8%8C%A8%E6%8B%89%E5%A4%AB%C2%B7%E5%93%88%E7%BB%B4%E5%B0%94 哈维尔] (捷) || 简体PDF || 2013-03-22 || [http://goo.gl/NDN4gi 简介] ||
 || 二十世纪最后的革命家<br>——菲德尔·卡斯特罗传 || [https://zh.wikipedia.org/wiki/%E7%A8%8B%E6%98%A0%E8%99%B9 程映虹] || 简体PDF || 2013-03-30 || [http://goo.gl/2A7cLl 简介] ||
 || 波尔布特传 || 王爱飞 || 简体PDF || 2013-05-19 || [http://goo.gl/Tt77Xl 简介] ||
 
@@ -757,7 +765,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 国富论<br>(国民财富的性质和原因) || The Wealth of Nations || [https://en.wikipedia.org/wiki/Adam_Smith Adam Smith] / [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] (英) || 简体CHM || 2013-04-09 || [http://goo.gl/UKlCBO 简介] ||
-|| 经济学 || Economics || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 保罗·萨缪尔森] (美)<br>[https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%AF%BA%E5%BE%B7%E8%B1%AA%E6%96%AF 威廉·诺德豪斯] (美) || 简体PDF(第18版 扫描版) || 2014-02-13 || [http://goo.gl/2ry1in 简介] ||
+|| 经济学 || Economics || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 萨缪尔森] (美)<br>[https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%AF%BA%E5%BE%B7%E8%B1%AA%E6%96%AF 威廉·诺德豪斯] (美) || 简体PDF(第18版 扫描版) || 2014-02-13 || [http://goo.gl/2ry1in 简介] ||
 || 经济学原理 || Principles of Economics || [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9B%BC%E6%98%86 格里高利·曼昆] (美) || 简体PDF(第5版 扫描版) || 2013-02-22 || [http://goo.gl/KlA6cc 简介] ||
 || 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 凯恩斯] (美) || 简体PDF || 2014-02-22 || [http://goo.gl/ejlYr5 简介] ||
 || 个人主义与经济秩序 || Individualism and Economic Order || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] (英) || 简体PDF<br>简体EPUB || 2013-04-10<br>2013-09-13 || [http://goo.gl/8GoZrW 简介] ||
@@ -771,7 +779,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 资本主义与自由 || Capitalism and Freedom || [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%B0%94%E9%A1%BF%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E6%9B%BC 米尔顿·弗里德曼] (美) || 简体PDF || 2014-02-13 || [http://goo.gl/wmfmJE 简介] ||
 || 自由选择<br>(选择的自由) || Free to Choose<br>——A personal statement || (同上) || 简体PDF<br>简体EPUB<br>英文PDF || 2013-03-24<br>2013-09-13<br>2013-04-09 || [http://goo.gl/TEymaB 简介] ||
-|| 充满灵性的经济学 || Economics from the Heart<br>——A Samuelson Sampler || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 保罗·萨缪尔森] (美) || 简体PDF(扫描版) || 2013-04-09 || [http://goo.gl/mY3e9r 简介] ||
+|| 充满灵性的经济学 || Economics from the Heart<br>——A Samuelson Sampler || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 萨缪尔森] (美) || 简体PDF(扫描版) || 2013-04-09 || [http://goo.gl/mY3e9r 简介] ||
 || 从来就没有救世主 || || [https://zh.wikipedia.org/wiki/%E8%AE%B8%E5%B0%8F%E5%B9%B4 许小年] || 简体PDF(扫描版) || 2013-04-09 || [http://goo.gl/R7lzaQ 简介] ||
 
 === 4.1.3 通俗读物 ===
@@ -788,7 +796,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1637 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/qhj0Xe7f87/%E7%BB%8F%E6%B5%8E/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 从马克思到凯恩斯<br>——十大经济学家 || Ten Great Economists from Marx to Keynes || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼得] (奥) || 简体PDF(扫描版) || 2013-04-09 || [http://goo.gl/e86jjl 简介] ||
+|| 从马克思到凯恩斯<br>——十大经济学家 || Ten Great Economists from Marx to Keynes || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 熊彼得] (奥) || 简体PDF(扫描版) || 2013-04-09 || [http://goo.gl/e86jjl 简介] ||
 
 == 4.3 投资 ==
 
@@ -798,7 +806,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 证券分析 || Security Analysis || [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] (美)<br>[https://en.wikipedia.org/wiki/David_Dodd 戴维·多德] (美) || 简体PDF(扫描版)<br>简体EPUB || 2013-04-29<br>2013-09-13 || [http://goo.gl/IG7E0l 简介] ||
 || 聪明的投资者<br>(投资指南) || The Intelligent Investor || [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] (美) || 简体PDF(扫描版) || 2014-02-20 || [http://goo.gl/OzKVTp 简介] ||
 || 非理性繁荣 || Irrational Exuberance || [https://en.wikipedia.org/wiki/Robert_J._Shiller Robert Shiller] (美) || 简体PDF(扫描版) || 2014-05-23 || [http://goo.gl/nLY9hO 简介] ||
-|| 金融炼金术 || The Alchemy of Finance || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E7%B4%A2%E7%BD%97%E6%96%AF 乔治·索罗斯] (美) || 简体PDF<br>简体EPUB || 2013-04-29<br>2013-09-13 || [http://goo.gl/SIW1dT 简介] ||
+|| 金融炼金术 || The Alchemy of Finance || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E7%B4%A2%E7%BD%97%E6%96%AF 索罗斯] (美) || 简体PDF<br>简体EPUB || 2013-04-29<br>2013-09-13 || [http://goo.gl/SIW1dT 简介] ||
 
 == 4.4 博弈论 ==
 
@@ -938,7 +946,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1631 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/CjJwvUlhYe/%E6%96%87%E8%89%BA/%E6%97%A5%E6%9C%AC/%E6%96%87%E5%8C%96 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 菊与刀 || The Chrysanthemum and the Sword || [https://zh.wikipedia.org/wiki/%E9%B2%81%E6%80%9D%C2%B7%E6%9C%AC%E5%B0%BC%E8%BF%AA%E5%85%8B%E7%89%B9 鲁思·本尼迪克特] (美) || 简体PDF || 2014-01-09 || [http://goo.gl/tFc6Q2 简介] ||
+|| 菊与刀 || The Chrysanthemum and the Sword || [https://zh.wikipedia.org/wiki/%E9%B2%81%E6%80%9D%C2%B7%E6%9C%AC%E5%B0%BC%E8%BF%AA%E5%85%8B%E7%89%B9 本尼迪克特] (美) || 简体PDF || 2014-01-09 || [http://goo.gl/tFc6Q2 简介] ||
 
 
 <hr>
@@ -1134,7 +1142,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1502 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/VftqeGFNIa/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 欺骗的艺术 || The Art of Deception<br>——Controlling the Human Element of Security || [https://en.wikipedia.org/wiki/Kevin_Mitnick Kevin Mitnick] / [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E7%B1%B3%E7%89%B9%E5%B0%BC%E5%85%8B 凯文·米特尼克] (美) || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || [http://goo.gl/hhjZR4 简介] ||
+|| 欺骗的艺术 || The Art of Deception<br>——Controlling the Human Element of Security || [https://en.wikipedia.org/wiki/Kevin_Mitnick Mitnick] / [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E7%B1%B3%E7%89%B9%E5%B0%BC%E5%85%8B 米特尼克] (美) || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || [http://goo.gl/hhjZR4 简介] ||
 
 === 9.3.2 密码学 ===
 
@@ -1164,7 +1172,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1646 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Zes-B0Qewk/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%85%A5%E4%BE%B5 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 入侵的艺术 || The Art of Intrusion<br>——The Real Stories Behind the Exploits<br> of Hackers, Intruders & Deceivers || [https://en.wikipedia.org/wiki/Kevin_Mitnick Kevin Mitnick] / [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E7%B1%B3%E7%89%B9%E5%B0%BC%E5%85%8B 凯文·米特尼克] (美) || 简体PDF(扫描版)<br>英文PDF || 2014-02-04<br>2014-01-09 || [http://goo.gl/Wxokd7 简介] ||
+|| 入侵的艺术 || The Art of Intrusion<br>——The Real Stories Behind the Exploits<br> of Hackers, Intruders & Deceivers || [https://en.wikipedia.org/wiki/Kevin_Mitnick Mitnick] / [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E7%B1%B3%E7%89%B9%E5%B0%BC%E5%85%8B 米特尼克] (美) || 简体PDF(扫描版)<br>英文PDF || 2014-02-04<br>2014-01-09 || [http://goo.gl/Wxokd7 简介] ||
 
 == 9.4 操作系统 ==
 
