@@ -605,6 +605,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 学会提问<br>——批判性思维指南 || Asking the Right Questions<br>——A Guide to Critical Thinking || Neil Browne (美)<br>Neil Browne (美) || 简体PDF(第7版)<br>简体EPUB (第7版)<br>英文PDF(第8版) || 2012-01-20<br>2013-09-13<br>2012-01-20 || [http://goo.gl/Zf9TGI 简介] ||
 || 影响力 || Influence<br>——The Psychology of Persuasion || [https://en.wikipedia.org/wiki/Robert_Cialdini Robert Cialdini] (美) || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>英文TXT || 2013-02-25<br>2012-12-29<br>2013-09-13<br>2014-02-23<br>2012-12-29 || [http://goo.gl/txwX4C 简介] ||
 || 无从选择<br>——为何多即是少 || The Paradox of Choice<br>——Why More Is Less || [https://en.wikipedia.org/wiki/Barry_Schwartz_%28psychologist%29 巴里·施瓦茨] (美) || 简体PDF(扫描版)<br>英文PDF || 2012-12-29<br>2012-12-29 || [http://goo.gl/TNeusY 简介] ||
+|| 思考，快与慢 || Thinking, Fast and Slow || [https://zh.wikipedia.org/wiki/%E4%B8%B9%E5%B0%BC%E5%B0%94%C2%B7%E5%8D%A1%E5%86%85%E6%9B%BC 丹尼尔·卡尼曼] (美) || 简体MOBI || 2014-07-15 || [http://goo.gl/bGppFW 简介] ||
+|| 清醒思考的艺术<br>——你最好让别人去犯的52种思维错误 || The Art of Thinking Clearly || [https://en.wikipedia.org/wiki/Rolf_Dobelli Rolf Dobelli] (瑞士) || 简体PDF(扫描版) || 2014-07-15 || [http://goo.gl/2FL77l 简介] ||
 
 == 2.2 人格心理学 ==
 
@@ -616,6 +618,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 人的潜能和价值<br>——人本主义心理学译文集 || || (多人) || 简体PDF(扫描版) || 2013-02-05 || [http://goo.gl/8CN0kw 简介] ||
 || 梦的解析<br>(释梦) || The Interpretation of Dreams || [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 弗洛伊德] (奥) || 简体PDF<br>英文PDF || 2012-12-29<br>2013-04-14 || [http://goo.gl/73PCBo 简介] ||
 || 精神分析引论 || A General Introduction to Psychoanalysis || (同上) || 简体PDF<br>简体EPUB || 2012-12-29<br>2013-04-16 || [http://goo.gl/bRgaRa 简介] ||
+|| 身份的焦虑 || Status Anxiety || [https://zh.wikipedia.org/wiki/%E8%89%BE%E5%80%AB%C2%B7%E8%BF%AA%C2%B7%E6%B3%A2%E9%A0%93 阿兰·德波顿] (瑞士) || 简体PDF(扫描版) || 2014-07-15 || [http://goo.gl/eeiW00 简介] ||
 
 == 2.3 社会心理学 ==
 
@@ -632,6 +635,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 正面管教 || Positive Discipline || [https://en.wikipedia.org/wiki/Jane_Nelsen 简·尼尔森] (美) || 简体PDF || 2014-02-11 || [http://goo.gl/q9iJsR 简介] ||
+|| 家庭会伤人<br>——自我重生的新契机 || The Family<br>——A Revolutionary Way of Self Discovery || [https://en.wikipedia.org/wiki/John_Bradshaw_%28author%29 John Bradshaw] (美) || 简体PDF(扫描版) || 2014-07-15 || [http://goo.gl/Cczogx 简介] ||
 
 == 2.5 进化心理学 ==
 
