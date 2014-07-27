@@ -177,7 +177,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and The Death of Communism<br> in the Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] (美) || 简体PDF(扫描版) || 2012-10-06 || [http://goo.gl/y289Uj 简介] ||
 || 共产主义实录 || Communism<br>——A History || [https://en.wikipedia.org/wiki/Richard_Pipes Richard Pipes] (美) || 简体PDF || 2012-10-05 || [http://goo.gl/N2xJjx 简介] ||
 || 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 德热拉斯] (南斯拉夫) || 简体PDF(扫描版) || 2012-10-06 || [http://goo.gl/TSwEPN 简介] ||
-|| 历史决定论的贫困 || The Poverty of Historicism || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 波普尔] (英) || 简体HTML || 2012-12-11 || [http://goo.gl/u3dBNz 简介] ||
+|| 历史决定论的贫困 || The Poverty of Historicism || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 波普尔] (英) || 简体PDF<br>简体HTML || 2014-07-27<br>2012-12-11 || [http://goo.gl/u3dBNz 简介] ||
 || 恐怖主义与共产主义 || Terrorism and Communism || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 考茨基] (德) || 简体PDF || 2013-04-11 || [http://goo.gl/6wIj7f 简介] ||
 
 === 1.1.5 社会主义 ===
