@@ -156,7 +156,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 政治自由主义 || Political Liberalism || (同上) || 简体HTML || 2013-01-17 || [http://goo.gl/B6Y9pe 简介] ||
 || 无政府、国家与乌托邦 || Anarchy, State, and Utopia || [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E8%AB%BE%E9%BD%8A%E5%85%8B 诺齐克] (美) || 简体PDF(扫描版)<br>英文EPUB || 2013-07-30<br>2014-03-29 || [http://goo.gl/rDAxkr 简介] ||
 || 自由史论 || The History of Freedom and Other Essays || [https://zh.wikipedia.org/wiki/%E9%98%BF%E5%85%8B%E9%A1%BF%E5%8B%8B%E7%88%B5 阿克顿勋爵] (英) || 简体PDF(扫描版) || 2014-07-27 || [http://goo.gl/aOPps4 简介] ||
-|| 古代人的自由与现代人的自由 || The Liberty of the Ancients Compared with that of the Moderns || [https://en.wikipedia.org/wiki/Benjamin_Constant Benjamin Constant] / 贡斯当 (法) || 简体PDF(扫描版) || 2014-06-22 || [http://goo.gl/TK9odN 简介] ||
+|| 古代人的自由与现代人的自由 || The Liberty of the Ancients Compared with that of the Moderns || [https://en.wikipedia.org/wiki/Benjamin_Constant 贡斯当] (法) || 简体PDF(扫描版) || 2014-06-22 || [http://goo.gl/TK9odN 简介] ||
 || 利维坦 || Leviathan || [https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E9%9C%8D%E5%B8%83%E6%96%AF 霍布斯] (英) || 简体PDF || 2014-06-22 || [http://goo.gl/ifQiP4 简介] ||
 || 自由主义与正义的局限 || Liberalism and the Limits of Justice || [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] (美) || 简体PDF || 2013-01-01 || [http://goo.gl/VnpHRi 简介] ||
 || 论出版自由 || Areopagitica<br>——A Speech for the Liberty of Unlicensed Printing || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF 弥尔顿] (英) || 简体PDF || 2014-02-03 || [http://goo.gl/u0t3F5 简介] ||
@@ -177,7 +177,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and The Death of Communism<br> in the Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] (美) || 简体PDF(扫描版) || 2012-10-06 || [http://goo.gl/y289Uj 简介] ||
 || 共产主义实录 || Communism<br>——A History || [https://en.wikipedia.org/wiki/Richard_Pipes Richard Pipes] (美) || 简体PDF || 2012-10-05 || [http://goo.gl/N2xJjx 简介] ||
 || 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 德热拉斯] (南斯拉夫) || 简体PDF(扫描版) || 2012-10-06 || [http://goo.gl/TSwEPN 简介] ||
-|| 历史决定论的贫困 || The Poverty of Historicism || [https://en.wikipedia.org/wiki/Karl_Popper Popper] / [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 波普尔] (英) || 简体HTML || 2012-12-11 || [http://goo.gl/u3dBNz 简介] ||
+|| 历史决定论的贫困 || The Poverty of Historicism || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 波普尔] (英) || 简体HTML || 2012-12-11 || [http://goo.gl/u3dBNz 简介] ||
 || 恐怖主义与共产主义 || Terrorism and Communism || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 考茨基] (德) || 简体PDF || 2013-04-11 || [http://goo.gl/6wIj7f 简介] ||
 
 === 1.1.5 社会主义 ===
@@ -194,7 +194,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!954 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/7t_-_TC2-w/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89%E5%92%8C%E5%A8%81%E6%9D%83%E4%B8%BB%E4%B9%89 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 开放社会及其敌人 || The Open Society and Its Enemies || [https://en.wikipedia.org/wiki/Karl_Popper Popper] / [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 波普尔] (英) || 简体PDF<br>简体EPUB || 2012-12-11<br>2013-09-14 || [http://goo.gl/MizNyC 简介] ||
+|| 开放社会及其敌人 || The Open Society and Its Enemies || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 波普尔] (英) || 简体PDF<br>简体EPUB || 2012-12-11<br>2013-09-14 || [http://goo.gl/MizNyC 简介] ||
 || 极权主义的起源 || The Origins of Totalitarianism || [https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9 汉娜·阿伦特] (美) || 简体PDF<br>简体CHM<br>简体MOBI || 2012-10-06<br>2012-10-14<br>2014-02-23 || [http://goo.gl/NUhGJg 简介] ||
 || 威权统治的转型<br>——关于不确定民主的试探性结论 || Transitions from Authoritarian Rule<br>——Tentative Conclusions About Uncertain Democracies || [https://en.wikipedia.org/wiki/Guillermo_O%27Donnell 吉列尔莫·奥唐奈] (阿根廷)<br>[https://en.wikipedia.org/wiki/Philippe_C._Schmitter 菲利普·施密特] (美) || 简体PDF(扫描版) || 2013-08-21 || [http://goo.gl/GtLlHy 简介] ||
 || 新常识<br>——一党专制的性质与后果 || || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%BF%A0 张雪忠] || 简体PDF<br>简体EPUB || 2013-10-19<br>2014-03-29 || [http://goo.gl/fYtRUx 简介] ||
@@ -228,6 +228,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 女性的奥秘 || The Feminine Mystique || [https://zh.wikipedia.org/wiki/%E8%B4%9D%E8%92%82%C2%B7%E5%BC%97%E9%87%8C%E4%B8%B9 贝蒂·弗里丹] || 简体PDF(扫描版) || 2013-04-10 || [http://goo.gl/CahRAx 简介] ||
 || 女权主义 || || 简·弗里德曼 || 简体PDF(扫描版) || 2014-02-03 || [http://goo.gl/mL4VVC 简介] ||
 || 三个原始部落的性别与气质 || Sex and Temperament in Three Primitive Societies || [https://zh.wikipedia.org/wiki/%E7%91%AA%E6%A0%BC%E9%BA%97%E7%89%B9%C2%B7%E7%B1%B3%E5%BE%B7 玛格丽特·米德] (美) || 简体PDF(扫描版) || 2013-08-13 || [http://goo.gl/XVViba 简介] ||
+|| 醒来的女性 || || (不详) || 简体PDF || 2014-07-27 || [http://goo.gl/JmQ8WC 简介] ||
 
 === 1.1.10 (其它) ===
 
@@ -970,7 +971,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 你的第一本哲学书 || What Does It All Mean?<br>——A very short introduction to philosophy || [https://en.wikipedia.org/wiki/Thomas_Nagel Nagel] / [https://zh.wikipedia.org/wiki/%E6%B9%AF%E7%91%AA%E6%96%AF%C2%B7%E5%85%A7%E6%A0%BC%E7%88%BE 内格尔] (美) || 简体PDF(扫描版) || 2014-06-20 || [http://goo.gl/YDpVbp 简介] ||
-|| 哲学问题 || The Problems of Philosophy || [https://en.wikipedia.org/wiki/Bertrand_Russell Russell] / [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体PDF || 2014-06-20 || [http://goo.gl/c5B9Fb 简介] ||
+|| 哲学问题 || The Problems of Philosophy || [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体PDF || 2014-06-20 || [http://goo.gl/c5B9Fb 简介] ||
 || 苏菲的世界 || Sophie's World || [https://en.wikipedia.org/wiki/Jostein_Gaarder Jostein Gaarder] / [https://zh.wikipedia.org/wiki/%E5%96%AC%E6%96%AF%E5%9D%A6%C2%B7%E8%B3%88%E5%BE%B7 乔斯坦·贾德] (挪威) || 简体PDF || 2014-06-20 || [http://goo.gl/uLo2sB 简介] ||
 
 == 8.2 哲学史 ==
@@ -978,7 +979,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1839 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/AADTDcE9_U7sIfxfSsSr9k-Xa/%E5%93%B2%E5%AD%A6/%E5%93%B2%E5%AD%A6%E5%8F%B2 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 西方哲学史 || A History of Western Philosophy || [https://en.wikipedia.org/wiki/Bertrand_Russell Russell] / [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体PDF || 2014-06-20 || [http://goo.gl/VeL9St 简介] ||
+|| 西方哲学史 || A History of Western Philosophy || [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体PDF || 2014-06-20 || [http://goo.gl/VeL9St 简介] ||
 || 中国哲学简史 || A Short History of Chinese Philosophy || [https://zh.wikipedia.org/wiki/%E5%86%AF%E5%8F%8B%E5%85%B0 冯友兰] || 简体PDF || 2014-06-20 || [http://goo.gl/MeCxqs 简介] ||
 
 == 8.3 哲学家 ==
@@ -1010,7 +1011,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1837 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/AACf5KqQM3F6Ex3XRhKRsp5qa/%E5%93%B2%E5%AD%A6/%E4%BC%A6%E7%90%86%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 幸福之路 || The Conquest of Happiness || [https://en.wikipedia.org/wiki/Bertrand_Russell Russell] / [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体EPUB || 2014-06-20 || [http://goo.gl/nWPiq0 简介] ||
+|| 幸福之路 || The Conquest of Happiness || [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体EPUB || 2014-06-20 || [http://goo.gl/nWPiq0 简介] ||
 || 道德情操论 || The Theory of Moral Sentiments || [https://en.wikipedia.org/wiki/Adam_Smith Adam Smith] / [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] (英) || 简体PDF || 2014-06-20 || [http://goo.gl/TTTVsl 简介] ||
 
 == 8.7 科学哲学 ==
@@ -1018,7 +1019,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1842 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/AACdRYe2LYsRbBxLBSuuYgpYa/%E5%93%B2%E5%AD%A6/%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 科学发现的逻辑 || The Logic of Scientific Discovery || [https://en.wikipedia.org/wiki/Karl_Popper Popper] / [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 波普尔] (英) || 简体HTML || 2014-06-20 || [http://goo.gl/SYE5B9 简介] ||
+|| 科学发现的逻辑 || The Logic of Scientific Discovery || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 波普尔] (英) || 简体HTML || 2014-06-20 || [http://goo.gl/SYE5B9 简介] ||
 
 == 8.8 (其它) ==
 
