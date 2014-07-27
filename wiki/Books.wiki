@@ -736,6 +736,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1147 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/0kyY_iKR2F/%E5%8E%86%E5%8F%B2/%E5%8F%A4%E5%B8%8C%E8%85%8A Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 伯罗奔尼撒战争史 || History of the Peloponnesian War || [https://zh.wikipedia.org/wiki/%E4%BF%AE%E6%98%94%E5%BA%95%E5%BE%B7 修昔底德] (古希腊) || 简体PDF(上下册 扫描版) || 2014-07-27 || [http://goo.gl/9A7loc 简介] ||
 || 希腊城邦制度<br>——读希腊史笔记 || || [https://zh.wikipedia.org/wiki/%E9%A1%A7%E5%87%86 顾准] || 简体PDF || 2013-02-07 || [http://goo.gl/7UnfRU 简介] ||
 || 亚历山大远征记 || Anabasis Alexandri || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] (古罗马) || 简体PDF || 2013-02-07 || [http://goo.gl/Kv4Ltu 简介] ||
 
