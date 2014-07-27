@@ -247,9 +247,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 (某些政治小说描写的是特定国家，归入对应国家的分类；某些中国的政治小说描写的是特定的历史背景，归入"中共历史"的对应分类)
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 一九八四 || Nineteen Eighty-Four || [https://en.wikipedia.org/wiki/George_Orwell Orwell] / [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 奥威尔] (英) || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF(扫描版)<br>简体MOBI<br>英文EPUB<br>英文PDF || 2010-09-07<br>2013-09-15<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2013-09-13<br>2012-01-11 || [http://goo.gl/RPrAiX 简介] ||
+|| 一九八四 || Nineteen Eighty-Four || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 奥威尔] (英) || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF(扫描版)<br>简体MOBI<br>英文EPUB<br>英文PDF || 2010-09-07<br>2013-09-15<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2013-09-13<br>2012-01-11 || [http://goo.gl/RPrAiX 简介] ||
 || 动物庄园 || Animal Farm || (同上) || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF(扫描版)<br>简体MOBI<br>英文PDF || 2010-09-23<br>2013-09-13<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2012-01-11 || [http://goo.gl/dx78pN 简介] ||
-|| 美丽新世界 || Brave New World || [https://en.wikipedia.org/wiki/Aldous_Huxley Huxley] / [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E6%96%AF%C2%B7%E9%9B%B7%E6%AD%90%E9%82%A3%E5%BE%B7%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E 赫胥黎] (英) || 简体EPUB<br>简体TXT || 2013-09-15<br>2012-10-05 || [http://goo.gl/NyWXXM 简介] ||
+|| 美丽新世界 || Brave New World || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E6%96%AF%C2%B7%E9%9B%B7%E6%AD%90%E9%82%A3%E5%BE%B7%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E 赫胥黎] (英) || 简体EPUB<br>简体TXT || 2013-09-15<br>2012-10-05 || [http://goo.gl/NyWXXM 简介] ||
 || 我们<br>(反乌托邦与自由) || We || [https://en.wikipedia.org/wiki/Yevgeny_Zamyatin 扎米亚京] (苏) || 简体EPUB || 2013-09-15 || [http://goo.gl/CVkuW0 简介] ||
 || 黄祸 || Yellow Peril || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || 简体CHM || 2013-08-21 || [http://goo.gl/JqdQR5 简介] ||
 || 旋风 || || [https://zh.wikipedia.org/wiki/%E5%A7%9C%E8%B4%B5 姜贵] (原名：王林渡) || 简体PDF || 2013-08-21 || [http://goo.gl/x4pzYQ 简介] ||
@@ -628,9 +628,10 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1058 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/cmYOFevYsO/%E5%BF%83%E7%90%86%E5%AD%A6/%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 社会性动物 || The Social Animal || [https://en.wikipedia.org/wiki/Elliot_Aronson Elliot Aronson] / 埃利奥特·阿伦森 (美) || 简体PDF<br>简体MOBI || 2014-01-09<br>2014-02-23 || [http://goo.gl/s4FxAS 简介] ||
-|| 乌合之众<br>——大众心理研究 || The Crowd<br>——A Study of the Popular Mind || [https://en.wikipedia.org/wiki/Gustave_Le_Bon Gustave Le Bon] / [https://zh.wikipedia.org/wiki/%E5%8F%A4%E6%96%AF%E5%A1%94%E5%A4%AB%C2%B7%E5%8B%92%E5%BA%9E 古斯塔夫·勒庞] (法) || 简体PDF(扫描版)<br>简体MOBI || 2012-12-29<br>2014-02-23 || [http://goo.gl/Glqfol 简介] ||
-|| 路西法效应<br>——好人是如何变成恶魔的 || The Lucifer Effect<br>——Understanding How Good People Turn Evil || [https://en.wikipedia.org/wiki/Philip_Zimbardo Philip Zimbardo] / [https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A 菲利普·津巴多] (美) || 简体EPUB<br>繁體PDF(掃描版) || 2013-09-13<br>2013-02-05 || [http://goo.gl/zy7q5V 简介] ||
+|| 社会性动物 || The Social Animal || 埃利奥特·阿伦森 (美) || 简体PDF<br>简体MOBI || 2014-01-09<br>2014-02-23 || [http://goo.gl/s4FxAS 简介] ||
+|| 乌合之众<br>——大众心理研究 || The Crowd<br>——A Study of the Popular Mind || [https://zh.wikipedia.org/wiki/%E5%8F%A4%E6%96%AF%E5%A1%94%E5%A4%AB%C2%B7%E5%8B%92%E5%BA%9E 古斯塔夫·勒庞] (法) || 简体PDF(扫描版)<br>简体MOBI || 2012-12-29<br>2014-02-23 || [http://goo.gl/Glqfol 简介] ||
+|| 狂热分子<br>——群众运动圣经 || True Believer<br>——Thoughts on the Nature of Mass Movements || [https://en.wikipedia.org/wiki/Eric_Hoffer Eric Hoffer] (美) || 简体EPUB || 2014-07-27 || [http://goo.gl/vH5jrI 简介] ||
+|| 路西法效应<br>——好人是如何变成恶魔的 || The Lucifer Effect<br>——Understanding How Good People Turn Evil || [https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A 菲利普·津巴多] (美) || 简体EPUB<br>繁體PDF(掃描版) || 2013-09-13<br>2013-02-05 || [http://goo.gl/zy7q5V 简介] ||
 
 == 2.4 教育心理学 ==
 
