@@ -228,7 +228,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 女性的奥秘 || The Feminine Mystique || [https://zh.wikipedia.org/wiki/%E8%B4%9D%E8%92%82%C2%B7%E5%BC%97%E9%87%8C%E4%B8%B9 贝蒂·弗里丹] || 简体PDF(扫描版) || 2013-04-10 || [http://goo.gl/CahRAx 简介] ||
 || 女权主义 || || 简·弗里德曼 || 简体PDF(扫描版) || 2014-02-03 || [http://goo.gl/mL4VVC 简介] ||
 || 三个原始部落的性别与气质 || Sex and Temperament in Three Primitive Societies || [https://zh.wikipedia.org/wiki/%E7%91%AA%E6%A0%BC%E9%BA%97%E7%89%B9%C2%B7%E7%B1%B3%E5%BE%B7 玛格丽特·米德] (美) || 简体PDF(扫描版) || 2013-08-13 || [http://goo.gl/XVViba 简介] ||
-|| 醒来的女性 || || (不详) || 简体PDF || 2014-07-27 || [http://goo.gl/JmQ8WC 简介] ||
+|| 醒来的女性 || || || 简体PDF || 2014-07-27 || [http://goo.gl/JmQ8WC 简介] ||
 
 === 1.1.10 (其它) ===
 
@@ -660,7 +660,16 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 思想改造和极权主义心理学<br>——中国的洗脑研究 || Thought Reform and the Psychology of Totalism<br>——A Study of Brainwashing in China || [https://en.wikipedia.org/wiki/Robert_Lifton Robert Jay Lifton] (美) || 英文MOBI || 2012-10-14 || [http://goo.gl/9oyo6T 简介] ||
 || 洗脑<br>——思维控制的科学 || Brainwashing<br>——The Science of Thought Control || [https://en.wikipedia.org/wiki/Kathleen_Taylor_%28biologist%29 Kathleen Taylor] (英) || 英文PDF || 2012-10-14 || [http://goo.gl/bOEcne 简介] ||
 
-== 2.7 (其它) ==
+== 2.7 审讯与反审讯 ==
+
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1972 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/AABdAgg0HjXGL0o3sHNdKKkCa/%E5%BF%83%E7%90%86%E5%AD%A6/%E5%AE%A1%E8%AE%AF%E4%B8%8E%E5%8F%8D%E5%AE%A1%E8%AE%AF Dropbox网盘]
+
+|| *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 审讯心理攻略 || 吴克利 || 简体PDF(扫描版) || 2014-07-28 || [http://goo.gl/1NBQDy 简介] ||
+|| 讯问学 || 王传道 || 简体PDF(扫描版) || 2014-07-28 || [http://goo.gl/7k5xl9 简介] ||
+|| 审讯与反审讯文章汇集 ||  || 简体TXT || 2014-07-28 || [http://goo.gl/Kc31PN 简介] ||
+
+== 2.8 (其它) ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1049 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Iw4bPV995f/%E5%BF%83%E7%90%86%E5%AD%A6/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
