@@ -547,6 +547,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 苏联大清洗内幕 || || 陈启能<br>等 || 简体HTML || 2013-02-22 || [http://goo.gl/AIAXwd 简介] ||
 || 帝国<br>——俄罗斯五十年 || Imperium || [https://zh.wikipedia.org/wiki/%E9%9B%B7%E6%B2%99%E5%BE%B7%C2%B7%E5%8D%A1%E6%99%AE%E9%92%A6%E6%96%AF%E5%9F%BA 卡普钦斯基] (波) || 繁體PDF(豎排掃描版) || 2013-11-26 || [http://goo.gl/CezZLn 简介] ||
 || 苏联的心灵<br>——共产主义时代的俄国文化 || The Soviet Mind<br>——Russian Culture under Communism || [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] (英) || 简体PDF(扫描版) || 2013-08-21 || [http://goo.gl/IEoJGX 简介] ||
+|| 正午的黑暗 || Darkness at Noon || [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler] (匈) || 英文EPUB || 2014-07-28 || [http://goo.gl/mGfOi0 简介] ||
 || 东欧大裂变纪实 || || 欧阳东 || 简体PDF(扫描版) || 2013-01-01 || [http://goo.gl/XhAE1U 简介] ||
 
 == 1.6 法国 ==
