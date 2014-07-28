@@ -993,6 +993,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 西方哲学史 || A History of Western Philosophy || [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体PDF || 2014-06-20 || [http://goo.gl/VeL9St 简介] ||
 || 中国哲学简史 || A Short History of Chinese Philosophy || [https://zh.wikipedia.org/wiki/%E5%86%AF%E5%8F%8B%E5%85%B0 冯友兰] || 简体PDF || 2014-06-20 || [http://goo.gl/MeCxqs 简介] ||
+|| 形而上学的迷雾 || The Fog of Metaphysics || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 简体PDF(扫描版) || 2014-07-28 || [http://goo.gl/FV39sT 简介] ||
 
 == 8.3 哲学家 ==
 
