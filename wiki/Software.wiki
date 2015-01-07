@@ -16,13 +16,40 @@
 
 = 翻墙软件 =
 
-== 自.由.門 ==
+== 赛风 ==
 
-官方网站（动.态.網）的域名是 ＧＦW 敏感词，请翻墙并通过[http://bit.ly/5qGII]跳转。
+老牌的赛风2提供的是网页代理。从赛风3开始，推出了客户端软件，同时支持“VPN模式”和“SSH模式”。
 
-绿色软件，无需安装，无需管理员权限，压缩包内仅有单个可执行文件，且带有数字签名。
+官方网站是 [http://www.psiphon3.com/]
 
-更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2010/03/choose-free-gate.html 自由菛——TOR被封之后的另一个选择]》
+绿色软件，无需安装，无需管理员权限。压缩包内仅有单个可执行文件，带有数字签名。
+
+赛风官方提供了自动回复邮箱 get@psiphon3.com （往该邮箱发送任意邮件，会收到自动回复，帮你获取赛风的可执行软件）
+
+更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2011/10/gfw-psiphon.html 双管齐下的赛风3]》
+
+|| *版本* || *发布日期* || *下载页面* ||
+|| 3.18 || 2011-10-14 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.18.7z 下载页面] ||
+|| 3.19 || 2011-11-08 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.19.7z 下载页面] ||
+|| 3.21 || 2011-12-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.21.7z 下载页面] ||
+|| 3.22 || 2012-01-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.22.7z 下载页面] ||
+|| 3.26 || 2012-02-01 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.26.7z 下载页面] ||
+|| 3.27 || 2012-02-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.27.7z 下载页面] ||
+|| 3.30 || 2012-03-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.30.7z 下载页面] ||
+|| 3.31 || 2012-04-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.31.7z 下载页面] ||
+|| 3.36 || 2012-07-09 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.36.7z 下载页面] ||
+|| 3.42 || 2012-09-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.42.7z 下载页面] ||
+|| 3.45 || 2013-01-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.45.7z 下载页面] ||
+|| 3.81 || 2015-01-05 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.81.7z 下载页面] ||
+
+
+== 自由门 ==
+
+官方网站是 [http://www.dongtaiwang.com/ 动态网]  （必须翻墙才能访问）
+
+此工具是绿色软件，无需安装，无需管理员权限，压缩包内仅有单个可执行文件，且带有数字签名。
+
+更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2010/03/choose-free-gate.html 自由门——TOR 被封之后的另一个选择]》
 
 || *版本* || *发布日期* || *下载页面* ||
 || 6.9.4 || 2010-01-14 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-6.9.4-prof.7z 专业版] ||
@@ -74,8 +101,10 @@
 || 7.4.0 || 2013-04-16 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.0-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.0-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.0-restrict.7z 限制版] ||
 || 7.4.1 || 2013-11-07 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.1-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.1-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.1-restrict.7z 限制版] ||
 || 7.4.2 || 2013-11-08 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.2-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.2-expert.7z 专家版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.4.2-restrict.7z 限制版] ||
+|| 7.5.0 || 2014-12-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.5.0-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.5.0-restrict.7z 限制版] ||
+|| 7.5.2 || 2015-01-01 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.5.2-prof.7z 专业版] [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-7.5.2-restrict.7z 限制版] ||
 
-以下是针对手机的 自.由.門，目前有“Windows Mobile版本”和“Java版本”两种。
+以下是针对手机的 自由门，目前有“Windows Mobile版本”和“Java版本”两种。
 
 || *版本* || *发布日期* || *下载页面* ||
 || 1.0 || 2010-06-30 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-1.0-wm.7z WM版] ||
@@ -85,13 +114,13 @@
 || 2.20 || 2010-09-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/free-gate-2.20-java.7z Java版] ||
 
 
-== 無.界 ==
+== 无界 ==
 
-官方网站的域名是 ＧＦW 敏感词，请翻墙并通过[http://bit.ly/w6Jhfm]跳转。
+官方网站是 [http://www.wujieliulan.com/ 无界浏览]  （必须翻墙才能访问）
 
-绿色软件，无需安装，无需管理员权限，压缩包内仅有单个可执行文件，且带有数字签名。
+此工具是绿色软件，无需安装，无需管理员权限，压缩包内仅有单个可执行文件，且带有数字签名。
 
-更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2011/12/gfw-wujie.html 新版本无.界——赛风3失效后的另一选择]》
+更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2011/12/gfw-wujie.html 新版本无界——赛风3失效后的另一选择]》
 
 || *版本* || *发布日期* || *下载页面* ||
 || 9.92 || 2010-01-07 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-9.92.7z 下载页面] ||
@@ -138,15 +167,17 @@
 || 14.01 || 2014-06-07 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-14.01.7z 下载页面] ||
 || 14.02 || 2014-06-12 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-14.02.7z 下载页面] ||
 || 14.03 || 2014-06-24 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-14.03.7z 下载页面] ||
+|| 14.04 || 2014-09-21 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-14.04.7z 下载页面] ||
+|| 14.05 || 2014-12-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/wu-jie-14.05.7z 下载页面] ||
 
 
 == I2P ==
 
-I2P 是非常类似于 TＯR 的翻墙工具（TＯR 叫洋葱路由，而 I2P 是大蒜路由）。它俩的主要用途是“隐匿身份”，翻墙只是顺带的附加用途。
+I2P 是非常类似于 TOR 的翻墙工具（TOR 叫“洋葱路由”，而 I2P 是“大蒜路由”）。它俩的主要用途是“隐匿身份”，翻墙只是顺带的附加用途。
 
-I2P 的安全性和坚挺程度比 TＯR 更强，换来的代价是速度很慢。所以 I2P 主要是用来作为备用翻墙工具。当你常用的工具失效时，就可以拿它来救急。
+I2P 的安全性和坚挺程度比 TOR 更强，换来的代价是速度很慢。所以 I2P 主要是用来作为备用翻墙工具。当你常用的工具失效时，就可以拿它来救急。
 
-官方网站是[http://www.i2p2.de/]，必须翻墙才能访问。
+官方网站是 [https://geti2p.net] （必须翻墙才能访问）
 
 更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2012/06/gfw-i2p.html 简单扫盲 I2P 的使用]》
 
@@ -157,37 +188,12 @@ I2P 的安全性和坚挺程度比 TＯR 更强，换来的代价是速度很慢
 || 0.9.5 || 2013-04-21 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.5-windows.7z 下载页面] ||
 || 0.9.6 || 2013-05-27 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.6-windows.7z 下载页面] ||
 || 0.9.12 || 2014-03-31 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.12-windows.7z 下载页面] ||
-
-
-== 赛风 ==
-
-老牌的赛风2提供的是网页代理。从赛风3开始，推出了客户端软件，同时支持“VPN模式”和“SSH模式”。
-
-官方的下载页面是[http://www.psiphon3.com/]。
-
-绿色软件，无需安装，无需管理员权限。压缩包内仅有单个可执行文件，带有数字签名。
-
-赛风官方提供了自动回复邮箱： get@psiphon3.com 。往该邮箱发送任意邮件，会收到自动回复，包含赛风的下载页面链接。
-
-更详细的介绍，请参见俺的博文《[http://program-think.blogspot.com/2011/10/gfw-psiphon.html 双管齐下的赛风3]》
-
-|| *版本* || *发布日期* || *下载页面* ||
-|| 3.18 || 2011-10-14 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.18.7z 下载页面] ||
-|| 3.19 || 2011-11-08 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.19.7z 下载页面] ||
-|| 3.21 || 2011-12-17 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.21.7z 下载页面] ||
-|| 3.22 || 2012-01-06 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.22.7z 下载页面] ||
-|| 3.26 || 2012-02-01 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.26.7z 下载页面] ||
-|| 3.27 || 2012-02-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.27.7z 下载页面] ||
-|| 3.30 || 2012-03-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.30.7z 下载页面] ||
-|| 3.31 || 2012-04-13 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.31.7z 下载页面] ||
-|| 3.36 || 2012-07-09 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.36.7z 下载页面] ||
-|| 3.42 || 2012-09-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.42.7z 下载页面] ||
-|| 3.45 || 2013-01-10 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/psiphon-3.45.7z 下载页面] ||
+|| 0.9.17 || 2014-11-30 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/i2p-0.9.17-windows.7z 下载页面] ||
 
 
 == Hotspot Shield ==
 
-老牌且知名的 VPN 软件，官方网站是[http://www.hotspotshield.com/]，可能要翻墙才能访问。
+老牌且知名的 VPN 软件，官方网站是 [http://www.hotspotshield.com/]
 
 压缩包中是安装程序，带有数字签名。
 
@@ -201,9 +207,7 @@ I2P 的安全性和坚挺程度比 TＯR 更强，换来的代价是速度很慢
 || 2.06 || 2011-07-02 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/hotspot-shield-2.06.7z 下载页面] ||
 
 
-== 世.界.通 ==
-
-官方网站的域名是 ＧＦW 的敏感词，请翻墙并通过[http://bit.ly/Bfv5m]跳转。
+== 世界通 ==
 
 绿色软件，无需安装。压缩包内仅有单个可执行文件，带有数字签名。
 
@@ -213,19 +217,19 @@ SHA1 校验值：0aa2a7cb91df25ea42e5b5345a2281a160f0464f
 
 MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 
-世.界.通 自身的服务器已经被封，可以利用它的Skype通道翻墙。具体配置请参见俺的博文《[http://program-think.blogspot.com/2011/05/through-gfw-with-skype.html 如何翻墙系列：基于Skype翻墙]》。
+世界通 自身的服务器已经被封，可以利用它的 Skype 通道翻墙。具体配置请参见俺的博文《[http://program-think.blogspot.com/2011/05/through-gfw-with-skype.html 如何翻墙系列：基于 Skype 翻墙]》。
 
 || *版本* || *发布日期* || *下载页面* ||
 || 4.1.0 || 2008-09-20 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gpass-4.1.0.7z 下载页面] ||
 
 
-== 花.园.網.络 ==
+== 花园网络 ==
 
-官方网站是[http://www.internetfreedom.org/GTunnel]，必须翻墙才能访问。
+官方网站是 [http://www.internetfreedom.org/GTunnel] （必须翻墙才能访问）
 
 绿色软件，无需安装。压缩包内含单个可执行文件和2个动态库。
 
-花.园.網.络 自身的服务器已经被封，可以利用它的Skype通道翻墙。具体的配置和上述的 世.界.通 类似。
+花园网络 自身的服务器已经被封，可以利用它的 Skype 通道翻墙。具体的配置和上述的 世界通 类似。
 
 || *版本* || *发布日期* || *下载页面* ||
 || 2.0.1.7 || 2008-06-21 || [http://cid-f5b0090663feeada.office.live.com/self.aspx/.Public/G_F_W/gtunnel-2.0.1.7.7z 下载页面] ||
@@ -233,7 +237,7 @@ MD5 校验值：62ded78920c5075fbd6ada41ce651bc5
 
 == Puff ==
 
-官方网站是[http://www.erights.net/]，必须翻墙才能访问。
+官方网站是[http://www.erights.net/] （必须翻墙才能访问）
 
 此软件速度较快，具有商业版和免费版2种。压缩包中是其安装程序。
 
