@@ -676,7 +676,8 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 与众不同的心理学<br>——如何正视心理学 || How to Think Straight about Psychology || [https://en.wikipedia.org/wiki/Keith_Stanovich Keith Stanovich] (加) || 简体PDF(第7版 扫描版) || 2012-12-29 || [http://goo.gl/eVfMk7 简介] ||
-|| 怪诞行为学 || Predictably Irrational<br>——The Hidden Forces That Shape Our Decisions || [https://zh.wikipedia.org/wiki/%E4%B8%B9%C2%B7%E8%89%BE%E7%91%9E%E9%87%8C 丹·艾瑞里] (美) || 简体PDF(扫描版) || 2014-07-27 || [http://goo.gl/bCEnJH 简介] ||
+|| 怪诞行为学<br>——可预测的非理性 || Predictably Irrational<br>——The Hidden Forces That Shape Our Decisions || [https://zh.wikipedia.org/wiki/%E4%B8%B9%C2%B7%E8%89%BE%E7%91%9E%E9%87%8C 丹·艾瑞里] (美) || 简体PDF(扫描版)<br>简体EPUB || 2014-07-27<br>2015-01-07 || [http://goo.gl/bCEnJH 简介] ||
+|| 怪诞行为学2<br>——非理性的积极力量 || The Upside of Irrationality<br>——The Unexpected Benefits of Defying Logic at Work and at Home || (同上) || 简体EPUB || 2015-01-07 || [http://goo.gl/CkHNTH 简介] ||
 
 
 <hr>
@@ -733,6 +734,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 民国人物过眼录 || || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%A5%8E%E6%9D%BE 杨奎松] || 简体PDF(扫描版) || 2014-02-21 || [http://goo.gl/PWSxql 简介] ||
 || 叫魂<br>——1768年中国妖术大恐慌 || Soulstealers<br>——The Chinese Sorcery Scare of 1768 || [https://en.wikipedia.org/wiki/Philip_A._Kuhn Philip Kuhn] (美 中文名：[https://zh.wikipedia.org/wiki/%E5%AD%94%E9%A3%9E%E5%8A%9B 孔飞力]) || 简体PDF(扫描版) || 2014-05-23 || [http://goo.gl/0CLu5f 简介] ||
 || 重返五四现场<br>——1919，一个国家的青春记忆 || || 叶曙明 || 简体PDF(扫描版) || 2013-05-01 || [http://goo.gl/iMeCdW 简介] ||
+|| 张学良口述历史 || || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%AD%A6%E8%89%AF 张学良]<br>[https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体PDF(扫描版) || 2015-01-07 || [http://goo.gl/dR8xkO 简介] ||
 || 旷世风雷一梦痕<br>——九十年人生经历见证 || || 王思诚 || 繁體PDF(竪排掃描版) || 2013-07-07 || [http://goo.gl/OOS8jr 简介] ||
 
 === 3.3.3 丛书 ===
@@ -855,7 +857,6 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 世界是平的<br>——21世纪简史 || The World Is Flat<br>——A Brief History of the Twenty-first Century || [https://zh.wikipedia.org/wiki/%E6%B9%AF%E9%A6%AC%E6%96%AF%C2%B7%E4%BD%9B%E9%87%8C%E6%9B%BC 托马斯·弗里德曼] (美) || 简体PDF(大字版) || 2014-01-09 || [http://goo.gl/Kxnnhz 简介] ||
-|| 黑天鹅<br>——如何应对不可知的未来 || The Black Swan<br>——The Impact of the Highly Improbable || [https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb 塔勒布] (黎巴嫩) || 简体PDF || 2014-01-09 || [http://goo.gl/YlS5on 简介] ||
 || 蓝海战略<br>——超越产业竞争，开创全新市场 || Blue Ocean Strategy || [https://en.wikipedia.org/wiki/W._Chan_Kim W. Chan Kim] (韩) || 简体PDF || 2013-12-31 || [http://goo.gl/C1M0eS 简介] ||
 
 
@@ -875,58 +876,21 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 <hr>
 
 
-= 6 军事类 =
+= 6 社会学类 =
 
-== 6.1 军事理论 ==
+== 6.1 传媒 ==
 
-*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1182 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/gmCL113W89/%E5%86%9B%E4%BA%8B/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA Dropbox网盘]
-
-|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 战争论 || On War || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E5%85%8B%E5%8A%B3%E5%A1%9E%E7%BB%B4%E8%8C%A8 克劳塞维茨] (普鲁士) || 简体PDF(共3卷) || 2013-03-22 || [http://goo.gl/DnZuMt 简介] ||
-|| 战略论<br>——间接路线 || Strategy<br>——the indirect approach || [https://en.wikipedia.org/wiki/B._H._Liddell_Hart 李德·哈特] (英) || 简体PDF || 2013-02-05 || [http://goo.gl/2goc9K 简介] ||
-|| 海权论 || The Influence of Sea Power upon History || [https://zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E8%B3%BD%E8%80%B6%C2%B7%E9%A6%AC%E6%BC%A2 马汉] (美) || 简体PDF || 2013-03-22 || [http://goo.gl/VGCfri 简介] ||
-|| 制空权 || The Command of the Air || [https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%88%A9%E6%AD%90%C2%B7%E6%9D%9C%E9%BB%91 杜黑] (意) || 简体PDF || 2013-08-21 || [http://goo.gl/kSZzVx 简介] ||
-
-== 6.2 现代军事史 ==
-
-=== 6.2.1 二战 ===
-
-*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1185 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/JXPVTjFPbb/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E4%BA%8C%E6%88%98 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!2021 微软网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 第二次世界大战战史大全 || || [https://en.wikipedia.org/wiki/Arnold_J._Toynbee 阿诺德·汤因比] (英) || 简体EPUB<br>简体CHM || 2013-09-13<br>2013-02-05 || [http://goo.gl/kQ28TD 简介] (英) ||
-|| 第二次世界大战回忆录 || The Second World War || [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] (英) || 简体EPUB<br>简体HTML || 2013-09-14<br>2013-03-22 || [http://goo.gl/tIQUpS 简介] ||
-|| 第二次世界大战的决定性战役 || Decisive Battles of World War II<br>——The German View || Hans Jacobsen (美) || 简体CHM || 2013-08-22 || [http://goo.gl/GLomWp 简介] ||
+|| 娱乐至死 || Amusing Ourselves to Death || 尼尔·波兹曼 || 简体PDF || 2015-01-07 || [http://goo.gl/2IKMzV 简介] ||
 
-=== 6.2.2 韩战 ===
+== 6.2 (其它) ==
 
-*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1186 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/12zXa2bB7Y/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E9%9F%A9%E6%88%98 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!2020 微软网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 朝鲜战争<br>——李奇微回忆录 || The Korean War || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%BF%AE%C2%B7%E6%9D%8E%E5%A5%87%E5%BE%AE 李奇微] (美) || 简体PDF || 2013-03-17 || [http://goo.gl/BC0RnI 简介] ||
-|| 朝鲜战争揭秘 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || 繁體PDF(豎排掃描版) || 2013-02-02 || [http://goo.gl/50cAFa 简介] ||
-|| 朝鲜战争<br>——俄国档案馆的解密文件 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] (整理) || 简体PDF || 2013-07-30 || [http://goo.gl/nAfC3K 简介] ||
-|| 毛泽东、斯大林与朝鲜战争 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || 简体PDF<br>简体EPUB || 2013-07-30<br>2013-09-13 || [http://goo.gl/1kmcDa 简介] ||
-|| 远东朝鲜战争 || || 王树增 || 简体PDF || 2013-07-30 || [http://goo.gl/oB1Wsg 简介] ||
-
-=== 6.2.3 越战 ===
-
-*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1187 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Eal-rc9lMn/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%B6%8A%E6%88%98 Dropbox网盘]
-
-|| *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 中国秘密大发兵<br>——援越抗美实录 || 王贤根 || 简体PDF(扫描版) || 2013-02-05 || [http://goo.gl/kEw3fE 简介] ||
-
-== 6.3 古代军事史 ==
-
-=== 6.3.1 迦太基战争 ===
-
-*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1188 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/M26lFgcUiE/%E5%86%9B%E4%BA%8B/%E5%8F%A4%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%BF%A6%E5%A4%AA%E5%9F%BA%E6%88%98%E4%BA%89 Dropbox网盘]
-
-([https://zh.wikipedia.org/wiki/%E8%BF%A6%E5%A4%AA%E5%9F%BA 迦太基战争]又称"布匿战争"，是古罗马与迦太基争夺地中海霸权的长期战争)
-
-|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 战略之父<br>——汉尼拔的军事生涯 || Father of Strategy<br>——The Military Life of Hannibal || [https://en.wikipedia.org/wiki/Trevor_N._Dupuy Trevor Dupuy] (美) || 简体PDF || 2013-02-05 || [http://goo.gl/u7Xv3C 简介] ||
-|| 汉尼拔战争 || || 王乃新 || 简体PDF(扫描版) || 2013-02-05 || [http://goo.gl/hrEYVr 简介] ||
+|| 黑天鹅<br>——如何应对不可知的未来 || The Black Swan<br>——The Impact of the Highly Improbable || [https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb 塔勒布] (黎巴嫩) || 简体PDF || 2014-01-09 || [http://goo.gl/YlS5on 简介] ||
 
 
 <hr>
@@ -1028,7 +992,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 谈谈方法 || Discourse on the Method || [https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes Descartes] / [https://zh.wikipedia.org/wiki/%E5%8B%92%E5%86%85%C2%B7%E7%AC%9B%E5%8D%A1%E5%84%BF 笛卡尔] (法) || 简体PDF(扫描版) || 2014-06-20 || [http://goo.gl/lzuPGF 简介] ||
 || 人类理解研究 || An Enquiry concerning Human Understanding || [https://en.wikipedia.org/wiki/David_Hume Hume] / [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E4%BC%91%E8%B0%9F 休谟] (英) || 简体PDF(扫描版) || 2014-06-20 || [http://goo.gl/xL3VlF 简介] ||
 
-== 8.6 伦理学 ==
+== 8.6 逻辑学 ==
+
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1836 微软网盘]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 简单的逻辑学 || Being Logical<br>——A Guide to Good Thinking || 丹尼斯·麦克伦尼 || 简体PDF(扫描版) || 2015-01-07 || [http://goo.gl/32I2WC 简介] ||
+
+== 8.7 伦理学 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1837 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/AACf5KqQM3F6Ex3XRhKRsp5qa/%E5%93%B2%E5%AD%A6/%E4%BC%A6%E7%90%86%E5%AD%A6 Dropbox网盘]
 
@@ -1036,14 +1007,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 幸福之路 || The Conquest of Happiness || [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体EPUB || 2014-06-20 || [http://goo.gl/nWPiq0 简介] ||
 || 道德情操论 || The Theory of Moral Sentiments || [https://en.wikipedia.org/wiki/Adam_Smith Adam Smith] / [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] (英) || 简体PDF || 2014-06-20 || [http://goo.gl/TTTVsl 简介] ||
 
-== 8.7 科学哲学 ==
+== 8.8 科学哲学 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1842 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/AACdRYe2LYsRbBxLBSuuYgpYa/%E5%93%B2%E5%AD%A6/%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 科学发现的逻辑 || The Logic of Scientific Discovery || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 波普尔] (英) || 简体HTML || 2014-06-20 || [http://goo.gl/SYE5B9 简介] ||
 
-== 8.8 (其它) ==
+== 8.9 (其它) ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1832 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/AACQlsOxkUflJTsZIAG52N09a/%E5%93%B2%E5%AD%A6/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
@@ -1055,13 +1026,71 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 <hr>
 
 
-= 9 IT类 =
+= 9 军事类 =
+
+== 9.1 军事理论 ==
+
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1182 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/gmCL113W89/%E5%86%9B%E4%BA%8B/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA Dropbox网盘]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 战争论 || On War || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E5%85%8B%E5%8A%B3%E5%A1%9E%E7%BB%B4%E8%8C%A8 克劳塞维茨] (普鲁士) || 简体PDF(共3卷) || 2013-03-22 || [http://goo.gl/DnZuMt 简介] ||
+|| 战略论<br>——间接路线 || Strategy<br>——the indirect approach || [https://en.wikipedia.org/wiki/B._H._Liddell_Hart 李德·哈特] (英) || 简体PDF || 2013-02-05 || [http://goo.gl/2goc9K 简介] ||
+|| 海权论 || The Influence of Sea Power upon History || [https://zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E8%B3%BD%E8%80%B6%C2%B7%E9%A6%AC%E6%BC%A2 马汉] (美) || 简体PDF || 2013-03-22 || [http://goo.gl/VGCfri 简介] ||
+|| 制空权 || The Command of the Air || [https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%88%A9%E6%AD%90%C2%B7%E6%9D%9C%E9%BB%91 杜黑] (意) || 简体PDF || 2013-08-21 || [http://goo.gl/kSZzVx 简介] ||
+
+== 9.2 现代军事史 ==
+
+=== 9.2.1 二战 ===
+
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1185 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/JXPVTjFPbb/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E4%BA%8C%E6%88%98 Dropbox网盘]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 第二次世界大战战史大全 || || [https://en.wikipedia.org/wiki/Arnold_J._Toynbee 阿诺德·汤因比] (英) || 简体EPUB<br>简体CHM || 2013-09-13<br>2013-02-05 || [http://goo.gl/kQ28TD 简介] (英) ||
+|| 第二次世界大战回忆录 || The Second World War || [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] (英) || 简体EPUB<br>简体HTML || 2013-09-14<br>2013-03-22 || [http://goo.gl/tIQUpS 简介] ||
+|| 第二次世界大战的决定性战役 || Decisive Battles of World War II<br>——The German View || Hans Jacobsen (美) || 简体CHM || 2013-08-22 || [http://goo.gl/GLomWp 简介] ||
+
+=== 9.2.2 韩战 ===
+
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1186 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/12zXa2bB7Y/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E9%9F%A9%E6%88%98 Dropbox网盘]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 朝鲜战争<br>——李奇微回忆录 || The Korean War || [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%BF%AE%C2%B7%E6%9D%8E%E5%A5%87%E5%BE%AE 李奇微] (美) || 简体PDF || 2013-03-17 || [http://goo.gl/BC0RnI 简介] ||
+|| 朝鲜战争揭秘 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || 繁體PDF(豎排掃描版) || 2013-02-02 || [http://goo.gl/50cAFa 简介] ||
+|| 朝鲜战争<br>——俄国档案馆的解密文件 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] (整理) || 简体PDF || 2013-07-30 || [http://goo.gl/nAfC3K 简介] ||
+|| 毛泽东、斯大林与朝鲜战争 || || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || 简体PDF<br>简体EPUB || 2013-07-30<br>2013-09-13 || [http://goo.gl/1kmcDa 简介] ||
+|| 远东朝鲜战争 || || 王树增 || 简体PDF || 2013-07-30 || [http://goo.gl/oB1Wsg 简介] ||
+
+=== 9.2.3 越战 ===
+
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1187 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Eal-rc9lMn/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%B6%8A%E6%88%98 Dropbox网盘]
+
+|| *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 中国秘密大发兵<br>——援越抗美实录 || 王贤根 || 简体PDF(扫描版) || 2013-02-05 || [http://goo.gl/kEw3fE 简介] ||
+
+== 9.3 古代军事史 ==
+
+=== 9.3.1 迦太基战争 ===
+
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1188 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/M26lFgcUiE/%E5%86%9B%E4%BA%8B/%E5%8F%A4%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%BF%A6%E5%A4%AA%E5%9F%BA%E6%88%98%E4%BA%89 Dropbox网盘]
+
+([https://zh.wikipedia.org/wiki/%E8%BF%A6%E5%A4%AA%E5%9F%BA 迦太基战争]又称"布匿战争"，是古罗马与迦太基争夺地中海霸权的长期战争)
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 战略之父<br>——汉尼拔的军事生涯 || Father of Strategy<br>——The Military Life of Hannibal || [https://en.wikipedia.org/wiki/Trevor_N._Dupuy Trevor Dupuy] (美) || 简体PDF || 2013-02-05 || [http://goo.gl/u7Xv3C 简介] ||
+|| 汉尼拔战争 || || 王乃新 || 简体PDF(扫描版) || 2013-02-05 || [http://goo.gl/hrEYVr 简介] ||
+
+
+<hr>
+<hr>
+
+
+= 10 IT类 =
 
 (IT领域的发展太快，导致书籍的生命周期变短。所以俺尽量挑选那些生命周期比较长的电子书。)
 
-== 9.1 软件开发 ==
+== 10.1 软件开发 ==
 
-=== 9.1.1 软件工程 ===
+=== 10.1.1 软件工程 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1493 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/pgZb7F9Jwp/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B Dropbox网盘]
 
@@ -1073,11 +1102,11 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 人件 || Peopleware<br>——Productive Projects and Teams || [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco]<br>[https://en.wikipedia.org/wiki/Tim_Lister Timothy Lister] || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || [http://goo.gl/g66CXb 简介] ||
 || 最后期限 || The Deadline<br>——A Novel about Project Management || [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco] || 简体PDF || 2013-10-20 || [http://goo.gl/WEAwML 简介] ||
 
-=== 9.1.2 编程语言 ===
+=== 10.1.2 编程语言 ===
 
 (本类别放置"具体编程语言相关"的编程类电子书)
 
-==== 9.1.2.1 C++ ====
+==== 10.1.2.1 C++ ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1512 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ZEsa0K8znw/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C%2B%2B Dropbox网盘]
 
@@ -1092,7 +1121,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || C++ 语言的设计和演化 ||  The Design and Evolution of C++ || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 中文PDF(扫描版) || 2013-10-25 || [http://goo.gl/im8osn 简介] ||
 || 大规模 C++ 程序设计 || Large-Scale C++ Software Design || John Lakos || 简体PDF(扫描版) || 2013-10-30 || [http://goo.gl/90vxXF 简介] ||
 
-==== 9.1.2.2 Python ====
+==== 10.1.2.2 Python ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1513 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/wAhOnvKLjy/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Python Dropbox网盘]
 
@@ -1102,14 +1131,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || Learning Python || Learning Python || Mark Lutz || 英文EPUB (5th edition) || 2013-10-21 || [http://goo.gl/gnA4C9 简介] ||
 || Python Cookbook || Python Cookbook || David Beazley || 英文PDF(3rd edition) || 2013-10-21 || [http://goo.gl/Z3HZ4D 简介] ||
 
-==== 9.1.2.2 Java ====
+==== 10.1.2.2 Java ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1514 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/eSL9ZTyGH_/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || Java 编程思想 || Thinking in Java || [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 英文PDF(4th edition)<br>简体PDF(第4版 扫描版) || 2013-10-21<br>2014-05-18 || [http://goo.gl/FDH9PW 简介] ||
 
-=== 9.1.3 算法和数据结构 ===
+=== 10.1.3 算法和数据结构 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1500 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/q6pX8DLhuP/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84 Dropbox网盘]
 
@@ -1117,11 +1146,11 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 算法导论 || Introduction to Algorithms || Thomas Cormen<br>Charles Leiserson<br>Ronald Rivest<br>Clifford Stein || 英文PDF(3nd edition)<br>英文CHM (2nd edition) || 2013-10-21<br>2013-10-30 || [http://goo.gl/9HaprW 简介] ||
 || 编程珠玑 || Programming Pearls || [https://en.wikipedia.org/wiki/Jon_Bentley Jon Bentley] || 英文PDF(2nd edition)<br>简体PDF(第2版 扫描版) || 2013-10-21<br>2013-10-21 || [http://goo.gl/Selw7O 简介] ||
 
-=== 9.1.4 操作系统相关 ===
+=== 10.1.4 操作系统相关 ===
 
 (本类别放置"具体操作系统相关"的编程类电子书)
 
-==== 9.1.4.1 UNIX 和 Linux ====
+==== 10.1.4.1 UNIX 和 Linux ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1496 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/quNBvv8dj7/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/Unix%20%E5%92%8C%20Linux Dropbox网盘]
 
@@ -1130,14 +1159,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || UNIX 环境高级编程 ||  Advanced Programming in the UNIX Environment<br>(APUE) || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] / [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯] (美)<br>Stephen Rago || 简体PDF(第2版 扫描版)<br>英文PDF(3nd edition)<br>英文CHM (2nd edition) || 2014-05-13<br>2013-11-14<br>2013-10-21 || [http://goo.gl/IOMr5t 简介] ||
 || UNIX 系统编程 || UNIX Systems Programming<br>——Communication, Cocurrency, and Threads || Kay Robbins<br>Steven Robbins || 英文CHM || 2013-10-21 || [http://goo.gl/PoSWKs 简介] ||
 
-==== 9.1.4.2 Windows ====
+==== 10.1.4.2 Windows ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1498 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/y_ZiHG1wZx/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/Windows Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || Windows 核心编程 || Programming Applications for Windows || [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] (美) || 简体PDF<br>英文CHM || 2014-05-13<br>2013-10-21 || [http://goo.gl/4XSsJu 简介] ||
 
-=== 9.1.5 网络相关 ===
+=== 10.1.5 网络相关 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1516 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/MiTR4A7UG-/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3 Dropbox网盘]
 
@@ -1147,14 +1176,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || UNIX 网络编程<br>(共两卷) || UNIX Network Programming || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] / [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯] (美) || 卷1 英文PDF(3rd edition) || 2013-10-20 || [http://goo.gl/k53hlo 简介] ||
 || C++ 网络编程<br>(共两卷) || C++ Network Programming || [https://en.wikipedia.org/wiki/Douglas_C._Schmidt Douglas Schmidt] (美) || 卷1 英文CHM<br>卷2 英文CHM || 2013-10-21<br>2013-10-21 || [http://goo.gl/pnMQzA 简介] ||
 
-=== 9.1.6 (其它) ===
+=== 10.1.6 (其它) ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1517 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/O6PgU3SkTO/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 程序员修炼之道<br>——从小工到专家 || Pragmatic Programmers<br>——From Journeyman to Master || [https://en.wikipedia.org/wiki/Andy_Hunt_%28author%29 Andrew Hunt]<br>[https://en.wikipedia.org/wiki/Dave_Thomas_%28programmer%29 David Thomas] || 英文PDF<br>简体PDF(扫描版) || 2013-10-21<br>2013-10-21 || [http://goo.gl/jwEfiJ 简介] ||
 
-== 9.2 黑客文化 ==
+== 10.2 黑客文化 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1485 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/NKIzqLB3-f/IT/%E9%BB%91%E5%AE%A2%E6%96%87%E5%8C%96 Dropbox网盘]
 
@@ -1165,18 +1194,18 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 黑客与画家 || Hackers and Painters || [https://en.wikipedia.org/wiki/Paul_Graham_%28computer_programmer%29 Paul Graham] / [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] (美) || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>英文PDF || 2013-04-06<br>2013-10-20<br>2014-02-23<br>2013-10-30 || [http://goo.gl/872FgJ 简介] ||
 || 黑客<br>——计算机革命的英雄 || Hackers<br>——Heroes of the Computer Revolution || [https://en.wikipedia.org/wiki/Steven_Levy Steven Levy] (美) || 简体PDF(扫描版) || 2014-01-28 || [http://goo.gl/7qCAmT 简介] ||
 
-== 9.3 信息安全 ==
+== 10.3 信息安全 ==
 
 (俺在博客上写了不少信息安全的扫盲教程，如果不分享几本相关的书，有点说不过去)
 
-=== 9.3.1 社会工程学 ===
+=== 10.3.1 社会工程学 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1502 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/VftqeGFNIa/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 欺骗的艺术 || The Art of Deception<br>——Controlling the Human Element of Security || [https://en.wikipedia.org/wiki/Kevin_Mitnick Mitnick] / [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E7%B1%B3%E7%89%B9%E5%B0%BC%E5%85%8B 米特尼克] (美) || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || [http://goo.gl/hhjZR4 简介] ||
 
-=== 9.3.2 密码学 ===
+=== 10.3.2 密码学 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1503 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/1yVz9qz4hv/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%AF%86%E7%A0%81%E5%AD%A6 Dropbox网盘]
 
@@ -1185,7 +1214,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 应用密码学<br>——协议、算法与C源程序 || Applied Cryptography<br>——Protocols, Algorithms, and Source Code in C || [https://en.wikipedia.org/wiki/Bruce_Schneier Bruce Schneier] || 简体PDF(第2版 扫描版)<br>英文PDF(2nd edition) || 2013-11-26<br>2013-10-21 || [http://goo.gl/isnQom 简介] ||
 || 密码编码学与网络安全<br>——原理与实践 || Cryptography and Network Security<br>——Principles and Practice || [https://en.wikipedia.org/wiki/William_Stallings William Stallings] || 简体PDF(第3版 扫描版)<br>英文PDF(第5版) || 2013-11-18<br>2013-11-18 || [http://goo.gl/5h5vN7 简介] ||
 
-=== 9.3.3 安全加固 ===
+=== 10.3.3 安全加固 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1647 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/IYUWARxCv1/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%AE%89%E5%85%A8%E5%8A%A0%E5%9B%BA Dropbox网盘]
 
@@ -1199,16 +1228,16 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || || Security<br>——Recommendations and Best Practices for Hardening an Arch Linux System || [https://wiki.archlinux.org/index.php/security 英文在线版] || N/A || Arch Linux 官方的安全文档。 ||
 || || Gentoo Security Handbook || [https://www.gentoo.org/doc/en/security/security-handbook.xml?style=printable&full=1 英文在线版] || N/A || Gentoo 官方的安全手册。 ||
 
-=== 9.3.4 入侵 ===
+=== 10.3.4 入侵 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1646 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Zes-B0Qewk/IT/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%85%A5%E4%BE%B5 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 入侵的艺术 || The Art of Intrusion<br>——The Real Stories Behind the Exploits<br> of Hackers, Intruders & Deceivers || [https://en.wikipedia.org/wiki/Kevin_Mitnick Mitnick] / [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E7%B1%B3%E7%89%B9%E5%B0%BC%E5%85%8B 米特尼克] (美) || 简体PDF(扫描版)<br>英文PDF || 2014-02-04<br>2014-01-09 || [http://goo.gl/Wxokd7 简介] ||
 
-== 9.4 操作系统 ==
+== 10.4 操作系统 ==
 
-=== 9.4.1 UNIX 和 Linux ===
+=== 10.4.1 UNIX 和 Linux ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1528 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/SZtjkgI0e1/IT/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/UNIX%20%E5%92%8C%20Linux Dropbox网盘]
 
@@ -1220,16 +1249,16 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 鸟哥的 Linux 私房菜 || || 鸟哥 || 简体PDF || 2013-12-06 || [http://goo.gl/kxwsXH 简介] ||
 || Linux 从入门到精通 || || || 简体PDF(扫描版) || 2013-12-06 || [http://goo.gl/KtGsEM 简介] ||
 
-== 9.5 网络 ==
+== 10.5 网络 ==
 
-=== 9.5.1 网络协议 ===
+=== 10.5.1 网络协议 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1504 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/z--sDGv6mi/IT/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || TCP-IP 详解<br>(共三卷) || TCP-IP Illustrated || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] / [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯] (美) || 卷1 英文CHM<br>卷1 简体PDF<br>卷2 简体PDF<br>卷3 简体PDF || 2013-10-21<br>2013-10-21<br>2013-10-26<br>2013-10-26 || [http://goo.gl/qW7sJ5 简介] ||
 
-== 9.6 IT 公司 ==
+== 10.6 IT 公司 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1492 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ELUERyJ1ja/IT/IT%20%E5%85%AC%E5%8F%B8 Dropbox网盘]
 
@@ -1238,7 +1267,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || Borland 传奇 || || 李维 || 简体CHM || 2013-10-22 || [http://goo.gl/suZ5DO 简介] ||
 || Doom 启世录 || Masters of Doom<br>——How Two Guys Created an Empire and Transformed Pop Culture || [https://en.wikipedia.org/wiki/David_Kushner David Kushner] (美) || 简体CHM || 2013-11-26 || [http://goo.gl/JHmU25 简介] ||
 
-== 9.7 (其它) ==
+== 10.7 (其它) ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1634 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/g3GZPge9Os/IT/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
