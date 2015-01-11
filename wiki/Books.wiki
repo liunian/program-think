@@ -179,6 +179,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 德热拉斯] (南斯拉夫) || 简体PDF(扫描版) || 2012-10-06 || [http://goo.gl/TSwEPN 简介] ||
 || 历史决定论的贫困 || The Poverty of Historicism || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 波普尔] (英) || 简体PDF<br>简体HTML || 2014-07-27<br>2012-12-11 || [http://goo.gl/u3dBNz 简介] ||
 || 恐怖主义与共产主义 || Terrorism and Communism || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 考茨基] (德) || 简体PDF || 2013-04-11 || [http://goo.gl/6wIj7f 简介] ||
+|| 社会主义体制<br>——共产主义政治经济学 || The Socialist System<br>——The Political Economy of Communism || 雅诺什·科尔奈 (匈) || 简体PDF(扫描版) || 2015-01-11 || [http://goo.gl/pYt1Mh 简介] ||
 
 === 1.1.5 社会主义 ===
 
@@ -804,6 +805,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 个人主义与经济秩序 || Individualism and Economic Order || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] (英) || 简体PDF<br>简体EPUB || 2013-04-10<br>2013-09-13 || [http://goo.gl/8GoZrW 简介] ||
 || 市场经济<br>——大师们的思考 || The Market Economy<br>——A Reader || 詹姆斯·多蒂 (美)<br>德威特·李 (美) || 简体PDF(扫描版) || 2013-04-09 || [http://goo.gl/54AN6y 简介] ||
 || 以自由看待发展 || Development as Freedom || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] (印度) || 简体PDF(扫描版) || 2013-04-09 || [http://goo.gl/zloecR 简介] ||
+|| 短缺经济学 || Economics of Shortage || 雅诺什·科尔奈 (匈) || 简体PDF(扫描版) || 2015-01-11 || [http://goo.gl/Slv4ts 简介] ||
 
 === 4.1.2 评论 ===
 
@@ -824,12 +826,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 经济为什么会崩溃<br>——鱼、美元与经济学的故事 || How an Economy Grows and Why It Crashes || [https://en.wikipedia.org/wiki/Peter_Schiff 彼得·希夫] (美)<br>安德鲁·希夫 (美) || 简体PDF(扫描版) || 2014-03-31 || [http://goo.gl/vJHfcd 简介] ||
 || 生活中的经济学 || || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体EPUB || 2013-04-09<br>2013-09-13 || [http://goo.gl/oA9syq 简介] ||
 
-== 4.2 经济学家 ==
+== 4.2 金融学 ==
 
-*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1637 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/qhj0Xe7f87/%E7%BB%8F%E6%B5%8E/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6 Dropbox网盘]
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1638 微软网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 从马克思到凯恩斯<br>——十大经济学家 || Ten Great Economists from Marx to Keynes || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 熊彼得] (奥) || 简体PDF(扫描版) || 2013-04-09 || [http://goo.gl/e86jjl 简介] ||
+|| 货币金融学 || Economics of Money, Banking, and Financial Markets || [https://en.wikipedia.org/wiki/Frederic_Mishkin 弗雷德里克·米什金] (美) || 英文PDF(第7版 扫描版) || 2015-01-11 || [http://goo.gl/X67GFF 简介] ||
+|| 期权、期货及其他衍生品 || Options, Futures and Other Derivatives || [https://en.wikipedia.org/wiki/John_C._Hull 约翰·赫尔] (加) || 简体PDF(扫描版) || 2015-01-11 || [http://goo.gl/2LDjOu 简介] ||
+|| 默顿·米勒论金融衍生工具 || Merton Miller on Derivatives || [https://en.wikipedia.org/wiki/Merton_Miller 默顿·米勒] (美) || 简体PDF(扫描版) || 2015-01-11 || [http://goo.gl/ficxbl 简介] ||
 
 == 4.3 投资 ==
 
@@ -841,7 +845,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 非理性繁荣 || Irrational Exuberance || [https://en.wikipedia.org/wiki/Robert_J._Shiller Robert Shiller] (美) || 简体PDF(扫描版) || 2014-05-23 || [http://goo.gl/nLY9hO 简介] ||
 || 金融炼金术 || The Alchemy of Finance || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E7%B4%A2%E7%BD%97%E6%96%AF 索罗斯] (美) || 简体PDF<br>简体EPUB || 2013-04-29<br>2013-09-13 || [http://goo.gl/SIW1dT 简介] ||
 
-== 4.4 博弈论 ==
+== 4.4 经济学家 ==
+
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1637 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/qhj0Xe7f87/%E7%BB%8F%E6%B5%8E/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6 Dropbox网盘]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 从马克思到凯恩斯<br>——十大经济学家 || Ten Great Economists from Marx to Keynes || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 熊彼得] (奥) || 简体PDF(扫描版) || 2013-04-09 || [http://goo.gl/e86jjl 简介] ||
+
+== 4.5 博弈论 ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1643 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/lUmks7rw0M/%E7%BB%8F%E6%B5%8E/%E5%8D%9A%E5%BC%88%E8%AE%BA Dropbox网盘]
 
@@ -851,7 +862,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 策略思维<br>——商界、政界及日常生活中的策略竞争 || Thinking Strategically<br>——The Competitive Edge<br> in Business, Politics, and Everyday Life || [https://en.wikipedia.org/wiki/Barry_Nalebuff Barry Nalebuff] (美)<br>[https://en.wikipedia.org/wiki/Avinash_Dixit Avinash Dixit] (美) || 简体PDF(扫描版) || 2014-01-09 || [http://goo.gl/63DJIm 简介] ||
 || 剪刀、石头、布<br>——趣味博弈论 || Rock, Paper, Scissors<br>——Game Theory in Everyday Life || Len Fisher (英) || 简体PDF(扫描版) || 2014-04-06 || [http://goo.gl/IesRNM 简介] ||
 
-== 4.5 (其它) ==
+== 4.6 (其它) ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1642 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/6vfh1tkkSI/%E7%BB%8F%E6%B5%8E/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
@@ -1065,6 +1076,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1187 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/Eal-rc9lMn/%E5%86%9B%E4%BA%8B/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B%E5%8F%B2/%E8%B6%8A%E6%88%98 Dropbox网盘]
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 基辛格越战回忆录 || [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 基辛格] (美) || 简体EPUB || 2015-01-11 || [http://goo.gl/1rlnFu 简介] ||
 || 中国秘密大发兵<br>——援越抗美实录 || 王贤根 || 简体PDF(扫描版) || 2013-02-05 || [http://goo.gl/kEw3fE 简介] ||
 
 == 9.3 古代军事史 ==
@@ -1098,7 +1110,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 人月神话 || The Mythical Man-Month<br>——Essays on Software Engineering || [https://en.wikipedia.org/wiki/Fred_Brooks Frederick Brooks] || 简体EPUB<br>英文CHM || 2013-10-20<br>2013-10-20 || [http://goo.gl/r8Zn03 简介] ||
 || 设计模式<br>——可复用面向对象软件的基础 || Design Patterns<br>——Elements of Reusable OO Software || Gang of Four (模式四人帮) || 简体PDF<br>英文CHM || 2013-10-21<br>2013-10-20 || [http://goo.gl/1kJGJk 简介] ||
 || 重构<br>——改善既有代码的设计 || Refactoring<br>——Improving the Design of Existing Code || [https://en.wikipedia.org/wiki/Martin_Fowler Martin Fowler]<br>[https://en.wikipedia.org/wiki/Kent_Beck Kent Beck]<br>John Brant<br>William Opdyke<br>Don Roberts || 英文CHM || 2013-10-20 || [http://goo.gl/neJnOY 简介] ||
-|| 代码大全<br>(软件建构之道) || Code Complete || [https://en.wikipedia.org/wiki/Steve_McConnell Steve McConnell] || 英文CHM (2nd edition)<br>简体PDF || 2013-10-20<br>2013-10-20 || [http://goo.gl/eAYVDW 简介] ||
+|| 代码大全<br>(软件建构之道) || Code Complete || [https://en.wikipedia.org/wiki/Steve_McConnell Steve McConnell] || 英文CHM (第2版)<br>简体PDF || 2013-10-20<br>2013-10-20 || [http://goo.gl/eAYVDW 简介] ||
 || 人件 || Peopleware<br>——Productive Projects and Teams || [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco]<br>[https://en.wikipedia.org/wiki/Tim_Lister Timothy Lister] || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || [http://goo.gl/g66CXb 简介] ||
 || 最后期限 || The Deadline<br>——A Novel about Project Management || [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco] || 简体PDF || 2013-10-20 || [http://goo.gl/WEAwML 简介] ||
 
@@ -1111,11 +1123,11 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1512 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/ZEsa0K8znw/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C%2B%2B Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| C++ 程序设计语言 || The C++ Programming Language<br>(TCPPPL) || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF(special edition)<br>简体PDF(特别版 扫描版) || 2013-10-21<br>2013-10-29 || [http://goo.gl/3R591j 简介] ||
-|| Effective C++<br>——改善程序与设计的55个具体做法 || Effective C++<br>——55 Specific Ways to Improve Your Programs and Designs || [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文CHM (3rd edition) || 2013-10-21 || [http://goo.gl/z0x2kQ 简介] ||
+|| C++ 程序设计语言 || The C++ Programming Language<br>(TCPPPL) || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF(特别版)<br>简体PDF(特别版 扫描版) || 2013-10-21<br>2013-10-29 || [http://goo.gl/3R591j 简介] ||
+|| Effective C++<br>——改善程序与设计的55个具体做法 || Effective C++<br>——55 Specific Ways to Improve Your Programs and Designs || [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文CHM (第3版) || 2013-10-21 || [http://goo.gl/z0x2kQ 简介] ||
 || More Effective C++<br>——35个改善编程与设计的有效方法 || More Effective C++<br>——35 New Ways to Improve Your Programs and Designs || [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文PDF || 2013-10-21 || [http://goo.gl/bl7Wwa 简介] ||
 || C++ 编程规范<br>——101 条规则、准则与最佳实践 || C++ Coding Standards<br>——101 Rules, Guidelines, and Best Practices || [https://en.wikipedia.org/wiki/Herb_Sutter Herb Sutter]<br>[https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 英文CHM || 2013-10-20 || [http://goo.gl/kd8UyN 简介] ||
-|| C++ Primer || C++ Primer || [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman]<br>等 || 英文CHM (4th edition)<br>中文PDF(第3版) || 2013-10-20<br>2013-10-24 || [http://goo.gl/NdD8xw 简介] ||
+|| C++ Primer || C++ Primer || [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman]<br>等 || 英文CHM (第4版)<br>中文PDF(第3版) || 2013-10-20<br>2013-10-24 || [http://goo.gl/NdD8xw 简介] ||
 || C++ 标准库<br>——自修教程与参考手册 || The C++ Standard Library<br>——A Tutorial and Reference || Nicolai Josuttis || 英文CHM || 2013-10-20 || [http://goo.gl/2Y3dn4 简介] ||
 || 深度探索C++对象模型 || Inside the C++ Object Model || [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman] || 英文CHM<br>中文PDF(扫描版) || 2013-10-20<br>2013-10-24 || [http://goo.gl/wkmkyN 简介] ||
 || C++ 语言的设计和演化 ||  The Design and Evolution of C++ || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 中文PDF(扫描版) || 2013-10-25 || [http://goo.gl/im8osn 简介] ||
@@ -1128,23 +1140,33 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 深入 Python || Dive into Python || [https://en.wikipedia.org/wiki/Mark_Pilgrim_%28software_developer%29 Mark Pilgrim] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || [http://goo.gl/XUWhRU 简介] ||
 || 深入 Python3 || Dive into Python3 || [https://en.wikipedia.org/wiki/Mark_Pilgrim_%28software_developer%29 Mark Pilgrim] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || [http://goo.gl/u031oo 简介] ||
-|| Learning Python || Learning Python || Mark Lutz || 英文EPUB (5th edition) || 2013-10-21 || [http://goo.gl/gnA4C9 简介] ||
-|| Python Cookbook || Python Cookbook || David Beazley || 英文PDF(3rd edition) || 2013-10-21 || [http://goo.gl/Z3HZ4D 简介] ||
+|| || Learning Python || Mark Lutz || 英文EPUB (第5版) || 2013-10-21 || [http://goo.gl/gnA4C9 简介] ||
+|| || Python Cookbook || David Beazley || 英文PDF(第3版) || 2013-10-21 || [http://goo.gl/Z3HZ4D 简介] ||
+|| 像计算机科学家一样思考 Python || Think Python<br>——How to Think Like a Computer Scientist || [https://en.wikipedia.org/wiki/Allen_B._Downey Allen Downey] (美) || 英文PDF || 2015-01-11 || [http://goo.gl/ugHVaz 简介] ||
 
-==== 10.1.2.2 Java ====
+==== 10.1.2.3 Java ====
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1514 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/eSL9ZTyGH_/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| Java 编程思想 || Thinking in Java || [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 英文PDF(4th edition)<br>简体PDF(第4版 扫描版) || 2013-10-21<br>2014-05-18 || [http://goo.gl/FDH9PW 简介] ||
+|| Java 编程思想 || Thinking in Java || [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 英文PDF(第4版)<br>简体PDF(第4版 扫描版) || 2013-10-21<br>2014-05-18 || [http://goo.gl/FDH9PW 简介] ||
+
+==== 10.1.2.4 Lisp ====
+
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!2050 微软网盘]
+
+|| *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| ANSI Common Lisp || [https://en.wikipedia.org/wiki/Paul_Graham_%28computer_programmer%29 Paul Graham] / [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] (美) || 英文PDF || 2015-01-11 || [http://goo.gl/IrFlD2 简介] ||
+|| ON Lisp<br>——Advanced Techniques for Common Lisp || (同上) || 英文PDF || 2015-01-11 || [http://goo.gl/cCMbtU 简介] ||
+|| Basic Lisp Techniques || David Cooper || 英文PDF || 2015-01-11 || [http://goo.gl/RlZKp8 简介] ||
 
 === 10.1.3 算法和数据结构 ===
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1500 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/q6pX8DLhuP/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 算法导论 || Introduction to Algorithms || Thomas Cormen<br>Charles Leiserson<br>Ronald Rivest<br>Clifford Stein || 英文PDF(3nd edition)<br>英文CHM (2nd edition) || 2013-10-21<br>2013-10-30 || [http://goo.gl/9HaprW 简介] ||
-|| 编程珠玑 || Programming Pearls || [https://en.wikipedia.org/wiki/Jon_Bentley Jon Bentley] || 英文PDF(2nd edition)<br>简体PDF(第2版 扫描版) || 2013-10-21<br>2013-10-21 || [http://goo.gl/Selw7O 简介] ||
+|| 算法导论 || Introduction to Algorithms || Thomas Cormen<br>Charles Leiserson<br>Ronald Rivest<br>Clifford Stein || 英文PDF(第3版)<br>英文CHM (第2版) || 2013-10-21<br>2013-10-30 || [http://goo.gl/9HaprW 简介] ||
+|| 编程珠玑 || Programming Pearls || [https://en.wikipedia.org/wiki/Jon_Bentley Jon Bentley] || 英文PDF(第2版)<br>简体PDF(第2版 扫描版) || 2013-10-21<br>2013-10-21 || [http://goo.gl/Selw7O 简介] ||
 
 === 10.1.4 操作系统相关 ===
 
@@ -1156,7 +1178,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || UNIX 编程艺术 || The Art of UNIX Programming<br>(TAOUP) || [https://en.wikipedia.org/wiki/Eric_S._Raymond Eric Raymond] / [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9B%B7%E8%92%99 埃里克·雷蒙德] (美) || 简体PDF || 2013-10-20 || [http://goo.gl/ztgZsZ 简介] ||
-|| UNIX 环境高级编程 ||  Advanced Programming in the UNIX Environment<br>(APUE) || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] / [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯] (美)<br>Stephen Rago || 简体PDF(第2版 扫描版)<br>英文PDF(3nd edition)<br>英文CHM (2nd edition) || 2014-05-13<br>2013-11-14<br>2013-10-21 || [http://goo.gl/IOMr5t 简介] ||
+|| UNIX 环境高级编程 ||  Advanced Programming in the UNIX Environment<br>(APUE) || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] / [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯] (美)<br>Stephen Rago || 简体PDF(第2版 扫描版)<br>英文PDF(第3版)<br>英文CHM (第2版) || 2014-05-13<br>2013-11-14<br>2013-10-21 || [http://goo.gl/IOMr5t 简介] ||
 || UNIX 系统编程 || UNIX Systems Programming<br>——Communication, Cocurrency, and Threads || Kay Robbins<br>Steven Robbins || 英文CHM || 2013-10-21 || [http://goo.gl/PoSWKs 简介] ||
 
 ==== 10.1.4.2 Windows ====
@@ -1173,7 +1195,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 (本类别放置"网络相关"的编程类电子书)
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| UNIX 网络编程<br>(共两卷) || UNIX Network Programming || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] / [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯] (美) || 卷1 英文PDF(3rd edition) || 2013-10-20 || [http://goo.gl/k53hlo 简介] ||
+|| UNIX 网络编程<br>(共两卷) || UNIX Network Programming || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] / [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯] (美) || 卷1 英文PDF(第3版) || 2013-10-20 || [http://goo.gl/k53hlo 简介] ||
 || C++ 网络编程<br>(共两卷) || C++ Network Programming || [https://en.wikipedia.org/wiki/Douglas_C._Schmidt Douglas Schmidt] (美) || 卷1 英文CHM<br>卷2 英文CHM || 2013-10-21<br>2013-10-21 || [http://goo.gl/pnMQzA 简介] ||
 
 === 10.1.6 (其它) ===
@@ -1181,7 +1203,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1517 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/O6PgU3SkTO/IT/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 程序员修炼之道<br>——从小工到专家 || Pragmatic Programmers<br>——From Journeyman to Master || [https://en.wikipedia.org/wiki/Andy_Hunt_%28author%29 Andrew Hunt]<br>[https://en.wikipedia.org/wiki/Dave_Thomas_%28programmer%29 David Thomas] || 英文PDF<br>简体PDF(扫描版) || 2013-10-21<br>2013-10-21 || [http://goo.gl/jwEfiJ 简介] ||
+|| 程序员修炼之道<br>——从小工到专家 || Pragmatic Programmers<br>——From Journeyman to Master || [https://en.wikipedia.org/wiki/Andy_Hunt_%28author%29 Andrew Hunt] (美)<br>[https://en.wikipedia.org/wiki/Dave_Thomas_%28programmer%29 David Thomas] (美) || 英文PDF<br>简体PDF(扫描版) || 2013-10-21<br>2013-10-21 || [http://goo.gl/jwEfiJ 简介] ||
+|| 约耳趣谈软体 || Joel on Software || [https://en.wikipedia.org/wiki/Joel_Spolsky Joel Spolsky] (美) || 英文EPUB || 2015-01-11 || [http://goo.gl/Fw0Gq9 简介] ||
+|| 软件随想录 || More Joel on Software || (同上) || 英文PDF || 2015-01-11 || [http://goo.gl/ymMubS 简介] ||
 
 == 10.2 黑客文化 ==
 
@@ -1211,7 +1235,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 密码学原理与实践 || Cryptography<br>——Theory and Practice || [https://en.wikipedia.org/wiki/Doug_Stinson Douglas Stinson] || 简体PDF(第2版 扫描版)<br>英文CHM || 2013-10-21<br>2013-10-30 || [http://goo.gl/lU4rDA 简介] ||
-|| 应用密码学<br>——协议、算法与C源程序 || Applied Cryptography<br>——Protocols, Algorithms, and Source Code in C || [https://en.wikipedia.org/wiki/Bruce_Schneier Bruce Schneier] || 简体PDF(第2版 扫描版)<br>英文PDF(2nd edition) || 2013-11-26<br>2013-10-21 || [http://goo.gl/isnQom 简介] ||
+|| 应用密码学<br>——协议、算法与C源程序 || Applied Cryptography<br>——Protocols, Algorithms, and Source Code in C || [https://en.wikipedia.org/wiki/Bruce_Schneier Bruce Schneier] || 简体PDF(第2版 扫描版)<br>英文PDF(第2版) || 2013-11-26<br>2013-10-21 || [http://goo.gl/isnQom 简介] ||
 || 密码编码学与网络安全<br>——原理与实践 || Cryptography and Network Security<br>——Principles and Practice || [https://en.wikipedia.org/wiki/William_Stallings William Stallings] || 简体PDF(第3版 扫描版)<br>英文PDF(第5版) || 2013-11-18<br>2013-11-18 || [http://goo.gl/5h5vN7 简介] ||
 
 === 10.3.3 安全加固 ===
@@ -1243,7 +1267,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || UNIX 操作系统设计 ||  The Design of the UNIX Operating System || Maurice Bach || 简体PDF || 2013-10-21 || [http://goo.gl/6Cki8r 简介] ||
-|| 深入理解 Linux 内核 || Understanding the Linux Kernel || Daniel Bovet<br>Marco Cesati || 英文PDF(3rd edition)<br>英文CHM (3rd edition) || 2013-12-06<br>2013-10-21 || [http://goo.gl/AnEhsC 简介] ||
+|| 深入理解 Linux 内核 || Understanding the Linux Kernel || Daniel Bovet<br>Marco Cesati || 英文PDF(第3版)<br>英文CHM (第3版) || 2013-12-06<br>2013-10-21 || [http://goo.gl/AnEhsC 简介] ||
 || Shell 脚本学习指南 || Classic Shell Scripting || Arnold Robbins<br>Nelson Beebe || 简体PDF(扫描版) || 2014-05-18 || [http://goo.gl/xtayXE 简介] ||
 || Linux 与 UNIX Shell 编程指南 || Linux and UNIX Shell Programming || David Tansley || 简体PDF(扫描版) || 2013-12-06 || [http://goo.gl/yiMzqf 简介] ||
 || 鸟哥的 Linux 私房菜 || || 鸟哥 || 简体PDF || 2013-12-06 || [http://goo.gl/kxwsXH 简介] ||
@@ -1257,6 +1281,13 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || TCP-IP 详解<br>(共三卷) || TCP-IP Illustrated || [https://en.wikipedia.org/wiki/W._Richard_Stevens Richard Stevens] / [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯] (美) || 卷1 英文CHM<br>卷1 简体PDF<br>卷2 简体PDF<br>卷3 简体PDF || 2013-10-21<br>2013-10-21<br>2013-10-26<br>2013-10-26 || [http://goo.gl/qW7sJ5 简介] ||
+
+=== 10.5.2 (其它) ===
+
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!2057 微软网盘]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 计算机网络 || Computer Networks || [https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum Andrew Tanenbaum] (美)<br>David Wetherall || 英文PDF(第5版) || 2015-01-11 || [http://goo.gl/oqJexg 简介] ||
 
 == 10.6 IT 公司 ==
 
@@ -1272,4 +1303,4 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1634 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/g3GZPge9Os/IT/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 失控<br>——全人类的最终命运和结局 || Out of Control<br>——The New Biology of Machines, Social Systems, and the Economic World || [https://en.wikipedia.org/wiki/Kevin_Kelly_(editor) Kevin Kelly] / [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E5%87%AF%E5%88%A9 凯文·凯利] (美) || 简体EPUB || 2014-01-09 || [http://goo.gl/MLnL5F 简介] ||
+|| 失控<br>——全人类的最终命运和结局 || Out of Control<br>——The New Biology of Machines, Social Systems, and the Economic World || [https://en.wikipedia.org/wiki/Kevin_Kelly_(editor) Kevin Kelly] / [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E5%87%AF%E5%88%A9 凯文·凯利] (美) || 简体EPUB<br>英文PDF || 2014-01-09<br>2015-01-11 || [http://goo.gl/MLnL5F 简介] ||
