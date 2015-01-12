@@ -136,7 +136,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 联邦党人文集<br>(美国宪法原理) || The Federalist Papers || [https://zh.wikipedia.org/zh-cn/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF 亚历山大·汉密尔顿] (美)<br>[https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%BA%A6%E8%BF%AA%E9%80%8A 詹姆斯·麦迪逊] (美)<br>[https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%9D%B0%E4%BC%8A 约翰·杰伊] (美) || 简体PDF(扫描版)<br>简体EPUB || 2013-11-27<br>2014-01-09 || [http://goo.gl/HqJha6 简介] ||
 || 历史的终结及最后之人 || The End of History and the Last Man || [https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%C2%B7%E7%A6%8F%E5%B1%B1 福山] (美) || 简体PDF(扫描版)<br>简体EPUB || 2013-01-01<br>2013-09-13 || [http://goo.gl/0C1A8d 简介] ||
 || 民主的历程<br>——公元前508年-1999年 || Democracy<br>——The unfinished journey 508 BC - 1993 AD || [https://en.wikipedia.org/wiki/John_Dunn_%28political_theorist%29 John Dunn] / 约翰·邓恩 (主编) || 简体PDF(扫描版) || 2014-06-22 || [http://goo.gl/G7OYA2 简介] ||
-|| 欧洲民主史<br>——从孟德斯鸠到凯尔森 || || Salvo Mastellone (意) || 简体PDF(扫描版) || 2014-07-27 || [http://goo.gl/rWwCIE 简介] ||
+|| 欧洲民主史<br>——从孟德斯鸠到凯尔森 || || 萨尔沃·马斯泰罗 (意) || 简体PDF(扫描版) || 2014-07-27 || [http://goo.gl/rWwCIE 简介] ||
 || 平民政治的基本原理 || The Fundamental Principles of Government || [https://zh.wikipedia.org/wiki/%E8%8A%AE%E6%81%A9%E6%96%BD 保罗·芮恩施] (美) || 简体PDF(扫描版) || 2013-01-14 || [http://goo.gl/0DbAvr 简介] ||
 || 宪政与权利 || || (多人) || 简体PDF || 2013-04-13 || [http://goo.gl/kesZbY 简介] ||
 || 宪政主义<br>——观念与制度的转捩 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%A1 王怡] || 简体PDF(扫描版) || 2013-05-19 || [http://goo.gl/Ysf3eg 简介] ||
@@ -156,8 +156,9 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 政治自由主义 || Political Liberalism || (同上) || 简体HTML || 2013-01-17 || [http://goo.gl/B6Y9pe 简介] ||
 || 无政府、国家与乌托邦 || Anarchy, State, and Utopia || [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E8%AB%BE%E9%BD%8A%E5%85%8B 诺齐克] (美) || 简体PDF(扫描版)<br>英文EPUB || 2013-07-30<br>2014-03-29 || [http://goo.gl/rDAxkr 简介] ||
 || 自由史论 || The History of Freedom and Other Essays || [https://zh.wikipedia.org/wiki/%E9%98%BF%E5%85%8B%E9%A1%BF%E5%8B%8B%E7%88%B5 阿克顿勋爵] (英) || 简体PDF(扫描版) || 2014-07-27 || [http://goo.gl/aOPps4 简介] ||
-|| 古代人的自由与现代人的自由 || The Liberty of the Ancients Compared with that of the Moderns || [https://en.wikipedia.org/wiki/Benjamin_Constant 贡斯当] (法) || 简体PDF(扫描版) || 2014-06-22 || [http://goo.gl/TK9odN 简介] ||
 || 利维坦 || Leviathan || [https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E9%9C%8D%E5%B8%83%E6%96%AF 霍布斯] (英) || 简体PDF || 2014-06-22 || [http://goo.gl/ifQiP4 简介] ||
+|| 古代人的自由与现代人的自由 || The Liberty of the Ancients Compared with that of the Moderns || [https://en.wikipedia.org/wiki/Benjamin_Constant 贡斯当] (法) || 简体PDF(扫描版) || 2014-06-22 || [http://goo.gl/TK9odN 简介] ||
+|| 欧洲自由主义史 || The History of European Liberalism || [https://en.wikipedia.org/wiki/Guido_De_Ruggiero Guido De Ruggiero] (意) || 简体PDF(扫描版) || 2015-01-12 || [http://goo.gl/y9esrP 简介] ||
 || 自由主义与正义的局限 || Liberalism and the Limits of Justice || [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] (美) || 简体PDF || 2013-01-01 || [http://goo.gl/VnpHRi 简介] ||
 || 论出版自由 || Areopagitica<br>——A Speech for the Liberty of Unlicensed Printing || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF 弥尔顿] (英) || 简体PDF || 2014-02-03 || [http://goo.gl/u0t3F5 简介] ||
 || 给你所爱的人以自由 || || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体PDF(大字版) || 2013-10-26<br>2013-11-26 || [http://goo.gl/xM3ZiF 简介] ||
@@ -239,6 +240,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 政治科学 || Political Science || 迈克尔·罗斯金 (美)<br>等 || 简体PDF(第9版 扫描版)<br>简体PDF(第6版 扫描版) || 2014-02-13<br>2014-02-06 || [http://goo.gl/9weVZc 简介] ||
 || 变化社会中的政治秩序 || Political Order in Changing Societies || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 亨廷顿] (美) || 简体PDF || 2013-10-30 || [http://goo.gl/KOdFln 简介] ||
 || 国家为什么失败<br>——权力、富裕与贫困的根源 || Why Nations Fail<br>——The Origins of Power, Prosperity, and Poverty || [https://en.wikipedia.org/wiki/Daron_Acemoglu Daron Acemoglu] (美)<br>James Robinson (美) || 简体TXT<br>繁體PDF(豎排掃描版) || 2014-03-20<br>2014-03-20 || [http://goo.gl/nBbZDk 简介] ||
+|| 狂热分子<br>——群众运动圣经 || The True Believer<br>——Thoughts on the Nature Of Mass Movements || [https://zh.wikipedia.org/wiki/%E8%89%BE%E5%8A%9B%C2%B7%E8%B3%80%E4%BD%9B%E7%88%BE 埃里克·霍弗] (美) || 简体PDF(扫描版) || 2015-01-12  || [http://goo.gl/o6LXM7 简介] ||
 || 君主论<br>(君王论) || The Prince || [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E7%B6%AD%E5%88%A9 马基亚维利] (意) || 简体PDF || 2013-08-22 || [http://goo.gl/bdEyl8 简介] ||
 
 == 1.2 政治小说 ==
@@ -518,7 +520,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 中国近百年人权思想 || || 杜钢建 || 繁體EPUB<br>繁體MOBI || 2014-05-04<br>2014-05-04 || [http://goo.gl/9IJmJt 简介] ||
 || 血纪 || || 孔令平 || 简体PDF || 2013-05-19 || [http://goo.gl/Tsy2iI 简介] ||
 || 伪民主派卖港实录 || || [https://zh.wikipedia.org/wiki/%E9%BB%83%E6%AF%93%E6%B0%91 黄毓民] || 繁體PDF || 2013-06-22 || [http://goo.gl/ELCzS8 简介] ||
-|| 2014大崩溃 || || 胡乔英 || 繁體PDF(扫描版) || 2013-07-28 || [http://goo.gl/k6BThF 简介] ||
+|| 如何推翻中共 || || 高光俊 || 简体PDF || 2015-01-12 || [http://goo.gl/4sGl0U 简介] ||
 
 == 1.4 美国 ==
 
@@ -528,6 +530,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 论美国的民主<br>(民主在美国) || Democracy in America || [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] (法) || 简体PDF(上下卷)<br>简体MOBI || 2012-10-06<br>2013-05-13 || [http://goo.gl/DSV1Wh 简介] ||
 || 常识 || Common Sense || [https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E6%BD%98%E6%81%A9 托马斯·潘恩] (美) || 简体EPUB || 2014-05-23 || [http://goo.gl/MMHhY0 简介] ||
 || 民主的细节<br>——美国当代政治观察随笔 || || [https://zh.wikipedia.org/wiki/%E5%88%98%E7%91%9C 刘瑜] || 简体EPUB<br>简体TXT || 2013-09-14<br>2013-05-24 || [http://goo.gl/aq9azA 简介] ||
+|| 宪法的精神<br>——美国联邦最高法院200年经典判例选读 || || 北京大学法学院司法研究中心 || 简体PDF(扫描版) || 2015-01-12 || [http://goo.gl/OPuhDZ 简介] ||
 || 美国宪政历程<br>——影响美国的25个司法大案 || || 任东来<br>等 || 简体PDF(扫描版)<br>简体MOBI || 2013-11-26<br>2014-02-23 || [http://goo.gl/o0tvJX 简介] ||
 || 危机<br>——美国国家安全局透视 || || || 简体PDF || 2013-06-18 || [http://goo.gl/8KdkE1 简介] ||
 
@@ -542,6 +545,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || 苏共野史<br>——党治制的由来 || || 阿夫托尔汉诺夫 (俄) || 简体PDF(扫描版) || 2014-01-09 || [http://goo.gl/GqC6WP 简介] ||
 || 俄国人 || The Russians || [https://en.wikipedia.org/wiki/Hedrick_Smith Hedrick Smith] (美) || 简体PDF(扫描版) || 2014-02-21 || [http://goo.gl/Y317px 简介] ||
 || "真相"与自白<br>——戈尔巴乔夫回忆录 || Memoirs || [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%93%88%E4%BC%8A%E5%B0%94%C2%B7%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A4%AB 戈尔巴乔夫] (俄) || 简体EPUB<br>简体MOBI || 2013-10-20<br>2014-02-23 || [http://goo.gl/L3kgTI 简介] ||
+|| 帝国的消亡<br>——当代俄罗斯的教训 || Collapse of an Empire<br>——Lessons for Modern Russia || [https://en.wikipedia.org/wiki/Yegor_Gaidar 盖达尔] (俄) || 简体PDF(扫描版) || 2015-01-12 || [http://goo.gl/02MeoJ 简介] ||
 || 苏联真相<br>——对101个重要问题的思考 ||  || 陆南泉<br>等 || 简体PDF(上中下 扫描版) || 2013-01-01<br>2013-01-01<br>2013-01-01 || [http://goo.gl/0JwL7v 简介] ||
 || 苏联解体亲历记 || || 小杰克·F·马特洛克 (美) || 简体PDF(扫描版) || 2013-07-07 || [http://goo.gl/IV6I0B 简介] ||
 || 苏联兴亡史纲 || || 陈之骅<br>等 || 简体PDF(扫描版) || 2013-01-01 || [http://goo.gl/UnV35V 简介] ||
@@ -975,7 +979,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1839 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/AADTDcE9_U7sIfxfSsSr9k-Xa/%E5%93%B2%E5%AD%A6/%E5%93%B2%E5%AD%A6%E5%8F%B2 Dropbox网盘]
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 西方哲学史 || A History of Western Philosophy || [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体PDF || 2014-06-20 || [http://goo.gl/VeL9St 简介] ||
+|| 西方哲学史 || A History of Western Philosophy || [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体PDF<br>简体PDF(扫描版) || 2014-06-20<br>2015-01-12 || [http://goo.gl/VeL9St 简介] ||
 || 中国哲学简史 || A Short History of Chinese Philosophy || [https://zh.wikipedia.org/wiki/%E5%86%AF%E5%8F%8B%E5%85%B0 冯友兰] || 简体PDF || 2014-06-20 || [http://goo.gl/MeCxqs 简介] ||
 || 形而上学的迷雾 || The Fog of Metaphysics || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 简体PDF(扫描版) || 2014-07-28 || [http://goo.gl/FV39sT 简介] ||
 
@@ -1016,7 +1020,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 幸福之路 || The Conquest of Happiness || [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体EPUB || 2014-06-20 || [http://goo.gl/nWPiq0 简介] ||
-|| 道德情操论 || The Theory of Moral Sentiments || [https://en.wikipedia.org/wiki/Adam_Smith Adam Smith] / [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] (英) || 简体PDF || 2014-06-20 || [http://goo.gl/TTTVsl 简介] ||
+|| 道德情操论 || The Theory of Moral Sentiments || [https://en.wikipedia.org/wiki/Adam_Smith Adam Smith] / [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] (英) || 简体PDF<br>简体PDF(扫描版) || 2014-06-20<br>2015-01-12 || [http://goo.gl/TTTVsl 简介] ||
 
 == 8.8 科学哲学 ==
 
@@ -1025,7 +1029,14 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 科学发现的逻辑 || The Logic of Scientific Discovery || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 波普尔] (英) || 简体HTML || 2014-06-20 || [http://goo.gl/SYE5B9 简介] ||
 
-== 8.9 (其它) ==
+== 8.9 美学 ==
+
+*【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1838 微软网盘]
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 审美与人的自由 || Aesthetics and Human Freedom || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 简体PDF(扫描版) || 2015-01-12 || [http://goo.gl/bEmJVW 简介] ||
+
+== 8.10 (其它) ==
 
 *【网盘链接】*  [https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1832 微软网盘]  [https://www.dropbox.com/sh/y9xpd1s1zilrorc/AACQlsOxkUflJTsZIAG52N09a/%E5%93%B2%E5%AD%A6/%28%E5%85%B6%E5%AE%83%29 Dropbox网盘]
 
@@ -1157,7 +1168,7 @@ TXT格式的电子书使用 *UTF-8* 编码保存。用Windows自带的记事本�
 
 || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || ANSI Common Lisp || [https://en.wikipedia.org/wiki/Paul_Graham_%28computer_programmer%29 Paul Graham] / [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] (美) || 英文PDF || 2015-01-11 || [http://goo.gl/IrFlD2 简介] ||
-|| ON Lisp<br>——Advanced Techniques for Common Lisp || (同上) || 英文PDF || 2015-01-11 || [http://goo.gl/cCMbtU 简介] ||
+|| On Lisp<br>——Advanced Techniques for Common Lisp || (同上) || 英文PDF || 2015-01-11 || [http://goo.gl/cCMbtU 简介] ||
 || Basic Lisp Techniques || David Cooper || 英文PDF || 2015-01-11 || [http://goo.gl/RlZKp8 简介] ||
 
 === 10.1.3 算法和数据结构 ===
