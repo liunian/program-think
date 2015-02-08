@@ -258,6 +258,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 || 大国沉沦<br>——写给中国的备忘录 || || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 简体PDF || 2013-08-11 || [http://goo.gl/pnhvVp 简介] ||
 || 断裂<br>——20世纪90年代以来的中国社会 || || [https://zh.wikipedia.org/wiki/%E5%AD%99%E7%AB%8B%E5%B9%B3 孙立平] || 简体PDF || 2013-03-16 || [http://goo.gl/T1nfI7 简介] ||
 || 山坳上的中国<br>——问题、困境、痛苦的选择 || || 何博传 || 简体PDF(扫描版) || 2013-03-07 || [http://goo.gl/Ab6cPe 简介] ||
+|| 中国共产党不可说的秘密 || The Party<br>——The Secret World of China's Communist Rulers || [https://en.wikipedia.org/wiki/Richard_McGregor Richard McGregor] (澳大利亚) || 英文PDF || 2015-02-08 || [http://goo.gl/frzV3y 简介] ||
 || 红色资本主义<br>——中国非凡崛起之下的脆弱金融基础 || Red Capitalism<br>——The Fragile Financial Foundation<br> of China's Extraordinary Rise || Carl Walter (美)<br>Fraser Howie (美) || 英文PDF || 2014-03-29 || [http://goo.gl/gYdQjb 简介] ||
 || 全球化与中国国家转型 || Globalization and state transformation in China || [https://zh.wikipedia.org/wiki/%E9%83%91%E6%B0%B8%E5%B9%B4 郑永年] (新加坡) || 简体PDF(扫描版) || 2014-01-09 || [http://goo.gl/F4nSa2 简介] ||
 
@@ -370,7 +371,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 === 1.3.2 政治人物 ===
 
 || *中文书名*  || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 太子党关系网络 (2.1.0) || || 编程随想 || 简体PDF || 2014-04-30 || 详细的网状图，<br>涵盖大量家族，<br>详情请看[http://program-think.blogspot.com/2013/03/princelings.html 这里]。 ||
+|| 太子党关系网络 (2.2.1) || || 编程随想 || 简体PDF || 2015-02-08 || 详细的网状图，<br>涵盖大量家族，<br>详情请看[http://program-think.blogspot.com/2015/02/Princelings.html 这里]。 ||
 || 红太阳的陨落<br>——千秋功罪毛泽东 || || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵] (原名：宋科) || 简体PDF<br>简体DOC || 2012-12-09<br>2012-04-05 || [http://goo.gl/16935P 简介] ||
 || 毛泽东时代和后毛泽东时代(1949-2009)<br>——另一种历史书写 || || [https://zh.wikipedia.org/wiki/%E9%8C%A2%E7%90%86%E7%BE%A4 钱理群] || 繁體PDF(共4冊 掃描版) || 2013-05-07<br>2013-05-07<br>2013-05-07<br>2013-05-07 || [http://goo.gl/DQ4MOu 简介] ||
 || 晚年周恩来 || Zhou Enlai<br>——The Last Perfect Revolutionary || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || 简体PDF<br>简体EPUB || 2012-10-05<br>2013-09-14 || [http://goo.gl/hYVSQb 简介] ||
@@ -387,7 +388,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 || 中国权贵的死亡游戏 || A Death in the Lucky Holiday Hotel<br>——Murder, Money, and an Epic Power Struggle in China || 何频<br>黄闻光 || 繁體PDF || 2014-05-04 || [http://goo.gl/oFkatU 简介] ||
 || 林彪浮沉录 || The rise and fall of Lin Piao || [https://en.wikipedia.org/wiki/Jaap_van_Ginneken 雅普·冯·吉内肯] (荷) || 简体PDF(扫描版) || 2013-05-19 || [http://goo.gl/MiALdn 简介] ||
 || 我的回忆 || || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || 简体PDF || 2012-10-26 || [http://goo.gl/nM9fKE 简介] ||
-|| 毛泽东私人医生回忆录 || The Private Life of Chairman Mao || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BF%97%E7%BB%A5 李志绥] || 简体PDF || 2013-08-01 || [http://goo.gl/6wMYwq 简介] ||
+|| 蒋中正思想言论总集 || || [https://zh.wikipedia.org/wiki/%E8%94%A3%E4%B8%AD%E6%AD%A3 蒋中正] || 繁体CHM || 2015-02-08 || [http://goo.gl/n6K5iV 简介] ||
+|| 毛泽东私人医生回忆录 || The Private Life of Chairman Mao || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BF%97%E7%BB%A5 李志绥] || 简体PDF<br>繁體PDF(豎排掃描版) || 2013-08-01<br>2015-02-08 || [http://goo.gl/6wMYwq 简介] ||
 || 毛泽东<br>——鲜为人知的故事 || Mao<br>——The Unknown Story || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E6%88%8E 张戎] (原名：张二鸿) || 简体PDF || 2013-08-01 || [http://goo.gl/GZwddT 简介] ||
 || 红色家族档案<br>——罗瑞卿女儿的点点记忆 || || 罗点点 || 简体PDF(扫描版) || 2013-04-21 || [http://goo.gl/oHqB5V 简介] ||
 || 龚楚回忆录 || || [https://zh.wikipedia.org/wiki/%E9%BE%9A%E6%A5%9A 龚楚] || 繁體PDF(豎排掃描版) || 2014-02-04 || [http://goo.gl/PMyhO9 简介] ||
@@ -656,6 +658,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 || 中国近代史 || The Rise of Modern China || [https://zh.wikipedia.org/wiki/%E5%BE%90%E4%B8%AD%E7%B4%84 徐中约] || 简体PDF(上下)<br>简体EPUB || 2013-03-22<br>2013-03-22<br>2013-09-13 || [http://goo.gl/EjC0P1 简介] ||
 || 停滞的帝国<br>——两个世界的撞击 || The Immobile Empire || [https://en.wikipedia.org/wiki/Alain_Peyrefitte Alain Peyrefitte] (法) || 简体PDF(扫描版) || 2014-05-23 || [http://goo.gl/aBXcos 简介] ||
 || 追寻现代中国 || The Search for Modern China || [https://en.wikipedia.org/wiki/Jonathan_Spence Jonathan Spence] (英 中文名：[https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%99%AF%E8%BF%81 史景迁]) || 繁体PDF<br>简体EPUB || 2014-06-22<br>2014-06-22 || [http://goo.gl/JOjbrj 简介] ||
+|| 论中国<br>——中国新史 || China<br>——A New History || [https://zh.wikipedia.org/wiki/%E8%B2%BB%E6%AD%A3%E6%B8%85 费正清] (美) || 繁體PDF(竪排掃描版) || 2015-02-08 || [http://goo.gl/S8nJwA 简介] || 
 || 重说中国近代史 || || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E9%B3%B4_%28%E5%AD%B8%E8%80%85%29 张鸣] || 简体EPUB || 2013-09-14 || [http://goo.gl/fTZnyN 简介] ||
 || 民国人物过眼录 || || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%A5%8E%E6%9D%BE 杨奎松] || 简体PDF(扫描版) || 2014-02-21 || [http://goo.gl/PWSxql 简介] ||
 || 叫魂<br>——1768年中国妖术大恐慌 || Soulstealers<br>——The Chinese Sorcery Scare of 1768 || [https://en.wikipedia.org/wiki/Philip_A._Kuhn Philip Kuhn] (美 中文名：[https://zh.wikipedia.org/wiki/%E5%AD%94%E9%A3%9E%E5%8A%9B 孔飞力]) || 简体PDF(扫描版) || 2014-05-23 || [http://goo.gl/0CLu5f 简介] ||
@@ -746,7 +749,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 == 4.2 金融 ==
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 货币金融学 || Economics of Money, Banking, and Financial Markets || [https://en.wikipedia.org/wiki/Frederic_Mishkin 弗雷德里克·米什金] (美) || 英文PDF(第7版 扫描版) || 2015-01-11 || [http://goo.gl/X67GFF 简介] ||
+|| 货币金融学 || Economics of Money, Banking, and Financial Markets || [https://en.wikipedia.org/wiki/Frederic_Mishkin 弗雷德里克·米什金] (美) || 简体PDF(第9版 扫描版)<br>英文PDF(第7版 扫描版) || 2015-02-08<br>2015-01-11 || [http://goo.gl/X67GFF 简介] ||
 || 期权、期货及其他衍生品 || Options, Futures and Other Derivatives || [https://en.wikipedia.org/wiki/John_C._Hull 约翰·赫尔] (加) || 简体PDF(扫描版) || 2015-01-11 || [http://goo.gl/2LDjOu 简介] ||
 || 默顿·米勒论金融衍生工具 || Merton Miller on Derivatives || [https://en.wikipedia.org/wiki/Merton_Miller 默顿·米勒] (美) || 简体PDF(扫描版) || 2015-01-11 || [http://goo.gl/ficxbl 简介] ||
 
