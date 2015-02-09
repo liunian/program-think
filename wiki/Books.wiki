@@ -260,7 +260,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 || 断裂<br>——20世纪90年代以来的中国社会 || || [https://zh.wikipedia.org/wiki/%E5%AD%99%E7%AB%8B%E5%B9%B3 孙立平] || 简体PDF || 2013-03-16 || [http://goo.gl/T1nfI7 简介] ||
 || 山坳上的中国<br>——问题、困境、痛苦的选择 || || 何博传 || 简体PDF(扫描版) || 2013-03-07 || [http://goo.gl/Ab6cPe 简介] ||
 || 中国共产党不可说的秘密 || The Party<br>——The Secret World of China's Communist Rulers || [https://en.wikipedia.org/wiki/Richard_McGregor Richard McGregor] (澳大利亚) || 英文PDF || 2015-02-08 || [http://goo.gl/frzV3y 简介] ||
-|| 红色资本主义<br>——中国非凡崛起之下的脆弱金融基础 || Red Capitalism<br>——The Fragile Financial Foundation<br> of China's Extraordinary Rise || Carl Walter (美)<br>Fraser Howie (美) || 英文PDF || 2014-03-29 || [http://goo.gl/gYdQjb 简介] ||
+|| 红色资本主义<br>——中国非凡崛起之下的脆弱金融基础 || Red Capitalism<br>——The Fragile Financial Foundation<br> of China's Extraordinary Rise || Carl Walter (美)<br>Fraser Howie (美) || 英文PDF<br>英文MOBI || 2014-03-29<br>2015-02-09 || [http://goo.gl/gYdQjb 简介] ||
 || 全球化与中国国家转型 || Globalization and state transformation in China || [https://zh.wikipedia.org/wiki/%E9%83%91%E6%B0%B8%E5%B9%B4 郑永年] (新加坡) || 简体PDF(扫描版) || 2014-01-09 || [http://goo.gl/F4nSa2 简介] ||
 
 ==== 1.3.1.2 六四事件 ====
@@ -537,7 +537,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 || 苏联大清洗内幕 || || 陈启能<br>等 || 简体HTML || 2013-02-22 || [http://goo.gl/AIAXwd 简介] ||
 || 帝国<br>——俄罗斯五十年 || Imperium || [https://zh.wikipedia.org/wiki/%E9%9B%B7%E6%B2%99%E5%BE%B7%C2%B7%E5%8D%A1%E6%99%AE%E9%92%A6%E6%96%AF%E5%9F%BA 卡普钦斯基] (波) || 繁體PDF(豎排掃描版) || 2013-11-26 || [http://goo.gl/CezZLn 简介] ||
 || 苏联的心灵<br>——共产主义时代的俄国文化 || The Soviet Mind<br>——Russian Culture under Communism || [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] (英) || 简体PDF(扫描版) || 2013-08-21 || [http://goo.gl/IEoJGX 简介] ||
-|| 正午的黑暗 || Darkness at Noon || [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler] (匈) || 英文EPUB || 2014-07-28 || [http://goo.gl/mGfOi0 简介] ||
+|| 正午的黑暗 || Darkness at Noon || [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler] (匈) || 英文EPUB<br>简体PDF || 2014-07-28<br>2015-02-09 || [http://goo.gl/mGfOi0 简介] ||
 || 东欧大裂变纪实 || || 欧阳东 || 简体PDF(扫描版) || 2013-01-01 || [http://goo.gl/XhAE1U 简介] ||
 
 == 1.6 法国 ==
