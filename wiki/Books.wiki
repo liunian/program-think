@@ -132,14 +132,15 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 === 1.1.1 民主和宪政 ===
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 论民主 || On Democracy || [https://en.wikipedia.org/wiki/Robert_A._Dahl Robert Dahl] / [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%C2%B7%E9%81%93%E7%88%BE 罗伯特·道尔] (美) || 简体PDF(扫描版) || 2014-06-22 || [http://goo.gl/7e8E09 简介] ||
+|| 论民主 || On Democracy || [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%C2%B7%E9%81%93%E7%88%BE 罗伯特·道尔] (美) || 简体PDF(扫描版) || 2014-06-22 || [http://goo.gl/7e8E09 简介] ||
 || 代议制政府 || Considerations on Representative Government || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 密尔] (英) || 简体PDF || 2013-08-22 || [http://goo.gl/0Nc9uY 简介] ||
 || 第三波<br>——20世纪后期民主化浪潮 || The Third Wave<br>——Democratization in the Late Twentieth Century || [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 亨廷顿] (美) || 简体PDF || 2013-05-30 || [http://goo.gl/nYBwdP 简介] ||
+|| 民主 || Democracy || [https://en.wikipedia.org/wiki/Charles_Tilly 查尔斯·蒂利] (美) || 简体PDF(扫描版) || 2015-02-09 || [http://goo.gl/vsoi0n 简介] ||
 || 社会契约论<br>(民约论) || The Social Contract || [https://zh.wikipedia.org/wiki/%E8%AE%A9-%E9%9B%85%E5%85%8B%C2%B7%E5%8D%A2%E6%A2%AD 卢梭] (法) || 简体PDF || 2014-01-09 || [http://goo.gl/2hOv3S 简介] ||
 || 论法的精神<br>(法意) || The Spirit of the Laws || [https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%BE%B7%E6%96%AF%E9%B8%A0 孟德斯鸠] (法) || 简体PDF || 2014-01-09 || [http://goo.gl/UTjUxP 简介] ||
 || 联邦党人文集<br>(美国宪法原理) || The Federalist Papers || [https://zh.wikipedia.org/zh-cn/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF 亚历山大·汉密尔顿] (美)<br>[https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%BA%A6%E8%BF%AA%E9%80%8A 詹姆斯·麦迪逊] (美)<br>[https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%9D%B0%E4%BC%8A 约翰·杰伊] (美) || 简体PDF(扫描版)<br>简体EPUB || 2013-11-27<br>2014-01-09 || [http://goo.gl/HqJha6 简介] ||
+|| 民主的历程<br>——公元前508年-1999年 || Democracy<br>——The unfinished journey 508 BC - 1993 AD || [https://en.wikipedia.org/wiki/John_Dunn_%28political_theorist%29 约翰·邓恩] (主编) || 简体PDF(扫描版) || 2014-06-22 || [http://goo.gl/G7OYA2 简介] ||
 || 历史的终结及最后之人 || The End of History and the Last Man || [https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%C2%B7%E7%A6%8F%E5%B1%B1 福山] (美) || 简体PDF(扫描版)<br>简体EPUB || 2013-01-01<br>2013-09-13 || [http://goo.gl/0C1A8d 简介] ||
-|| 民主的历程<br>——公元前508年-1999年 || Democracy<br>——The unfinished journey 508 BC - 1993 AD || [https://en.wikipedia.org/wiki/John_Dunn_%28political_theorist%29 John Dunn] / 约翰·邓恩 (主编) || 简体PDF(扫描版) || 2014-06-22 || [http://goo.gl/G7OYA2 简介] ||
 || 欧洲民主史<br>——从孟德斯鸠到凯尔森 || || 萨尔沃·马斯泰罗 (意) || 简体PDF(扫描版) || 2014-07-27 || [http://goo.gl/rWwCIE 简介] ||
 || 平民政治的基本原理 || The Fundamental Principles of Government || [https://zh.wikipedia.org/wiki/%E8%8A%AE%E6%81%A9%E6%96%BD 保罗·芮恩施] (美) || 简体PDF(扫描版) || 2013-01-14 || [http://goo.gl/0DbAvr 简介] ||
 || 宪政与权利 || || (多人) || 简体PDF || 2013-04-13 || [http://goo.gl/kesZbY 简介] ||
@@ -389,6 +390,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 || 林彪浮沉录 || The rise and fall of Lin Piao || [https://en.wikipedia.org/wiki/Jaap_van_Ginneken 雅普·冯·吉内肯] (荷) || 简体PDF(扫描版) || 2013-05-19 || [http://goo.gl/MiALdn 简介] ||
 || 我的回忆 || || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || 简体PDF || 2012-10-26 || [http://goo.gl/nM9fKE 简介] ||
 || 蒋中正思想言论总集 || || [https://zh.wikipedia.org/wiki/%E8%94%A3%E4%B8%AD%E6%AD%A3 蒋中正] || 繁体CHM || 2015-02-08 || [http://goo.gl/n6K5iV 简介] ||
+|| 蒋经国自述 || || [https://zh.wikipedia.org/wiki/%E8%94%A3%E7%B6%93%E5%9C%8B 蒋经国] || 简体PDF || 2015-02-09 || [http://goo.gl/TRbT6g 简介] ||
 || 毛泽东私人医生回忆录 || The Private Life of Chairman Mao || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BF%97%E7%BB%A5 李志绥] || 简体PDF<br>繁體PDF(豎排掃描版) || 2013-08-01<br>2015-02-08 || [http://goo.gl/6wMYwq 简介] ||
 || 毛泽东<br>——鲜为人知的故事 || Mao<br>——The Unknown Story || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E6%88%8E 张戎] (原名：张二鸿) || 简体PDF || 2013-08-01 || [http://goo.gl/GZwddT 简介] ||
 || 红色家族档案<br>——罗瑞卿女儿的点点记忆 || || 罗点点 || 简体PDF(扫描版) || 2013-04-21 || [http://goo.gl/oHqB5V 简介] ||
