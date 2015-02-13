@@ -835,7 +835,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 BT Sync 密钥：B3WNBTAAFFAODFR6FQ3E3L5BBSJAFNBSJ （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 你的灯亮着吗？<br>——找到问题的真正所在 || Are Your Lights On<br>——How to Figure Out What the Problem Really Is || 唐纳德·高斯 (美)<br>[https://en.wikipedia.org/wiki/Gerald_Weinberg 杰拉尔德·温伯格] (美) || 简体PDF<br>简体TXT || 2010-11-02<br>2012-03-08 || [http://goo.gl/aozlMf 简介] ||
+|| 你的灯亮着吗？<br>——找到问题的真正所在 || Are Your Lights On<br>——How to Figure Out What the Problem Really Is || 唐纳德·高斯 (美)<br>[https://en.wikipedia.org/wiki/Gerald_Weinberg 杰拉尔德·温伯格] (美) || 简体PDF<br>简体TXT<br>简体MOBI || 2010-11-02<br>2012-03-08<br>2015-02-13 || [http://goo.gl/aozlMf 简介] ||
 
 
 <hr>
@@ -853,12 +853,12 @@ BT Sync 密钥：BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6 （此密钥的使用方法�
 == 6.1 传媒 ==
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 娱乐至死 || Amusing Ourselves to Death || 尼尔·波兹曼 || 简体PDF || 2015-01-07 || [http://goo.gl/2IKMzV 简介] ||
+|| 娱乐至死 || Amusing Ourselves to Death || [https://en.wikipedia.org/wiki/Neil_Postman 尼尔·波兹曼] (美) || 简体PDF<br>简体MOBI || 2015-01-07<br>2015-02-13 || [http://goo.gl/2IKMzV 简介] ||
 
 == 6.2 (其它) ==
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 黑天鹅<br>——如何应对不可知的未来 || The Black Swan<br>——The Impact of the Highly Improbable || [https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb 塔勒布] (黎巴嫩) || 简体PDF || 2014-01-09 || [http://goo.gl/YlS5on 简介] ||
+|| 黑天鹅<br>——如何应对不可知的未来 || The Black Swan<br>——The Impact of the Highly Improbable || [https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb 塔勒布] (黎巴嫩) || 简体PDF<br>简体MOBI || 2014-01-09<br>2015-02-13 || [http://goo.gl/YlS5on 简介] ||
 
 
 <hr>
