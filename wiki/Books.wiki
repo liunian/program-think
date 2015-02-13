@@ -925,15 +925,15 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 == 8.1 通俗读物 ==
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 你的第一本哲学书 || What Does It All Mean?<br>——A very short introduction to philosophy || [https://en.wikipedia.org/wiki/Thomas_Nagel Nagel] / [https://zh.wikipedia.org/wiki/%E6%B9%AF%E7%91%AA%E6%96%AF%C2%B7%E5%85%A7%E6%A0%BC%E7%88%BE 内格尔] (美) || 简体PDF(扫描版) || 2014-06-20 || [http://goo.gl/YDpVbp 简介] ||
-|| 哲学问题 || The Problems of Philosophy || [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体PDF || 2014-06-20 || [http://goo.gl/c5B9Fb 简介] ||
-|| 苏菲的世界 || Sophie's World || [https://en.wikipedia.org/wiki/Jostein_Gaarder Jostein Gaarder] / [https://zh.wikipedia.org/wiki/%E5%96%AC%E6%96%AF%E5%9D%A6%C2%B7%E8%B3%88%E5%BE%B7 乔斯坦·贾德] (挪威) || 简体PDF || 2014-06-20 || [http://goo.gl/uLo2sB 简介] ||
+|| 你的第一本哲学书 || What Does It All Mean?<br>——A very short introduction to philosophy || [https://en.wikipedia.org/wiki/Thomas_Nagel Nagel] / [https://zh.wikipedia.org/wiki/%E6%B9%AF%E7%91%AA%E6%96%AF%C2%B7%E5%85%A7%E6%A0%BC%E7%88%BE 内格尔] (美) || 简体PDF(扫描版)<br>简体MOBI || 2014-06-20<br>2015-02-13 || [http://goo.gl/YDpVbp 简介] ||
+|| 哲学问题 || The Problems of Philosophy || [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体PDF<br>简体EPUB<br>简体MOBI || 2014-06-20<br>2015-02-13<br>2015-02-13 || [http://goo.gl/c5B9Fb 简介] ||
+|| 苏菲的世界 || Sophie's World || [https://en.wikipedia.org/wiki/Jostein_Gaarder Jostein Gaarder] / [https://zh.wikipedia.org/wiki/%E5%96%AC%E6%96%AF%E5%9D%A6%C2%B7%E8%B3%88%E5%BE%B7 乔斯坦·贾德] (挪威) || 简体PDF<br>简体EPUB<br>简体MOBI || 2014-06-20<br>2015-02-13<br>2015-02-13 || [http://goo.gl/uLo2sB 简介] ||
 
 == 8.2 哲学史 ==
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 西方哲学史 || A History of Western Philosophy || [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体PDF<br>简体PDF(扫描版) || 2014-06-20<br>2015-01-12 || [http://goo.gl/VeL9St 简介] ||
-|| 中国哲学简史 || A Short History of Chinese Philosophy || [https://zh.wikipedia.org/wiki/%E5%86%AF%E5%8F%8B%E5%85%B0 冯友兰] || 简体PDF || 2014-06-20 || [http://goo.gl/MeCxqs 简介] ||
+|| 西方哲学史 || A History of Western Philosophy || [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体PDF<br>简体PDF(扫描版)<br>简体MOBI || 2014-06-20<br>2015-01-12<br>2015-02-13 || [http://goo.gl/VeL9St 简介] ||
+|| 中国哲学简史 || A Short History of Chinese Philosophy || [https://zh.wikipedia.org/wiki/%E5%86%AF%E5%8F%8B%E5%85%B0 冯友兰] || 简体PDF<br>简体EPUB<br>简体MOBI || 2014-06-20<br>2015-02-13<br>2015-02-13 || [http://goo.gl/MeCxqs 简介] ||
 || 形而上学的迷雾 || The Fog of Metaphysics || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 简体PDF(扫描版) || 2014-07-28 || [http://goo.gl/FV39sT 简介] ||
 
 == 8.3 哲学家 ==
@@ -952,23 +952,23 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 纯粹理性批判 || Critique of Pure Reason || [https://en.wikipedia.org/wiki/Immanuel_Kant Kant] / [https://zh.wikipedia.org/wiki/%E4%BC%8A%E6%9B%BC%E5%8A%AA%E5%B0%94%C2%B7%E5%BA%B7%E5%BE%B7 康德] (德) || 简体PDF || 2014-06-20 || [http://goo.gl/QP7xFu 简介] ||
 || 谈谈方法 || Discourse on the Method || [https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes Descartes] / [https://zh.wikipedia.org/wiki/%E5%8B%92%E5%86%85%C2%B7%E7%AC%9B%E5%8D%A1%E5%84%BF 笛卡尔] (法) || 简体PDF(扫描版) || 2014-06-20 || [http://goo.gl/lzuPGF 简介] ||
-|| 人类理解研究 || An Enquiry concerning Human Understanding || [https://en.wikipedia.org/wiki/David_Hume Hume] / [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E4%BC%91%E8%B0%9F 休谟] (英) || 简体PDF(扫描版) || 2014-06-20 || [http://goo.gl/xL3VlF 简介] ||
+|| 人类理解研究 || An Enquiry concerning Human Understanding || [https://en.wikipedia.org/wiki/David_Hume Hume] / [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E4%BC%91%E8%B0%9F 休谟] (英) || 简体PDF(扫描版)<br>简体MOBI || 2014-06-20<br>2015-02-13 || [http://goo.gl/xL3VlF 简介] ||
 
 == 8.6 逻辑学 ==
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 简单的逻辑学 || Being Logical<br>——A Guide to Good Thinking || 丹尼斯·麦克伦尼 || 简体PDF(扫描版) || 2015-01-07 || [http://goo.gl/32I2WC 简介] ||
+|| 简单的逻辑学 || Being Logical<br>——A Guide to Good Thinking || 丹尼斯·麦克伦尼 || 简体PDF(扫描版)<br>简体MOBI || 2015-01-07<br>2015-02-13 || [http://goo.gl/32I2WC 简介] ||
 
 == 8.7 伦理学 ==
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 幸福之路 || The Conquest of Happiness || [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体EPUB || 2014-06-20 || [http://goo.gl/nWPiq0 简介] ||
-|| 道德情操论 || The Theory of Moral Sentiments || [https://en.wikipedia.org/wiki/Adam_Smith Adam Smith] / [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] (英) || 简体PDF<br>简体PDF(扫描版) || 2014-06-20<br>2015-01-12 || [http://goo.gl/TTTVsl 简介] ||
+|| 道德情操论 || The Theory of Moral Sentiments || [https://en.wikipedia.org/wiki/Adam_Smith Adam Smith] / [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] (英) || 简体PDF<br>简体PDF(扫描版)<br>简体MOBI || 2014-06-20<br>2015-01-12<br>2015-02-13 || [http://goo.gl/TTTVsl 简介] ||
 
 == 8.8 科学哲学 ==
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 科学发现的逻辑 || The Logic of Scientific Discovery || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 波普尔] (英) || 简体HTML || 2014-06-20 || [http://goo.gl/SYE5B9 简介] ||
+|| 科学发现的逻辑 || The Logic of Scientific Discovery || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 波普尔] (英) || 简体HTML<br>简体MOBI || 2014-06-20<br>2015-02-13 || [http://goo.gl/SYE5B9 简介] ||
 
 == 8.9 美学 ==
 
@@ -978,7 +978,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 == 8.10 (其它) ==
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 查拉图斯特拉如是说 || Thus Spoke Zarathustra || [https://en.wikipedia.org/wiki/Friedrich_Nietzsche Nietzsche] / [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%B0%BC%E9%87%87 尼采] (德) || 简体PDF || 2014-06-20 || [http://goo.gl/lQSm0q 简介] ||
+|| 查拉图斯特拉如是说 || Thus Spoke Zarathustra || [https://en.wikipedia.org/wiki/Friedrich_Nietzsche Nietzsche] / [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%B0%BC%E9%87%87 尼采] (德) || 简体PDF<br>简体EPUB || 2014-06-20<br>2015-02-13 || [http://goo.gl/lQSm0q 简介] ||
 
 
 <hr>
