@@ -761,13 +761,13 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 === 4.1.1 理论 ===
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 国富论<br>(国民财富的性质和原因) || The Wealth of Nations || [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] (英) || 简体CHM || 2013-04-09 || [http://goo.gl/UKlCBO 简介] ||
+|| 国富论<br>(国民财富的性质和原因) || The Wealth of Nations || [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] (英) || 简体CHM<br>简体MOBI || 2013-04-09<br>2015-02-14 || [http://goo.gl/UKlCBO 简介] ||
 || 经济学 || Economics || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 萨缪尔森] (美)<br>[https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%AF%BA%E5%BE%B7%E8%B1%AA%E6%96%AF 诺德豪斯] (美) || 简体PDF(第18版 扫描版) || 2014-02-13 || [http://goo.gl/2ry1in 简介] ||
-|| 经济学原理 || Principles of Economics || [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9B%BC%E6%98%86 格里高利·曼昆] (美) || 简体PDF(第5版 扫描版) || 2013-02-22 || [http://goo.gl/KlA6cc 简介] ||
+|| 经济学原理 || Principles of Economics || [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9B%BC%E6%98%86 格里高利·曼昆] (美) || 简体PDF(第5版 扫描版)<br>简体EPUB(第3版 插图版)<br>简体MOBI(第3版 插图版) || 2013-02-22<br>2015-02-14<br>2015-02-14 || [http://goo.gl/KlA6cc 简介] ||
 || 高级宏观经济学 || Advanced Macroeconomics || [https://en.wikipedia.org/wiki/David_Romer David Romer] (美) || 简体PDF(第2版 扫描版) || 2014-07-15 || [http://goo.gl/6RivOe 简介] ||
 || 微观经济分析 || Microeconomic Analysis || [https://en.wikipedia.org/wiki/Hal_Varian Hal Varian] (美) || 简体PDF(第3版) || 2014-07-15 || [http://goo.gl/LDZYqw 简介] ||
-|| 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 凯恩斯] (美) || 简体PDF || 2014-02-22 || [http://goo.gl/ejlYr5 简介] ||
-|| 个人主义与经济秩序 || Individualism and Economic Order || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] (英) || 简体PDF<br>简体EPUB || 2013-04-10<br>2013-09-13 || [http://goo.gl/8GoZrW 简介] ||
+|| 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 凯恩斯] (美) || 简体PDF<br>简体MOBI || 2014-02-22<br>2015-02-14 || [http://goo.gl/ejlYr5 简介] ||
+|| 个人主义与经济秩序 || Individualism and Economic Order || [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] (英) || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-04-10<br>2013-09-13<br>2015-02-14 || [http://goo.gl/8GoZrW 简介] ||
 || 市场经济<br>——大师们的思考 || The Market Economy<br>——A Reader || 詹姆斯·多蒂 (美)<br>德威特·李 (美) || 简体PDF(扫描版) || 2013-04-09 || [http://goo.gl/54AN6y 简介] ||
 || 以自由看待发展 || Development as Freedom || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] (印度) || 简体PDF(扫描版) || 2013-04-09 || [http://goo.gl/zloecR 简介] ||
 || 短缺经济学 || Economics of Shortage || 雅诺什·科尔奈 (匈) || 简体PDF(扫描版) || 2015-01-11 || [http://goo.gl/Slv4ts 简介] ||
@@ -775,17 +775,17 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 === 4.1.2 评论 ===
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 资本主义与自由 || Capitalism and Freedom || [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%B0%94%E9%A1%BF%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E6%9B%BC 米尔顿·弗里德曼] (美) || 简体PDF || 2014-02-13 || [http://goo.gl/wmfmJE 简介] ||
-|| 自由选择<br>(选择的自由) || Free to Choose<br>——A personal statement || (同上) || 简体PDF<br>简体EPUB<br>英文PDF || 2013-03-24<br>2013-09-13<br>2013-04-09 || [http://goo.gl/TEymaB 简介] ||
+|| 资本主义与自由 || Capitalism and Freedom || [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%B0%94%E9%A1%BF%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E6%9B%BC 米尔顿·弗里德曼] (美) || 简体PDF<br>简体MOBI || 2014-02-13<br>2015-02-14 || [http://goo.gl/wmfmJE 简介] ||
+|| 自由选择——个人声明<br>(选择的自由) || Free to Choose<br>——A personal statement || (同上) || 简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF || 2013-03-24<br>2013-09-13<br>2015-02-14<br>2013-04-09 || [http://goo.gl/TEymaB 简介] ||
 || 充满灵性的经济学 || Economics from the Heart<br>——A Samuelson Sampler || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 萨缪尔森] (美) || 简体PDF(扫描版) || 2013-04-09 || [http://goo.gl/mY3e9r 简介] ||
 || 从来就没有救世主 || || [https://zh.wikipedia.org/wiki/%E8%AE%B8%E5%B0%8F%E5%B9%B4 许小年] || 简体PDF(扫描版) || 2013-04-09 || [http://goo.gl/R7lzaQ 简介] ||
 
 === 4.1.3 通俗读物 ===
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 魔鬼经济学<br>——揭示隐藏在表象之下的真实世界 || Freakonomics<br>——A Rogue Economist Explores<br> the Hidden Side of Everything || [https://zh.wikipedia.org/wiki/%E5%8F%B2%E8%92%82%E8%8A%AC%C2%B7%E5%88%97%E7%BB%B4%E7%89%B9 列维特] (美)<br>都伯纳 (美) || 简体PDF(扫描版) || 2013-04-09 || [http://goo.gl/miPjUX 简介] ||
+|| 魔鬼经济学<br>——揭示隐藏在表象之下的真实世界 || Freakonomics<br>——A Rogue Economist Explores<br> the Hidden Side of Everything || [https://zh.wikipedia.org/wiki/%E5%8F%B2%E8%92%82%E8%8A%AC%C2%B7%E5%88%97%E7%BB%B4%E7%89%B9 列维特] (美)<br>都伯纳 (美) || 简体PDF(扫描版)<br>简体EPUB(不全)<br>简体MOBI(不全) || 2013-04-09<br>2015-02-14<br>2015-02-14 || [http://goo.gl/miPjUX 简介] ||
 || 经济为什么会崩溃<br>——鱼、美元与经济学的故事 || How an Economy Grows and Why It Crashes || [https://en.wikipedia.org/wiki/Peter_Schiff 彼得·希夫] (美)<br>安德鲁·希夫 (美) || 简体PDF(扫描版) || 2014-03-31 || [http://goo.gl/vJHfcd 简介] ||
-|| 生活中的经济学 || || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体EPUB || 2013-04-09<br>2013-09-13 || [http://goo.gl/oA9syq 简介] ||
+|| 生活中的经济学 || || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-04-09<br>2013-09-13<br>2015-02-14 || [http://goo.gl/oA9syq 简介] ||
 
 == 4.2 金融 ==
 
@@ -888,7 +888,7 @@ BT Sync 密钥：BMBB5YLBIJJAE5H6TP27OS7YCEUKCYHZK （此密钥的使用方法�
 === 7.1.2 文学家、艺术家 ===
 
 || *中文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 胡适口述自传 || [https://zh.wikipedia.org/wiki/%E8%83%A1%E9%81%A9 胡适]<br>[https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚]译注 || 简体PDF(扫描版)<br>简体MOBI || 2013-11-26<br>2015-02-13 || [http://goo.gl/rfsXNg 简介] ||
+|| 胡适口述自传 || [https://zh.wikipedia.org/wiki/%E8%83%A1%E9%81%A9 胡适]<br>[https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚]译注 || 简体PDF(扫描版)<br>简体MOBI(不全) || 2013-11-26<br>2015-02-13 || [http://goo.gl/rfsXNg 简介] ||
 
 === 7.1.3 (其它) ===
 
