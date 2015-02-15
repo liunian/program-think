@@ -506,6 +506,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 || 通往比傻帝国 || || [https://zh.wikipedia.org/wiki/%E5%86%89%E4%BA%91%E9%A3%9E 冉云飞] || 简体PDF(扫描版) || 2013-06-22 || [http://goo.gl/Kpl5a7 简介] ||
 || 王怡文集 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%A1 王怡] || 简体CHM || 2013-05-19 || [http://goo.gl/uWCoS8 简介] ||
 || 不服从的江湖 || || (同上) || 简体PDF(扫描版) || 2013-05-19 || [http://goo.gl/Afi2tt 简介] ||
+|| 灾变论<br>——寻找另外一个中国 || || [https://zh.wikipedia.org/wiki/%E4%BB%BB%E4%B8%8D%E5%AF%90 任不寐] || 简体HTML || 2015-02-15 || [http://goo.gl/uVRHcX 简介] ||
 || 中国近百年人权思想 || || 杜钢建 || 繁體EPUB<br>繁體MOBI || 2014-05-04<br>2014-05-04 || [http://goo.gl/9IJmJt 简介] ||
 || 血纪 || || 孔令平 || 简体PDF || 2013-05-19 || [http://goo.gl/Tsy2iI 简介] ||
 || 伪民主派卖港实录 || || [https://zh.wikipedia.org/wiki/%E9%BB%83%E6%AF%93%E6%B0%91 黄毓民] || 繁體PDF || 2013-06-22 || [http://goo.gl/ELCzS8 简介] ||
@@ -633,6 +634,7 @@ BT Sync 密钥： BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 || 人的驯化、躲避与反叛 || || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 简体PDF<br>简体PDF(大字版)<br>简体TXT || 2013-05-01<br>2013-04-20<br>2013-03-17 || [http://goo.gl/SUIR2g 简介] ||
 || 思想改造和极权主义心理学<br>——中国的洗脑研究 || Thought Reform and the Psychology of Totalism<br>——A Study of Brainwashing in China || [https://en.wikipedia.org/wiki/Robert_Lifton Robert Jay Lifton] (美) || 英文MOBI || 2012-10-14 || [http://goo.gl/9oyo6T 简介] ||
 || 洗脑<br>——思维控制的科学 || Brainwashing<br>——The Science of Thought Control || [https://en.wikipedia.org/wiki/Kathleen_Taylor_%28biologist%29 Kathleen Taylor] (英) || 英文PDF || 2012-10-14 || [http://goo.gl/bOEcne 简介] ||
+|| 洗脑的历史 || || 傅志彬 || 简体PDF || 2015-02-15 || [http://goo.gl/uJlbBH 简介] ||
 
 == 2.7 审讯与反审讯 ==
 
@@ -763,7 +765,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 国富论<br>(国民财富的性质和原因) || The Wealth of Nations || [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] (英) || 简体CHM<br>简体MOBI || 2013-04-09<br>2015-02-14 || [http://goo.gl/UKlCBO 简介] ||
 || 经济学 || Economics || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 萨缪尔森] (美)<br>[https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%AF%BA%E5%BE%B7%E8%B1%AA%E6%96%AF 诺德豪斯] (美) || 简体PDF(第18版 扫描版) || 2014-02-13 || [http://goo.gl/2ry1in 简介] ||
-|| 经济学原理 || Principles of Economics || [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9B%BC%E6%98%86 格里高利·曼昆] (美) || 简体PDF(第5版 扫描版)<br>简体EPUB(第3版 插图版)<br>简体MOBI(第3版 插图版) || 2013-02-22<br>2015-02-14<br>2015-02-14 || [http://goo.gl/KlA6cc 简介] ||
+|| 经济学原理 || Principles of Economics || [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9B%BC%E6%98%86 格里高利·曼昆] (美) || 微观分册 简体PDF(第5版 扫描版)<br>宏观分册 简体PDF(第5版 扫描版)<br>微观分册 简体EPUB(第3版 插图版)<br>微观分册 简体MOBI(第3版 插图版) || 2013-02-22<br>2013-02-22<br>2015-02-14<br>2015-02-14 || [http://goo.gl/KlA6cc 简介] ||
 || 高级宏观经济学 || Advanced Macroeconomics || [https://en.wikipedia.org/wiki/David_Romer David Romer] (美) || 简体PDF(第2版 扫描版) || 2014-07-15 || [http://goo.gl/6RivOe 简介] ||
 || 微观经济分析 || Microeconomic Analysis || [https://en.wikipedia.org/wiki/Hal_Varian Hal Varian] (美) || 简体PDF(第3版) || 2014-07-15 || [http://goo.gl/LDZYqw 简介] ||
 || 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 凯恩斯] (美) || 简体PDF<br>简体MOBI || 2014-02-22<br>2015-02-14 || [http://goo.gl/ejlYr5 简介] ||
@@ -933,6 +935,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 西方哲学史 || A History of Western Philosophy || [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] (英) || 简体PDF<br>简体PDF(扫描版)<br>简体MOBI || 2014-06-20<br>2015-01-12<br>2015-02-13 || [http://goo.gl/VeL9St 简介] ||
+|| 中国哲学史大纲 || || [https://zh.wikipedia.org/wiki/%E8%83%A1%E9%81%A9 胡适] || 简体EPUB || 2015-02-15 || [http://goo.gl/m5G1AM 简介] ||
 || 中国哲学简史 || A Short History of Chinese Philosophy || [https://zh.wikipedia.org/wiki/%E5%86%AF%E5%8F%8B%E5%85%B0 冯友兰] || 简体PDF<br>简体EPUB<br>简体MOBI || 2014-06-20<br>2015-02-13<br>2015-02-13 || [http://goo.gl/MeCxqs 简介] ||
 || 形而上学的迷雾 || The Fog of Metaphysics || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 简体PDF(扫描版) || 2014-07-28 || [http://goo.gl/FV39sT 简介] ||
 
