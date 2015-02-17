@@ -179,6 +179,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 || 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 德热拉斯] (南斯拉夫) || 简体PDF(扫描版) || 2012-10-06 || [http://goo.gl/TSwEPN 简介] ||
 || 历史决定论的贫困 || The Poverty of Historicism || [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 波普尔] (英) || 简体PDF<br>简体EPUB<br>简体HTML || 2014-07-27<br>2015-02-15<br>2012-12-11 || [http://goo.gl/u3dBNz 简介] ||
 || 恐怖主义与共产主义 || Terrorism and Communism || [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 考茨基] (德) || 简体PDF || 2013-04-11 || [http://goo.gl/6wIj7f 简介] ||
+|| 共产主义黑皮书<br>——罪行、恐怖、镇压 || The Black Book of Communism<br>——Crimes, Terror, Repression || (多人) || 英文PDF(扫描版) || 2015-02-17 || [http://goo.gl/E6ZWzK 简介] ||
 || 社会主义体制<br>——共产主义政治经济学 || The Socialist System<br>——The Political Economy of Communism || 雅诺什·科尔奈 (匈) || 简体PDF(扫描版) || 2015-01-11 || [http://goo.gl/pYt1Mh 简介] ||
 
 === 1.1.5 社会主义 ===
@@ -306,6 +307,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 || 中国的眸子 || || 胡平 || 简体PDF(扫描版) || 2013-03-31 || [http://goo.gl/1UJJFx 简介] ||
 || 自由在落日中 || Freedom in the Sunset || [https://zh.wikipedia.org/zh/%E8%A2%81%E7%BA%A2%E5%86%B0 袁红冰] (原名：袁红兵) || 简体CHM || 2013-06-22 || [http://goo.gl/7F7R2o 简介] ||
 || 第二种忠诚 || || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || 简体PDF || 2013-03-09 || [http://goo.gl/lloAYP 简介] ||
+|| 文革三大屠杀案 || || (多人) || 简体PDF || 2015-02-17 || [http://goo.gl/Q46EHW 简介] ||
 
 ==== 1.3.1.4 "大跃进"和大饥荒时期 ====
 
@@ -488,6 +490,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 === 1.3.9 环境污染和食品安全 ===
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 中国冥路<br>——中国每年非常死亡480万 || 北明 || 繁體PDF || 2015-02-17 || [http://goo.gl/czsAeY 简介] ||
 || 民以何食为天<br>——中国食品安全现状调查 || [https://zh.wikipedia.org/wiki/%E5%91%A8%E5%8B%8D 周勍] || 简体PDF(扫描版) || 2014-01-09 || [http://goo.gl/328y19 简介] ||
 
 === 1.3.10 (其它) ===
@@ -508,8 +511,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 || 不服从的江湖 || || (同上) || 简体PDF(扫描版) || 2013-05-19 || [http://goo.gl/Afi2tt 简介] ||
 || 灾变论<br>——寻找另外一个中国 || || [https://zh.wikipedia.org/wiki/%E4%BB%BB%E4%B8%8D%E5%AF%90 任不寐] || 简体HTML || 2015-02-15 || [http://goo.gl/uVRHcX 简介] ||
 || 中国近百年人权思想 || || 杜钢建 || 繁體EPUB<br>繁體MOBI || 2014-05-04<br>2014-05-04 || [http://goo.gl/9IJmJt 简介] ||
-|| 血纪 || || 孔令平 || 简体PDF || 2013-05-19 || [http://goo.gl/Tsy2iI 简介] ||
 || 伪民主派卖港实录 || || [https://zh.wikipedia.org/wiki/%E9%BB%83%E6%AF%93%E6%B0%91 黄毓民] || 繁體PDF || 2013-06-22 || [http://goo.gl/ELCzS8 简介] ||
+|| 血纪 || || 孔令平 || 简体PDF || 2013-05-19 || [http://goo.gl/Tsy2iI 简介] ||
 || 如何推翻中共 || || 高光俊 || 简体PDF || 2015-01-12 || [http://goo.gl/4sGl0U 简介] ||
 
 == 1.4 美国 ==
@@ -647,7 +650,7 @@ BT Sync 密钥： BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 == 2.8 (其它) ==
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 与众不同的心理学——如何正视心理学<br>对“伪心理学”说不 || How to Think Straight about Psychology || [https://en.wikipedia.org/wiki/Keith_Stanovich Keith Stanovich] (加) || 简体PDF(第7版 扫描版)<br>简体EPUB(第8版)<br>简体MOBI(第8版) || 2012-12-29<br>2015-02-16<br>2015-02-16 || [http://goo.gl/eVfMk7 简介] ||
+|| 与众不同的心理学——如何正视心理学<br>(对“伪心理学”说不) || How to Think Straight about Psychology || [https://en.wikipedia.org/wiki/Keith_Stanovich Keith Stanovich] (加) || 简体PDF(第7版 扫描版)<br>简体EPUB(第8版)<br>简体MOBI(第8版) || 2012-12-29<br>2015-02-16<br>2015-02-16 || [http://goo.gl/eVfMk7 简介] ||
 || 怪诞行为学<br>——可预测的非理性 || Predictably Irrational<br>——The Hidden Forces That Shape Our Decisions || [https://zh.wikipedia.org/wiki/%E4%B8%B9%C2%B7%E8%89%BE%E7%91%9E%E9%87%8C 丹·艾瑞里] (美) || 简体PDF(扫描版)<br>简体EPUB || 2014-07-27<br>2015-01-07 || [http://goo.gl/bCEnJH 简介] ||
 || 怪诞行为学2<br>——非理性的积极力量 || The Upside of Irrationality<br>——The Unexpected Benefits of Defying Logic at Work and at Home || (同上) || 简体EPUB || 2015-01-07 || [http://goo.gl/CkHNTH 简介] ||
 
@@ -1034,7 +1037,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 === 9.2.4 冷战 ===
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 冰与火之歌<br>——回首冷战军事对抗史 || || || 简体PDF(扫描版) || 2015-02-16 || [http://goo.gl/UtHMyS 简介] ||
+|| 冰与火之歌<br>——回首冷战军事对抗史 || || 《现代兵器》杂志 || 简体PDF(扫描版) || 2015-02-17 || [http://goo.gl/UtHMyS 简介] ||
 
 == 9.3 古代军事史 ==
 
@@ -1146,7 +1149,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 程序员修炼之道<br>——从小工到专家 || Pragmatic Programmers<br>——From Journeyman to Master || [https://en.wikipedia.org/wiki/Andy_Hunt_%28author%29 Andrew Hunt] (美)<br>[https://en.wikipedia.org/wiki/Dave_Thomas_%28programmer%29 David Thomas] (美) || 英文PDF<br>简体PDF(扫描版) || 2013-10-21<br>2013-10-21 || [http://goo.gl/jwEfiJ 简介] ||
 || 约耳趣谈软体 || Joel on Software || [https://en.wikipedia.org/wiki/Joel_Spolsky Joel Spolsky] (美) || 英文EPUB || 2015-01-11 || [http://goo.gl/Fw0Gq9 简介] ||
-|| 软件随想录 || More Joel on Software || (同上) || 英文PDF || 2015-01-11 || [http://goo.gl/ymMubS 简介] ||
+|| 软件随想录 || More Joel on Software || (同上) || 简体PDF(扫描版)<br>英文PDF || 2015-02-17<br>2015-01-11 || [http://goo.gl/ymMubS 简介] ||
 
 == 10.2 黑客文化 ==
 
