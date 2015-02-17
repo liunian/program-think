@@ -208,7 +208,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 === 1.1.8 非暴力抗争 ===
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 从独裁到民主<br>——解放运动的概念框架 || From Dictatorship to Democracy || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] (美) || 简体PDF<br>英文PDF || 2012-08-16<br>2012-08-16  || [http://goo.gl/CxM7Ds 简介] ||
+|| 从独裁到民主<br>——解放运动的概念框架 || From Dictatorship to Democracy || [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] (美) || 简体PDF<br>简体MOBI<br>英文PDF || 2012-08-16<br>2015-02-17<br>2012-08-16  || [http://goo.gl/CxM7Ds 简介] ||
 || 群众性防卫<br>——一种超军事的武器系统 || Civilian-Based Defense<br>——A Post-Military Weapons System || (同上) || 简体PDF<br>繁體PDF(掃描版) || 2013-03-16<br>2013-02-02 || [http://goo.gl/15iQKl 简介] ||
 || 一种更强大的力量<br>——非暴力抗争一百年 || || 彼得·阿克曼<br>杰克·杜瓦尔 || 简体MOBI (上下) || 2013-05-13 || [http://goo.gl/nLJ0Yy 简介] ||
 
@@ -238,8 +238,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 一九八四 || Nineteen Eighty-Four || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 奥威尔] (英) || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF(扫描版)<br>简体MOBI<br>英文EPUB<br>英文PDF || 2010-09-07<br>2013-09-15<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2013-09-13<br>2012-01-11 || [http://goo.gl/RPrAiX 简介] ||
 || 动物庄园 || Animal Farm || (同上) || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF(扫描版)<br>简体MOBI<br>英文PDF || 2010-09-23<br>2013-09-13<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2012-01-11 || [http://goo.gl/dx78pN 简介] ||
-|| 美丽新世界 || Brave New World || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E6%96%AF%C2%B7%E9%9B%B7%E6%AD%90%E9%82%A3%E5%BE%B7%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E 赫胥黎] (英) || 简体EPUB<br>简体TXT || 2013-09-15<br>2012-10-05 || [http://goo.gl/NyWXXM 简介] ||
-|| 我们<br>(反乌托邦与自由) || We || [https://en.wikipedia.org/wiki/Yevgeny_Zamyatin 扎米亚京] (苏) || 简体EPUB || 2013-09-15 || [http://goo.gl/CVkuW0 简介] ||
+|| 美丽新世界 || Brave New World || [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E6%96%AF%C2%B7%E9%9B%B7%E6%AD%90%E9%82%A3%E5%BE%B7%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E 赫胥黎] (英) || 简体EPUB<br>简体TXT<br>简体MOBI || 2013-09-15<br>2012-10-05<br>2015-02-17 || [http://goo.gl/NyWXXM 简介] ||
+|| 我们<br>(反乌托邦与自由) || We || [https://en.wikipedia.org/wiki/Yevgeny_Zamyatin 扎米亚京] (苏) || 简体EPUB<br>简体MOBI || 2013-09-15<br>2015-02-17 || [http://goo.gl/CVkuW0 简介] ||
 || 黄祸 || Yellow Peril || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || 简体CHM || 2013-08-21 || [http://goo.gl/JqdQR5 简介] ||
 || 旋风 || || [https://zh.wikipedia.org/wiki/%E5%A7%9C%E8%B4%B5 姜贵] (原名：王林渡) || 简体PDF || 2013-08-21 || [http://goo.gl/x4pzYQ 简介] ||
 || 云图 || Cloud Atlas || [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E7%B1%B3%E5%88%87%E5%B0%94 大卫·米切尔] || 简体PDF<br>简体EPUB<br>英文PDF || 2014-02-06<br>2014-02-06<br>2014-02-06 || [http://goo.gl/3EynT2 简介] ||
