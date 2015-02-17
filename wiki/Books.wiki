@@ -325,6 +325,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 阳谋 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || 简体PDF<br>简体CHM || 2013-01-13<br>2012-11-17 || [http://goo.gl/HRurP3 简介] ||
 || 往事并不如烟 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || 简体PDF<br>简体TXT || 2013-02-05<br>2012-12-09 || [http://goo.gl/vuKNkb 简介] ||
+|| 还原1957 || 魏紫丹 (原名：魏立言) || 繁體PDF || 2015-02-17 || [http://goo.gl/AKDbw1 简介] ||
 || 1957年的夏季<br>——从百家争鸣到两家争鸣 || 朱正 || 简体HTML || 2012-11-17 || [http://goo.gl/DjFmC8 简介] ||
 || 十四万言书<br>——致人民日报编辑部信 || [https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭] (原名：彭令昭) || 简体PDF || 2013-02-01 || [http://goo.gl/ubOF70 简介] ||
 || 中华民族的自由女神<br>——林昭罹难40年纪念文集 || (多人) || 简体PDF || 2013-02-01 || [http://goo.gl/AwCbw7 简介] ||
